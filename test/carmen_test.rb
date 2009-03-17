@@ -13,10 +13,12 @@ class TestCarmen < Test::Unit::TestCase
   
   def test_state_name
     assert_equal 'IL', Carmen::state_code('Illinois')
+    assert_equal 'MB', Carmen::state_code('Manitoba', 'CA')
   end
   
   def test_state_code
     assert_equal 'Arizona', Carmen::state_name('AZ')
+    assert_equal 'Prince Edward Island', Carmen::state_name('PE', 'CA')
   end
   
 end
