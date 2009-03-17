@@ -1,0 +1,12 @@
+Carmen- A simple collection of geographic names and abbreviations
+
+Right now only the US is supported, but I will be adding many other countries and view helpers soon.
+
+Usage:
+
+Carmen::country_name('US') => 'United States'
+Carmen::country_code('Canada') => 'CA'
+Carmen::state_code('Illinois') => 'IL'
+Carmen::state_code('Illinois', 'US') => 'IL' # When support for other countries is added
+Carmen::state_name('AZ') => 'Arizona'
+
