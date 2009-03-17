@@ -2,6 +2,12 @@ require 'yaml'
 require 'ftools'
 
 module Carmen
+
+  (class << self; self; end).class_eval do
+    attr_accessor :default_country
+  end
+  
+  self.default_country = 'US'
   
   data_path = File.join(File.dirname(__FILE__), '../data')
   
@@ -21,14 +27,24 @@ module Carmen
     search_collection(COUNTRIES, name_to_find, 0, 1)
   end
 
-  def self.state_name(code_to_find, country = 'US')
-    state = search_collection(STATES, country, 0, 1)
-    search_collection(state, code_to_find, 1, 0)
+  def self.state_name(code_to_find, country_code = Carmen.default_country)
+    search_collection(self.states(country_code), code_to_find, 1, 0)
   end
   
-  def self.state_code(name_to_find, country = 'US')
-    state = search_collection(STATES, country, 0, 1)
-    search_collection(state, name_to_find, 0, 1)
+  def self.state_code(name_to_find, country_code = Carmen.default_country)
+    search_collection(self.states(country_code), name_to_find, 0, 1)
+  end
+
+  def self.state_names(country_code = Carmen.default_country)
+    self.states(country_code).map{|name, code| name}
+  end
+
+  def self.state_codes(country_code = Carmen.default_country)
+    self.states(country_code).map{|name, code| code}
+  end
+
+  def self.states(country_code = Carmen.default_country)
+    search_collection(STATES, country_code, 0, 1)
   end
   
   protected
