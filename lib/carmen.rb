@@ -13,36 +13,48 @@ module Carmen
   
   COUNTRIES = YAML.load_file(File.join(data_path, 'countries.yml'))
   
-  states = Dir[data_path + '/states/*'].map do |file_name|
+  STATES = Dir[data_path + '/states/*'].map do |file_name|
     [File::basename(file_name, '.yml').upcase, YAML.load_file(file_name)]
   end
-  
-  STATES = states
 
-  def self.country_name(code_to_find)
-    search_collection(COUNTRIES, code_to_find, 1, 0)
-  end
-  
-  def self.country_code(name_to_find)
-    search_collection(COUNTRIES, name_to_find, 0, 1)
+  # Returns the country name corresponding to the supplied country code
+  #  Carmen::country_name('TV') => 'Tuvalu'
+  def self.country_name(country_code)
+    search_collection(COUNTRIES, country_code, 1, 0)
   end
 
-  def self.state_name(code_to_find, country_code = Carmen.default_country)
-    search_collection(self.states(country_code), code_to_find, 1, 0)
+  # Returns the country code corresponding to the supplied country name
+  #  Carmen::country_code('Canada') => 'CA'
+  def self.country_code(country_name)
+    search_collection(COUNTRIES, country_name, 0, 1)
   end
   
-  def self.state_code(name_to_find, country_code = Carmen.default_country)
-    search_collection(self.states(country_code), name_to_find, 0, 1)
+  # Returns the state name corresponding to the supplied state code within the specified country
+  #  Carmen::state_code('New Hampshire') => 'NH'
+  def self.state_name(state_code, country_code = Carmen.default_country)
+    search_collection(self.states(country_code), state_code, 1, 0)
   end
 
+  # Returns the state code corresponding to the supplied state name within the specified country
+  #  Carmen::state_code('IL', 'US') => Illinois
+  def self.state_code(state_name, country_code = Carmen.default_country)
+    search_collection(self.states(country_code), state_name, 0, 1)
+  end
+
+  # Returns an array of state names within the specified country code
+  #  Carmen::state_names('US') => ['Alabama', 'Arkansas', ... ]
   def self.state_names(country_code = Carmen.default_country)
     self.states(country_code).map{|name, code| name}
   end
 
+  # Returns an array of state codes within the specified country code
+  #   Carmen::state_codes('US') => ['AL', 'AR', ... ]
   def self.state_codes(country_code = Carmen.default_country)
     self.states(country_code).map{|name, code| code}
   end
 
+  # Returns an array structure of state names and codes within the specified country code
+  #   Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
   def self.states(country_code = Carmen.default_country)
     search_collection(STATES, country_code, 0, 1)
   end
