@@ -28,6 +28,18 @@ module Carmen
   def self.country_code(country_name)
     search_collection(COUNTRIES, country_name, 0, 1)
   end
+
+  # Returns an array of all country codes
+  #  Carmen::country_codes => ['AF', 'AX', 'AL', ... ]
+  def self.country_codes
+    COUNTRIES.map {|c| c[1] }
+  end
+  
+  # Returns an array of all country codes
+  #  Carmen::country_name => ['Afghanistan', 'Aland Islands', 'Albania', ... ]
+  def self.country_names
+    COUNTRIES.map {|c| c[0] }
+  end
   
   # Returns the state name corresponding to the supplied state code within the specified country
   #  Carmen::state_code('New Hampshire') => 'NH'

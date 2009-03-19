@@ -11,6 +11,16 @@ class TestCarmen < Test::Unit::TestCase
     assert_equal 'CA', Carmen.country_code('Canada')
   end
   
+  def test_country_codes
+    assert_equal 'AF', Carmen.country_codes.first
+    assert_equal 243, Carmen.country_codes.length
+  end
+  
+  def test_country_names
+    assert_equal 'Afghanistan', Carmen.country_names.first
+    assert_equal 243, Carmen.country_names.length
+  end
+  
   def test_state_name
     assert_equal 'IL', Carmen.state_code('Illinois')
     assert_equal 'MB', Carmen.state_code('Manitoba', 'CA')
