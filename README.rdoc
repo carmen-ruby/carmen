@@ -1,0 +1,35 @@
+= Carmen- A simple collection of geographic names and abbreviations for Ruby
+
+This library will work as a drop in replacement for the official Rails country_select and its various forks. The idea is to provide a single library for all geographic naming concerns, and unify them under a consistent API.
+
+States are supported for the following countries: Australia, Brazil, Canada, Cuba, Italy, Mexico, United States (more soon, or fork and send a pull request)
+
+== State list retrieval
+
+  Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
+  Carmen::states => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ] # uses default country
+  Carmen::state_names('US') => ['Alabama', 'Arkansas', ... ]
+  Carmen::state_codes('US') => ['AL', 'AR', ... ]
+
+== Abbreviation handling
+
+  Carmen::country_name('US') => 'United States'
+  Carmen::country_code('Canada') => 'CA'
+  Carmen::state_code('Illinois') => 'IL'
+  Carmen::state_code('Manitoba', 'CA') => 'MB'
+  Carmen::state_name('AZ') => 'Arizona'
+                   
+== The Data
+
+The raw lists are stored in constants
+
+  Carmen::COUNTRIES => [['Afghanistan', 'AF'], ['Aland Islands', 'AX'], ]
+
+  Carmen::STATES => [['US', [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ],
+                     ['CA', [['Alberta', 'AB'], ['British Columbia', 'BC'], ... ]]
+
+== Default Country
+
+Methods that take a country code argument will use the default country if none is provided. The default default country is 'US'. You can change it to any country code:
+
+  Carmen.default_country = 'CA'
