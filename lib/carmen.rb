@@ -17,6 +17,9 @@ module Carmen
     [File::basename(file_name, '.yml').upcase, YAML.load_file(file_name)]
   end
 
+  # Raised when attempting to retrieve states for an unsupported country
+  class StatesNotSupported < RuntimeError; end
+
   # Returns the country name corresponding to the supplied country code
   #  Carmen::country_name('TV') => 'Tuvalu'
   def self.country_name(country_code)
@@ -68,7 +71,17 @@ module Carmen
   # Returns an array structure of state names and codes within the specified country code
   #   Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
   def self.states(country_code = Carmen.default_country)
+    raise StatesNotSupported unless country_codes.include?(country_code)
     search_collection(STATES, country_code, 0, 1)
+  end
+
+  # Returns whether states are supported for the given country code
+  #   Carmen::states?('US') => true
+  #   Carmen::states?('ZZ') => false  
+  def self.states?(country_code)
+    STATES.any? do |array| k,v = array
+      k == country_code
+    end
   end
   
   protected
