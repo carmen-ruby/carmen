@@ -25,12 +25,12 @@ module ActionView
         country_options = ""
 
         unless priority_country_codes.empty?
-          priority_countries = Carmen::COUNTRIES.select do |country, code|
+          priority_countries = Carmen::COUNTRIES.select do |pair| name, code = pair
             priority_country_codes.include?(code)
           end
           unless priority_countries.empty?
             country_options += options_for_select(priority_countries, selected)
-            country_options += "<option value=\"\" disabled=\"disabled\">-------------</option>\n"
+            country_options += "\n<option value=\"\" disabled=\"disabled\">-------------</option>\n"
           end
         end
 
