@@ -52,4 +52,17 @@ class TestCarmen < Test::Unit::TestCase
     assert_equal 'AB', Carmen.state_codes('CA').first
   end
   
+  def test_supported_states
+    assert Carmen::states?('US')
+    assert_equal Carmen::states?('ZZ'), false
+  end
+  
+  def test_unsupported_states_exception
+    assert_raises Carmen::StatesNotSupported do
+      Carmen::state_codes('ZZ')
+    end
+  end
+  
+  
+  
 end
