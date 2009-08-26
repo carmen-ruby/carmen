@@ -1,3 +1,4 @@
+# from http://www.usps.com/ncsc/lookups/usps_abbreviations.html
 --- 
 - - Alabama
   - AL
@@ -101,3 +102,23 @@
   - WI
 - - Wyoming
   - WY
+- - Federated States of Micronesia
+  - FM
+- - Guam
+  - GU
+- - Marshall Islands
+  - MH
+- - Northern Mariana Islands
+  - MP
+- - Palau
+  - PW
+- - Puerto Rico
+  - PR
+- - Virgin Islands
+  - VI
+- - Armed Forces Americas (except Canada)
+  - AA
+- - Armed Forces Europe, Armed Forces Canada, Armed Forces Africa, or Armed Forces Middle East
+  - AE
+- - Armed Forces Pacific
+  - AP

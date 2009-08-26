@@ -13,7 +13,7 @@ module Carmen
   
   COUNTRIES = YAML.load_file(File.join(data_path, 'countries.yml'))
   
-  STATES = Dir[data_path + '/states/*'].map do |file_name|
+  STATES = Dir[data_path + '/states/*.yml'].map do |file_name|
     [File::basename(file_name, '.yml').upcase, YAML.load_file(file_name)]
   end
 
