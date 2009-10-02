@@ -1,5 +1,9 @@
 require 'yaml'
-require 'ftools'
+begin
+  require 'ftools'
+rescue LoadError
+  require 'fileutils' # ftools is now fileutils in Ruby 1.9
+end
 
 module Carmen
 
