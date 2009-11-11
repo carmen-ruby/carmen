@@ -32,21 +32,21 @@ class TestCarmen < Test::Unit::TestCase
   end
   
   def test_states
-    assert_equal 51, Carmen.states.length
+    assert_equal 61, Carmen.states.length
     assert_equal ['Alabama', 'AL'], Carmen.states.first
     assert_equal 13, Carmen.states('CA').length
     assert_equal ['Alberta', 'AB'], Carmen.states('CA').first
   end
   
   def test_state_names
-    assert_equal 51, Carmen::state_names.length
+    assert_equal 61, Carmen::state_names.length
     assert_equal 'Alabama', Carmen::state_names.first
     assert_equal 13, Carmen.state_names('CA').length
     assert_equal 'Alberta', Carmen.state_names('CA').first
   end
   
   def test_state_codes
-    assert_equal 51, Carmen::state_codes.length
+    assert_equal 61, Carmen::state_codes.length
     assert_equal 'AL', Carmen::state_codes.first
     assert_equal 13, Carmen.state_codes('CA').length
     assert_equal 'AB', Carmen.state_codes('CA').first
