@@ -13,7 +13,7 @@ module ActionView
       end
     
       # Returns a string of option tags containing the state names and codes for the specified country code, or nil
-      # if the states are not know for that country. Supply a state code as +selected+ to have it marked as the selected option tag. 
+      # if the states are not know for that country. Supply a state code as +selected+ to have it marked as the selected option tag.
       def state_options_for_select(selected = nil, country = Carmen.default_country)
         options_for_select(Carmen.states(country), selected)
       end

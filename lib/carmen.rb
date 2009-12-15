@@ -77,7 +77,7 @@ module Carmen
 
   # Returns whether states are supported for the given country code
   #   Carmen::states?('US') => true
-  #   Carmen::states?('ZZ') => false  
+  #   Carmen::states?('ZZ') => false
   def self.states?(country_code)
     STATES.any? do |array| k,v = array
       k == country_code
