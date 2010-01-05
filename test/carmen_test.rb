@@ -57,12 +57,17 @@ class TestCarmen < Test::Unit::TestCase
     assert_equal Carmen::states?('ZZ'), false
   end
   
-  def test_unsupported_states_exception
-    assert_raises Carmen::StatesNotSupported do
+  def test_invalid_country_exception
+    assert_raises Carmen::NonexistantCountry do
       Carmen::state_codes('ZZ')
     end
   end
   
+  def test_unsupported_states_exception
+    assert_raises Carmen::StatesNotSupported do
+      Carmen::state_codes('ID')
+    end
+  end
   
   
 end
