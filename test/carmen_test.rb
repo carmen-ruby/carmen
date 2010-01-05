@@ -58,7 +58,7 @@ class TestCarmen < Test::Unit::TestCase
   end
   
   def test_invalid_country_exception
-    assert_raises Carmen::NonexistantCountry do
+    assert_raises Carmen::NonexistentCountry do
       Carmen::state_codes('ZZ')
     end
   end

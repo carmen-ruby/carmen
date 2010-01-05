@@ -25,7 +25,7 @@ module Carmen
   class StatesNotSupported < RuntimeError; end
 
   # Raised when attempting to work with a country not in the data set
-  class NonexistantCountry < RuntimeError; end
+  class NonexistentCountry < RuntimeError; end
 
   # Returns the country name corresponding to the supplied country code
   #  Carmen::country_name('TV') => 'Tuvalu'
@@ -78,7 +78,7 @@ module Carmen
   # Returns an array structure of state names and codes within the specified country code
   #   Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
   def self.states(country_code = Carmen.default_country)
-    raise NonexistantCountry unless country_codes.include?(country_code)
+    raise NonexistentCountry unless country_codes.include?(country_code)
     raise StatesNotSupported unless states?(country_code)
     search_collection(STATES, country_code, 0, 1)
   end
