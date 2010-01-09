@@ -45,3 +45,7 @@ The raw lists are stored in constants
 Methods that take a country code argument will use the default country if none is provided. The default default country is 'US'. You can change it to any country code:
 
   Carmen.default_country = 'CA'
+  
+== Documentation
+
+Carmen's docs are published to http://jim.github.com/carmen/
