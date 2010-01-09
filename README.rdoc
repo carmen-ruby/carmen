@@ -4,6 +4,18 @@ This library will work as a drop in replacement for the official Rails country_s
 
 States are supported for the following countries: Australia, Brazil, Canada, Cuba, Germany, Italy, Mexico, Ukraine, and United States.
 
+== Installation
+
+  gem install carmen
+  
+If you're in Rails:
+
+  config.gem 'carmen', :source => 'http://gemcutter.org'
+
+Or as a plugin:
+
+  script/plugin install git://github.com/jim/carmen
+
 == State list retrieval
 
   Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
