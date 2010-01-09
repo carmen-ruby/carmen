@@ -21,6 +21,7 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "carmen.gemspec",
      "data/countries.yml",
      "data/states/au.yml",
      "data/states/br.yml",
@@ -34,6 +35,7 @@ Gem::Specification.new do |s|
      "data/states/us.yml",
      "lib/carmen.rb",
      "lib/carmen/action_view_helpers.rb",
+     "rails/init.rb",
      "test/carmen_test.rb",
      "test/carmen_view_helper_test.rb"
   ]
