@@ -1,6 +1,48 @@
+require 'rubygems'
+require 'rake'
 require 'hanna/rdoctask'
 
-desc 'Generate RDoc documentation for the will_paginate plugin.'
+begin
+  require 'jeweler'
+  Jeweler::Tasks.new do |gem|
+    gem.name = "carmen"
+    gem.summary = %Q{A collection of geographis country and state names for Ruby}
+    gem.description = %Q{Also includes replacements for Rails' country_select and state_select plugins}
+    gem.email = "jim@autonomousmachine.com"
+    gem.homepage = "http://github.com/jim/carmen"
+    gem.authors = ["Jim Benton"]
+    # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
+  end
+  Jeweler::GemcutterTasks.new
+rescue LoadError
+  puts "Jeweler (or a dependency) not available. Install it with: sudo gem install jeweler"
+end
+
+require 'rake/testtask'
+Rake::TestTask.new(:test) do |test|
+  test.libs << 'lib' << 'test'
+  test.pattern = 'test/**/*_test.rb'
+  test.verbose = true
+end
+
+begin
+  require 'rcov/rcovtask'
+  Rcov::RcovTask.new do |test|
+    test.libs << 'test'
+    test.pattern = 'test/**/*_test.rb'
+    test.verbose = true
+  end
+rescue LoadError
+  task :rcov do
+    abort "RCov is not available. In order to run rcov, you must: sudo gem install spicycode-rcov"
+  end
+end
+
+task :test => :check_dependencies
+
+task :default => :test
+
+desc 'Generate RDoc documentation for the carmen plugin.'
 Rake::RDocTask.new(:rdoc) do |rdoc|
   rdoc.rdoc_files.include('README.rdoc', 'MIT-LICENSE').
     include('lib/**/*.rb')
