@@ -45,6 +45,14 @@ The raw lists are stored in constants
 Methods that take a country code argument will use the default country if none is provided. The default default country is 'US'. You can change it to any country code:
 
   Carmen.default_country = 'CA'
+
+== Default Localization
+
+You can switch between different localizations of the countries list, by setting the locale value (default is :en):
+
+  Carmen.locale = :de
+
+Currently included localizations are: English, German
   
 == Documentation
 
