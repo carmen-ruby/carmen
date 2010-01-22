@@ -8,16 +8,17 @@ end
 module Carmen
 
   class << self
-    attr_accessor :default_country
+    attr_accessor :default_country, :locale
   end
   
   self.default_country = 'US'
+  self.locale = :en
   
-  data_path = File.join(File.dirname(__FILE__), '../data')
+  @data_path = File.join(File.dirname(__FILE__), '../data')
   
-  COUNTRIES = YAML.load_file(File.join(data_path, 'countries.yml'))
+  DEFAULT_COUNTRIES = @countries = YAML.load_file(File.join(@data_path, 'countries.yml'))
   
-  STATES = Dir[data_path + '/states/*.yml'].map do |file_name|
+  STATES = Dir[@data_path + '/states/*.yml'].map do |file_name|
     [File::basename(file_name, '.yml').upcase, YAML.load_file(file_name)]
   end
 
@@ -26,29 +27,55 @@ module Carmen
 
   # Raised when attempting to work with a country not in the data set
   class NonexistentCountry < RuntimeError; end
+  
+  # Raised when attemting to switch to a locale which does not exist
+  class UnavailableLocale < RuntimeError; end
+
+  # Loads a localized version of the country list
+  def self.locale=(input)
+    localization = File.join(@data_path, "countries.#{input}.yml")
+    
+    raise UnavailableLocale unless File.exists?(localization)
+    
+    # Load localization
+    localized_countries = YAML.load_file(localization)
+    
+    # Merge the defaults with the localized versions
+    @countries = DEFAULT_COUNTRIES # Reset countries to default list
+    positions = country_codes # for speed optimization
+    localized_countries.each do |c|
+      if index = country_codes.index(c[1])
+        @countries[country_codes.index(c[1])] = c
+      else
+        @countries.push(c)
+      end
+    end
+    
+    @locale = input.to_s
+  end
 
   # Returns the country name corresponding to the supplied country code
   #  Carmen::country_name('TV') => 'Tuvalu'
   def self.country_name(country_code)
-    search_collection(COUNTRIES, country_code, 1, 0)
+    search_collection(@countries, country_code, 1, 0)
   end
 
   # Returns the country code corresponding to the supplied country name
   #  Carmen::country_code('Canada') => 'CA'
   def self.country_code(country_name)
-    search_collection(COUNTRIES, country_name, 0, 1)
+    search_collection(@countries, country_name, 0, 1)
   end
 
   # Returns an array of all country codes
   #  Carmen::country_codes => ['AF', 'AX', 'AL', ... ]
   def self.country_codes
-    COUNTRIES.map {|c| c[1] }
+    @countries.map {|c| c[1] }
   end
   
   # Returns an array of all country codes
   #  Carmen::country_name => ['Afghanistan', 'Aland Islands', 'Albania', ... ]
   def self.country_names
-    COUNTRIES.map {|c| c[0] }
+    @countries.map {|c| c[0] }
   end
   
   # Returns the state name corresponding to the supplied state code within the specified country

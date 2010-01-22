@@ -3,12 +3,23 @@ require File.join(File.dirname(__FILE__), '../lib/carmen')
 
 class TestCarmen < Test::Unit::TestCase
   
+  
   def test_country_name
     assert_equal 'United States', Carmen.country_name('US')
   end
   
+  def test_localized_country_name
+    Carmen.locale = :de
+    assert_equal 'Deutschland', Carmen.country_name('DE')
+  end
+  
   def test_country_code
     assert_equal 'CA', Carmen.country_code('Canada')
+  end
+  
+  def test_localized_country_code
+    Carmen.locale = :de
+    assert_equal 'DE', Carmen.country_code('Deutschland')
   end
   
   def test_country_codes
@@ -69,5 +80,10 @@ class TestCarmen < Test::Unit::TestCase
     end
   end
   
+  def test_unsupported_locale
+    assert_raises Carmen::UnavailableLocale do
+      Carmen.locale = :latin
+    end
+  end
   
 end
