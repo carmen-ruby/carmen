@@ -10,7 +10,10 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jim Benton", "Maximilian Schulz"]
   s.date = %q{2010-02-23}
-  s.description = %q{A collection of geographis country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins.}
+  s.description = %q{A fork of the carmen gem by Jim Benton. This fork allows you to 
+    switch between different locales (Currently english and german).
+    A collection of geographis country and state names for Ruby. 
+    Also includes replacements for Rails' country_select and state_select plugins.}
   s.email = %q{max@jungeelite.de}
   s.extra_rdoc_files = [
     "README.rdoc"
