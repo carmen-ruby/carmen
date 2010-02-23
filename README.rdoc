@@ -6,15 +6,15 @@ States are supported for the following countries: Australia, Brazil, Canada, Cub
 
 == Installation
 
-  gem install carmen
+  gem install namxam-carmen
   
 If you're in Rails:
 
-  config.gem 'carmen', :source => 'http://gemcutter.org'
+  config.gem 'namxam-carmen', :source => 'http://gemcutter.org'
 
 Or as a plugin:
 
-  script/plugin install git://github.com/jim/carmen
+  script/plugin install git://github.com/namxam/carmen
 
 == State list retrieval
 
