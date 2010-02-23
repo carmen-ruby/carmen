@@ -4,14 +4,14 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{carmen}
-  s.version = "0.1.1"
+  s.name = %q{namxam-carmen}
+  s.version = "0.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Jim Benton"]
-  s.date = %q{2010-01-09}
-  s.description = %q{A collection of geographis country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins}
-  s.email = %q{jim@autonomousmachine.com}
+  s.authors = ["Jim Benton", "Maximilian Schulz"]
+  s.date = %q{2010-02-23}
+  s.description = %q{A collection of geographis country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins.}
+  s.email = %q{max@jungeelite.de}
   s.extra_rdoc_files = [
     "README.rdoc"
   ]
@@ -39,7 +39,7 @@ Gem::Specification.new do |s|
      "test/carmen_test.rb",
      "test/carmen_view_helper_test.rb"
   ]
-  s.homepage = %q{http://github.com/jim/carmen}
+  s.homepage = %q{http://github.com/namxam/carmen}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.5}
