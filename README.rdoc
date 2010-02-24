@@ -10,14 +10,27 @@ States are supported for the following countries: Australia, Brazil, Canada, Cub
   
 If you're in Rails:
 
-  config.gem 'namxam-carmen', :lib => 'carmen', :source => 'http://gemcutter.org'
-
+  # classic style
+  config.gem 'namxam-carmen', :lib => 'carmen', :source => 'http://rubygems.org'
+  
+  # when using rubygems 1.3.6
+  config.gem 'namxam-carmen', :lib => 'carmen'
+  
+  # when on rails 3 put this in your Gemfile
+  gem "namxam-carmen", :require => "carmen"
+  
 Or as a plugin:
 
   script/plugin install git://github.com/namxam/carmen
 
-== State list retrieval
 
+== Get a list of all countries
+  
+  Carmen.countries => […, ['Germany', 'DE'], …, ['United States', 'US'], …]
+  Carmen.countries(:locale => 'de') => […, ['Deutschland', 'DE'], …, ['Vereinigte Staaten von Amerika', 'US'], …]
+
+== State list retrieval
+  
   Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
   Carmen::states => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ] # uses default country
   Carmen::state_names('US') => ['Alabama', 'Arkansas', ... ]
@@ -31,14 +44,6 @@ Or as a plugin:
   Carmen::state_code('Manitoba', 'CA') => 'MB'
   Carmen::state_name('AZ') => 'Arizona'
                    
-== The Data
-
-The raw lists are stored in constants
-
-  Carmen::COUNTRIES => [['Afghanistan', 'AF'], ['Aland Islands', 'AX'], ]
-
-  Carmen::STATES => [['US', [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ],
-                     ['CA', [['Alberta', 'AB'], ['British Columbia', 'BC'], ... ]]
 
 == Default Country
 
@@ -54,6 +59,6 @@ You can switch between different localizations of the countries list, by setting
 
 Currently included localizations are: English, German
   
-== Documentation
+== Changelog
 
-Carmen's docs are published to http://jim.github.com/carmen
+* 0.1.3 DEPRECATE Carmen::COUNTRIES in favor of Carmen.countries

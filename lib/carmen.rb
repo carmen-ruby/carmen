@@ -14,14 +14,12 @@ module Carmen
   self.default_country = 'US'
   self.locale = :en
   
-  @data_path = File.join(File.dirname(__FILE__), '../data')
-  
-  DEFAULT_COUNTRIES = @countries = YAML.load_file(File.join(@data_path, 'countries.yml'))
+  @data_path = File.join(File.dirname(__FILE__), '..', 'data')
   
   STATES = Dir[@data_path + '/states/*.yml'].map do |file_name|
     [File::basename(file_name, '.yml').upcase, YAML.load_file(file_name)]
   end
-
+  
   # Raised when attempting to retrieve states for an unsupported country
   class StatesNotSupported < RuntimeError; end
 
@@ -30,52 +28,51 @@ module Carmen
   
   # Raised when attemting to switch to a locale which does not exist
   class UnavailableLocale < RuntimeError; end
-
-  # Loads a localized version of the country list
-  def self.locale=(input)
-    localization = File.join(@data_path, "countries.#{input}.yml")
+  
+  # Returns a list of all countries
+  def self.countries(options={})
+    # Use specified locale or fall back to default locale
+    locale = options.delete(:locale) || @locale
     
-    raise UnavailableLocale unless File.exists?(localization)
-    
-    # Load localization
-    localized_countries = YAML.load_file(localization)
-    
-    # Merge the defaults with the localized versions
-    @countries = DEFAULT_COUNTRIES # Reset countries to default list
-    positions = country_codes # for speed optimization
-    localized_countries.each do |c|
-      if index = country_codes.index(c[1])
-        @countries[country_codes.index(c[1])] = c
-      else
-        @countries.push(c)
+    # Load the country list for the specified locale
+    @countries ||= {}
+    unless @countries[locale]
+      # Check if data in the specified locale is available
+      localized_data = File.join(@data_path, "countries.#{locale}.yml")
+      unless File.exists?(localized_data)
+        raise(UnavailableLocale, "Could not load countries for '#{locale}' locale")
       end
+      
+      # As the data exists, load it
+      @countries[locale] ||= YAML.load_file(File.join(@data_path, "countries.#{locale}.yml"))
     end
     
-    @locale = input.to_s
+    # Return data
+    @countries[locale]
   end
-
+  
   # Returns the country name corresponding to the supplied country code
   #  Carmen::country_name('TV') => 'Tuvalu'
   def self.country_name(country_code)
-    search_collection(@countries, country_code, 1, 0)
+    search_collection(countries, country_code, 1, 0)
   end
 
   # Returns the country code corresponding to the supplied country name
   #  Carmen::country_code('Canada') => 'CA'
   def self.country_code(country_name)
-    search_collection(@countries, country_name, 0, 1)
+    search_collection(countries, country_name, 0, 1)
   end
 
   # Returns an array of all country codes
   #  Carmen::country_codes => ['AF', 'AX', 'AL', ... ]
   def self.country_codes
-    @countries.map {|c| c[1] }
+    countries.map {|c| c[1] }
   end
   
   # Returns an array of all country codes
   #  Carmen::country_name => ['Afghanistan', 'Aland Islands', 'Albania', ... ]
   def self.country_names
-    @countries.map {|c| c[0] }
+    countries.map {|c| c[0] }
   end
   
   # Returns the state name corresponding to the supplied state code within the specified country
