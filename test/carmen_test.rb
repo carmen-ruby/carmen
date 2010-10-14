@@ -5,10 +5,12 @@ class TestCarmen < Test::Unit::TestCase
   
   def test_country_name
     assert_equal 'United States', Carmen.country_name('US')
+    assert_equal 'United States', Carmen.country_name('us')
   end
   
   def test_country_code
     assert_equal 'CA', Carmen.country_code('Canada')
+    assert_equal 'CA', Carmen.country_code('canada')
   end
   
   def test_country_codes
