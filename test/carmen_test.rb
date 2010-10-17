@@ -1,5 +1,5 @@
 require 'test/unit'
-require File.join(File.dirname(__FILE__), '../lib/carmen')
+require File.join('./', File.dirname(__FILE__), '../lib/carmen')
 
 class TestCarmen < Test::Unit::TestCase
   
