@@ -33,6 +33,7 @@ class TestCarmen < Test::Unit::TestCase
   end
   
   def test_localized_country_name
+    assert_equal 'Germany', Carmen.country_name('DE')
     assert_equal 'Deutschland', Carmen.country_name('DE', :locale => :de)
     Carmen.default_locale = :de
     assert_equal 'Deutschland', Carmen.country_name('DE')
