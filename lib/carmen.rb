@@ -16,6 +16,10 @@ module Carmen
   
   @data_path = File.join(File.dirname(__FILE__), '..', 'data')
   
+  @states = Dir[File.join(@data_path, '/states/*.yml')].map do |file_name|
+    [File.basename(file_name, '.yml').upcase, YAML.load_file(file_name)]
+  end
+  
   # Raised when attempting to retrieve states for an unsupported country
   class StatesNotSupported < RuntimeError; end
 
@@ -34,7 +38,7 @@ module Carmen
     @countries ||= {}
     unless @countries[locale]
       # Check if data in the specified locale is available
-      localized_data = File.join(@data_path, locale, "countries.yml")
+      localized_data = File.join(@data_path, "countries", "#{locale}.yml")
       unless File.exists?(localized_data)
         raise(UnavailableLocale, "Could not load countries for '#{locale}' locale")
       end
@@ -49,7 +53,7 @@ module Carmen
   
   # Returns the country name corresponding to the supplied country code
   #  Carmen::country_name('TV') => 'Tuvalu'
-  def self.country_name(country_code)
+  def self.country_name(country_code, options={})
     search_collection(countries(options), country_code, 1, 0)
   end
 
@@ -62,7 +66,7 @@ module Carmen
   # Returns an array of all country codes
   #  Carmen::country_codes => ['AF', 'AX', 'AL', ... ]
   def self.country_codes
-    countries(options).map {|c| c[1] }
+    countries.map {|c| c[1] }
   end
   
   # Returns an array of all country codes
@@ -91,35 +95,23 @@ module Carmen
 
   # Returns an array of state codes within the specified country code
   #   Carmen::state_codes('US') => ['AL', 'AR', ... ]
-  def self.state_codes(country_code = Carmen.default_country, options={})
-    self.states(country_code, options).map{|name, code| code}
+  def self.state_codes(country_code = Carmen.default_country)
+    self.states(country_code).map{|name, code| code}
   end
 
   # Returns an array structure of state names and codes within the specified country code
   #   Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
-  def self.states(country_code = Carmen.default_country, options={})
-    locale = (options.delete(:locale) || @default_locale).to_s
-    @states ||= {}
-    
-    unless @states[locale]
-      @states[locale] = Dir[File.join(@data_path, locale, '/states/*.yml')].map do |file_name|
-        [File::basename(file_name, '.yml').upcase, YAML.load_file(file_name)]
-      end
-      if @states[locale].empty?
-        raise(UnavailableLocale, "Could not load states for '#{locale}' locale")
-      end
-    end
-    
-    # raise NonexistentCountry unless country_codes(options).include?(country_code)
-    # raise StatesNotSupported unless states?(country_code, options)
-    search_collection(@states[locale][country_code], country_code, 0, 1)
+  def self.states(country_code = Carmen.default_country, options={})        
+    raise NonexistentCountry.new("Country not found for code #{country_code}") unless country_codes.include?(country_code)
+    raise StatesNotSupported unless states?(country_code)
+    search_collection(@states, country_code, 0, 1)
   end
 
   # Returns whether states are supported for the given country code
   #   Carmen::states?('US') => true
   #   Carmen::states?('ZZ') => false
   def self.states?(country_code, options={})
-    self.states(country_code).any? do |array| k,v = array
+    @states.any? do |array| k,v = array
       k == country_code
     end
   end

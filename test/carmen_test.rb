@@ -3,14 +3,17 @@ require File.join('./', File.dirname(__FILE__), '../lib/carmen')
 
 class TestCarmen < Test::Unit::TestCase
   
+  def teardown
+    Carmen.default_locale = :en # restore default
+  end
+  
   def test_default_countries
     assert_equal ['Aland Islands', 'AX'], Carmen.countries[1]
   end
   
   def test_localized_countries
-    Carmen.locale = :de
+    Carmen.default_locale = :de
     assert_equal ["Ascension (verwaltet von St. Helena)", 'AC'], Carmen.countries[0]
-    Carmen.locale = :en # restore default
   end
   
   def test_single_localized_countries_call
@@ -30,9 +33,9 @@ class TestCarmen < Test::Unit::TestCase
   end
   
   def test_localized_country_name
-    Carmen.locale = :de
+    assert_equal 'Deutschland', Carmen.country_name('DE', :locale => :de)
+    Carmen.default_locale = :de
     assert_equal 'Deutschland', Carmen.country_name('DE')
-    Carmen.locale = :en # restore default
   end
   
   def test_country_code
@@ -42,9 +45,9 @@ class TestCarmen < Test::Unit::TestCase
   end
   
   def test_localized_country_code
-    Carmen.locale = :de
+    assert_equal 'DE', Carmen.country_code('Deutschland', :locale => :de)
+    Carmen.default_locale = :de
     assert_equal 'DE', Carmen.country_code('Deutschland')
-    Carmen.locale = :en # restore default
   end
   
   def test_country_codes

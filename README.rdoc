@@ -6,7 +6,7 @@ States are supported for the following countries: Australia, Brazil, Canada, Cub
 
 == Installation
 
-  gem install namxam-carmen
+  gem install carmen
   
 If you're in Rails 2.3 or earlier, place this in your environment.rb:
 
@@ -15,10 +15,6 @@ If you're in Rails 2.3 or earlier, place this in your environment.rb:
 If you're in Rails 3, put this in your Gemfile:
 
   gem "carmen"
-  
-Or as a plugin:
-
-  script/plugin install git://github.com/namxam/carmen
 
 
 == Get a list of all countries
@@ -55,8 +51,10 @@ You can switch between different localizations of the countries list, by setting
   Carmen.locale = :de
 
 Currently included localizations are: English, German
+
+TODO (for 0.2.0)
+Merge in namxam's locale fork, refactor internals to better support locales, and update documentation.
   
 == Changelog
 
-* 0.2.0 Merge in namxam's locale fork and update documentation.
 * 0.1.3 DEPRECATE Carmen::COUNTRIES in favor of Carmen.countries
