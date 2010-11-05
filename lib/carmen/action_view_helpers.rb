@@ -25,7 +25,7 @@ module ActionView
         country_options = ""
 
         unless priority_country_codes.empty?
-          priority_countries = Carmen::COUNTRIES.select do |pair| name, code = pair
+          priority_countries = Carmen::countries.select do |pair| name, code = pair
             priority_country_codes.include?(code)
           end
           unless priority_countries.empty?
@@ -34,7 +34,7 @@ module ActionView
           end
         end
 
-        return country_options + options_for_select(Carmen::COUNTRIES, priority_country_codes.include?(selected) ? nil : selected)
+        return country_options + options_for_select(Carmen.countries, priority_country_codes.include?(selected) ? nil : selected)
       end
     end
   

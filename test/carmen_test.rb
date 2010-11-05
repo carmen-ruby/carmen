@@ -1,5 +1,4 @@
-require 'test/unit'
-require File.join('./', File.dirname(__FILE__), '../lib/carmen')
+require File.expand_path('test_helper', File.dirname(__FILE__))
 
 class TestCarmen < Test::Unit::TestCase
   

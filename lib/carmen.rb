@@ -51,8 +51,9 @@ module Carmen
     @countries[locale]
   end
   
-  # Returns the country name corresponding to the supplied country code
-  #  Carmen::country_name('TV') => 'Tuvalu'
+  # Returns the country name corresponding to the supplied country code, optionally using the specified locale.
+  #  Carmen::country_name('TR') => 'Turkey'
+  #  Carmen::country_name('TR', :locale => :de) => 'Türkei'
   def self.country_name(country_code, options={})
     search_collection(countries(options), country_code, 1, 0)
   end
@@ -69,13 +70,14 @@ module Carmen
     countries.map {|c| c[1] }
   end
   
-  # Returns an array of all country codes
-  #  Carmen::country_name => ['Afghanistan', 'Aland Islands', 'Albania', ... ]
+  # Returns an array of all country names, optionally using the specified locale.
+  #  Carmen::country_names => ['Afghanistan', 'Aland Islands', 'Albania', ... ]
+  #  Carmen::country_names(:locale => :de) => ['Afghanistan', 'Åland', 'Albanien', ... ]
   def self.country_names(options={})
     countries(options).map {|c| c[0] }
   end
   
-  # Returns the state name corresponding to the supplied state code within the specified country
+  # Returns the state name corresponding to the supplied state code within the default country
   #  Carmen::state_code('New Hampshire') => 'NH'
   def self.state_name(state_code, country_code = Carmen.default_country, options={})
     search_collection(self.states(country_code, options), state_code, 1, 0)
@@ -87,7 +89,7 @@ module Carmen
     search_collection(self.states(country_code, options), state_name, 0, 1)
   end
 
-  # Returns an array of state names within the specified country code
+  # Returns an array of state names within the default code
   #  Carmen::state_names('US') => ['Alabama', 'Arkansas', ... ]
   def self.state_names(country_code = Carmen.default_country, options={})
     self.states(country_code, options).map{|name, code| name}
@@ -99,8 +101,10 @@ module Carmen
     self.states(country_code).map{|name, code| code}
   end
 
-  # Returns an array structure of state names and codes within the specified country code
+  # Returns an array structure of state names and codes within the specified country code, or within the default country
+  # if none is provided.
   #   Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
+  #   Carmen::states => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
   def self.states(country_code = Carmen.default_country, options={})        
     raise NonexistentCountry.new("Country not found for code #{country_code}") unless country_codes.include?(country_code)
     raise StatesNotSupported unless states?(country_code)

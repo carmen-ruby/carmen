@@ -11,11 +11,12 @@ begin
     gem.email = "jim@autonomousmachine.com"
     gem.homepage = "http://github.com/jim/carmen"
     gem.authors = ["Jim Benton"]
-    # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
+    gem.add_development_dependency "mocha"
+    gem.add_development_dependency "rails"
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
-  puts "Jeweler (or a dependency) not available. Install it with: sudo gem install jeweler"
+  puts "Jeweler (or a dependency) not available. Install it with: gem install jeweler"
 end
 
 require 'rake/testtask'
@@ -34,7 +35,7 @@ begin
   end
 rescue LoadError
   task :rcov do
-    abort "RCov is not available. In order to run rcov, you must: sudo gem install spicycode-rcov"
+    abort "RCov is not available. In order to run rcov, you must: gem install spicycode-rcov"
   end
 end
 

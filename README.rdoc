@@ -44,7 +44,7 @@ Methods that take a country code argument will use the default country if none i
 
   Carmen.default_country = 'CA'
 
-== Default Localization
+== Localization
 
 You can switch between different localizations of the countries list, by setting the locale value (default is :en):
 
@@ -55,18 +55,29 @@ Methods that return country names also take an optional options hash as the last
   Carmen::country_name('US') => 'United States'
   Carmen::country_name('US', :locale => :de) => 'Vereinigte Staaten von Amerika'
 
-Currently included localizations are: English, German
+Currently included localizations are: English (:en), German (:de)
+
 
 == Todo
 
-Many countries, such as Spain, have additional levels beneath 'state' that we would ideally support. Thanks to Alberto Molpeceres for bringing this to my attention.
+* Many countries, such as Spain, have additional levels beneath 'state' that we would ideally support. Thanks to Alberto Molpeceres for bringing this to my attention.
+* Split the Rails-specific view helpers out into a separate gem (carmen-rails)
 
 == Changelog
 * 0.2.0 Merge in Maximilian Schulz's locale fork, refactor internals to better support locales, and update documentation.       
         Remove Carmen::STATES and Carmen::COUNTRIES constants in favor of module instance variables and proper accessors.
+        Add a test_helper and remove dependency on RubyGems.
 * 0.1.3 DEPRECATE Carmen::COUNTRIES in favor of Carmen.countries
 
-== Contributors
+
+== Development notes
+
+The plugin does not require rubygems anywhere in the test or libraries, so if you are having trouble with load errors running the tests, prepend your command with RUBYOPT=rubygems. {More info}[http://tomayko.com/writings/require-rubygems-antipattern].
+
+
+== Credits
+
+These fine characters have contributed state lists, patches, or reported bugs:
 
 Jose Angel Cortinas (jacortinas)
 Domizio Demichelis (ddnexus)

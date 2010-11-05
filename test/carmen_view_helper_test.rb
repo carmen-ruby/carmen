@@ -1,10 +1,10 @@
-require 'rubygems'
+require File.expand_path('test_helper', File.dirname(__FILE__))
 require 'active_support'
 require 'action_view'
 require 'action_controller'
 require 'action_view/test_case'
 require 'mocha'
-require File.join('./', File.dirname(__FILE__), '../lib/carmen')
+
 require File.join('./', File.dirname(__FILE__), '../lib/carmen/action_view_helpers')
 
 class CarmenViewHelperTest < ActionView::TestCase
