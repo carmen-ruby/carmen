@@ -8,11 +8,13 @@ end
 module Carmen
 
   class << self
-    attr_accessor :default_country, :default_locale
+    attr_accessor :default_country, :default_locale, :excluded_countries, :excluded_states
   end
   
   self.default_country = 'US'
   self.default_locale = :en
+  self.excluded_countries = []
+  self.excluded_states = {} 
   
   @data_path = File.join(File.dirname(__FILE__), '..', 'data')
   
@@ -48,8 +50,9 @@ module Carmen
     end
     
     # Return data
-    @countries[locale]
+    @countries[locale].reject {|c| Carmen.excluded_countries.detect { |ex| ex == c[1] } }
   end
+
   
   # Returns the country name corresponding to the supplied country code, optionally using the specified locale.
   #  Carmen::country_name('TR') => 'Turkey'
@@ -108,7 +111,9 @@ module Carmen
   def self.states(country_code = Carmen.default_country, options={})        
     raise NonexistentCountry.new("Country not found for code #{country_code}") unless country_codes.include?(country_code)
     raise StatesNotSupported unless states?(country_code)
-    search_collection(@states, country_code, 0, 1)
+    search_collection(@states, country_code, 0, 1).reject do |s| 
+        Carmen.excluded_states[country_code] && Carmen.excluded_states[country_code].detect {|ex| ex == s[1] } 
+    end
   end
 
   # Returns whether states are supported for the given country code
