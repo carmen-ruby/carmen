@@ -96,6 +96,33 @@ class TestCarmen < Test::Unit::TestCase
     assert_equal Carmen::states?('ZZ'), false
   end
   
+  def test_excluded_countries
+      Carmen.excluded_countries = [ 'US', 'DE' ]
+      countries = Carmen.countries
+      assert !countries.include?( ["United States", "US"] )
+      assert !countries.include?( ["Germany", "DE"] )
+      assert countries.include?( ["Portugal", "PT"] )
+      Carmen.excluded_countries = [ ]
+  end
+
+  def test_excluded_states
+      Carmen.excluded_states = { 'US' => ['IL', 'OR'], 'DE' => ['BE', 'HH'] }
+      states = Carmen.states
+      assert !states.include?( ["Illinois", "IL"] )
+      assert !states.include?( ["Oregon", "OR"] )
+      assert states.include?( ["Kentucky", "KY"] )
+
+      states = Carmen.states("DE")
+      assert !states.include?( ["Berlin", "BE"] )
+      assert !states.include?( ["Hamburg", "HH"] )
+      assert states.include?( ["Rheinland-Pfalz", "RP"] )
+
+      states = Carmen.states("ES")
+      assert states.include?( ["Cantabria", "CAN"] )
+
+      Carmen.excluded_states = {}
+  end
+
   def test_invalid_country_exception
     assert_raises Carmen::NonexistentCountry do
       Carmen::state_codes('ZZ')
@@ -113,5 +140,7 @@ class TestCarmen < Test::Unit::TestCase
       Carmen.countries(:locale => :latin)
     end
   end
+
+
   
 end

@@ -49,8 +49,8 @@ module Carmen
       @countries[locale] = YAML.load_file(localized_data)
     end
     
-    # Return data
-    @countries[locale].reject {|c| Carmen.excluded_countries.detect { |ex| ex == c[1] } }
+    # Return data after filtering excluded countries
+    @countries[locale].reject { |c| excluded_countries.include?( c[1] ) }
   end
 
   
@@ -111,8 +111,13 @@ module Carmen
   def self.states(country_code = Carmen.default_country, options={})        
     raise NonexistentCountry.new("Country not found for code #{country_code}") unless country_codes.include?(country_code)
     raise StatesNotSupported unless states?(country_code)
-    search_collection(@states, country_code, 0, 1).reject do |s| 
-        Carmen.excluded_states[country_code] && Carmen.excluded_states[country_code].detect {|ex| ex == s[1] } 
+
+    results = search_collection(@states, country_code, 0, 1)
+
+    if excluded_states[country_code]
+        results.reject { |s| excluded_states[country_code].include?(s[1]) }
+    else
+        results
     end
   end
 
