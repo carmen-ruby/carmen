@@ -44,6 +44,22 @@ Methods that take a country code argument will use the default country if none i
 
   Carmen.default_country = 'CA'
 
+= Adding country and state exclusion to Carmen
+
+This fork lets you exclude specific countries and/or states from Carmen. Simply set the appropriate class variables and the exclusion will take effect.
+
+== Excluding Countries 
+
+Countries to exclude are specified as an array of country codes:
+
+  Carmen.excluded_countries = [ 'AF', 'ST', 'ZW', ... ]
+
+== Excluding States
+
+States to exclude are specified via a hash, with keys being the country's code, and values being the states to exclude from that country:
+    
+  Carmen.excluded_states = { 'US' => [ 'AA', 'AP', 'PW', ... ], 'DE' => [ 'BW', 'TH' ], ... }
+
 == Localization
 
 You can switch between different localizations of the countries list, by setting the locale value (default is :en):
@@ -64,6 +80,7 @@ Currently included localizations are: English (:en), German (:de)
 * Split the Rails-specific view helpers out into a separate gem (carmen-rails)
 
 == Changelog
+* 0.2.2 Added state and country exclusion (kalafut)
 * 0.2.1 Added regions for New Zealand (yehezkielbs)
 * 0.2.0 Merge in Maximilian Schulz's locale fork, refactor internals to better support locales, and update documentation.       
         Remove Carmen::STATES and Carmen::COUNTRIES constants in favor of module instance variables and proper accessors.
@@ -94,6 +111,7 @@ Maximilian Schulz (namxam)
 Mani Tadayon (bowsersenior)
 Andriy Tyurnikov (andriytyurnikov)
 lonestarsoftware
+kalafut
 yehezkielbs
 
 If I missed your name in this list, please let me know and I will add it. I tried to find everyone that has sent in patches or found bugs, but I may have missed a few folks.
