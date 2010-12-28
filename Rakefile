@@ -13,6 +13,7 @@ begin
     gem.authors = ["Jim Benton"]
     gem.add_development_dependency "mocha"
     gem.add_development_dependency "rails"
+    gem.add_development_dependency "hanna"
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
