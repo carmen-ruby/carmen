@@ -80,7 +80,7 @@ Currently included localizations are: English (:en), German (:de)
 * Split the Rails-specific view helpers out into a separate gem (carmen-rails)
 
 == Changelog
-* 0.2.3 Fixed autoloading under Rails 3
+* 0.2.4 Fixed autoloading under Rails 3
 * 0.2.2 Added state and country exclusion (kalafut)
 * 0.2.1 Added regions for New Zealand (yehezkielbs)
 * 0.2.0 Merge in Maximilian Schulz's locale fork, refactor internals to better support locales, and update documentation.       
