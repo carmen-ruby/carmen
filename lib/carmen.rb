@@ -5,6 +5,11 @@ rescue LoadError
   require 'fileutils' # ftools is now fileutils in Ruby 1.9
 end
 
+# Fix to autoload in Rails 3
+if defined?(Rails) && Rails::VERSION::MAJOR > 2
+  require 'carmen/railtie'
+end
+
 module Carmen
 
   class << self
