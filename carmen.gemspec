@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jim Benton"]
-  s.date = %q{2011-01-09}
-  s.description = %q{A collection of geographis country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins}
+  s.date = %q{2011-01-10}
+  s.description = %q{A collection of geographic country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins}
   s.email = %q{jim@autonomousmachine.com}
   s.extra_rdoc_files = [
     "README.rdoc"
@@ -48,7 +48,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/jim/carmen}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
-  s.summary = %q{A collection of geographis country and state names for Ruby}
+  s.summary = %q{A collection of geographic country and state names for Ruby}
   s.test_files = [
     "test/carmen_test.rb",
     "test/carmen_view_helper_test.rb",
