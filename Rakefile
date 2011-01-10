@@ -6,8 +6,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "carmen"
-    gem.summary = %Q{A collection of geographis country and state names for Ruby}
-    gem.description = %Q{A collection of geographis country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins}
+    gem.summary = %Q{A collection of geographic country and state names for Ruby}
+    gem.description = %Q{A collection of geographic country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins}
     gem.email = "jim@autonomousmachine.com"
     gem.homepage = "http://github.com/jim/carmen"
     gem.authors = ["Jim Benton"]
