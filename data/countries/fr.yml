@@ -1,0 +1,499 @@
+--- 
+- - AFGHANISTAN
+  - AF
+- - AFRIQUE DU SUD
+  - ZA
+- - ALAND, ILES
+  - AX
+- - ALBANIE
+  - AL
+- - ALGERIE
+  - DZ
+- - ALLEMAGNE
+  - DE
+- - ANDORRE
+  - AD
+- - ANGOLA
+  - AO
+- - ANGUILLA
+  - AI
+- - ANTARCTIQUE
+  - AQ
+- - ANTIGUA ET BARBUDA
+  - AG
+- - ARABIE SAOUDITE
+  - SA
+- - ARGENTINE
+  - AR
+- - ARMENIE
+  - AM
+- - ARUBA
+  - AW
+- - AUSTRALIE
+  - AU
+- - AUTRICHE
+  - AT
+- - AZERBAIDJAN
+  - AZ
+- - BAHAMAS
+  - BS
+- - BAHREIN
+  - BH
+- - BANGLADESH
+  - BD
+- - BARBADE
+  - BB
+- - BELARUS
+  - BY
+- - BELGIQUE
+  - BE
+- - BELIZE
+  - BZ
+- - BENIN
+  - BJ
+- - BERMUDES
+  - BM
+- - BHOUTAN
+  - BT
+- - BOLIVIE, l'ETAT PLURINATIONAL DE
+  - BO
+- - BONAIRE, SAINT-EUSTACHE ET SABA
+  - BQ
+- - BOSNIE-HERZEGOVINE
+  - BA
+- - BOTSWANA
+  - BW
+- - BOUVET, ILE
+  - BV
+- - BRESIL
+  - BR
+- - BRUNEI DARUSSALAM
+  - BN
+- - BULGARIE
+  - BG
+- - BURKINA FASO
+  - BF
+- - BURUNDI
+  - BI
+- - CAIMANES, ILES
+  - KY
+- - CAMBODGE
+  - KH
+- - CAMEROUN
+  - CM
+- - CANADA
+  - CA
+- - CAP-VERT
+  - CV
+- - CENTRAFRICAINE, REPUBLIQUE
+  - CF
+- - CHILI
+  - CL
+- - CHINE
+  - CN
+- - CHRISTMAS, ILE
+  - CX
+- - CHYPRE
+  - CY
+- - COCOS (KEELING), ILES
+  - CC
+- - COLOMBIE
+  - CO
+- - COMORES
+  - KM
+- - CONGO
+  - CG
+- - CONGO, LA REPUBLIQUE DEMOCRATIQUE DU
+  - CD
+- - COOK, ILES
+  - CK
+- - COREE, REPUBLIQUE DE
+  - KR
+- - COREE, REPUBLIQUE POPULAIRE DEMOCRATIQUE DE
+  - KP
+- - COSTA RICA
+  - CR
+- - COTE D'IVOIRE
+  - CI
+- - CROATIE
+  - HR
+- - CUBA
+  - CU
+- - CURACAO
+  - CW
+- - DANEMARK
+  - DK
+- - DJIBOUTI
+  - DJ
+- - DOMINICAINE, REPUBLIQUE
+  - DO
+- - DOMINIQUE
+  - DM
+- - EGYPTE
+  - EG
+- - EL SALVADOR
+  - SV
+- - EMIRATS ARABES UNIS
+  - AE
+- - EQUATEUR
+  - EC
+- - ERYTHREE
+  - ER
+- - ESPAGNE
+  - ES
+- - ESTONIE
+  - EE
+- - ETATS-UNIS
+  - US
+- - ETHIOPIE
+  - ET
+- - FALKLAND, ILES (MALVINAS)
+  - FK
+- - FEROE, ILES
+  - FO
+- - FIDJI
+  - FJ
+- - FINLANDE
+  - FI
+- - FRANCE
+  - FR
+- - GABON
+  - GA
+- - GAMBIE
+  - GM
+- - GEORGIE
+  - GE
+- - GEORGIE DU SUD ET LES ILES SANDWICH DU SUD
+  - GS
+- - GHANA
+  - GH
+- - GIBRALTAR
+  - GI
+- - GRECE
+  - GR
+- - GRENADE
+  - GD
+- - GROENLAND
+  - GL
+- - GUADELOUPE
+  - GP
+- - GUAM
+  - GU
+- - GUATEMALA
+  - GT
+- - GUERNESEY
+  - GG
+- - GUINEE
+  - GN
+- - GUINEE-BISSAU
+  - GW
+- - GUINEE EQUATORIALE
+  - GQ
+- - GUYANA
+  - GY
+- - GUYANE FRANCAISE
+  - GF
+- - HAITI
+  - HT
+- - HEARD, ILE ET MCDONALD, ILES
+  - HM
+- - HONDURAS
+  - HN
+- - HONG KONG
+  - HK
+- - HONGRIE
+  - HU
+- - ILE DE MAN
+  - IM
+- - ILES MINEURES ELOIGNEES DES ETATS-UNIS
+  - UM
+- - ILES VIERGES BRITANNIQUES
+  - VG
+- - ILES VIERGES DES ETATS-UNIS
+  - VI
+- - INDE
+  - IN
+- - INDONESIE
+  - ID
+- - IRAN, REPUBLIQUE ISLAMIQUE D'
+  - IR
+- - IRAQ
+  - IQ
+- - IRLANDE
+  - IE
+- - ISLANDE
+  - IS
+- - ISRAEL
+  - IL
+- - ITALIE
+  - IT
+- - JAMAIQUE
+  - JM
+- - JAPON
+  - JP
+- - JERSEY
+  - JE
+- - JORDANIE
+  - JO
+- - KAZAKHSTAN
+  - KZ
+- - KENYA
+  - KE
+- - KIRGHIZISTAN
+  - KG
+- - KIRIBATI
+  - KI
+- - KOWEIT
+  - KW
+- - LAO, REPUBLIQUE DEMOCRATIQUE POPULAIRE
+  - LA
+- - LESOTHO
+  - LS
+- - LETTONIE
+  - LV
+- - LIBAN
+  - LB
+- - LIBERIA
+  - LR
+- - LIBYENNE, JAMAHIRIYA ARABE
+  - LY
+- - LIECHTENSTEIN
+  - LI
+- - LITUANIE
+  - LT
+- - LUXEMBOURG
+  - LU
+- - M
+  - LU
+- - MACAO
+  - MO
+- - MACEDOINE, L'EX-REPUBLIQUE YOUGOSLAVE DE
+  - MK
+- - MADAGASCAR
+  - MG
+- - MALAISIE
+  - MY
+- - MALAWI
+  - MW
+- - MALDIVES
+  - MV
+- - MALI
+  - ML
+- - MALTE
+  - MT
+- - MARIANNES DU NORD, ILES
+  - MP
+- - MAROC
+  - MA
+- - MARSHALL, ILES
+  - MH
+- - MARTINIQUE
+  - MQ
+- - MAURICE
+  - MU
+- - MAURITANIE
+  - MR
+- - MAYOTTE
+  - YT
+- - MEXIQUE
+  - MX
+- - MICRONESIE, ETATS FEDERES DE
+  - FM
+- - MOLDOVA, REPUBLIQUE DE
+  - MD
+- - MONACO
+  - MC
+- - MONGOLIE
+  - MN
+- - MONTENEGRO
+  - ME
+- - MONTSERRAT
+  - MS
+- - MOZAMBIQUE
+  - MZ
+- - MYANMAR
+  - MM
+- - NAMIBIE
+  - NA
+- - NAURU
+  - NR
+- - NEPAL
+  - NP
+- - NICARAGUA
+  - NI
+- - NIGER
+  - NE
+- - NIGERIA
+  - NG
+- - NIUE
+  - NU
+- - NORFOLK, ILE
+  - NF
+- - NORVEGE
+  - "NO"
+- - NOUVELLE-CALEDONIE
+  - NC
+- - NOUVELLE-ZELANDE
+  - NZ
+- - OCEAN INDIEN, TERRITOIRE BRITANNIQUE DE L'
+  - IO
+- - OMAN
+  - OM
+- - OUGANDA
+  - UG
+- - OUZBEKISTAN
+  - UZ
+- - PAKISTAN
+  - PK
+- - PALAOS
+  - PW
+- - PALESTINIEN OCCUPE, TERRITOIRE
+  - PS
+- - PANAMA
+  - PA
+- - PAPOUASIE-NOUVELLE-GUINEE
+  - PG
+- - PARAGUAY
+  - PY
+- - PAYS-BAS
+  - NL
+- - PEROU
+  - PE
+- - PHILIPPINES
+  - PH
+- - PITCAIRN
+  - PN
+- - POLOGNE
+  - PL
+- - POLYNESIE FRANCAISE
+  - PF
+- - PORTO RICO
+  - PR
+- - PORTUGAL
+  - PT
+- - QATAR
+  - QA
+- - REUNION
+  - RE
+- - ROUMANIE
+  - RO
+- - ROYAUME-UNI
+  - GB
+- - RUSSIE, FEDERATION DE
+  - RU
+- - RWANDA
+  - RW
+- - SAHARA OCCIDENTAL
+  - EH
+- - SAINT-BARTHELEMY
+  - BL
+- - SAINTE-HELENE, ASCENSION ET TRISTAN DA CUNHA
+  - SH
+- - SAINTE-LUCIE
+  - LC
+- - SAINT-KITTS-ET-NEVIS
+  - KN
+- - SAINT-MARIN
+  - SM
+- - SAINT-MARTIN (PARTIE FRANCAISE)
+  - MF
+- - SAINT-MARTIN (PARTIE NEERLANDAISE)
+  - SX
+- - SAINT-PIERRE-ET-MIQUELON
+  - PM
+- - SAINT-SIEGE (ETAT DE LA CITE DU VATICAN)
+  - VA
+- - SAINT-VINCENT-ET-LES GRENADINES
+  - VC
+- - SALOMON, ILES
+  - SB
+- - SAMOA
+  - WS
+- - SAMOA AMERICAINES
+  - AS
+- - SAO TOME-ET-PRINCIPE
+  - ST
+- - SENEGAL
+  - SN
+- - SERBIE
+  - RS
+- - SEYCHELLES
+  - SC
+- - SIERRA LEONE
+  - SL
+- - SINGAPOUR
+  - SG
+- - SLOVAQUIE
+  - SK
+- - SLOVENIE
+  - SI
+- - SOMALIE
+  - SO
+- - SOUDAN
+  - SD
+- - SRI LANKA
+  - LK
+- - SUEDE
+  - SE
+- - SUISSE
+  - CH
+- - SURINAME
+  - SR
+- - SVALBARD ET ILE JAN MAYEN
+  - SJ
+- - SWAZILAND
+  - SZ
+- - SYRIENNE, REPUBLIQUE ARABE
+  - SY
+- - TADJIKISTAN
+  - TJ
+- - TAIWAN, PROVINCE DE CHINE
+  - TW
+- - TANZANIE, REPUBLIQUE-UNIE DE
+  - TZ
+- - TCHAD
+  - TD
+- - TCHEQUE, REPUBLIQUE
+  - CZ
+- - TERRES AUSTRALES FRANCAISES
+  - TF
+- - THAILANDE
+  - TH
+- - TIMOR-LESTE
+  - TL
+- - TOGO
+  - TG
+- - TOKELAU
+  - TK
+- - TONGA
+  - TO
+- - TRINITE-ET-TOBAGO
+  - TT
+- - TUNISIE
+  - TN
+- - TURKMENISTAN
+  - TM
+- - TURKS ET CAIQUES, ILES
+  - TC
+- - TURQUIE
+  - TR
+- - TUVALU
+  - TV
+- - UKRAINE
+  - UA
+- - URUGUAY
+  - UY
+- - VANUATU
+  - VU
+- - VENEZUELA, REPUBLIQUE BOLIVARIENNE DU
+  - VE
+- - VIET NAM
+  - VN
+- - WALLIS ET FUTUNA
+  - WF
+- - YEMEN
+  - YE
+- - ZAMBIE
+  - ZM
+- - ZIMBABWE
+  - ZW
