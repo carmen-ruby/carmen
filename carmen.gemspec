@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{carmen}
-  s.version = "0.2.4"
+  s.version = "0.2.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jim Benton"]
-  s.date = %q{2011-01-10}
+  s.date = %q{2011-01-28}
   s.description = %q{A collection of geographic country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins}
   s.email = %q{jim@autonomousmachine.com}
   s.extra_rdoc_files = [
