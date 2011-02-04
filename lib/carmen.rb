@@ -142,11 +142,48 @@ module Carmen
     collection.each do |m|
       return m[index_to_retrieve] if m[index_to_match].downcase == value.downcase
     end
-    # In case we didn't get any results we'll try a broader search (via Regexp)
-    collection.each do |m|
-      return m[index_to_retrieve] if m[index_to_match].downcase.match(value.downcase)
+    # In case we didn't get any results we'll try a broader search choosing only matched entries by Regexp and
+    # calculating it's levenstein distance from searched +value+
+    best_match = collection.
+      find_all {|m| m[index_to_match].downcase.match(value.downcase) }.
+      sort_by {|m| levenstein_distance(m[index_to_match], value.downcase) }.
+      first
+
+    return best_match[index_to_retrieve]
+  end
+  
+  # Calculates distance between given str1 and str2 words (string).
+  # Stolen from https://github.com/threedaymonk/text/blob/master/lib/text/levenshtein.rb (+ some modification)
+  def self.levenstein_distance(str1, str2)
+    encoding = str1.respond_to?(:encoding) ? str1.encoding.to_s : $KCODE
+    unpack_rule = encoding =~ /^U/i ? 'U*' : 'C*'
+
+    s = str1.unpack(unpack_rule)
+    t = str2.unpack(unpack_rule)
+    n = s.length
+    m = t.length
+    return m if (0 == n)
+    return n if (0 == m)
+
+    d = (0..m).to_a
+    x = nil
+
+    (0...n).each do |i|
+      e = i+1
+      (0...m).each do |j|
+        cost = (s[i] == t[j]) ? 0 : 1
+        x = [
+          d[j+1] + 1, # insertion
+          e + 1,      # deletion
+          d[j] + cost # substitution
+        ].min
+        d[j] = e
+        e = x
+      end
+      d[m] = x
     end
-    nil
+
+    return x
   end
   
 end

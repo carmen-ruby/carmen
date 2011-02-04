@@ -44,6 +44,10 @@ class TestCarmen < Test::Unit::TestCase
     assert_equal 'IR', Carmen.country_code('Iran')
   end
   
+  def test_country_code_when_matching_is_not_explicit
+    assert_equal 'PL', Carmen.country_code('Pol')
+  end
+  
   def test_localized_country_code
     assert_equal 'DE', Carmen.country_code('Deutschland', :locale => :de)
     Carmen.default_locale = :de
@@ -141,6 +145,4 @@ class TestCarmen < Test::Unit::TestCase
     end
   end
 
-
-  
 end
