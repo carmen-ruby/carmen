@@ -40,7 +40,6 @@ Gem::Specification.new do |s|
     "lib/carmen.rb",
     "lib/carmen/action_view_helpers.rb",
     "lib/carmen/railtie.rb",
-    "rails/init.rb",
     "test/carmen_test.rb",
     "test/carmen_view_helper_test.rb",
     "test/test_helper.rb"
