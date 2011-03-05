@@ -3,7 +3,7 @@
 
 This library will work as a drop in replacement for the official Rails country_select and its various forks. The idea is to provide a single library for all geographic naming concerns, and unify them under a consistent API.
 
-States are supported for the following countries: Australia, Brazil, Canada, Cuba, Denmark, Germany, Italy, Mexico, New Zealand, Norway, Spain, Ukraine, and United States.
+States are supported for the following countries: Australia, Brazil, Canada, Cuba, Denmark, Germany, India, Italy, Mexico, New Zealand, Norway, Spain, Ukraine, and United States.
 
 == Installation
 
@@ -122,3 +122,4 @@ kalafut
 yehezkielbs
 
 If I missed your name in this list, please let me know and I will add it. I tried to find everyone that has sent in patches or found bugs, but I may have missed a few folks.
+
