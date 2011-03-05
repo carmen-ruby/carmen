@@ -6,8 +6,12 @@ rescue LoadError
 end
 
 # Fix to autoload in Rails 3
-if defined?(Rails) && Rails::VERSION::MAJOR > 2
-  require 'carmen/railtie'
+if defined?(Rails) 
+  if Rails::VERSION::MAJOR > 2
+    require 'carmen/railtie'
+  else
+    require 'carmen/action_view_helpers'
+  end
 end
 
 module Carmen

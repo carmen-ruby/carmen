@@ -1,4 +1,3 @@
-[FIXED] The init.rb file has been moved from rails/init.rb to the toplevel to suppress the deprecation warning; the gemspec file has been updated accordingly. 
 
 = Carmen- A simple collection of geographic names and abbreviations for Ruby
 
@@ -9,23 +8,23 @@ States are supported for the following countries: Australia, Brazil, Canada, Cub
 == Installation
 
   gem install carmen
-  
+
 If you're in Rails 2.3 or earlier, place this in your environment.rb:
 
   config.gem 'carmen'
-  
+
 If you're in Rails 3, put this in your Gemfile:
 
   gem "carmen"
 
 
 == Get a list of all countries
-  
+
   Carmen.countries => […, ['Germany', 'DE'], …, ['United States', 'US'], …]
   Carmen.countries(:locale => 'de') => […, ['Deutschland', 'DE'], …, ['Vereinigte Staaten von Amerika', 'US'], …]
 
 == State list retrieval
-  
+
   Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
   Carmen::states => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ] # uses default country
   Carmen::state_names('US') => ['Alabama', 'Arkansas', ... ]
@@ -38,7 +37,7 @@ If you're in Rails 3, put this in your Gemfile:
   Carmen::state_code('Illinois') => 'IL'
   Carmen::state_code('Manitoba', 'CA') => 'MB'
   Carmen::state_name('AZ') => 'Arizona'
-                   
+
 
 == Default Country
 
@@ -50,7 +49,7 @@ Methods that take a country code argument will use the default country if none i
 
 This fork lets you exclude specific countries and/or states from Carmen. Simply set the appropriate class variables and the exclusion will take effect.
 
-== Excluding Countries 
+== Excluding Countries
 
 Countries to exclude are specified as an array of country codes:
 
@@ -59,7 +58,7 @@ Countries to exclude are specified as an array of country codes:
 == Excluding States
 
 States to exclude are specified via a hash, with keys being the country's code, and values being the states to exclude from that country:
-    
+
   Carmen.excluded_states = { 'US' => [ 'AA', 'AP', 'PW', ... ], 'DE' => [ 'BW', 'TH' ], ... }
 
 == Localization
@@ -67,7 +66,7 @@ States to exclude are specified via a hash, with keys being the country's code, 
 You can switch between different localizations of the countries list, by setting the locale value (default is :en):
 
   Carmen.default_locale = :de
-  
+
 Methods that return country names also take an optional options hash as the last argument, which can be use to override the default locale for a single call:
 
   Carmen::country_name('US') => 'United States'
@@ -82,11 +81,14 @@ Currently included localizations are: English (:en), German (:de)
 * Split the Rails-specific view helpers out into a separate gem (carmen-rails)
 
 == Changelog
+* 0.2.6 Suppress a deprecation warning in Rails 3. (anupamc)
+        Remove init.rb altogether and use requires under Rails
+
 * 0.2.5 Data corrections (mikepinde)
 * 0.2.4 Fixed autoloading under Rails 3
 * 0.2.2 Added state and country exclusion (kalafut)
 * 0.2.1 Added regions for New Zealand (yehezkielbs)
-* 0.2.0 Merge in Maximilian Schulz's locale fork, refactor internals to better support locales, and update documentation.       
+* 0.2.0 Merge in Maximilian Schulz's locale fork, refactor internals to better support locales, and update documentation.
         Remove Carmen::STATES and Carmen::COUNTRIES constants in favor of module instance variables and proper accessors.
         Add a test_helper and remove dependency on RubyGems.
 * 0.1.3 DEPRECATE Carmen::COUNTRIES in favor of Carmen.countries
