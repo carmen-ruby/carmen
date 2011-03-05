@@ -5,17 +5,18 @@
 
 Gem::Specification.new do |s|
   s.name = %q{carmen}
-  s.version = "0.2.5"
+  s.version = "0.2.6"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jim Benton"]
-  s.date = %q{2011-01-28}
+  s.date = %q{2011-03-04}
   s.description = %q{A collection of geographic country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins}
   s.email = %q{jim@autonomousmachine.com}
   s.extra_rdoc_files = [
     "README.rdoc"
   ]
   s.files = [
+    "Gemfile",
     "MIT-LICENSE",
     "README.rdoc",
     "Rakefile",
@@ -31,6 +32,7 @@ Gem::Specification.new do |s|
     "data/states/dk.yml",
     "data/states/es.yml",
     "data/states/hr.yml",
+    "data/states/in.yml",
     "data/states/it.yml",
     "data/states/mx.yml",
     "data/states/no.yml",
@@ -59,15 +61,27 @@ Gem::Specification.new do |s|
     s.specification_version = 3
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
+      s.add_runtime_dependency(%q<carmen>, [">= 0"])
+      s.add_development_dependency(%q<mocha>, [">= 0"])
+      s.add_development_dependency(%q<rails>, [">= 0"])
+      s.add_development_dependency(%q<hanna>, [">= 0"])
       s.add_development_dependency(%q<mocha>, [">= 0"])
       s.add_development_dependency(%q<rails>, [">= 0"])
       s.add_development_dependency(%q<hanna>, [">= 0"])
     else
+      s.add_dependency(%q<carmen>, [">= 0"])
+      s.add_dependency(%q<mocha>, [">= 0"])
+      s.add_dependency(%q<rails>, [">= 0"])
+      s.add_dependency(%q<hanna>, [">= 0"])
       s.add_dependency(%q<mocha>, [">= 0"])
       s.add_dependency(%q<rails>, [">= 0"])
       s.add_dependency(%q<hanna>, [">= 0"])
     end
   else
+    s.add_dependency(%q<carmen>, [">= 0"])
+    s.add_dependency(%q<mocha>, [">= 0"])
+    s.add_dependency(%q<rails>, [">= 0"])
+    s.add_dependency(%q<hanna>, [">= 0"])
     s.add_dependency(%q<mocha>, [">= 0"])
     s.add_dependency(%q<rails>, [">= 0"])
     s.add_dependency(%q<hanna>, [">= 0"])
