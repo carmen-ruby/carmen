@@ -82,17 +82,24 @@ Currently included localizations are: English (:en), German (:de)
 * Move regex matching into an optional module.
 
 == Changelog
-* 0.2.6 Suppress a deprecation warning in Rails 3 (anupamc)
-        Remove init.rb altogether and use requires under Rails
-        Added Indian states and union territories (orthodoc)
-* 0.2.5 Data corrections (mikepinde)
-* 0.2.4 Fixed autoloading under Rails 3
-* 0.2.2 Added state and country exclusion (kalafut)
-* 0.2.1 Added regions for New Zealand (yehezkielbs)
-* 0.2.0 Merge in Maximilian Schulz's locale fork, refactor internals to better support locales, and update documentation.
-        Remove Carmen::STATES and Carmen::COUNTRIES constants in favor of module instance variables and proper accessors.
-        Add a test_helper and remove dependency on RubyGems.
-* 0.1.3 DEPRECATE Carmen::COUNTRIES in favor of Carmen.countries
+=== 0.2.6
+* Suppress a deprecation warning in Rails 3 (anupamc)
+* Remove init.rb altogether and use requires under Rails
+* Added Indian states and union territories (orthodoc)
+=== 0.2.5
+* Data corrections (mikepinde)
+=== 0.2.4
+* Fixed autoloading under Rails 3
+=== 0.2.2
+* Added state and country exclusion (kalafut)
+=== 0.2.1
+* Added regions for New Zealand (yehezkielbs)
+=== 0.2.0
+* Merge in Maximilian Schulz's locale fork, refactor internals to better support locales, and update documentation.
+* Remove Carmen::STATES and Carmen::COUNTRIES constants in favor of module instance variables and proper accessors.
+* Add a test_helper and remove dependency on RubyGems.
+=== 0.1.3
+* DEPRECATE Carmen::COUNTRIES in favor of Carmen.countries
 
 
 == Development notes
@@ -104,25 +111,25 @@ The plugin does not require rubygems anywhere in the test or libraries, so if yo
 
 These fine characters have contributed state lists, patches, or reported bugs:
 
-Jose Angel Cortinas (jacortinas)
-Domizio Demichelis (ddnexus)
-Thiago Jackiw (railsfreaks)
-Russ Johnson (russjohnson)
-Henrik Hodne (dvyjones)
-Yuval Kordov (uberllama)
-Alberto Molpeceres (molpe)
-Dimas Priyanto (dimaspriyanto)
-Wojtek Ogrodowczyk (sharnik)
-Tobias Schmidt (grobie)
-Maximilian Schulz (namxam)
-Mani Tadayon (bowsersenior)
-Andriy Tyurnikov (andriytyurnikov)
-Anupam Choudhury (anupamc)
-Biswajit Dutta Baruah (orthodoc)
-lonestarsoftware
-mikepinde
-kalafut
-yehezkielbs
+* Jose Angel Cortinas (jacortinas)
+* Domizio Demichelis (ddnexus)
+* Thiago Jackiw (railsfreaks)
+* Russ Johnson (russjohnson)
+* Henrik Hodne (dvyjones)
+* Yuval Kordov (uberllama)
+* Alberto Molpeceres (molpe)
+* Dimas Priyanto (dimaspriyanto)
+* Wojtek Ogrodowczyk (sharnik)
+* Tobias Schmidt (grobie)
+* Maximilian Schulz (namxam)
+* Mani Tadayon (bowsersenior)
+* Andriy Tyurnikov (andriytyurnikov)
+* Anupam Choudhury (anupamc)
+* Biswajit Dutta Baruah (orthodoc)
+* lonestarsoftware
+* mikepinde
+* kalafut
+* yehezkielbs
 
 If I missed your name in this list, please let me know and I will add it. I tried to find everyone that has sent in patches or found bugs, but I may have missed a few folks.
 
