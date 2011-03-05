@@ -79,11 +79,12 @@ Currently included localizations are: English (:en), German (:de)
 
 * Many countries, such as Spain, have additional levels beneath 'state' that we would ideally support. Thanks to Alberto Molpeceres for bringing this to my attention.
 * Split the Rails-specific view helpers out into a separate gem (carmen-rails)
+* Move regex matching into an optional module.
 
 == Changelog
-* 0.2.6 Suppress a deprecation warning in Rails 3. (anupamc)
+* 0.2.6 Suppress a deprecation warning in Rails 3 (anupamc)
         Remove init.rb altogether and use requires under Rails
-
+        Added Indian states and union territories (orthodoc)
 * 0.2.5 Data corrections (mikepinde)
 * 0.2.4 Fixed autoloading under Rails 3
 * 0.2.2 Added state and country exclusion (kalafut)
@@ -116,6 +117,8 @@ Tobias Schmidt (grobie)
 Maximilian Schulz (namxam)
 Mani Tadayon (bowsersenior)
 Andriy Tyurnikov (andriytyurnikov)
+Anupam Choudhury (anupamc)
+Biswajit Dutta Baruah (orthodoc)
 lonestarsoftware
 mikepinde
 kalafut
