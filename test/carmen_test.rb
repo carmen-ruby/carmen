@@ -30,7 +30,12 @@ class TestCarmen < Test::Unit::TestCase
     assert_equal 'United States', Carmen.country_name('US')
     assert_equal 'United States', Carmen.country_name('us')
   end
-  
+
+  def test_uk_country_name
+    assert_equal 'United Kingdom', Carmen.country_name('UK')
+    assert_equal 'United Kingdom', Carmen.country_name('uk')
+  end
+
   def test_localized_country_name
     assert_equal 'Germany', Carmen.country_name('DE')
     assert_equal 'Deutschland', Carmen.country_name('DE', :locale => :de)
