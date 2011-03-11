@@ -11,6 +11,7 @@ begin
     gem.email = "jim@autonomousmachine.com"
     gem.homepage = "http://github.com/jim/carmen"
     gem.authors = ["Jim Benton"]
+    gem.add_development_dependency 'jeweler', '1.4'
     gem.add_development_dependency "mocha"
     gem.add_development_dependency "rails"
     gem.add_development_dependency "hanna"
