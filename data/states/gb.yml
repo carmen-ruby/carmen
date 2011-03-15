@@ -1,0 +1,463 @@
+# from http://en.wikipedia.org/wiki/ISO_3166-2:GB
+- - Buckinghamshire
+  - BKM
+- - Cambridgeshire
+  - CAM
+- - Cumbria
+  - CMA
+- - Derbyshire
+  - DBY
+- - Devon
+  - DEV
+- - Dorset
+  - DOR
+- - East Sussex
+  - ESX
+- - Essex
+  - ESS
+- - Gloucestershire
+  - GLS
+- - Hampshire
+  - HAM
+- - Hertfordshire
+  - HRT
+- - Kent
+  - KEN
+- - Lancashire
+  - LAN
+- - Leicestershire
+  - LEC
+- - Lincolnshire
+  - LIN
+- - Norfolk
+  - NFK
+- - North Yorkshire
+  - NYK
+- - Northamptonshire
+  - NTH
+- - Nottinghamshire
+  - NTT
+- - Oxfordshire
+  - OXF
+- - Somerset
+  - SOM
+- - Staffordshire
+  - STS
+- - Suffolk
+  - SFK
+- - Surrey
+  - SRY
+- - Warwickshire
+  - WAR
+- - West Sussex
+  - WSX
+- - Worcestershire
+  - WOR
+- - Barking and Dagenham
+  - BDG
+- - Barnet
+  - BNE
+- - Bexley
+  - BEX
+- - Brent
+  - BEN
+- - Bromley
+  - BRY
+- - Camden
+  - CMD
+- - Croydon
+  - CRY
+- - Ealing
+  - EAL
+- - Enfield
+  - ENF
+- - Greenwich
+  - GRE
+- - Hackney
+  - HCK
+- - Hammersmith and Fulham
+  - HMF
+- - Haringey
+  - HRY
+- - Harrow
+  - HRW
+- - Havering
+  - HAV
+- - Hillingdon
+  - HIL
+- - Hounslow
+  - HNS
+- - Islington
+  - ISL
+- - Kensington and Chelsea
+  - KEC
+- - Kingston upon Thames
+  - KTT
+- - Lambeth
+  - LBH
+- - Lewisham
+  - LEW
+- - Merton
+  - MRT
+- - Newham
+  - NWM
+- - Redbridge
+  - RDB
+- - Richmond upon Thames
+  - RIC
+- - Southwark
+  - SWK
+- - Sutton
+  - STN
+- - Tower Hamlets
+  - TWH
+- - Waltham Forest
+  - WFT
+- - Wandsworth
+  - WND
+- - Westminster
+  - WSM
+- - Barnsley
+  - BNS
+- - Birmingham
+  - BIR
+- - Bolton
+  - BOL
+- - Bradford
+  - BRD
+- - Bury
+  - BUR
+- - Calderdale
+  - CLD
+- - Coventry
+  - COV
+- - Doncaster
+  - DNC
+- - Dudley
+  - DUD
+- - Gateshead
+  - GAT
+- - Kirklees
+  - KIR
+- - Knowsley
+  - KWL
+- - Leeds
+  - LDS
+- - Liverpool
+  - LIV
+- - Manchester
+  - MAN
+- - Newcastle upon Tyne
+  - NET
+- - North Tyneside
+  - NTY
+- - Oldham
+  - OLD
+- - Rochdale
+  - RCH
+- - Rotherham
+  - ROT
+- - St. Helens
+  - SHN
+- - Salford
+  - SLF
+- - Sandwell
+  - SAW
+- - Sefton
+  - SFT
+- - Sheffield
+  - SHF
+- - Solihull
+  - SOL
+- - South Tyneside
+  - STY
+- - Stockport
+  - SKP
+- - Sunderland
+  - SND
+- - Tameside
+  - TAM
+- - Trafford
+  - TRF
+- - Wakefield
+  - WKF
+- - Walsall
+  - WLL
+- - Wigan
+  - WGN
+- - Wirral
+  - WRL
+- - Wolverhampton
+  - WLV
+- - Bath and North East Somerset
+  - BAS
+- - Blackburn with Darwen
+  - BBD
+- - Bedford
+  - BDF
+- - Blackpool
+  - BPL
+- - Bournemouth
+  - BMH
+- - Bracknell Forest
+  - BRC
+- - Brighton and Hove
+  - BNH
+- - Bristol, City of
+  - BST
+- - Central Bedfordshire
+  - CBF
+- - Cheshire East
+  - CHE
+- - Cheshire West and Chester
+  - CHW
+- - Cornwall
+  - CON
+- - Darlington
+  - DAL
+- - Derby
+  - DER
+- - Durham
+  - DUR
+- - East Riding of Yorkshire
+  - ERY
+- - Halton
+  - HAL
+- - Hartlepool
+  - HPL
+- - Herefordshire
+  - HEF
+- - Isle of Wight
+  - IOW
+- - Kingston upon Hull
+  - KHL
+- - Leicester
+  - LCE
+- - Luton
+  - LUT
+- - Medway
+  - MDW
+- - Middlesbrough
+  - MDB
+- - Milton Keynes
+  - MIK
+- - North East Lincolnshire
+  - NEL
+- - North Lincolnshire
+  - NLN
+- - North Somerset
+  - NSM
+- - Northumberland
+  - NBL
+- - Nottingham
+  - NGM
+- - Peterborough
+  - PTE
+- - Plymouth
+  - PLY
+- - Poole
+  - POL
+- - Portsmouth
+  - POR
+- - Reading
+  - RDG
+- - Redcar and Cleveland
+  - RCC
+- - Rutland
+  - RUT
+- - Shropshire
+  - SHR
+- - Slough
+  - SLG
+- - South Gloucestershire
+  - SGC
+- - Southampton
+  - STH
+- - Southend-on-Sea
+  - SOS
+- - Stockton-on-Tees
+  - STT
+- - Stoke-on-Trent
+  - STE
+- - Swindon
+  - SWD
+- - Telford and Wrekin
+  - TFW
+- - Thurrock
+  - THR
+- - Torbay
+  - TOB
+- - Warrington
+  - WRT
+- - West Berkshire
+  - WBK
+- - Wiltshire
+  - WIL
+- - Windsor and Maidenhead
+  - WNM
+- - Wokingham
+  - WOK
+- - York
+  - YOR
+- - city corporation
+  - LND	London, City of
+- - Antrim
+  - ANT
+- - Ards
+  - ARD
+- - Armagh
+  - ARM
+- - Ballymena
+  - BLA
+- - Ballymoney
+  - BLY
+- - Banbridge
+  - BNB
+- - Belfast
+  - BFS
+- - Carrickfergus
+  - CKF
+- - Castlereagh
+  - CSR
+- - Coleraine
+  - CLR
+- - Cookstown
+  - CKT
+- - Craigavon
+  - CGV
+- - Derry
+  - DRY
+- - Down
+  - DOW
+- - Dungannon
+  - DGN
+- - Fermanagh
+  - FER
+- - Larne
+  - LRN
+- - Limavady
+  - LMV
+- - Lisburn
+  - LSB
+- - Magherafelt
+  - MFT
+- - Moyle
+  - MYL
+- - Newry and Mourne District
+  - NYM
+- - Newtownabbey
+  - NTA
+- - North Down
+  - NDN
+- - Omagh
+  - OMH
+- - Strabane
+  - STB
+- - Aberdeen City
+  - ABE
+- - Aberdeenshire
+  - ABD
+- - Angus
+  - ANS
+- - Argyll and Bute
+  - AGB
+- - Clackmannanshire
+  - CLK
+- - Dumfries and Galloway
+  - DGY
+- - Dundee City
+  - DND
+- - East Ayrshire
+  - EAY
+- - East Dunbartonshire
+  - EDU
+- - East Lothian
+  - ELN
+- - East Renfrewshire
+  - ERW
+- - Edinburgh, City of
+  - EDH
+- - Eilean Siar
+  - ELS
+- - Falkirk
+  - FAL
+- - Fife
+  - FIF
+- - Glasgow City
+  - GLG
+- - Highland
+  - HLD
+- - Inverclyde
+  - IVC
+- - Midlothian
+  - MLN
+- - Moray
+  - MRY
+- - North Ayrshire
+  - NAY
+- - North Lanarkshire
+  - NLK
+- - Orkney Islands
+  - ORK
+- - Perth and Kinross
+  - PKN
+- - Renfrewshire
+  - RFW
+- - Scottish Borders, The
+  - SCB
+- - Shetland Islands
+  - ZET
+- - South Ayrshire
+  - SAY
+- - South Lanarkshire
+  - SLK
+- - Stirling
+  - STG
+- - West Dunbartonshire
+  - WDU
+- - West Lothian
+  - WLN
+- - Blaenau Gwent
+  - BGW
+- - Bridgend
+  - BGE
+- - Caerphilly
+  - CAY
+- - Cardiff
+  - CRF
+- - Carmarthenshire
+  - CMN
+- - Ceredigion
+  - CGN
+- - Conwy
+  - CWY
+- - Denbighshire
+  - DEN
+- - Flintshire
+  - FLN
+- - Gwynedd
+  - GWN
+- - Isle of Anglesey
+  - AGY
+- - Merthyr Tydfil
+  - MTY
+- - Monmouthshire
+  - MON
+- - Neath Port Talbot
+  - NTL
+- - Newport
+  - NWP
+- - Pembrokeshire
+  - PEM
+- - Powys
+  - POW
+- - Rhondda, Cynon, Taff
+  - RCT
+- - Swansea
+  - SWA
+- - Torfaen
+  - TOF
+- - Vale of Glamorgan, The
+  - VGL
+- - Wrexham
+  - WRX
