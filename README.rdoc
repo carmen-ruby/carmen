@@ -131,6 +131,7 @@ These fine characters have contributed state lists, patches, or reported bugs:
 * Biswajit Dutta Baruah (orthodoc)
 * Chris Sepic (cgs)
 * Swaroop C H (swaroopch)
+* Gerhard Lazu (gerhard)
 * lonestarsoftware
 * mikepinde
 * kalafut
