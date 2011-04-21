@@ -82,6 +82,8 @@ Currently included localizations are: English (:en), German (:de)
 * Move regex matching into an optional module.
 
 == Changelog
+=== master
+* Use a shorter name for US Armed Forces States (cgs)
 === 0.2.6
 * Suppress a deprecation warning in Rails 3 (anupamc)
 * Remove init.rb altogether and use requires under Rails
@@ -126,6 +128,7 @@ These fine characters have contributed state lists, patches, or reported bugs:
 * Andriy Tyurnikov (andriytyurnikov)
 * Anupam Choudhury (anupamc)
 * Biswajit Dutta Baruah (orthodoc)
+* Chris Sepic (cgs)
 * lonestarsoftware
 * mikepinde
 * kalafut
