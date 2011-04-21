@@ -84,6 +84,7 @@ Currently included localizations are: English (:en), German (:de)
 == Changelog
 === master
 * Use a shorter name for US Armed Forces States (cgs)
+* Added Gujarat to the list of states in India (swaroopch)
 === 0.2.6
 * Suppress a deprecation warning in Rails 3 (anupamc)
 * Remove init.rb altogether and use requires under Rails
@@ -129,6 +130,7 @@ These fine characters have contributed state lists, patches, or reported bugs:
 * Anupam Choudhury (anupamc)
 * Biswajit Dutta Baruah (orthodoc)
 * Chris Sepic (cgs)
+* Swaroop C H (swaroopch)
 * lonestarsoftware
 * mikepinde
 * kalafut
