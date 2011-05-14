@@ -1,4 +1,3 @@
-
 = Carmen- A simple collection of geographic names and abbreviations for Ruby
 
 This library will work as a drop in replacement for the official Rails country_select and its various forks. The idea is to provide a single library for all geographic naming concerns, and unify them under a consistent API.
@@ -86,6 +85,8 @@ Currently included localizations are: English (:en), German (:de)
 * Use a shorter name for US Armed Forces States (cgs)
 * Added Gujarat to the list of states in India (swaroopch)
 * Added American Samoa to the list of US States
+* Added Dutch country translations (Arie)
+* Added Kosovo to German Translation (Christopher Thorpe)
 === 0.2.6
 * Suppress a deprecation warning in Rails 3 (anupamc)
 * Remove init.rb altogether and use requires under Rails
@@ -133,6 +134,8 @@ These fine characters have contributed state lists, or patches:
 * Chris Sepic (cgs)
 * Swaroop C H (swaroopch)
 * Gerhard Lazu (gerhard)
+* Arie (Arie)
+* Christopher Thorpe (ChristopherThorpe)
 * lonestarsoftware
 * mikepinde
 * kalafut
