@@ -60,7 +60,13 @@ States to exclude are specified via a hash, with keys being the country's code, 
 
   Carmen.excluded_states = { 'US' => [ 'AA', 'AP', 'PW', ... ], 'DE' => [ 'BW', 'TH' ], ... }
 
-== Localization
+= Adding Priority Countries
+
+It can be useful to show a few countries first in the list, before any others. This can be done like so:
+
+  Carmen.prepended_countries = %w(US CA)
+
+= Localization
 
 You can switch between different localizations of the countries list, by setting the locale value (default is :en):
 
@@ -87,6 +93,7 @@ Currently included localizations are: English (:en), German (:de)
 * Added American Samoa to the list of US States
 * Added Dutch country translations (Arie)
 * Added Kosovo to German Translation (Christopher Thorpe)
+* Added the ability to list countries at the top of the list (jjthrash)
 === 0.2.6
 * Suppress a deprecation warning in Rails 3 (anupamc)
 * Remove init.rb altogether and use requires under Rails
@@ -136,10 +143,10 @@ These fine characters have contributed state lists, or patches:
 * Gerhard Lazu (gerhard)
 * Arie (Arie)
 * Christopher Thorpe (ChristopherThorpe)
+* Jimmy Thrasher (jjthrash)
 * lonestarsoftware
 * mikepinde
 * kalafut
 * yehezkielbs
 
 If I missed your name in this list, please let me know and I will add it. I tried to find everyone that has sent in patches or found bugs, but I may have missed a few folks.
-
