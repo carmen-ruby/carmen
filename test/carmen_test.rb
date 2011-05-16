@@ -123,6 +123,19 @@ class TestCarmen < Test::Unit::TestCase
       Carmen.excluded_states = {}
   end
 
+  def test_prepended_countries
+    us_original_index = Carmen.countries.index(['United States', 'US'])
+    Carmen.prepended_countries = %w(US CA AU)
+    countries = Carmen.countries
+    assert_equal 0, countries.index(['United States', 'US'])
+    assert_equal 1, countries.index(['Canada', 'CA'])
+    assert_equal 2, countries.index(['Australia', 'AU'])
+
+    assert_equal 3 + us_original_index, countries.rindex(['United States', 'US'])
+
+    Carmen.prepended_countries = []
+  end
+
   def test_invalid_country_exception
     assert_raises Carmen::NonexistentCountry do
       Carmen::state_codes('ZZ')
