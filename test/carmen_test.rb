@@ -29,6 +29,8 @@ class TestCarmen < Test::Unit::TestCase
   def test_country_name
     assert_equal 'United States', Carmen.country_name('US')
     assert_equal 'United States', Carmen.country_name('us')
+    assert_nil Carmen.country_name('')
+    assert_nil Carmen.country_name(nil)
   end
 
   def test_localized_country_name
