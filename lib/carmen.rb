@@ -144,7 +144,7 @@ module Carmen
   protected
 
   def self.search_collection(collection, value, index_to_match, index_to_retrieve)
-    return nil if collection.nil?
+    return nil if collection.nil? || value.blank?
     collection.each do |m|
       return m[index_to_retrieve] if m[index_to_match].downcase == value.downcase
     end
