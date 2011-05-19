@@ -70,6 +70,8 @@ class TestCarmen < Test::Unit::TestCase
   def test_state_code
     assert_equal 'Arizona', Carmen.state_name('AZ')
     assert_equal 'Prince Edward Island', Carmen.state_name('PE', 'CA')
+    # NO gets interpretted as false by YAML. 
+    assert_equal 'Rogaland', Carmen.state_name('RO', 'NO')
   end
 
   def test_states
