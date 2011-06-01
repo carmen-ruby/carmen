@@ -98,7 +98,7 @@ Carmen ships with replacements for state_select and country_select. Usage is sim
 * Move regex matching into an optional module.
 
 == Changelog
-=== master
+=== 0.2.8
 * Use a shorter name for US Armed Forces States (cgs)
 * Added Gujarat to the list of states in India (swaroopch)
 * Added American Samoa to the list of US States
@@ -106,7 +106,9 @@ Carmen ships with replacements for state_select and country_select. Usage is sim
 * Added Kosovo to German Translation (Christopher Thorpe)
 * Added the ability to list countries at the top of the list (jjthrash)
 * Added country names in Hindi (sukeerthiadiga)
-=== 0.2.6
+=== 0.2.7
+* Fix a gemspec disaster.
+=== 0.2.6 (pulled)
 * Suppress a deprecation warning in Rails 3 (anupamc)
 * Remove init.rb altogether and use requires under Rails
 * Added Indian states and union territories (orthodoc)
