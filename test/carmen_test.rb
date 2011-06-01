@@ -30,7 +30,7 @@ class TestCarmen < Test::Unit::TestCase
     assert_equal 'United States', Carmen.country_name('US')
     assert_equal 'United States', Carmen.country_name('us')
   end
-  
+
   def test_localized_country_name
     assert_equal 'Germany', Carmen.country_name('DE')
     assert_equal 'Deutschland', Carmen.country_name('DE', :locale => :de)
@@ -125,7 +125,7 @@ class TestCarmen < Test::Unit::TestCase
 
   def test_prepended_countries
     us_original_index = Carmen.countries.index(['United States', 'US'])
-    Carmen.prepended_countries = %w(US CA AU)
+    Carmen.priority_countries = %w(US CA AU)
     countries = Carmen.countries
     assert_equal 0, countries.index(['United States', 'US'])
     assert_equal 1, countries.index(['Canada', 'CA'])
@@ -133,7 +133,7 @@ class TestCarmen < Test::Unit::TestCase
 
     assert_equal 3 + us_original_index, countries.rindex(['United States', 'US'])
 
-    Carmen.prepended_countries = []
+    Carmen.priority_countries = []
   end
 
   def test_invalid_country_exception

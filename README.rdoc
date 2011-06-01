@@ -64,7 +64,7 @@ States to exclude are specified via a hash, with keys being the country's code, 
 
 It can be useful to show a few countries first in the list, before any others. This can be done like so:
 
-  Carmen.prepended_countries = %w(US CA)
+  Carmen.priority_countries = %w(US CA)
 
 = Localization
 
