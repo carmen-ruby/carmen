@@ -94,6 +94,7 @@ Currently included localizations are: English (:en), German (:de), Hindi (:hi)
 * Added Dutch country translations (Arie)
 * Added Kosovo to German Translation (Christopher Thorpe)
 * Added the ability to list countries at the top of the list (jjthrash)
+* Added country names in Hindi (sukeerthiadiga)
 === 0.2.6
 * Suppress a deprecation warning in Rails 3 (anupamc)
 * Remove init.rb altogether and use requires under Rails
@@ -144,6 +145,7 @@ These fine characters have contributed state lists, or patches:
 * Arie (Arie)
 * Christopher Thorpe (ChristopherThorpe)
 * Jimmy Thrasher (jjthrash)
+* Sukeerthi Adiga (sukeerthiadiga)
 * lonestarsoftware
 * mikepinde
 * kalafut
