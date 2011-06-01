@@ -77,7 +77,7 @@ Methods that return country names also take an optional options hash as the last
   Carmen::country_name('US') => 'United States'
   Carmen::country_name('US', :locale => :de) => 'Vereinigte Staaten von Amerika'
 
-Currently included localizations are: English (:en), German (:de)
+Currently included localizations are: English (:en), German (:de), Hindi (:hi)
 
 
 == Todo
