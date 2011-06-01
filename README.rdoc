@@ -79,6 +79,15 @@ Methods that return country names also take an optional options hash as the last
 
 Currently included localizations are: English (:en), German (:de), Hindi (:hi)
 
+= Rails view helpers
+
+Carmen ships with replacements for state_select and country_select. Usage is simple:
+
+  <%= form_for @address do |f| %>
+    <%= f.label :country, "Country" %> <%= f.country_select(:country, "US") %>
+    <%= submit_tag "Create" %>
+  <% end %>
+
 
 == Todo
 
