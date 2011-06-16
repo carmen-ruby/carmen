@@ -100,6 +100,7 @@ Carmen ships with replacements for state_select and country_select. Usage is sim
 == Changelog
 === master
 * Change "Taiwan, Province of China" to "Taiwan" (camilleroux)
+* Add spanish translation for countries (federomero)
 === 0.2.8
 * Use a shorter name for US Armed Forces States (cgs)
 * Added Gujarat to the list of states in India (swaroopch)
@@ -162,6 +163,7 @@ These fine characters have contributed state lists, or patches:
 * Jimmy Thrasher (jjthrash)
 * Sukeerthi Adiga (sukeerthiadiga)
 * Camille Roux (camilleroux)
+* Federico Romero (federomero)
 * lonestarsoftware
 * mikepinde
 * kalafut
