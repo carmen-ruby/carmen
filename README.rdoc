@@ -99,6 +99,7 @@ Carmen ships with replacements for state_select and country_select. Usage is sim
 
 == Changelog
 === master
+* Add Saint Barthelemy (BL) and Saint Martin (French Part) (MF) (nengxu)
 * Add Japanese countries localization (bonsaiben)
 * Prevent Carmen::state_name('NO','NO') from crashing (mhourahine)
 * Change "Taiwan, Province of China" to "Taiwan" (camilleroux)
@@ -172,5 +173,6 @@ These fine characters have contributed state lists, or patches:
 * mikepinde
 * kalafut
 * yehezkielbs
+* nengxu
 
 If I missed your name in this list, please let me know and I will add it. I tried to find everyone that has sent in patches or found bugs, but I may have missed a few folks.
