@@ -99,6 +99,7 @@ Carmen ships with replacements for state_select and country_select. Usage is sim
 
 == Changelog
 === master
+* Add Japanese countries localization (bonsaiben)
 * Prevent Carmen::state_name('NO','NO') from crashing (mhourahine)
 * Change "Taiwan, Province of China" to "Taiwan" (camilleroux)
 * Add spanish translation for countries (federomero)
@@ -166,6 +167,7 @@ These fine characters have contributed state lists, or patches:
 * Camille Roux (camilleroux)
 * Federico Romero (federomero)
 * Mike Hourahine (mhourahine)
+* Benjamin Sullivan (bonsaiben)
 * lonestarsoftware
 * mikepinde
 * kalafut
