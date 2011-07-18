@@ -1,27 +1,55 @@
----
-- - Alberta
-  - AB
-- - British Columbia
-  - BC
-- - Manitoba
-  - MB
-- - New Brunswick
-  - NB
-- - Newfoundland and Labrador
-  - NL
-- - Northwest Territories
-  - NT
-- - Nova Scotia
-  - NS
-- - Nunavut
-  - NU
-- - Ontario
-  - "ON"
-- - Prince Edward Island
-  - PE
-- - Quebec
-  - QC
-- - Saskatchewan
-  - SK
-- - Yukon
-  - YT
+en:
+  - - Alberta
+    - AB
+  - - British Columbia
+    - BC
+  - - Manitoba
+    - MB
+  - - New Brunswick
+    - NB
+  - - Newfoundland and Labrador
+    - NL
+  - - Northwest Territories
+    - NT
+  - - Nova Scotia
+    - NS
+  - - Nunavut
+    - NU
+  - - Ontario
+    - "ON"
+  - - Prince Edward Island
+    - PE
+  - - Quebec
+    - QC
+  - - Saskatchewan
+    - SK
+  - - Yukon
+    - YT
+
+fr:
+  - - Alberta
+    - AB
+  - - Colombie Britanique
+    - BC
+  - - Manitoba
+    - MB
+  - - Nouveau Brunswick
+    - NB
+  - - Terre-Neuve et Labrator
+    - NL
+  - - Territoires du Nord-Ouest
+    - NT
+  - - Nouvelle Écosse
+    - NS
+  - - Nunavut
+    - NU
+  - - Ontario
+    - "ON"
+  - - Île du Prince Édouard
+    - PE
+  - - Québec
+    - QC
+  - - Saskatchewan
+    - SK
+  - - Yukon
+    - YT
