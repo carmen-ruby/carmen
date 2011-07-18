@@ -128,17 +128,16 @@ module Carmen
     
     locale = (options[:locale] || Carmen.default_locale).to_s
     
-    if results.is_a? Hash
-      if results[locale]
-        results = results[locale]
-      elsif results[self.states_fallback]
-        results = results[self.states_fallback]
-      elsif self.states_fallback === true && results.first
-        results = results.first[1]
+    results = case
+      when results[locale]
+        results[locale]
+      when results[self.states_fallback.to_s]
+        results[self.states_fallback.to_s]
+      when self.states_fallback === true && results.first
+        results.first[1]
       else
-        results = []
-      end
-    end
+        []
+    end if results.is_a? Hash
     
     if excluded_states[country_code]
         results.reject { |s| excluded_states[country_code].include?(s[1]) }
