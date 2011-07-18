@@ -134,7 +134,7 @@ module Carmen
       elsif results[self.states_fallback]
         results = results[self.states_fallback]
       elsif self.states_fallback === true && results.first
-        results = results.first
+        results = results.first[1]
       else
         results = []
       end
