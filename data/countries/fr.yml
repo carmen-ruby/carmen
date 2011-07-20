@@ -1,499 +1,493 @@
---- 
-- - AFGHANISTAN
+---
+- - Afghanistan
   - AF
-- - AFRIQUE DU SUD
+- - Afrique du Sud
   - ZA
-- - ALAND, ILES
+- - Aland
   - AX
-- - ALBANIE
+- - Albanie
   - AL
-- - ALGERIE
+- - Algérie
   - DZ
-- - ALLEMAGNE
+- - Allemagne
   - DE
-- - ANDORRE
+- - Andorre
   - AD
-- - ANGOLA
+- - Angola
   - AO
-- - ANGUILLA
+- - Anguilla
   - AI
-- - ANTARCTIQUE
+- - Antarctique
   - AQ
-- - ANTIGUA ET BARBUDA
+- - Antigua et Barbuda
   - AG
-- - ARABIE SAOUDITE
+- - Antilles hollandaises
+  - AN
+- - Arabie Saoudite
   - SA
-- - ARGENTINE
+- - Argentine
   - AR
-- - ARMENIE
+- - Arménie
   - AM
-- - ARUBA
+- - Aruba
   - AW
-- - AUSTRALIE
+- - Australie
   - AU
-- - AUTRICHE
+- - Autriche
   - AT
-- - AZERBAIDJAN
+- - Azerbaïjan
   - AZ
-- - BAHAMAS
+- - Bahamas
   - BS
-- - BAHREIN
+- - Bahre
   - BH
-- - BANGLADESH
-  - BD
-- - BARBADE
+- - Barbades
   - BB
-- - BELARUS
-  - BY
-- - BELGIQUE
+- - Belgique
   - BE
-- - BELIZE
-  - BZ
-- - BENIN
-  - BJ
-- - BERMUDES
+- - Bengladesh
+  - BD
+- - Bermudes
   - BM
-- - BHOUTAN
+- - Bhutan
   - BT
-- - BOLIVIE, l'ETAT PLURINATIONAL DE
+- - Biélorussie
+  - BY
+- - Bolivie
   - BO
-- - BONAIRE, SAINT-EUSTACHE ET SABA
-  - BQ
-- - BOSNIE-HERZEGOVINE
+- - Bosnie-Herzégovine
   - BA
-- - BOTSWANA
+- - Botswana
   - BW
-- - BOUVET, ILE
-  - BV
-- - BRESIL
-  - BR
-- - BRUNEI DARUSSALAM
+- - Bruneï
   - BN
-- - BULGARIE
+- - Brésil
+  - BR
+- - Bulgarie
   - BG
-- - BURKINA FASO
+- - Burkina Faso
   - BF
-- - BURUNDI
+- - Burundi
   - BI
-- - CAIMANES, ILES
-  - KY
-- - CAMBODGE
-  - KH
-- - CAMEROUN
-  - CM
-- - CANADA
+- - Bélize
+  - BZ
+- - Bénin
+  - BJ
+- - Canada
   - CA
-- - CAP-VERT
+- - Cambodge
+  - KH
+- - Cameroun
+  - CM
+- - Cap Vert
   - CV
-- - CENTRAFRICAINE, REPUBLIQUE
-  - CF
-- - CHILI
+- - Chili
   - CL
-- - CHINE
+- - Chine
   - CN
-- - CHRISTMAS, ILE
-  - CX
-- - CHYPRE
+- - Chypre
   - CY
-- - COCOS (KEELING), ILES
-  - CC
-- - COLOMBIE
+- - Colombie
   - CO
-- - COMORES
+- - Comores
   - KM
-- - CONGO
+- - Congo
   - CG
-- - CONGO, LA REPUBLIQUE DEMOCRATIQUE DU
-  - CD
-- - COOK, ILES
-  - CK
-- - COREE, REPUBLIQUE DE
-  - KR
-- - COREE, REPUBLIQUE POPULAIRE DEMOCRATIQUE DE
+- - Corée du nord
   - KP
-- - COSTA RICA
+- - Corée du sud
+  - KR
+- - Costa Rica
   - CR
-- - COTE D'IVOIRE
+- - Cote dIvoire
   - CI
-- - CROATIE
+- - Croatie
   - HR
-- - CUBA
+- - Cuba
   - CU
-- - CURACAO
-  - CW
-- - DANEMARK
+- - Danemark
   - DK
-- - DJIBOUTI
+- - Djibouti
   - DJ
-- - DOMINICAINE, REPUBLIQUE
-  - DO
-- - DOMINIQUE
+- - Dominique
   - DM
-- - EGYPTE
+- - Égypte
   - EG
-- - EL SALVADOR
-  - SV
-- - EMIRATS ARABES UNIS
+- - Émirats Arabes Unis
   - AE
-- - EQUATEUR
+- - Équateur
   - EC
-- - ERYTHREE
+- - Érythrée
   - ER
-- - ESPAGNE
+- - Espagne
   - ES
-- - ESTONIE
+- - Estonie
   - EE
-- - ETATS-UNIS
+- - États Unis
   - US
-- - ETHIOPIE
+- - Ethiopie
   - ET
-- - FALKLAND, ILES (MALVINAS)
-  - FK
-- - FEROE, ILES
-  - FO
-- - FIDJI
+- - Fidji
   - FJ
-- - FINLANDE
+- - Finlande
   - FI
-- - FRANCE
+- - France
   - FR
-- - GABON
+- - Gabon
   - GA
-- - GAMBIE
+- - Gambie
   - GM
-- - GEORGIE
-  - GE
-- - GEORGIE DU SUD ET LES ILES SANDWICH DU SUD
-  - GS
-- - GHANA
+- - Ghana
   - GH
-- - GIBRALTAR
+- - Gibraltar
   - GI
-- - GRECE
-  - GR
-- - GRENADE
+- - Grenade
   - GD
-- - GROENLAND
+- - Groënland
   - GL
-- - GUADELOUPE
+- - Grèce
+  - GR
+- - Guadeloupe
   - GP
-- - GUAM
+- - Guam
   - GU
-- - GUATEMALA
+- - Guatemala
   - GT
-- - GUERNESEY
+- - Guernesey
   - GG
-- - GUINEE
+- - Guinée
   - GN
-- - GUINEE-BISSAU
-  - GW
-- - GUINEE EQUATORIALE
+- - Guinée Equatoriale
   - GQ
-- - GUYANA
-  - GY
-- - GUYANE FRANCAISE
+- - Guinée française
   - GF
-- - HAITI
+- - Guinée-Bissau
+  - GW
+- - Guyane
+  - GY
+- - Géorgie
+  - GE
+- - Géorgie du Sud et Îles Sandwich du Sud
+  - GS
+- - Haïti
   - HT
-- - HEARD, ILE ET MCDONALD, ILES
-  - HM
-- - HONDURAS
+- - Honduras
   - HN
-- - HONG KONG
+- - Hong Kong
   - HK
-- - HONGRIE
+- - Hongrie
   - HU
-- - ILE DE MAN
+- - Île Christmas
+  - CX
+- - Île de Man
   - IM
-- - ILES MINEURES ELOIGNEES DES ETATS-UNIS
-  - UM
-- - ILES VIERGES BRITANNIQUES
+- - Île Maurice
+  - MU
+- - Îles Bouvet
+  - BV
+- - Îles Caïman
+  - KY
+- - Îles Cocos (Keeling)
+  - CC
+- - Îles Cook
+  - CK
+- - Îles Féroé
+  - FO
+- - Îles Heard et Mc Donald
+  - HM
+- - Îles Maldives
+  - MV
+- - Îles Malouines
+  - FK
+- - Îles Mariannes du Nord
+  - MP
+- - Îles Marshall
+  - MH
+- - Îles Norfolk
+  - NF
+- - Îles Salomon
+  - SB
+- - Îles Samoa
+  - AS
+- - Îles Turques et caiques
+  - TC
+- - Îles Vierges (Grande-Bretagne)
   - VG
-- - ILES VIERGES DES ETATS-UNIS
+- - Îles Vierges (États-Unis)
   - VI
-- - INDE
+- - Îles mineures éloignées des États Unis
+  - UM
+- - Inde
   - IN
-- - INDONESIE
+- - Indonésie
   - ID
-- - IRAN, REPUBLIQUE ISLAMIQUE D'
-  - IR
-- - IRAQ
+- - Irak
   - IQ
-- - IRLANDE
+- - Iran
+  - IR
+- - Irlande
   - IE
-- - ISLANDE
+- - Islande
   - IS
-- - ISRAEL
+- - Israël
   - IL
-- - ITALIE
+- - Italie
   - IT
-- - JAMAIQUE
+- - Jamaïque
   - JM
-- - JAPON
+- - Japon
   - JP
-- - JERSEY
+- - Jersey
   - JE
-- - JORDANIE
+- - Jordanie
   - JO
-- - KAZAKHSTAN
+- - Kazakhstan
   - KZ
-- - KENYA
+- - Kenya
   - KE
-- - KIRGHIZISTAN
+- - Kirghizstan
   - KG
-- - KIRIBATI
+- - Kiribati
   - KI
-- - KOWEIT
+- - Kosovo
+  - KV
+- - Koweït
   - KW
-- - LAO, REPUBLIQUE DEMOCRATIQUE POPULAIRE
-  - LA
-- - LESOTHO
-  - LS
-- - LETTONIE
-  - LV
-- - LIBAN
-  - LB
-- - LIBERIA
-  - LR
-- - LIBYENNE, JAMAHIRIYA ARABE
-  - LY
-- - LIECHTENSTEIN
-  - LI
-- - LITUANIE
-  - LT
 - - LUXEMBOURG
   - LU
-- - M
-  - LU
-- - MACAO
+- - Laos
+  - LA
+- - Lesotho
+  - LS
+- - Lettonie
+  - LV
+- - Liban
+  - LB
+- - Libye
+  - LY
+- - Libéria
+  - LR
+- - Liechtenstein
+  - LI
+- - Lithuanie
+  - LT
+- - Macao
   - MO
-- - MACEDOINE, L'EX-REPUBLIQUE YOUGOSLAVE DE
+- - Macédoine
   - MK
-- - MADAGASCAR
+- - Madagascar
   - MG
-- - MALAISIE
+- - Malaisie
   - MY
-- - MALAWI
+- - Malawi
   - MW
-- - MALDIVES
-  - MV
-- - MALI
+- - Mali
   - ML
-- - MALTE
+- - Malte
   - MT
-- - MARIANNES DU NORD, ILES
-  - MP
-- - MAROC
+- - Maroc
   - MA
-- - MARSHALL, ILES
-  - MH
-- - MARTINIQUE
+- - Martinique
   - MQ
-- - MAURICE
-  - MU
-- - MAURITANIE
+- - Mauritanie
   - MR
-- - MAYOTTE
+- - Mayotte
   - YT
-- - MEXIQUE
+- - Mexique
   - MX
-- - MICRONESIE, ETATS FEDERES DE
+- - Micronésie
   - FM
-- - MOLDOVA, REPUBLIQUE DE
+- - Moldavie
   - MD
-- - MONACO
+- - Monaco
   - MC
-- - MONGOLIE
+- - Mongolie
   - MN
-- - MONTENEGRO
+- - Monténégro
   - ME
-- - MONTSERRAT
+- - Montserrat
   - MS
-- - MOZAMBIQUE
+- - Mozambique
   - MZ
-- - MYANMAR
+- - Myanmar
   - MM
-- - NAMIBIE
+- - Namibie
   - NA
-- - NAURU
+- - Nauru
   - NR
-- - NEPAL
-  - NP
-- - NICARAGUA
+- - Nicaragua
   - NI
-- - NIGER
+- - Niger
   - NE
-- - NIGERIA
+- - Nigéria
   - NG
-- - NIUE
+- - Niue
   - NU
-- - NORFOLK, ILE
-  - NF
-- - NORVEGE
-  - "NO"
-- - NOUVELLE-CALEDONIE
+- - Norvège
+  - NO
+- - Nouvelle Calédonie
   - NC
-- - NOUVELLE-ZELANDE
+- - Nouvelle Zélande
   - NZ
-- - OCEAN INDIEN, TERRITOIRE BRITANNIQUE DE L'
-  - IO
-- - OMAN
+- - Népal
+  - NP
+- - Oman
   - OM
-- - OUGANDA
-  - UG
-- - OUZBEKISTAN
-  - UZ
-- - PAKISTAN
+- - Pakistan
   - PK
-- - PALAOS
+- - Palau
   - PW
-- - PALESTINIEN OCCUPE, TERRITOIRE
-  - PS
-- - PANAMA
+- - Panama
   - PA
-- - PAPOUASIE-NOUVELLE-GUINEE
+- - Papouasie Nouvelle Guinée
   - PG
-- - PARAGUAY
+- - Paraguay
   - PY
-- - PAYS-BAS
+- - Pays-Bas
   - NL
-- - PEROU
-  - PE
-- - PHILIPPINES
+- - Philippines
   - PH
-- - PITCAIRN
+- - Pierrecairin
   - PN
-- - POLOGNE
+- - Pologne
   - PL
-- - POLYNESIE FRANCAISE
+- - Polynésie française
   - PF
-- - PORTO RICO
+- - Porto Rico
   - PR
-- - PORTUGAL
+- - Portugal
   - PT
-- - QATAR
+- - Pérou
+  - PE
+- - Qatar
   - QA
-- - REUNION
-  - RE
-- - ROUMANIE
+- - Roumanie
   - RO
-- - ROYAUME-UNI
+- - Royaume-Uni
   - GB
-- - RUSSIE, FEDERATION DE
+- - Russie
   - RU
-- - RWANDA
+- - Rwanda
   - RW
-- - SAHARA OCCIDENTAL
-  - EH
-- - SAINT-BARTHELEMY
-  - BL
-- - SAINTE-HELENE, ASCENSION ET TRISTAN DA CUNHA
-  - SH
-- - SAINTE-LUCIE
-  - LC
-- - SAINT-KITTS-ET-NEVIS
-  - KN
-- - SAINT-MARIN
-  - SM
-- - SAINT-MARTIN (PARTIE FRANCAISE)
-  - MF
-- - SAINT-MARTIN (PARTIE NEERLANDAISE)
-  - SX
-- - SAINT-PIERRE-ET-MIQUELON
-  - PM
-- - SAINT-SIEGE (ETAT DE LA CITE DU VATICAN)
-  - VA
-- - SAINT-VINCENT-ET-LES GRENADINES
-  - VC
-- - SALOMON, ILES
-  - SB
-- - SAMOA
-  - WS
-- - SAMOA AMERICAINES
-  - AS
-- - SAO TOME-ET-PRINCIPE
-  - ST
-- - SENEGAL
-  - SN
-- - SERBIE
-  - RS
-- - SEYCHELLES
-  - SC
-- - SIERRA LEONE
-  - SL
-- - SINGAPOUR
-  - SG
-- - SLOVAQUIE
-  - SK
-- - SLOVENIE
-  - SI
-- - SOMALIE
-  - SO
-- - SOUDAN
-  - SD
-- - SRI LANKA
-  - LK
-- - SUEDE
-  - SE
-- - SUISSE
-  - CH
-- - SURINAME
-  - SR
-- - SVALBARD ET ILE JAN MAYEN
-  - SJ
-- - SWAZILAND
-  - SZ
-- - SYRIENNE, REPUBLIQUE ARABE
-  - SY
-- - TADJIKISTAN
-  - TJ
-- - TAIWAN, PROVINCE DE CHINE
-  - TW
-- - TANZANIE, REPUBLIQUE-UNIE DE
-  - TZ
-- - TCHAD
-  - TD
-- - TCHEQUE, REPUBLIQUE
+- - République Centre Afrique
+  - CF
+- - République Dominicaine
+  - DO
+- - République Tchèque
   - CZ
-- - TERRES AUSTRALES FRANCAISES
+- - République démocratique du Congo
+  - CD
+- - Réunion
+  - RE
+- - Sahara Occidental
+  - EH
+- - Saint Kitts et Nevis
+  - KN
+- - Saint Marin
+  - SM
+- - Saint Pierre and Miquelon
+  - PM
+- - Saint Vincent et Grenadines
+  - VC
+- - Sainte Hélène
+  - SH
+- - Sainte Lucie
+  - LC
+- - Samoa
+  - WS
+- - San Salvador
+  - SV
+- - Sao Tome et Principe
+  - ST
+- - Serbie
+  - RS
+- - Seychelles
+  - SC
+- - Sierra Leone
+  - SL
+- - Singapour
+  - SG
+- - Slovaquie
+  - SK
+- - Slovénie
+  - SI
+- - Somalie
+  - SO
+- - Soudan
+  - SD
+- - Sri Lanka
+  - LK
+- - Suisse
+  - CH
+- - Suriname
+  - SR
+- - Suède
+  - SE
+- - Svalbard et Île Jan Mayen
+  - SJ
+- - Swaziland
+  - SZ
+- - Syrie
+  - SY
+- - Sénégal
+  - SN
+- - Tadjikistan
+  - TJ
+- - Taiwan
+  - TW
+- - Tanzanie
+  - TZ
+- - Tchad
+  - TD
+- - Terres australes et antarctiques françaises
   - TF
-- - THAILANDE
+- - Territoires Britannique de l'océan Indien
+  - IO
+- - Territoires palestiniens occupés
+  - PS
+- - Thailand
   - TH
-- - TIMOR-LESTE
+- - Timor-Leste
   - TL
-- - TOGO
+- - Togo
   - TG
-- - TOKELAU
+- - Tokelau
   - TK
-- - TONGA
+- - Tonga
   - TO
-- - TRINITE-ET-TOBAGO
+- - Trinidad et Tobago
   - TT
-- - TUNISIE
+- - Tunisie
   - TN
-- - TURKMENISTAN
+- - Turkménistan
   - TM
-- - TURKS ET CAIQUES, ILES
-  - TC
-- - TURQUIE
+- - Turquie
   - TR
-- - TUVALU
+- - Tuvalu
   - TV
-- - UKRAINE
+- - Uganda
+  - UG
+- - Ukraine
   - UA
-- - URUGUAY
+- - Uruguay
   - UY
-- - VANUATU
+- - Uzbekistan
+  - UZ
+- - Vanuatu
   - VU
-- - VENEZUELA, REPUBLIQUE BOLIVARIENNE DU
-  - VE
-- - VIET NAM
+- - Vatican
+  - VA
+- - Vietnam
   - VN
-- - WALLIS ET FUTUNA
+- - Vénézuéla
+  - VE
+- - Wallis et Futuna
   - WF
-- - YEMEN
+- - Yemen
   - YE
-- - ZAMBIE
+- - Zambie
   - ZM
-- - ZIMBABWE
+- - Zimbabwe
   - ZW
+
+
