@@ -145,41 +145,4 @@ The plugin does not require rubygems anywhere in the test or libraries, so if yo
 
 == Credits
 
-These fine characters have contributed state lists, or patches:
-
-* Jose Angel Cortinas (jacortinas)
-* Domizio Demichelis (ddnexus)
-* Thiago Jackiw (railsfreaks)
-* Russ Johnson (russjohnson)
-* Henrik Hodne (dvyjones)
-* Yuval Kordov (uberllama)
-* Alberto Molpeceres (molpe)
-* Dimas Priyanto (dimaspriyanto)
-* Wojtek Ogrodowczyk (sharnik)
-* Tobias Schmidt (grobie)
-* Maximilian Schulz (namxam)
-* Mani Tadayon (bowsersenior)
-* Andriy Tyurnikov (andriytyurnikov)
-* Anupam Choudhury (anupamc)
-* Biswajit Dutta Baruah (orthodoc)
-* Chris Sepic (cgs)
-* Swaroop C H (swaroopch)
-* Gerhard Lazu (gerhard)
-* Arie (Arie)
-* Christopher Thorpe (ChristopherThorpe)
-* Jimmy Thrasher (jjthrash)
-* Sukeerthi Adiga (sukeerthiadiga)
-* Camille Roux (camilleroux)
-* Federico Romero (federomero)
-* Mike Hourahine (mhourahine)
-* Benjamin Sullivan (bonsaiben)
-* Ariejan de Vroom (ariejan)
-* robie lee (liwh)
-* Wolfram Arnold (wolframarnold)
-* lonestarsoftware
-* mikepinde
-* kalafut
-* yehezkielbs
-* nengxu
-
-If I missed your name in this list, please let me know and I will add it. I tried to find everyone that has sent in patches or found bugs, but I may have missed a few folks.
+This project is only possible because of the work of {many fine developers from around the world}[https://github.com/jim/carmen/contributors].
