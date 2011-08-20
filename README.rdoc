@@ -99,6 +99,7 @@ Carmen ships with replacements for state_select and country_select. Usage is sim
 
 == Changelog
 === master
+* Add Polish, slovak and czech translations (Pajk)
 * Various corrections to country names (wolframarnold)
 * Add Chinese counties (liwh)
 * Add Dutch province names (ariejan)
