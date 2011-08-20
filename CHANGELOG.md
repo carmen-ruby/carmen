@@ -1,4 +1,5 @@
 ### master
+* Added Italian country names (Arkham)
 * Add Polish, slovak and czech translations (Pajk)
 * Various corrections to country names (wolframarnold)
 * Add Chinese counties (liwh)
