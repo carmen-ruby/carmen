@@ -99,6 +99,7 @@ Carmen ships with replacements for state_select and country_select. Usage is sim
 
 == Changelog
 === master
+* Various corrections to country names (wolframarnold)
 * Add Chinese counties (liwh)
 * Add Dutch province names (ariejan)
 * Add Saint Barthelemy (BL) and Saint Martin (French Part) (MF) (nengxu)
@@ -173,6 +174,7 @@ These fine characters have contributed state lists, or patches:
 * Benjamin Sullivan (bonsaiben)
 * Ariejan de Vroom (ariejan)
 * robie lee (liwh)
+* Wolfram Arnold (wolframarnold)
 * lonestarsoftware
 * mikepinde
 * kalafut
