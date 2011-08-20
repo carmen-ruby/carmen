@@ -1,0 +1,493 @@
+---
+- - Afghanistan
+  - AF
+- - Afrique du Sud
+  - ZA
+- - Aland
+  - AX
+- - Albanie
+  - AL
+- - Algérie
+  - DZ
+- - Allemagne
+  - DE
+- - Andorre
+  - AD
+- - Angola
+  - AO
+- - Anguilla
+  - AI
+- - Antarctique
+  - AQ
+- - Antigua et Barbuda
+  - AG
+- - Antilles hollandaises
+  - AN
+- - Arabie Saoudite
+  - SA
+- - Argentine
+  - AR
+- - Arménie
+  - AM
+- - Aruba
+  - AW
+- - Australie
+  - AU
+- - Autriche
+  - AT
+- - Azerbaïjan
+  - AZ
+- - Bahamas
+  - BS
+- - Bahre
+  - BH
+- - Barbades
+  - BB
+- - Belgique
+  - BE
+- - Bengladesh
+  - BD
+- - Bermudes
+  - BM
+- - Bhutan
+  - BT
+- - Biélorussie
+  - BY
+- - Bolivie
+  - BO
+- - Bosnie-Herzégovine
+  - BA
+- - Botswana
+  - BW
+- - Bruneï
+  - BN
+- - Brésil
+  - BR
+- - Bulgarie
+  - BG
+- - Burkina Faso
+  - BF
+- - Burundi
+  - BI
+- - Bélize
+  - BZ
+- - Bénin
+  - BJ
+- - Canada
+  - CA
+- - Cambodge
+  - KH
+- - Cameroun
+  - CM
+- - Cap Vert
+  - CV
+- - Chili
+  - CL
+- - Chine
+  - CN
+- - Chypre
+  - CY
+- - Colombie
+  - CO
+- - Comores
+  - KM
+- - Congo
+  - CG
+- - Corée du nord
+  - KP
+- - Corée du sud
+  - KR
+- - Costa Rica
+  - CR
+- - Cote dIvoire
+  - CI
+- - Croatie
+  - HR
+- - Cuba
+  - CU
+- - Danemark
+  - DK
+- - Djibouti
+  - DJ
+- - Dominique
+  - DM
+- - Égypte
+  - EG
+- - Émirats Arabes Unis
+  - AE
+- - Équateur
+  - EC
+- - Érythrée
+  - ER
+- - Espagne
+  - ES
+- - Estonie
+  - EE
+- - États-Unis
+  - US
+- - Ethiopie
+  - ET
+- - Fidji
+  - FJ
+- - Finlande
+  - FI
+- - France
+  - FR
+- - Gabon
+  - GA
+- - Gambie
+  - GM
+- - Ghana
+  - GH
+- - Gibraltar
+  - GI
+- - Grenade
+  - GD
+- - Groënland
+  - GL
+- - Grèce
+  - GR
+- - Guadeloupe
+  - GP
+- - Guam
+  - GU
+- - Guatemala
+  - GT
+- - Guernesey
+  - GG
+- - Guinée
+  - GN
+- - Guinée Equatoriale
+  - GQ
+- - Guinée française
+  - GF
+- - Guinée-Bissau
+  - GW
+- - Guyane
+  - GY
+- - Géorgie
+  - GE
+- - Géorgie du Sud et Îles Sandwich du Sud
+  - GS
+- - Haïti
+  - HT
+- - Honduras
+  - HN
+- - Hong Kong
+  - HK
+- - Hongrie
+  - HU
+- - Île Christmas
+  - CX
+- - Île de Man
+  - IM
+- - Île Maurice
+  - MU
+- - Îles Bouvet
+  - BV
+- - Îles Caïman
+  - KY
+- - Îles Cocos (Keeling)
+  - CC
+- - Îles Cook
+  - CK
+- - Îles Féroé
+  - FO
+- - Îles Heard et Mc Donald
+  - HM
+- - Îles Maldives
+  - MV
+- - Îles Malouines
+  - FK
+- - Îles Mariannes du Nord
+  - MP
+- - Îles Marshall
+  - MH
+- - Îles Norfolk
+  - NF
+- - Îles Salomon
+  - SB
+- - Îles Samoa
+  - AS
+- - Îles Turques et caiques
+  - TC
+- - Îles Vierges (Grande-Bretagne)
+  - VG
+- - Îles Vierges (États-Unis)
+  - VI
+- - Îles mineures éloignées des États Unis
+  - UM
+- - Inde
+  - IN
+- - Indonésie
+  - ID
+- - Irak
+  - IQ
+- - Iran
+  - IR
+- - Irlande
+  - IE
+- - Islande
+  - IS
+- - Israël
+  - IL
+- - Italie
+  - IT
+- - Jamaïque
+  - JM
+- - Japon
+  - JP
+- - Jersey
+  - JE
+- - Jordanie
+  - JO
+- - Kazakhstan
+  - KZ
+- - Kenya
+  - KE
+- - Kirghizstan
+  - KG
+- - Kiribati
+  - KI
+- - Kosovo
+  - KV
+- - Koweït
+  - KW
+- - LUXEMBOURG
+  - LU
+- - Laos
+  - LA
+- - Lesotho
+  - LS
+- - Lettonie
+  - LV
+- - Liban
+  - LB
+- - Libye
+  - LY
+- - Libéria
+  - LR
+- - Liechtenstein
+  - LI
+- - Lithuanie
+  - LT
+- - Macao
+  - MO
+- - Macédoine
+  - MK
+- - Madagascar
+  - MG
+- - Malaisie
+  - MY
+- - Malawi
+  - MW
+- - Mali
+  - ML
+- - Malte
+  - MT
+- - Maroc
+  - MA
+- - Martinique
+  - MQ
+- - Mauritanie
+  - MR
+- - Mayotte
+  - YT
+- - Mexique
+  - MX
+- - Micronésie
+  - FM
+- - Moldavie
+  - MD
+- - Monaco
+  - MC
+- - Mongolie
+  - MN
+- - Monténégro
+  - ME
+- - Montserrat
+  - MS
+- - Mozambique
+  - MZ
+- - Myanmar
+  - MM
+- - Namibie
+  - NA
+- - Nauru
+  - NR
+- - Nicaragua
+  - NI
+- - Niger
+  - NE
+- - Nigéria
+  - NG
+- - Niue
+  - NU
+- - Norvège
+  - NO
+- - Nouvelle Calédonie
+  - NC
+- - Nouvelle Zélande
+  - NZ
+- - Népal
+  - NP
+- - Oman
+  - OM
+- - Pakistan
+  - PK
+- - Palau
+  - PW
+- - Panama
+  - PA
+- - Papouasie Nouvelle Guinée
+  - PG
+- - Paraguay
+  - PY
+- - Pays-Bas
+  - NL
+- - Philippines
+  - PH
+- - Pierrecairin
+  - PN
+- - Pologne
+  - PL
+- - Polynésie française
+  - PF
+- - Porto Rico
+  - PR
+- - Portugal
+  - PT
+- - Pérou
+  - PE
+- - Qatar
+  - QA
+- - Roumanie
+  - RO
+- - Royaume-Uni
+  - GB
+- - Russie
+  - RU
+- - Rwanda
+  - RW
+- - République Centre Afrique
+  - CF
+- - République Dominicaine
+  - DO
+- - République Tchèque
+  - CZ
+- - République démocratique du Congo
+  - CD
+- - Réunion
+  - RE
+- - Sahara Occidental
+  - EH
+- - Saint Kitts et Nevis
+  - KN
+- - Saint Marin
+  - SM
+- - Saint Pierre and Miquelon
+  - PM
+- - Saint Vincent et Grenadines
+  - VC
+- - Sainte Hélène
+  - SH
+- - Sainte Lucie
+  - LC
+- - Samoa
+  - WS
+- - San Salvador
+  - SV
+- - Sao Tome et Principe
+  - ST
+- - Serbie
+  - RS
+- - Seychelles
+  - SC
+- - Sierra Leone
+  - SL
+- - Singapour
+  - SG
+- - Slovaquie
+  - SK
+- - Slovénie
+  - SI
+- - Somalie
+  - SO
+- - Soudan
+  - SD
+- - Sri Lanka
+  - LK
+- - Suisse
+  - CH
+- - Suriname
+  - SR
+- - Suède
+  - SE
+- - Svalbard et Île Jan Mayen
+  - SJ
+- - Swaziland
+  - SZ
+- - Syrie
+  - SY
+- - Sénégal
+  - SN
+- - Tadjikistan
+  - TJ
+- - Taiwan
+  - TW
+- - Tanzanie
+  - TZ
+- - Tchad
+  - TD
+- - Terres australes et antarctiques françaises
+  - TF
+- - Territoires Britannique de l'océan Indien
+  - IO
+- - Territoires palestiniens occupés
+  - PS
+- - Thailand
+  - TH
+- - Timor-Leste
+  - TL
+- - Togo
+  - TG
+- - Tokelau
+  - TK
+- - Tonga
+  - TO
+- - Trinidad et Tobago
+  - TT
+- - Tunisie
+  - TN
+- - Turkménistan
+  - TM
+- - Turquie
+  - TR
+- - Tuvalu
+  - TV
+- - Uganda
+  - UG
+- - Ukraine
+  - UA
+- - Uruguay
+  - UY
+- - Uzbekistan
+  - UZ
+- - Vanuatu
+  - VU
+- - Vatican
+  - VA
+- - Vietnam
+  - VN
+- - Vénézuéla
+  - VE
+- - Wallis et Futuna
+  - WF
+- - Yemen
+  - YE
+- - Zambie
+  - ZM
+- - Zimbabwe
+  - ZW
+
+

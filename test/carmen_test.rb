@@ -155,4 +155,17 @@ class TestCarmen < Test::Unit::TestCase
       Carmen.countries(:locale => :latin)
     end
   end
+  
+  def test_states_translations
+    assert Carmen.states("CA", :locale => :fr).include?(["Terre-Neuve et Labrator", "NL"])
+    assert Carmen.states("CA", :locale => :en).include?(["Newfoundland and Labrador", "NL"])
+  end
+  
+  def test_states_fallback
+    Carmen.states_fallback = :en
+    assert Carmen.states("CA", :locale => :fr).include?(["Nouveau Brunswick", "NB"])
+    assert Carmen.states("CA", :locale => :not_specified).include?(["New Brunswick", "NB"])
+    Carmen.states_fallback = true
+    assert Carmen.state_names("CA", :locale => :not_specified).include?("Manitoba")
+  end
 end

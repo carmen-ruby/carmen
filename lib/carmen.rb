@@ -17,7 +17,7 @@ end
 module Carmen
   class << self
     attr_accessor :default_country, :default_locale, :excluded_countries, :excluded_states,
-                  :priority_countries
+                  :priority_countries, :states_fallback
   end
 
   self.default_country = 'US'
@@ -25,6 +25,7 @@ module Carmen
   self.excluded_countries = []
   self.excluded_states = {}
   self.priority_countries = []
+  self.states_fallback = true
 
   @data_path = File.join(File.dirname(__FILE__), '..', 'data')
 
@@ -122,9 +123,22 @@ module Carmen
   def self.states(country_code = Carmen.default_country, options={})
     raise NonexistentCountry.new("Country not found for code #{country_code}") unless country_codes.include?(country_code)
     raise StatesNotSupported unless states?(country_code)
-
+    
     results = search_collection(@states, country_code, 0, 1)
-
+    
+    locale = (options[:locale] || Carmen.default_locale).to_s
+    
+    results = case
+      when results[locale]
+        results[locale]
+      when results[self.states_fallback.to_s]
+        results[self.states_fallback.to_s]
+      when self.states_fallback === true && results.first
+        results.first[1]
+      else
+        []
+    end if results.is_a? Hash
+    
     if excluded_states[country_code]
         results.reject { |s| excluded_states[country_code].include?(s[1]) }
     else
