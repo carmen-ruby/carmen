@@ -2,7 +2,7 @@
 
 This library will work as a drop in replacement for the official Rails country_select and its various forks. The idea is to provide a single library for all geographic naming concerns, and unify them under a consistent API.
 
-States are supported for the following countries: Australia, Brazil, Canada, Cuba, Denmark, Germany, India, Italy, Mexico, New Zealand, Norway, Spain, Ukraine, and United States.
+States are supported for the following countries: Australia, Brazil, Canada, Cuba, Denmark, Germany, India, Italy, Mexico, the Netherlands, New Zealand, Norway, Spain, Ukraine, and United States.
 
 {API documentation}[http://www.rubydoc.info/github/jim/carmen/master/frames] is available.
 
@@ -99,6 +99,7 @@ Carmen ships with replacements for state_select and country_select. Usage is sim
 
 == Changelog
 === master
+* Add Dutch province names (ariejan)
 * Add Saint Barthelemy (BL) and Saint Martin (French Part) (MF) (nengxu)
 * Add Japanese countries localization (bonsaiben)
 * Prevent Carmen::state_name('NO','NO') from crashing (mhourahine)
@@ -169,6 +170,7 @@ These fine characters have contributed state lists, or patches:
 * Federico Romero (federomero)
 * Mike Hourahine (mhourahine)
 * Benjamin Sullivan (bonsaiben)
+* Ariejan de Vroom (ariejan)
 * lonestarsoftware
 * mikepinde
 * kalafut
