@@ -1,4 +1,6 @@
 ### master
+* Fixed an issue where trying find a country for a blank string would
+  match everything (smathieu)
 * Added Italian country names (Arkham)
 * Add Polish, slovak and czech translations (Pajk)
 * Various corrections to country names (wolframarnold)
