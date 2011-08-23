@@ -1,4 +1,5 @@
 ### master
+* Renamed Libyan Arab Jamahiriya to Libya (mdimas)
 * Fixed an issue where trying find a country for a blank string would
   match everything (smathieu)
 * Added Italian country names (Arkham)
