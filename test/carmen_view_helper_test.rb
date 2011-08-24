@@ -28,6 +28,11 @@ class CarmenViewHelperTest < ActionView::TestCase
     assert_equal COUNTRY_SELECT_OPTIONS_HTML.chomp, country_options_for_select('US', 'US')
   end
 
+  def test_stable_order_of_priority_countries
+    html = country_options_for_select('US', 'US', 'CA')
+    assert html.index('value="US"') < html.index('value="CA"')
+  end
+
   def test_selected_option
     @address.stubs(:state => 'ON')
     assert_match /<option value="ON" selected="selected">Ontario<\/option>/, state_select(@address, :state, 'CA')
