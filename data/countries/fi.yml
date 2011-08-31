@@ -322,7 +322,7 @@
 - - Norfolkinsaari 
   - NF 
 - - Norja 
-  - NO 
+  - 'NO' 
 - - Norsunluurannikko 
   - CI 
 - - Oman 
@@ -505,3 +505,4 @@
   - UM 
 - - Zimbabwe 
   - ZW
+  
