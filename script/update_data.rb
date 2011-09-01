@@ -8,27 +8,32 @@ rescue LoadError
   require 'fileutils' # ftools is now fileutils in Ruby 1.9
 end
 
+puts "Downloading data"
+
 data_path = Pathname.new(File.expand_path('../../iso_data', __FILE__))
 tmp_path = data_path + 'tmp'
 
 FileUtils.mkdir_p(tmp_path)
 
 files = {
-  'iso_3166' => 'http://anonscm.debian.org/gitweb/?p=iso-codes/iso-codes.git;a=blob_plain;f=iso_3166/iso_3166.xml;hb=HEAD',
-  'iso_3166_2' => 'http://anonscm.debian.org/gitweb/?p=iso-codes/iso-codes.git;a=blob_plain;f=iso_3166_2/iso_3166_2.xml;hb=HEAD' }
+  'iso_3166.xml' => 'http://anonscm.debian.org/gitweb/?p=iso-codes/iso-codes.git;a=blob_plain;f=iso_3166/iso_3166.xml;hb=HEAD',
+  'iso_3166_2.xml' => 'http://anonscm.debian.org/gitweb/?p=iso-codes/iso-codes.git;a=blob_plain;f=iso_3166_2/iso_3166_2.xml;hb=HEAD' }
 
 files.each_pair do |file, url|
-  `cd #{tmp_path.to_s} && curl -o #{file} #{url}`
+  `cd #{tmp_path.to_s} && curl -o #{file} "#{url}"`
 end
 
 # countries
+puts "Importing countries"
 
-file = File.open(File.expand_path("../tmp/iso_3166_iso_3166.xml", __FILE__))
+country_data_path = tmp_path + 'iso_3166.xml'
+file = File.open(country_data_path)
 doc = Nokogiri::XML(file)
 file.close
 
 countries = []
 doc.xpath('//iso_3166_entry').each do |country|
+  print '.'
   countries << {
     'alpha_2_code'  => country['alpha_2_code'],
     'alpha_3_code'  => country['alpha_3_code'],
@@ -39,15 +44,21 @@ doc.xpath('//iso_3166_entry').each do |country|
   }
 end
 
+puts
+
 File.open(data_path + 'world.yml', 'w') do |f|
   f.write countries.to_yaml
 end
 
 # regions
+puts "Importing regions"
 
-file = File.open(File.expand_path("../tmp/iso_3166_2_iso_3166_2.xml", __FILE__))
+region_data_path = tmp_path + 'iso_3166_2.xml'
+file = File.open(region_data_path)
 doc = Nokogiri::XML(file)
 file.close
+
+warnings = []
 
 doc.css('iso_3166_country').each do |country|
   code = country['code'].downcase
@@ -72,10 +83,10 @@ doc.css('iso_3166_country').each do |country|
           parent['subregions'] ||= []
           parent['subregions'] << data
         else
-          puts "warning, did not find parent '#{subregion['parent']}'"
-          puts subregion
-          puts regions
-          puts
+          warnings << "warning, did not find parent '#{subregion['parent']}'"
+          warnings << subregion
+          warnings << regions
+          warnings << ''
         end
       else
         regions << data
@@ -91,5 +102,9 @@ doc.css('iso_3166_country').each do |country|
 end
 
 puts
+
+unless warnings.empty?
+  puts warnings.join("\n")
+end
 
 FileUtils.rm_rf(tmp_path)
