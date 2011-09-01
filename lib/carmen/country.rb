@@ -8,6 +8,6 @@ module Carmen
     extend Querying
     extend SingleForwardable
 
-    def_delegator 'Carmen::World', :subregions
+     def_delegator 'Carmen::World', :subregions
   end
 end
