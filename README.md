@@ -1,112 +1,24 @@
-= Carmen- A simple collection of geographic names and abbreviations for Ruby
+# Carmen- A repository of geopgraphic regions
 
-This library will work as a drop in replacement for the official Rails country_select and its various forks. The idea is to provide a single library for all geographic naming concerns, and unify them under a consistent API.
+## A Little History
 
-States are supported for the following countries: Australia, Brazil, Canada, China, Cuba, Denmark, Germany, India, Italy, Mexico, the Netherlands, New Zealand, Norway, Spain, Ukraine, and United States.
+Carmen began its life as a replacement for Rails' country_select and
+state_select helpers. The API of the library was designed to facilitate
+a few view helpers and model validations, and that was about it.
 
-{API documentation}[http://www.rubydoc.info/github/jim/carmen/master/frames] is available.
+## Today
 
-== Installation
+It's been a few years since Carmen was released, and it has been used by
+on a lot of projects. Many fine individuals have contributed code and
+data.
 
-  gem install carmen
+I decided recently that it was time to go back and rethink the library's
+data model and API, and in the process address some long standing
+issues. Carmen 1.0 will feature the following:
 
-If you're in Rails 2.3 or earlier, place this in your environment.rb:
+* A new, cleaner API
+* Support for the old API via an optional require
+* More complete data
+* A sane approach to internationalization, utilizing an existing i18n
+  library.
 
-  config.gem 'carmen'
-
-If you're in Rails 3, put this in your Gemfile:
-
-  gem "carmen"
-
-
-== Get a list of all countries
-
-  Carmen.countries => […, ['Germany', 'DE'], …, ['United States', 'US'], …]
-  Carmen.countries(:locale => 'de') => […, ['Deutschland', 'DE'], …, ['Vereinigte Staaten von Amerika', 'US'], …]
-
-== State list retrieval
-
-  Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
-  Carmen::states => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ] # uses default country
-  Carmen::state_names('US') => ['Alabama', 'Arkansas', ... ]
-  Carmen::state_codes('US') => ['AL', 'AR', ... ]
-
-== Abbreviation handling
-
-  Carmen::country_name('US') => 'United States'
-  Carmen::country_code('Canada') => 'CA'
-  Carmen::state_code('Illinois') => 'IL'
-  Carmen::state_code('Manitoba', 'CA') => 'MB'
-  Carmen::state_name('AZ') => 'Arizona'
-
-
-== Default Country
-
-Methods that take a country code argument will use the default country if none is provided. The default default country is 'US'. You can change it to any country code:
-
-  Carmen.default_country = 'CA'
-
-= Adding country and state exclusion to Carmen
-
-This fork lets you exclude specific countries and/or states from Carmen. Simply set the appropriate class variables and the exclusion will take effect.
-
-== Excluding Countries
-
-Countries to exclude are specified as an array of country codes:
-
-  Carmen.excluded_countries = [ 'AF', 'ST', 'ZW', ... ]
-
-== Excluding States
-
-States to exclude are specified via a hash, with keys being the country's code, and values being the states to exclude from that country:
-
-  Carmen.excluded_states = { 'US' => [ 'AA', 'AP', 'PW', ... ], 'DE' => [ 'BW', 'TH' ], ... }
-
-= Adding Priority Countries
-
-It can be useful to show a few countries first in the list, before any others. This can be done like so:
-
-  Carmen.priority_countries = %w(US CA)
-
-= Localization
-
-You can switch between different localizations of the countries list, by setting the locale value (default is :en):
-
-  Carmen.default_locale = :de
-
-Methods that return country names also take an optional options hash as the last argument, which can be use to override the default locale for a single call:
-
-  Carmen::country_name('US') => 'United States'
-  Carmen::country_name('US', :locale => :de) => 'Vereinigte Staaten von Amerika'
-
-Currently included localizations are: English (:en), German (:de), Hindi (:hi), Netherlands (:nl)
-
-= Rails view helpers
-
-Carmen ships with replacements for state_select and country_select. Usage is simple:
-
-  <%= form_for @address do |f| %>
-    <%= f.label :country, "Country" %> <%= f.country_select(:country, "US") %>
-    <%= submit_tag "Create" %>
-  <% end %>
-
-
-== Todo
-
-* Many countries, such as Spain, have additional levels beneath 'state' that we would ideally support. Thanks to Alberto Molpeceres for bringing this to my attention.
-* Split the Rails-specific view helpers out into a separate gem (carmen-rails)
-* Move regex matching into an optional module.
-
-== Changelog
-
-See CHANGELOG.md
-
-
-== Development notes
-
-The plugin does not require rubygems anywhere in the test or libraries, so if you are having trouble with load errors running the tests, prepend your command with RUBYOPT=rubygems. {More info}[http://tomayko.com/writings/require-rubygems-antipattern].
-
-
-== Credits
-
-This project is only possible because of the work of {many fine developers from around the world}[https://github.com/jim/carmen/contributors].
