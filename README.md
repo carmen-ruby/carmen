@@ -1,4 +1,4 @@
-# Carmen- A repository of geopgraphic regions
+# Carmen- A repository of geographic regions for Ruby
 
 ## A Little History
 
@@ -8,17 +8,26 @@ a few view helpers and model validations, and that was about it.
 
 ## Today
 
-It's been a few years since Carmen was released, and it has been used by
-on a lot of projects. Many fine individuals have contributed code and
-data.
+It's been a few years since Carmen was released, and it has been used by a lot of projects. Many fine individuals have contributed code and
+data- I'm really happy with the way the [community](https://github.com/jim/carmen/contributors) has improved the library. But this growth has brought to light many of the weaknesses in the current library and implementation.
 
-I decided recently that it was time to go back and rethink the library's
+I have decided that it is time to go back and rethink Carmen's
 data model and API, and in the process address some long standing
 issues. Carmen 1.0 will feature the following:
 
 * A new, cleaner API
 * Support for the old API via an optional require
-* More complete data
+* More complete data via the iso-codes Debian package (idea borrowed from [here](https://github.com/pluginaweek/has_addresses))
 * A sane approach to internationalization, utilizing an existing i18n
   library.
+
+## The TODO
+
+* Switch to a more complete data source (done)
+* Add the ability to overlay custom data on the dataset
+* Rewrite spike-level V2 API implementation
+* Provide a legacy api so existing users have an upgrade path ('carmen/legacy')
+* Separate Rails view methods out into a carmen-rails gem
+* i18n integration
+
 
