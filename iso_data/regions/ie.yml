@@ -1,0 +1,95 @@
+--- 
+- code: IE-C
+  name: Connacht
+  type: province
+  subregions: 
+  - code: IE-G
+    name: Galway
+    type: county
+  - code: IE-LM
+    name: Leitrim
+    type: county
+  - code: IE-MO
+    name: Mayo
+    type: county
+  - code: IE-RN
+    name: Roscommon
+    type: county
+  - code: IE-SO
+    name: Sligo
+    type: county
+- code: IE-L
+  name: Leinster
+  type: province
+  subregions: 
+  - code: IE-CW
+    name: Carlow
+    type: county
+  - code: IE-D
+    name: Dublin
+    type: county
+  - code: IE-KE
+    name: Kildare
+    type: county
+  - code: IE-KK
+    name: Kilkenny
+    type: county
+  - code: IE-LS
+    name: Laois
+    type: county
+  - code: IE-LD
+    name: Longford
+    type: county
+  - code: IE-LH
+    name: Louth
+    type: county
+  - code: IE-MH
+    name: Meath
+    type: county
+  - code: IE-OY
+    name: Offaly
+    type: county
+  - code: IE-WH
+    name: Westmeath
+    type: county
+  - code: IE-WX
+    name: Wexford
+    type: county
+  - code: IE-WW
+    name: Wicklow
+    type: county
+- code: IE-M
+  name: Munster
+  type: province
+  subregions: 
+  - code: IE-CE
+    name: Clare
+    type: county
+  - code: IE-C
+    name: Cork
+    type: county
+  - code: IE-KY
+    name: Kerry
+    type: county
+  - code: IE-LK
+    name: Limerick
+    type: county
+  - code: IE-TA
+    name: Tipperary
+    type: county
+  - code: IE-WD
+    name: Waterford
+    type: county
+- code: IE-U
+  name: Ulster
+  type: province
+  subregions: 
+  - code: IE-CN
+    name: Cavan
+    type: county
+  - code: IE-DL
+    name: Donegal
+    type: county
+  - code: IE-MN
+    name: Monaghan
+    type: county

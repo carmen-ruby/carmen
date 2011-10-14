@@ -1,0 +1,102 @@
+--- 
+- code: LK-1
+  name: "Basn\xC4\x81hira pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+  subregions: 
+  - code: LK-11
+    name: "K\xC5\x8F\xE1\xB8\xB7amba"
+    type: district
+  - code: LK-12
+    name: Gampaha
+    type: district
+  - code: LK-13
+    name: "Ka\xE1\xB8\xB7utara"
+    type: district
+- code: LK-3
+  name: "Daku\xE1\xB9\x87u pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+  subregions: 
+  - code: LK-31
+    name: "G\xC4\x81lla"
+    type: district
+  - code: LK-33
+    name: "Hambant\xC5\x8F\xE1\xB9\xADa"
+    type: district
+  - code: LK-32
+    name: "M\xC4\x81tara"
+    type: district
+- code: LK-2
+  name: "Madhyama pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+  subregions: 
+  - code: LK-21
+    name: Mahanuvara
+    type: district
+  - code: LK-22
+    name: "M\xC4\x81tale"
+    type: district
+  - code: LK-23
+    name: "Nuvara \xC4\x94liya"
+    type: district
+- code: LK-5
+  name: "N\xC3\xA6\xCC\x86g\xC4\x95nahira pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+  subregions: 
+  - code: LK-52
+    name: "Amp\xC4\x81ara"
+    type: district
+  - code: LK-51
+    name: "Ma\xE1\xB8\x8Dakalapuva"
+    type: district
+  - code: LK-53
+    name: "Triku\xE1\xB9\x87\xC4\x81malaya"
+    type: district
+- code: LK-9
+  name: "Sabaragamuva pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+  subregions: 
+  - code: LK-92
+    name: "K\xC3\xA6galla"
+    type: district
+  - code: LK-91
+    name: Ratnapura
+    type: district
+- code: LK-7
+  name: "Uturum\xC3\xA6\xCC\x86da pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+  subregions: 
+  - code: LK-71
+    name: "Anur\xC4\x81dhapura"
+    type: district
+  - code: LK-72
+    name: "P\xC5\x8F\xE1\xB8\xB7\xC5\x8Fnnaruva"
+    type: district
+- code: LK-4
+  name: "Uturu pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+  subregions: 
+  - code: LK-41
+    name: "Y\xC4\x81panaya"
+    type: district
+  - code: LK-42
+    name: "Kilin\xC5\x8Fchchi"
+    type: district
+  - code: LK-43
+    name: "Mann\xC4\x81rama"
+    type: district
+  - code: LK-45
+    name: Mulativ
+    type: district
+  - code: LK-44
+    name: "Vavuniy\xC4\x81va"
+    type: district
+- code: LK-8
+  name: "\xC5\xAAva pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+  subregions: 
+  - code: LK-81
+    name: Badulla
+    type: district
+  - code: LK-82
+    name: "M\xC5\x8F\xE1\xB9\x87ar\xC4\x81gala"
+    type: district

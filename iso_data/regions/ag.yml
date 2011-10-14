@@ -1,0 +1,25 @@
+--- 
+- code: AG-03
+  name: Saint George
+  type: parish
+- code: AG-04
+  name: Saint John
+  type: parish
+- code: AG-05
+  name: Saint Mary
+  type: parish
+- code: AG-06
+  name: Saint Paul
+  type: parish
+- code: AG-07
+  name: Saint Peter
+  type: parish
+- code: AG-08
+  name: Saint Philip
+  type: parish
+- code: AG-10
+  name: Barbuda
+  type: dependency
+- code: AG-11
+  name: Redonda
+  type: dependency

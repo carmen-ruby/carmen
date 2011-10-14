@@ -1,0 +1,188 @@
+--- 
+- code: BF-01
+  name: Boucle du Mouhoun
+  type: region
+  subregions: 
+  - code: BF-BAL
+    name: "Bal\xC3\xA9"
+    type: province
+  - code: BF-BAN
+    name: Banwa
+    type: province
+  - code: BF-KOS
+    name: Kossi
+    type: province
+  - code: BF-MOU
+    name: Mouhoun
+    type: province
+  - code: BF-NAY
+    name: Nayala
+    type: province
+  - code: BF-SOR
+    name: Sourou
+    type: province
+- code: BF-02
+  name: Cascades
+  type: region
+  subregions: 
+  - code: BF-COM
+    name: "Como\xC3\xA9"
+    type: province
+  - code: BF-LER
+    name: "L\xC3\xA9raba"
+    type: province
+- code: BF-03
+  name: Centre
+  type: region
+  subregions: 
+  - code: BF-KAD
+    name: Kadiogo
+    type: province
+- code: BF-04
+  name: Centre-Est
+  type: region
+  subregions: 
+  - code: BF-BLG
+    name: Boulgou
+    type: province
+  - code: BF-KOP
+    name: "Koulp\xC3\xA9logo"
+    type: province
+  - code: BF-KOT
+    name: Kouritenga
+    type: province
+- code: BF-05
+  name: Centre-Nord
+  type: region
+  subregions: 
+  - code: BF-BAM
+    name: Bam
+    type: province
+  - code: BF-NAM
+    name: Namentenga
+    type: province
+  - code: BF-SMT
+    name: Sanmatenga
+    type: province
+- code: BF-06
+  name: Centre-Ouest
+  type: region
+  subregions: 
+  - code: BF-BLK
+    name: "Boulkiemd\xC3\xA9"
+    type: province
+  - code: BF-SNG
+    name: "Sangui\xC3\xA9"
+    type: province
+  - code: BF-SIS
+    name: Sissili
+    type: province
+  - code: BF-ZIR
+    name: Ziro
+    type: province
+- code: BF-07
+  name: Centre-Sud
+  type: region
+  subregions: 
+  - code: BF-BAZ
+    name: "Baz\xC3\xA8ga"
+    type: province
+  - code: BF-NAO
+    name: Naouri
+    type: province
+  - code: BF-ZOU
+    name: "Zoundw\xC3\xA9ogo"
+    type: province
+- code: BF-08
+  name: Est
+  type: region
+  subregions: 
+  - code: BF-GNA
+    name: Gnagna
+    type: province
+  - code: BF-GOU
+    name: Gourma
+    type: province
+  - code: BF-KMD
+    name: Komondjari
+    type: province
+  - code: BF-KMP
+    name: Kompienga
+    type: province
+  - code: BF-TAP
+    name: Tapoa
+    type: province
+- code: BF-09
+  name: Hauts-Bassins
+  type: region
+  subregions: 
+  - code: BF-HOU
+    name: Houet
+    type: province
+  - code: BF-KEN
+    name: "K\xC3\xA9n\xC3\xA9dougou"
+    type: province
+  - code: BF-TUI
+    name: Tui
+    type: province
+- code: BF-10
+  name: Nord
+  type: region
+  subregions: 
+  - code: BF-LOR
+    name: Loroum
+    type: province
+  - code: BF-PAS
+    name: "Passor\xC3\xA9"
+    type: province
+  - code: BF-YAT
+    name: Yatenga
+    type: province
+  - code: BF-ZON
+    name: Zondoma
+    type: province
+- code: BF-11
+  name: Plateau-Central
+  type: region
+  subregions: 
+  - code: BF-GAN
+    name: Ganzourgou
+    type: province
+  - code: BF-KOW
+    name: "Kourw\xC3\xA9ogo"
+    type: province
+  - code: BF-OUB
+    name: Oubritenga
+    type: province
+- code: BF-12
+  name: Sahel
+  type: region
+  subregions: 
+  - code: BF-OUD
+    name: Oudalan
+    type: province
+  - code: BF-SEN
+    name: "S\xC3\xA9no"
+    type: province
+  - code: BF-SOM
+    name: Soum
+    type: province
+  - code: BF-YAG
+    name: Yagha
+    type: province
+- code: BF-13
+  name: Sud-Ouest
+  type: region
+  subregions: 
+  - code: BF-BGR
+    name: Bougouriba
+    type: province
+  - code: BF-IOB
+    name: Ioba
+    type: province
+  - code: BF-NOU
+    name: Noumbiel
+    type: province
+  - code: BF-PON
+    name: Poni
+    type: province

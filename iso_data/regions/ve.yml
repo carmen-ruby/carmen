@@ -1,0 +1,76 @@
+--- 
+- code: VE-W
+  name: Dependencias Federales
+  type: federal dependency
+- code: VE-A
+  name: Distrito Federal
+  type: federal district
+- code: VE-Z
+  name: Amazonas
+  type: state
+- code: VE-B
+  name: "Anzo\xC3\xA1tegui"
+  type: state
+- code: VE-C
+  name: Apure
+  type: state
+- code: VE-D
+  name: Aragua
+  type: state
+- code: VE-E
+  name: Barinas
+  type: state
+- code: VE-F
+  name: "Bol\xC3\xADvar"
+  type: state
+- code: VE-G
+  name: Carabobo
+  type: state
+- code: VE-H
+  name: Cojedes
+  type: state
+- code: VE-Y
+  name: Delta Amacuro
+  type: state
+- code: VE-I
+  name: "Falc\xC3\xB3n"
+  type: state
+- code: VE-J
+  name: "Gu\xC3\xA1rico"
+  type: state
+- code: VE-K
+  name: Lara
+  type: state
+- code: VE-L
+  name: "M\xC3\xA9rida"
+  type: state
+- code: VE-M
+  name: Miranda
+  type: state
+- code: VE-N
+  name: Monagas
+  type: state
+- code: VE-O
+  name: Nueva Esparta
+  type: state
+- code: VE-P
+  name: Portuguesa
+  type: state
+- code: VE-R
+  name: Sucre
+  type: state
+- code: VE-S
+  name: "T\xC3\xA1chira"
+  type: state
+- code: VE-T
+  name: Trujillo
+  type: state
+- code: VE-X
+  name: Vargas
+  type: state
+- code: VE-U
+  name: Yaracuy
+  type: state
+- code: VE-V
+  name: Zulia
+  type: state

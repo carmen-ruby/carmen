@@ -1,0 +1,128 @@
+--- 
+- code: ID-JW
+  name: Jawa
+  type: geographical unit
+  subregions: 
+  - code: ID-BT
+    name: Banten
+    type: province
+  - code: ID-JB
+    name: Jawa Barat
+    type: province
+  - code: ID-JT
+    name: Jawa Tengah
+    type: province
+  - code: ID-JI
+    name: Jawa Timur
+    type: province
+  - code: ID-JK
+    name: Jakarta Raya
+    type: special district
+  - code: ID-YO
+    name: Yogyakarta
+    type: special region
+- code: ID-KA
+  name: Kalimantan
+  type: geographical unit
+  subregions: 
+  - code: ID-KB
+    name: Kalimantan Barat
+    type: province
+  - code: ID-KT
+    name: Kalimantan Tengah
+    type: province
+  - code: ID-KS
+    name: Kalimantan Selatan
+    type: province
+  - code: ID-KI
+    name: Kalimantan Timur
+    type: province
+- code: ID-MA
+  name: Maluku
+  type: geographical unit
+  subregions: 
+  - code: ID-MA
+    name: Maluku
+    type: province
+  - code: ID-MU
+    name: Maluku Utara
+    type: province
+- code: ID-NU
+  name: Nusa Tenggara
+  type: geographical unit
+  subregions: 
+  - code: ID-BA
+    name: Bali
+    type: province
+  - code: ID-NB
+    name: Nusa Tenggara Barat
+    type: province
+  - code: ID-NT
+    name: Nusa Tenggara Timur
+    type: province
+- code: ID-IJ
+  name: Papua
+  type: geographical unit
+  subregions: 
+  - code: ID-PA
+    name: Papua
+    type: province
+  - code: ID-PB
+    name: Papua Barat
+    type: province
+- code: ID-SL
+  name: Sulawesi
+  type: geographical unit
+  subregions: 
+  - code: ID-GO
+    name: Gorontalo
+    type: province
+  - code: ID-SR
+    name: Sulawesi Barat
+    type: province
+  - code: ID-SN
+    name: Sulawesi Selatan
+    type: province
+  - code: ID-ST
+    name: Sulawesi Tengah
+    type: province
+  - code: ID-SG
+    name: Sulawesi Tenggara
+    type: province
+  - code: ID-SA
+    name: Sulawesi Utara
+    type: province
+- code: ID-SM
+  name: Sumatera
+  type: geographical unit
+  subregions: 
+  - code: ID-AC
+    name: Aceh
+    type: autonomous province
+  - code: ID-BB
+    name: Bangka Belitung
+    type: province
+  - code: ID-BE
+    name: Bengkulu
+    type: province
+  - code: ID-JA
+    name: Jambi
+    type: province
+  - code: ID-KR
+    name: Kepulauan Riau
+    type: province
+  - code: ID-LA
+    name: Lampung
+    type: province
+  - code: ID-RI
+    name: Riau
+    type: province
+  - code: ID-SB
+    name: Sumatra Barat
+    type: province
+  - code: ID-SS
+    name: Sumatra Selatan
+    type: province
+  - code: ID-SU
+    name: Sumatera Utara
+    type: province

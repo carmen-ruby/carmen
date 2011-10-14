@@ -1,0 +1,81 @@
+--- 
+- code: MH-L
+  name: Ralik chain
+  type: chains (of islands)
+  subregions: 
+  - code: MH-ALL
+    name: Ailinglaplap
+    type: municipality
+  - code: MH-EBO
+    name: Ebon
+    type: municipality
+  - code: MH-ENI
+    name: Enewetak
+    type: municipality
+  - code: MH-JAB
+    name: Jabat
+    type: municipality
+  - code: MH-JAL
+    name: Jaluit
+    type: municipality
+  - code: MH-KIL
+    name: Kili
+    type: municipality
+  - code: MH-KWA
+    name: Kwajalein
+    type: municipality
+  - code: MH-LAE
+    name: Lae
+    type: municipality
+  - code: MH-LIB
+    name: Lib
+    type: municipality
+  - code: MH-NMK
+    name: Namdrik
+    type: municipality
+  - code: MH-NMU
+    name: Namu
+    type: municipality
+  - code: MH-RON
+    name: Rongelap
+    type: municipality
+  - code: MH-UJA
+    name: Ujae
+    type: municipality
+  - code: MH-WTN
+    name: Wotho
+    type: municipality
+- code: MH-T
+  name: Ratak chain
+  type: chains (of islands)
+  subregions: 
+  - code: MH-ALK
+    name: Ailuk
+    type: municipality
+  - code: MH-ARN
+    name: Arno
+    type: municipality
+  - code: MH-AUR
+    name: Aur
+    type: municipality
+  - code: MH-LIK
+    name: Likiep
+    type: municipality
+  - code: MH-MAJ
+    name: Majuro
+    type: municipality
+  - code: MH-MAL
+    name: Maloelap
+    type: municipality
+  - code: MH-MEJ
+    name: Mejit
+    type: municipality
+  - code: MH-MIL
+    name: Mili
+    type: municipality
+  - code: MH-UTI
+    name: Utirik
+    type: municipality
+  - code: MH-WTJ
+    name: Wotje
+    type: municipality

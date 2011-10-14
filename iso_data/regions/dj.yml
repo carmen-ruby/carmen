@@ -1,0 +1,19 @@
+--- 
+- code: DJ-AS
+  name: Ali Sabieh
+  type: region
+- code: DJ-AR
+  name: Arta
+  type: region
+- code: DJ-DI
+  name: Dikhil
+  type: region
+- code: DJ-OB
+  name: Obock
+  type: region
+- code: DJ-TA
+  name: Tadjourah
+  type: region
+- code: DJ-DJ
+  name: Djibouti
+  type: city

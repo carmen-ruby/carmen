@@ -1,0 +1,97 @@
+--- 
+- code: MW-C
+  name: Central Region
+  type: region
+  subregions: 
+  - code: MW-DE
+    name: Dedza
+    type: district
+  - code: MW-DO
+    name: Dowa
+    type: district
+  - code: MW-KS
+    name: Kasungu
+    type: district
+  - code: MW-LI
+    name: Lilongwe
+    type: district
+  - code: MW-MC
+    name: Mchinji
+    type: district
+  - code: MW-NK
+    name: Nkhotakota
+    type: district
+  - code: MW-NU
+    name: Ntcheu
+    type: district
+  - code: MW-NI
+    name: Ntchisi
+    type: district
+  - code: MW-SA
+    name: Salima
+    type: district
+- code: MW-N
+  name: Northern Region
+  type: region
+  subregions: 
+  - code: MW-CT
+    name: Chitipa
+    type: district
+  - code: MW-KR
+    name: Karonga
+    type: district
+  - code: MW-LK
+    name: Likoma
+    type: district
+  - code: MW-MZ
+    name: Mzimba
+    type: district
+  - code: MW-NE
+    name: Neno
+    type: district
+  - code: MW-NB
+    name: Nkhata Bay
+    type: district
+  - code: MW-RU
+    name: Rumphi
+    type: district
+- code: MW-S
+  name: Southern Region
+  type: region
+  subregions: 
+  - code: MW-BA
+    name: Balaka
+    type: district
+  - code: MW-BL
+    name: Blantyre
+    type: district
+  - code: MW-CK
+    name: Chikwawa
+    type: district
+  - code: MW-CR
+    name: Chiradzulu
+    type: district
+  - code: MW-MH
+    name: Machinga
+    type: district
+  - code: MW-MG
+    name: Mangochi
+    type: district
+  - code: MW-MU
+    name: Mulanje
+    type: district
+  - code: MW-MW
+    name: Mwanza
+    type: district
+  - code: MW-NS
+    name: Nsanje
+    type: district
+  - code: MW-PH
+    name: Phalombe
+    type: district
+  - code: MW-TH
+    name: Thyolo
+    type: district
+  - code: MW-ZO
+    name: Zomba
+    type: district

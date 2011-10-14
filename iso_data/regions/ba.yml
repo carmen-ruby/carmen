@@ -1,0 +1,41 @@
+--- 
+- code: BA-BIH
+  name: Federacija Bosne i Hercegovine
+  type: entity
+  subregions: 
+  - code: BA-05
+    name: Bosansko-podrinjski kanton
+    type: canton
+  - code: BA-07
+    name: "Hercegova\xC4\x8Dko-neretvanski kanton"
+    type: canton
+  - code: BA-10
+    name: Kanton br. 10 (Livanjski kanton)
+    type: canton
+  - code: BA-09
+    name: Kanton Sarajevo
+    type: canton
+  - code: BA-02
+    name: Posavski kanton
+    type: canton
+  - code: BA-06
+    name: Srednjobosanski kanton
+    type: canton
+  - code: BA-03
+    name: Tuzlanski kanton
+    type: canton
+  - code: BA-01
+    name: Unsko-sanski kanton
+    type: canton
+  - code: BA-08
+    name: "Zapadnohercegova\xC4\x8Dki kanton"
+    type: canton
+  - code: BA-04
+    name: "Zeni\xC4\x8Dko-dobojski kanton"
+    type: canton
+- code: BA-SRP
+  name: Republika Srpska
+  type: entity
+- code: BA-BRC
+  name: "Br\xC4\x8Dko distrikt"
+  type: district

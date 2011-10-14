@@ -1,0 +1,131 @@
+--- 
+- code: GN-B
+  name: "Bok\xC3\xA9"
+  type: governorate
+  subregions: 
+  - code: GN-BF
+    name: Boffa
+    type: prefecture
+  - code: GN-BK
+    name: "Bok\xC3\xA9"
+    type: prefecture
+  - code: GN-FR
+    name: Fria
+    type: prefecture
+  - code: GN-GA
+    name: Gaoual
+    type: prefecture
+  - code: GN-KN
+    name: Koundara
+    type: prefecture
+- code: GN-F
+  name: Faranah
+  type: governorate
+  subregions: 
+  - code: GN-DB
+    name: Dabola
+    type: prefecture
+  - code: GN-DI
+    name: Dinguiraye
+    type: prefecture
+  - code: GN-FA
+    name: Faranah
+    type: prefecture
+  - code: GN-KS
+    name: Kissidougou
+    type: prefecture
+- code: GN-K
+  name: Kankan
+  type: governorate
+  subregions: 
+  - code: GN-KA
+    name: Kankan
+    type: prefecture
+  - code: GN-KE
+    name: "K\xC3\xA9rouan\xC3\xA9"
+    type: prefecture
+  - code: GN-KO
+    name: Kouroussa
+    type: prefecture
+  - code: GN-MD
+    name: Mandiana
+    type: prefecture
+  - code: GN-SI
+    name: Siguiri
+    type: prefecture
+- code: GN-D
+  name: Kindia
+  type: governorate
+  subregions: 
+  - code: GN-CO
+    name: Coyah
+    type: prefecture
+  - code: GN-DU
+    name: "Dubr\xC3\xA9ka"
+    type: prefecture
+  - code: GN-FO
+    name: "For\xC3\xA9cariah"
+    type: prefecture
+  - code: GN-KD
+    name: Kindia
+    type: prefecture
+  - code: GN-TE
+    name: "T\xC3\xA9lim\xC3\xA9l\xC3\xA9"
+    type: prefecture
+- code: GN-L
+  name: "Lab\xC3\xA9"
+  type: governorate
+  subregions: 
+  - code: GN-KB
+    name: Koubia
+    type: prefecture
+  - code: GN-LA
+    name: "Lab\xC3\xA9"
+    type: prefecture
+  - code: GN-LE
+    name: "L\xC3\xA9louma"
+    type: prefecture
+  - code: GN-ML
+    name: Mali
+    type: prefecture
+  - code: GN-TO
+    name: "Tougu\xC3\xA9"
+    type: prefecture
+- code: GN-M
+  name: Mamou
+  type: governorate
+  subregions: 
+  - code: GN-DL
+    name: Dalaba
+    type: prefecture
+  - code: GN-MM
+    name: Mamou
+    type: prefecture
+  - code: GN-PI
+    name: Pita
+    type: prefecture
+- code: GN-N
+  name: "Nz\xC3\xA9r\xC3\xA9kor\xC3\xA9"
+  type: governorate
+  subregions: 
+  - code: GN-BE
+    name: Beyla
+    type: prefecture
+  - code: GN-GU
+    name: "Gu\xC3\xA9k\xC3\xA9dou"
+    type: prefecture
+  - code: GN-LO
+    name: Lola
+    type: prefecture
+  - code: GN-MC
+    name: Macenta
+    type: prefecture
+  - code: GN-NZ
+    name: "Nz\xC3\xA9r\xC3\xA9kor\xC3\xA9"
+    type: prefecture
+  - code: GN-YO
+    name: Yomou
+    type: prefecture
+- code: GN-C
+  name: Conakry
+  type: special zone

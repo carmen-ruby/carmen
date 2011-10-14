@@ -1,0 +1,76 @@
+--- 
+- code: SD-26
+  name: "Al Ba\xE1\xB8\xA9r al A\xE1\xB8\xA9mar"
+  type: state
+- code: SD-18
+  name: "Al Bu\xE1\xB8\xA9ayr\xC4\x81t"
+  type: state
+- code: SD-07
+  name: "Al Jaz\xC4\xABrah"
+  type: state
+- code: SD-03
+  name: "Al Khar\xC5\xA3\xC5\xABm"
+  type: state
+- code: SD-06
+  name: "Al Qa\xE1\xB8\x91\xC4\x81rif"
+  type: state
+- code: SD-22
+  name: "Al Wa\xE1\xB8\xA9dah"
+  type: state
+- code: SD-04
+  name: "An N\xC4\xABl"
+  type: state
+- code: SD-08
+  name: "An N\xC4\xABl al Abya\xE1\xB8\x91"
+  type: state
+- code: SD-24
+  name: "An N\xC4\xABl al Azraq"
+  type: state
+- code: SD-01
+  name: "Ash Sham\xC4\x81l\xC4\xAByah"
+  type: state
+- code: SD-23
+  name: "A\xE2\x80\x98\xC4\x81l\xC4\xAB an N\xC4\xABl"
+  type: state
+- code: SD-17
+  name: "Ba\xE1\xB8\xA9r al Jabal"
+  type: state
+- code: SD-16
+  name: "Gharb al Istiw\xC4\x81'\xC4\xAByah"
+  type: state
+- code: SD-14
+  name: "Gharb Ba\xE1\xB8\xA9r al Ghaz\xC4\x81l"
+  type: state
+- code: SD-12
+  name: "Gharb D\xC4\x81rf\xC5\xABr"
+  type: state
+- code: SD-11
+  name: "Jan\xC5\xABb D\xC4\x81rf\xC5\xABr"
+  type: state
+- code: SD-13
+  name: "Jan\xC5\xABb Kurduf\xC4\x81n"
+  type: state
+- code: SD-20
+  name: "J\xC5\xABnqal\xC4\xAB"
+  type: state
+- code: SD-05
+  name: "Kassal\xC4\x81"
+  type: state
+- code: SD-15
+  name: "Sham\xC4\x81l Ba\xE1\xB8\xA9r al Ghaz\xC4\x81l"
+  type: state
+- code: SD-02
+  name: "Sham\xC4\x81l D\xC4\x81rf\xC5\xABr"
+  type: state
+- code: SD-09
+  name: "Sham\xC4\x81l Kurduf\xC4\x81n"
+  type: state
+- code: SD-19
+  name: "Sharq al Istiw\xC4\x81'\xC4\xAByah"
+  type: state
+- code: SD-25
+  name: "Sinn\xC4\x81r"
+  type: state
+- code: SD-21
+  name: "W\xC4\x81r\xC4\x81b"
+  type: state

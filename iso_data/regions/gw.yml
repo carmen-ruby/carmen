@@ -1,0 +1,40 @@
+--- 
+- code: GW-BS
+  name: Bissau
+  type: autonomous sector
+- code: GW-L
+  name: Leste
+  type: province
+  subregions: 
+  - code: GW-BA
+    name: "Bafat\xC3\xA1"
+    type: region
+  - code: GW-GA
+    name: "Gab\xC3\xBA"
+    type: region
+- code: GW-N
+  name: Norte
+  type: province
+  subregions: 
+  - code: GW-BM
+    name: Biombo
+    type: region
+  - code: GW-CA
+    name: Cacheu
+    type: region
+  - code: GW-OI
+    name: Oio
+    type: region
+- code: GW-S
+  name: Sul
+  type: province
+  subregions: 
+  - code: GW-BL
+    name: Bolama
+    type: region
+  - code: GW-QU
+    name: Quinara
+    type: region
+  - code: GW-TO
+    name: Tombali
+    type: region

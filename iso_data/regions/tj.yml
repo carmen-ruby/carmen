@@ -1,0 +1,10 @@
+--- 
+- code: TJ-GB
+  name: Gorno-Badakhshan
+  type: autonomous region
+- code: TJ-KT
+  name: Khatlon
+  type: region
+- code: TJ-SU
+  name: Sughd
+  type: region

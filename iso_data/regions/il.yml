@@ -1,0 +1,19 @@
+--- 
+- code: IL-D
+  name: HaDarom
+  type: district
+- code: IL-M
+  name: HaMerkaz
+  type: district
+- code: IL-Z
+  name: HaZafon
+  type: district
+- code: IL-HA
+  name: Hefa
+  type: district
+- code: IL-TA
+  name: Tel-Aviv
+  type: district
+- code: IL-JM
+  name: Yerushalayim Al Quds
+  type: district

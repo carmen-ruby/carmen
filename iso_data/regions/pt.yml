@@ -1,0 +1,61 @@
+--- 
+- code: PT-01
+  name: Aveiro
+  type: district
+- code: PT-02
+  name: Beja
+  type: district
+- code: PT-03
+  name: Braga
+  type: district
+- code: PT-04
+  name: "Bragan\xC3\xA7a"
+  type: district
+- code: PT-05
+  name: Castelo Branco
+  type: district
+- code: PT-06
+  name: Coimbra
+  type: district
+- code: PT-07
+  name: "\xC3\x89vora"
+  type: district
+- code: PT-08
+  name: Faro
+  type: district
+- code: PT-09
+  name: Guarda
+  type: district
+- code: PT-10
+  name: Leiria
+  type: district
+- code: PT-11
+  name: Lisboa
+  type: district
+- code: PT-12
+  name: Portalegre
+  type: district
+- code: PT-13
+  name: Porto
+  type: district
+- code: PT-14
+  name: "Santar\xC3\xA9m"
+  type: district
+- code: PT-15
+  name: "Set\xC3\xBAbal"
+  type: district
+- code: PT-16
+  name: Viana do Castelo
+  type: district
+- code: PT-17
+  name: Vila Real
+  type: district
+- code: PT-18
+  name: Viseu
+  type: district
+- code: PT-20
+  name: "Regi\xC3\xA3o Aut\xC3\xB3noma dos A\xC3\xA7ores"
+  type: autonomous region
+- code: PT-30
+  name: "Regi\xC3\xA3o Aut\xC3\xB3noma da Madeira"
+  type: autonomous region

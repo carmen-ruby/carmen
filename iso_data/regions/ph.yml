@@ -1,0 +1,286 @@
+--- 
+- code: PH-14
+  name: Autonomous Region in Muslim Mindanao (ARMM)
+  type: region
+  subregions: 
+  - code: PH-LAS
+    name: Lanao del Sur
+    type: province
+  - code: PH-MAG
+    name: Maguindanao
+    type: province
+  - code: PH-SLU
+    name: Sulu
+    type: province
+  - code: PH-TAW
+    name: Tawi-Tawi
+    type: province
+- code: PH-05
+  name: Bicol (Region V)
+  type: region
+  subregions: 
+  - code: PH-ALB
+    name: Albay
+    type: province
+  - code: PH-CAN
+    name: Camarines Norte
+    type: province
+  - code: PH-CAS
+    name: Camarines Sur
+    type: province
+  - code: PH-CAT
+    name: Catanduanes
+    type: province
+  - code: PH-MAS
+    name: Masbate
+    type: province
+  - code: PH-SOR
+    name: Sorsogon
+    type: province
+- code: PH-02
+  name: Cagayan Valley (Region II)
+  type: region
+  subregions: 
+  - code: PH-BTN
+    name: Batanes
+    type: province
+  - code: PH-CAG
+    name: Cagayan
+    type: province
+  - code: PH-ISA
+    name: Isabela
+    type: province
+  - code: PH-NUV
+    name: Nueva Vizcaya
+    type: province
+  - code: PH-QUI
+    name: Quirino
+    type: province
+- code: PH-40
+  name: CALABARZON (Region IV-A)
+  type: region
+  subregions: 
+  - code: PH-BTG
+    name: Batangas
+    type: province
+  - code: PH-CAV
+    name: Cavite
+    type: province
+  - code: PH-LAG
+    name: Laguna
+    type: province
+  - code: PH-QUE
+    name: Quezon
+    type: province
+  - code: PH-RIZ
+    name: Rizal
+    type: province
+- code: PH-13
+  name: Caraga (Region XIII)
+  type: region
+  subregions: 
+  - code: PH-AGN
+    name: Agusan del Norte
+    type: province
+  - code: PH-AGS
+    name: Agusan del Sur
+    type: province
+  - code: PH-DIN
+    name: Dinagat Islands
+    type: province
+  - code: PH-SUN
+    name: Surigao del Norte
+    type: province
+  - code: PH-SUR
+    name: Surigao del Sur
+    type: province
+- code: PH-03
+  name: Central Luzon (Region III)
+  type: region
+  subregions: 
+  - code: PH-AUR
+    name: Aurora
+    type: province
+  - code: PH-BAN
+    name: Batasn
+    type: province
+  - code: PH-BUL
+    name: Bulacan
+    type: province
+  - code: PH-NUE
+    name: Nueva Ecija
+    type: province
+  - code: PH-PAM
+    name: Pampanga
+    type: province
+  - code: PH-TAR
+    name: Tarlac
+    type: province
+  - code: PH-ZMB
+    name: Zambales
+    type: province
+- code: PH-07
+  name: Central Visayas (Region VII)
+  type: region
+  subregions: 
+  - code: PH-BOH
+    name: Bohol
+    type: province
+  - code: PH-CEB
+    name: Cebu
+    type: province
+  - code: PH-NER
+    name: Negros Oriental
+    type: province
+  - code: PH-SIG
+    name: Siquijor
+    type: province
+- code: PH-15
+  name: Cordillera Administrative Region (CAR)
+  type: region
+  subregions: 
+  - code: PH-ABR
+    name: Abra
+    type: province
+  - code: PH-APA
+    name: Apayao
+    type: province
+  - code: PH-BEN
+    name: Benguet
+    type: province
+  - code: PH-IFU
+    name: Ifugao
+    type: province
+  - code: PH-KAL
+    name: Kalinga-Apayso
+    type: province
+  - code: PH-MOU
+    name: Mountain Province
+    type: province
+- code: PH-08
+  name: Eastern Visayas (Region VIII)
+  type: region
+  subregions: 
+  - code: PH-BIL
+    name: Biliran
+    type: province
+  - code: PH-EAS
+    name: Eastern Samar
+    type: province
+  - code: PH-LEY
+    name: Leyte
+    type: province
+  - code: PH-NSA
+    name: Northern Samar
+    type: province
+  - code: PH-SLE
+    name: Southern Leyte
+    type: province
+  - code: PH-WSA
+    name: Western Samar
+    type: province
+- code: PH-01
+  name: Ilocos (Region I)
+  type: region
+  subregions: 
+  - code: PH-ILN
+    name: Ilocos Norte
+    type: province
+  - code: PH-ILS
+    name: Ilocos Sur
+    type: province
+  - code: PH-LUN
+    name: La Union
+    type: province
+  - code: PH-PAN
+    name: Pangasinan
+    type: province
+- code: PH-41
+  name: MIMAROPA (Region IV-B)
+  type: region
+  subregions: 
+  - code: PH-MAD
+    name: Marinduque
+    type: province
+  - code: PH-MDC
+    name: Mindoro Occidental
+    type: province
+  - code: PH-MDR
+    name: Mindoro Oriental
+    type: province
+  - code: PH-PLW
+    name: Palawan
+    type: province
+  - code: PH-ROM
+    name: Romblon
+    type: province
+- code: PH-00
+  name: National Capital Region
+  type: region
+- code: PH-10
+  name: Northern Mindanao (Region X)
+  type: region
+  subregions: 
+  - code: PH-BUK
+    name: Bukidnon
+    type: province
+  - code: PH-CAM
+    name: Camiguin
+    type: province
+  - code: PH-MSC
+    name: Misamis Occidental
+    type: province
+  - code: PH-MSR
+    name: Misamis Oriental
+    type: province
+- code: PH-12
+  name: Soccsksargen (Region XII)
+  type: region
+  subregions: 
+  - code: PH-LAN
+    name: Lanao del Norte
+    type: province
+  - code: PH-NCO
+    name: North Cotabato
+    type: province
+  - code: PH-SUK
+    name: Sultan Kudarat
+    type: province
+- code: PH-06
+  name: Western Visayas (Region VI)
+  type: region
+  subregions: 
+  - code: PH-AKL
+    name: Aklan
+    type: province
+  - code: PH-ANT
+    name: Antique
+    type: province
+  - code: PH-CAP
+    name: Capiz
+    type: province
+  - code: PH-GUI
+    name: Guimaras
+    type: province
+  - code: PH-ILI
+    name: Iloilo
+    type: province
+  - code: PH-NEC
+    name: Negroe Occidental
+    type: province
+- code: PH-09
+  name: Zamboanga Peninsula (Region IX)
+  type: region
+  subregions: 
+  - code: PH-BAS
+    name: Basilan
+    type: province
+  - code: PH-ZAN
+    name: Zamboanga del Norte
+    type: province
+  - code: PH-ZAS
+    name: Zamboanga del Sur
+    type: province
+  - code: PH-ZSI
+    name: Zamboanga Sibugay
+    type: province

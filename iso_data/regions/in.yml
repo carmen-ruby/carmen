@@ -1,0 +1,106 @@
+--- 
+- code: IN-AP
+  name: Andhra Pradesh
+  type: state
+- code: IN-AR
+  name: "Arun\xC4\x81chal Pradesh"
+  type: state
+- code: IN-AS
+  name: Assam
+  type: state
+- code: IN-BR
+  name: "Bih\xC4\x81r"
+  type: state
+- code: IN-CT
+  name: "Chhatt\xC4\xABsgarh"
+  type: state
+- code: IN-GA
+  name: Goa
+  type: state
+- code: IN-GJ
+  name: "Gujar\xC4\x81t"
+  type: state
+- code: IN-HR
+  name: "Hary\xC4\x81na"
+  type: state
+- code: IN-HP
+  name: "Him\xC4\x81chal Pradesh"
+  type: state
+- code: IN-JK
+  name: "Jammu and Kashm\xC4\xABr"
+  type: state
+- code: IN-JH
+  name: Jharkhand
+  type: state
+- code: IN-KA
+  name: "Karn\xC4\x81taka"
+  type: state
+- code: IN-KL
+  name: Kerala
+  type: state
+- code: IN-MP
+  name: Madhya Pradesh
+  type: state
+- code: IN-MH
+  name: "Mah\xC4\x81r\xC4\x81shtra"
+  type: state
+- code: IN-MN
+  name: Manipur
+  type: state
+- code: IN-ML
+  name: "Megh\xC4\x81laya"
+  type: state
+- code: IN-MZ
+  name: Mizoram
+  type: state
+- code: IN-NL
+  name: "N\xC4\x81g\xC4\x81land"
+  type: state
+- code: IN-OR
+  name: Orissa
+  type: state
+- code: IN-PB
+  name: Punjab
+  type: state
+- code: IN-RJ
+  name: "R\xC4\x81jasth\xC4\x81n"
+  type: state
+- code: IN-SK
+  name: Sikkim
+  type: state
+- code: IN-TN
+  name: "Tamil N\xC4\x81du"
+  type: state
+- code: IN-TR
+  name: Tripura
+  type: state
+- code: IN-UL
+  name: Uttaranchal
+  type: state
+- code: IN-UP
+  name: Uttar Pradesh
+  type: state
+- code: IN-WB
+  name: West Bengal
+  type: state
+- code: IN-AN
+  name: Andaman and Nicobar Islands
+  type: union territory
+- code: IN-CH
+  name: "Chand\xC4\xABgarh"
+  type: union territory
+- code: IN-DN
+  name: "D\xC4\x81dra and Nagar Haveli"
+  type: union territory
+- code: IN-DD
+  name: "Dam\xC4\x81n and Diu"
+  type: union territory
+- code: IN-DL
+  name: Delhi
+  type: union territory
+- code: IN-LD
+  name: Lakshadweep
+  type: union territory
+- code: IN-PY
+  name: Pondicherry
+  type: union territory

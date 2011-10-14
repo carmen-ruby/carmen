@@ -1,0 +1,225 @@
+--- 
+- code: ES-AN
+  name: "Andaluc\xC3\xADa"
+  type: autonomous community
+  subregions: 
+  - code: ES-AL
+    name: "Almer\xC3\xADa"
+    type: province
+  - code: ES-CA
+    name: "C\xC3\xA1diz"
+    type: province
+  - code: ES-CO
+    name: "C\xC3\xB3rdoba"
+    type: province
+  - code: ES-GR
+    name: Granada
+    type: province
+  - code: ES-H
+    name: Huelva
+    type: province
+  - code: ES-J
+    name: "Ja\xC3\xA9n"
+    type: province
+  - code: ES-MA
+    name: "M\xC3\xA1laga"
+    type: province
+  - code: ES-SE
+    name: Sevilla
+    type: province
+- code: ES-AR
+  name: "Arag\xC3\xB3n"
+  type: autonomous community
+  subregions: 
+  - code: ES-HU
+    name: Huesca
+    type: province
+  - code: ES-TE
+    name: Teruel
+    type: province
+  - code: ES-Z
+    name: Zaragoza
+    type: province
+- code: ES-AS
+  name: Asturias, Principado de
+  type: autonomous community
+  subregions: 
+  - code: ES-O
+    name: Asturias
+    type: province
+- code: ES-CN
+  name: Canarias
+  type: autonomous community
+  subregions: 
+  - code: ES-GC
+    name: Las Palmas
+    type: province
+  - code: ES-TF
+    name: Santa Cruz de Tenerife
+    type: province
+- code: ES-CB
+  name: Cantabria
+  type: autonomous community
+  subregions: 
+  - code: ES-S
+    name: Cantabria
+    type: province
+- code: ES-CM
+  name: Castilla-La Mancha
+  type: autonomous community
+  subregions: 
+  - code: ES-AB
+    name: Albacete
+    type: province
+  - code: ES-CR
+    name: Ciudad Real
+    type: province
+  - code: ES-CU
+    name: Cuenca
+    type: province
+  - code: ES-GU
+    name: Guadalajara
+    type: province
+  - code: ES-TO
+    name: Toledo
+    type: province
+- code: ES-CL
+  name: "Castilla y Le\xC3\xB3n"
+  type: autonomous community
+  subregions: 
+  - code: ES-AV
+    name: "\xC3\x81vila"
+    type: province
+  - code: ES-BU
+    name: Burgos
+    type: province
+  - code: ES-LE
+    name: "Le\xC3\xB3n"
+    type: province
+  - code: ES-P
+    name: Palencia
+    type: province
+  - code: ES-SA
+    name: Salamanca
+    type: province
+  - code: ES-SG
+    name: Segovia
+    type: province
+  - code: ES-SO
+    name: Soria
+    type: province
+  - code: ES-VA
+    name: Valladolid
+    type: province
+  - code: ES-ZA
+    name: Zamora
+    type: province
+- code: ES-CT
+  name: Catalunya
+  type: autonomous community
+  subregions: 
+  - code: ES-B
+    name: Barcelona
+    type: province
+  - code: ES-GI
+    name: Girona
+    type: province
+  - code: ES-L
+    name: Lleida
+    type: province
+  - code: ES-T
+    name: Tarragona
+    type: province
+- code: ES-EX
+  name: Extremadura
+  type: autonomous community
+  subregions: 
+  - code: ES-BA
+    name: Badajoz
+    type: province
+  - code: ES-CC
+    name: "C\xC3\xA1ceres"
+    type: province
+- code: ES-GA
+  name: Galicia
+  type: autonomous community
+  subregions: 
+  - code: ES-C
+    name: "A Coru\xC3\xB1a"
+    type: province
+  - code: ES-LU
+    name: Lugo
+    type: province
+  - code: ES-OR
+    name: Ourense
+    type: province
+  - code: ES-PO
+    name: Pontevedra
+    type: province
+- code: ES-IB
+  name: Illes Balears
+  type: autonomous community
+  subregions: 
+  - code: ES-PM
+    name: Balears
+    type: province
+- code: ES-RI
+  name: La Rioja
+  type: autonomous community
+  subregions: 
+  - code: ES-LO
+    name: La Rioja
+    type: province
+- code: ES-MD
+  name: Madrid, Comunidad de
+  type: autonomous community
+  subregions: 
+  - code: ES-M
+    name: Madrid
+    type: province
+- code: ES-MC
+  name: "Murcia, Regi\xC3\xB3n de"
+  type: autonomous community
+  subregions: 
+  - code: ES-MU
+    name: Murcia
+    type: province
+- code: ES-NC
+  name: Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea
+  type: autonomous community
+  subregions: 
+  - code: ES-NA
+    name: Navarra / Nafarroa
+    type: province
+- code: ES-PV
+  name: "Pa\xC3\xADs Vasco / Euskal Herria"
+  type: autonomous community
+  subregions: 
+  - code: ES-VI
+    name: "\xC3\x81lava"
+    type: province
+  - code: ES-SS
+    name: "Guip\xC3\xBAzcoa / Gipuzkoa"
+    type: province
+  - code: ES-BI
+    name: Vizcayaa / Bizkaia
+    type: province
+- code: ES-VC
+  name: "Valenciana, Comunidad / Valenciana, Comunitat "
+  type: autonomous community
+  subregions: 
+  - code: ES-A
+    name: Alicante
+    type: province
+  - code: ES-CS
+    name: "Castell\xC3\xB3n"
+    type: province
+  - code: ES-V
+    name: "Valencia / Val\xC3\xA8ncia"
+    type: province
+- code: ES-CE
+  name: Ceuta
+  type: autonomous city
+- code: ES-ML
+  name: Melilla
+  type: autonomous city

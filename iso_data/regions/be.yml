@@ -1,0 +1,34 @@
+--- 
+- code: BE-VAN
+  name: Antwerpen
+  type: province
+- code: BE-WBR
+  name: Brabant Wallon
+  type: province
+- code: BE-BRU
+  name: Brussels-Capital Region
+  type: province
+- code: BE-WHT
+  name: Hainaut
+  type: province
+- code: BE-WLG
+  name: Liege
+  type: province
+- code: BE-VLI
+  name: Limburg
+  type: province
+- code: BE-WLX
+  name: Luxembourg
+  type: province
+- code: BE-WNA
+  name: Namur
+  type: province
+- code: BE-VOV
+  name: Oost-Vlaanderen
+  type: province
+- code: BE-VBR
+  name: Vlaams-Brabant
+  type: province
+- code: BE-VWV
+  name: West-Vlaanderen
+  type: province

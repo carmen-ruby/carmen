@@ -1,0 +1,157 @@
+--- 
+- code: AL-01
+  name: Berat
+  type: county
+  subregions: 
+  - code: AL-BR
+    name: Berat
+    type: district
+  - code: AL-KC
+    name: "Ku\xC3\xA7ov\xC3\xAB"
+    type: district
+  - code: AL-SK
+    name: Skrapar
+    type: district
+- code: AL-09
+  name: "Dib\xC3\xABr"
+  type: county
+  subregions: 
+  - code: AL-BU
+    name: "Bulqiz\xC3\xAB"
+    type: district
+  - code: AL-DI
+    name: "Dib\xC3\xABr"
+    type: district
+  - code: AL-MT
+    name: Mat
+    type: district
+- code: AL-02
+  name: "Durr\xC3\xABs"
+  type: county
+  subregions: 
+  - code: AL-DR
+    name: "Durr\xC3\xABs"
+    type: district
+  - code: AL-KR
+    name: "Kruj\xC3\xAB"
+    type: district
+- code: AL-03
+  name: Elbasan
+  type: county
+  subregions: 
+  - code: AL-EL
+    name: Elbasan
+    type: district
+  - code: AL-GR
+    name: Gramsh
+    type: district
+  - code: AL-LB
+    name: Librazhd
+    type: district
+  - code: AL-PQ
+    name: Peqin
+    type: district
+- code: AL-04
+  name: Fier
+  type: county
+  subregions: 
+  - code: AL-FR
+    name: Fier
+    type: district
+  - code: AL-LU
+    name: "Lushnj\xC3\xAB"
+    type: district
+  - code: AL-MK
+    name: "Mallakast\xC3\xABr"
+    type: district
+- code: AL-05
+  name: "Gjirokast\xC3\xABr"
+  type: county
+  subregions: 
+  - code: AL-GJ
+    name: "Gjirokast\xC3\xABr"
+    type: district
+  - code: AL-PR
+    name: "P\xC3\xABrmet"
+    type: district
+  - code: AL-TE
+    name: "Tepelen\xC3\xAB"
+    type: district
+- code: AL-06
+  name: "Kor\xC3\xA7\xC3\xAB"
+  type: county
+  subregions: 
+  - code: AL-DV
+    name: Devoll
+    type: district
+  - code: AL-ER
+    name: "Kolonj\xC3\xAB"
+    type: district
+  - code: AL-KO
+    name: "Kor\xC3\xA7\xC3\xAB"
+    type: district
+  - code: AL-PG
+    name: Pogradec
+    type: district
+- code: AL-07
+  name: "Kuk\xC3\xABs"
+  type: county
+  subregions: 
+  - code: AL-HA
+    name: Has
+    type: district
+  - code: AL-KU
+    name: "Kuk\xC3\xABs"
+    type: district
+  - code: AL-TP
+    name: "Tropoj\xC3\xAB"
+    type: district
+- code: AL-08
+  name: "Lezh\xC3\xAB"
+  type: county
+  subregions: 
+  - code: AL-KB
+    name: Kurbin
+    type: district
+  - code: AL-LE
+    name: "Lezh\xC3\xAB"
+    type: district
+  - code: AL-MR
+    name: "Mirdit\xC3\xAB"
+    type: district
+- code: AL-10
+  name: "Shkod\xC3\xABr"
+  type: county
+  subregions: 
+  - code: AL-MM
+    name: "Mal\xC3\xABsi e Madhe"
+    type: district
+  - code: AL-PU
+    name: "Puk\xC3\xAB"
+    type: district
+  - code: AL-SH
+    name: "Shkod\xC3\xABr"
+    type: district
+- code: AL-11
+  name: "Tiran\xC3\xAB"
+  type: county
+  subregions: 
+  - code: AL-KA
+    name: "Kavaj\xC3\xAB"
+    type: district
+  - code: AL-TR
+    name: "Tiran\xC3\xAB"
+    type: district
+- code: AL-12
+  name: "Vlor\xC3\xAB"
+  type: county
+  subregions: 
+  - code: AL-DL
+    name: "Delvin\xC3\xAB"
+    type: district
+  - code: AL-SR
+    name: "Sarand\xC3\xAB"
+    type: district
+  - code: AL-VL
+    name: "Vlor\xC3\xAB"
+    type: district

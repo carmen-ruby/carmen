@@ -1,0 +1,40 @@
+--- 
+- code: LR-BM
+  name: Bomi
+  type: county
+- code: LR-BG
+  name: Bong
+  type: county
+- code: LR-GB
+  name: Grand Bassa
+  type: county
+- code: LR-CM
+  name: Grand Cape Mount
+  type: county
+- code: LR-GG
+  name: Grand Gedeh
+  type: county
+- code: LR-GK
+  name: Grand Kru
+  type: county
+- code: LR-LO
+  name: Lofa
+  type: county
+- code: LR-MG
+  name: Margibi
+  type: county
+- code: LR-MY
+  name: Maryland
+  type: county
+- code: LR-MO
+  name: Montserrado
+  type: county
+- code: LR-NI
+  name: Nimba
+  type: county
+- code: LR-RI
+  name: Rivercess
+  type: county
+- code: LR-SI
+  name: Sinoe
+  type: county

@@ -1,0 +1,130 @@
+--- 
+- code: HU-BK
+  name: "B\xC3\xA1cs-Kiskun"
+  type: county
+- code: HU-BA
+  name: Baranya
+  type: county
+- code: HU-BE
+  name: "B\xC3\xA9k\xC3\xA9s"
+  type: county
+- code: HU-BZ
+  name: "Borsod-Aba\xC3\xBAj-Zempl\xC3\xA9n"
+  type: county
+- code: HU-CS
+  name: "Csongr\xC3\xA1d"
+  type: county
+- code: HU-FE
+  name: "Fej\xC3\xA9r"
+  type: county
+- code: HU-GS
+  name: "Gy\xC5\x91r-Moson-Sopron"
+  type: county
+- code: HU-HB
+  name: "Hajd\xC3\xBA-Bihar"
+  type: county
+- code: HU-HE
+  name: Heves
+  type: county
+- code: HU-JN
+  name: "J\xC3\xA1sz-Nagykun-Szolnok"
+  type: county
+- code: HU-KE
+  name: "Kom\xC3\xA1rom-Esztergom"
+  type: county
+- code: HU-NO
+  name: "N\xC3\xB3gr\xC3\xA1d"
+  type: county
+- code: HU-PE
+  name: Pest
+  type: county
+- code: HU-SO
+  name: Somogy
+  type: county
+- code: HU-SZ
+  name: "Szabolcs-Szatm\xC3\xA1r-Bereg"
+  type: county
+- code: HU-TO
+  name: Tolna
+  type: county
+- code: HU-VA
+  name: Vas
+  type: county
+- code: HU-VE
+  name: "Veszpr\xC3\xA9m (county)"
+  type: county
+- code: HU-ZA
+  name: Zala
+  type: county
+- code: HU-BC
+  name: "B\xC3\xA9k\xC3\xA9scsaba"
+  type: city with county rights
+- code: HU-DE
+  name: Debrecen
+  type: city with county rights
+- code: HU-DU
+  name: "Duna\xC3\xBAjv\xC3\xA1ros"
+  type: city with county rights
+- code: HU-EG
+  name: Eger
+  type: city with county rights
+- code: HU-ER
+  name: "\xC3\x89rd"
+  type: city with county rights
+- code: HU-GY
+  name: "Gy\xC5\x91r"
+  type: city with county rights
+- code: HU-HV
+  name: "H\xC3\xB3dmez\xC5\x91v\xC3\xA1s\xC3\xA1rhely"
+  type: city with county rights
+- code: HU-KV
+  name: "Kaposv\xC3\xA1r"
+  type: city with county rights
+- code: HU-KM
+  name: "Kecskem\xC3\xA9t"
+  type: city with county rights
+- code: HU-MI
+  name: Miskolc
+  type: city with county rights
+- code: HU-NK
+  name: Nagykanizsa
+  type: city with county rights
+- code: HU-NY
+  name: "Ny\xC3\xADregyh\xC3\xA1za"
+  type: city with county rights
+- code: HU-PS
+  name: "P\xC3\xA9cs"
+  type: city with county rights
+- code: HU-ST
+  name: "Salg\xC3\xB3tarj\xC3\xA1n"
+  type: city with county rights
+- code: HU-SN
+  name: Sopron
+  type: city with county rights
+- code: HU-SD
+  name: Szeged
+  type: city with county rights
+- code: HU-SF
+  name: "Sz\xC3\xA9kesfeh\xC3\xA9rv\xC3\xA1r"
+  type: city with county rights
+- code: HU-SS
+  name: "Szeksz\xC3\xA1rd"
+  type: city with county rights
+- code: HU-SK
+  name: Szolnok
+  type: city with county rights
+- code: HU-SH
+  name: Szombathely
+  type: city with county rights
+- code: HU-TB
+  name: "Tatab\xC3\xA1nya"
+  type: city with county rights
+- code: HU-VM
+  name: "Veszpr\xC3\xA9m"
+  type: city with county rights
+- code: HU-ZE
+  name: Zalaegerszeg
+  type: city with county rights
+- code: HU-BU
+  name: Budapest
+  type: capital city

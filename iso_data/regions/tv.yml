@@ -1,0 +1,25 @@
+--- 
+- code: TV-FUN
+  name: Funafuti
+  type: town council
+- code: TV-NMG
+  name: Nanumanga
+  type: island council
+- code: TV-NMA
+  name: Nanumea
+  type: island council
+- code: TV-NIT
+  name: Niutao
+  type: island council
+- code: TV-NIU
+  name: Nui
+  type: island council
+- code: TV-NKF
+  name: Nukufetau
+  type: island council
+- code: TV-NKL
+  name: Nukulaelae
+  type: island council
+- code: TV-VAI
+  name: Vaitupu
+  type: island council
