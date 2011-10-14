@@ -7,7 +7,7 @@ describe Carmen::World do
   end
 
   it 'has 200 subregions' do
-    Carmen::World.subregions.size.must_equal(252)
+    Carmen::World.subregions.size.must_equal(249)
   end
 
 end

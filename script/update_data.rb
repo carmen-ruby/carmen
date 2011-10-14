@@ -40,7 +40,8 @@ doc.xpath('//iso_3166_entry').each do |country|
     'numeric_code'  => country['numeric_code'],
     'common_name'   => country['common_name'],
     'name'          => country['name'],
-    'official_name' => country['official_name']
+    'official_name' => country['official_name'],
+    'type'          => 'country'
   }
 end
 

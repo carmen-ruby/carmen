@@ -18,5 +18,5 @@ module Carmen
     attr_accessor :data_path
   end
 
-  self.data_path = Pathname.new(File.expand_path('../../data', __FILE__))
+  self.data_path = Pathname.new(File.expand_path('../../iso_data', __FILE__))
 end

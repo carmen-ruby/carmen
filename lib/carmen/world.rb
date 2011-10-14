@@ -2,5 +2,6 @@ require 'carmen/region'
 require 'carmen/region'
 
 module Carmen
-  World = Region.new(:world, 'World', nil)
+  World = Region.new('type' => :world,
+                     'name' => 'World')
 end

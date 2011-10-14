@@ -7,8 +7,16 @@ module Carmen
     #
     # Returns a region with the supplied code, or nil ir none is found.
     def coded(code)
+      attribute = case code.to_s.size
+      when 2
+        :alpha_2_code
+      when 3
+        :alpha_3_code
+      else
+        fail "coded only accepts 2 or 3 character codes"
+      end
       subregions.find do |region|
-        region.code == code
+        region.send(attribute) == code
       end
     end
 
