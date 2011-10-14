@@ -95,14 +95,10 @@ Carmen ships with replacements for state_select and country_select. Usage is sim
 * Split the Rails-specific view helpers out into a separate gem (carmen-rails)
 * Move regex matching into an optional module.
 
+
 == Changelog
 
 See CHANGELOG.md
-
-
-== Development notes
-
-The plugin does not require rubygems anywhere in the test or libraries, so if you are having trouble with load errors running the tests, prepend your command with RUBYOPT=rubygems. {More info}[http://tomayko.com/writings/require-rubygems-antipattern].
 
 
 == Credits
