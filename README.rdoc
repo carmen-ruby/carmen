@@ -16,7 +16,7 @@ If you're in Rails 2.3 or earlier, place this in your environment.rb:
 
 If you're in Rails 3, put this in your Gemfile:
 
-  gem "carmen"
+  gem "carmen", :require => 'carmen'
 
 
 == Get a list of all countries
