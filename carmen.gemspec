@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{carmen}
-  s.version = "0.2.7"
+  s.version = "0.2.8"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jim Benton"]
@@ -32,6 +32,7 @@ Gem::Specification.new do |s|
     "data/countries/jp.yml",
     "data/countries/nl.yml",
     "data/countries/pl.yml",
+    "data/countries/ru.yml",
     "data/countries/sk.yml",
     "data/states/au.yml",
     "data/states/br.yml",
