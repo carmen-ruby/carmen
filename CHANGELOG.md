@@ -1,4 +1,5 @@
 ### master
+* Fall back to default locale if selected locale is missing (twinge)
 * Added Russian country translations (grlm)
 * Added South Sudan as a country (edshadi)
 * Renamed Libyan Arab Jamahiriya to Libya (mdimas)
