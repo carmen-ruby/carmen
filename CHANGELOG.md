@@ -1,4 +1,5 @@
 ### master
+* Added Russian country translations (grlm)
 * Added South Sudan as a country (edshadi)
 * Renamed Libyan Arab Jamahiriya to Libya (mdimas)
 * Fixed an issue where trying find a country for a blank string would
