@@ -6,8 +6,8 @@ describe Carmen::World do
     Carmen::World.is_a?(Carmen::Region).must_equal(true)
   end
 
-  it 'has 200 subregions' do
-    Carmen::World.subregions.size.must_equal(249)
+  it 'has 3 subregions' do
+    Carmen::World.subregions.size.must_equal(3)
   end
 
 end

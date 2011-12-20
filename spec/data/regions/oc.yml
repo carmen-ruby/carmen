@@ -1,0 +1,8 @@
+---
+- code: OC-01
+  name: Airstrip One
+  type: providence
+  subregions:
+  - code: OC-LO
+    name: London
+    type: city

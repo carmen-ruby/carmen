@@ -22,6 +22,7 @@ module Carmen
     end
 
     def subregions
+      return [] unless subregions?
       @subregions ||= load_subregions
     end
 
