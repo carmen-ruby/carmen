@@ -1,4 +1,7 @@
-### master
+### 0.2.9
+* Preserve order of priority_countries in country_select (castiglione)
+* Add Finnish localization (marjakapyaho)
+* Update a few contru names to match ISO naming (belt)
 * Fall back to default locale if selected locale is missing (twinge)
 * Added Russian country translations (grlm)
 * Added South Sudan as a country (edshadi)
