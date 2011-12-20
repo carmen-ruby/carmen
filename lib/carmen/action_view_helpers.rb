@@ -28,6 +28,7 @@ module ActionView
             priority_country_codes.include?(code)
           end
           unless priority_countries.empty?
+            priority_countries = priority_countries.sort_by { |name, code| priority_country_codes.index(code) }
             country_options += options_for_select(priority_countries, selected)
             country_options += "\n<option value=\"\" disabled=\"disabled\">-------------</option>\n"
           end
