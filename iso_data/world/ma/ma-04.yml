@@ -1,0 +1,19 @@
+--- 
+- code: MA-BER
+  name: Berkane
+  type: province
+- code: MA-FIG
+  name: Figuig
+  type: province
+- code: MA-JRA
+  name: Jrada
+  type: province
+- code: MA-NAD
+  name: Nador
+  type: province
+- code: MA-TAI
+  name: Taourirt
+  type: province
+- code: MA-OUJ
+  name: Oujda-Angad
+  type: prefecture

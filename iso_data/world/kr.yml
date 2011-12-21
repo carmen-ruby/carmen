@@ -1,0 +1,49 @@
+--- 
+- code: KR-11
+  name: Seoul Teugbyeolsi
+  type: capital metropolitan city
+- code: KR-26
+  name: Busan Gwang'yeogsi
+  type: metropolitan cities
+- code: KR-27
+  name: Daegu Gwang'yeogsi
+  type: metropolitan cities
+- code: KR-30
+  name: Daejeon Gwang'yeogsi
+  type: metropolitan cities
+- code: KR-29
+  name: Gwangju Gwang'yeogsi
+  type: metropolitan cities
+- code: KR-28
+  name: Incheon Gwang'yeogsi
+  type: metropolitan cities
+- code: KR-31
+  name: Ulsan Gwang'yeogsi
+  type: metropolitan cities
+- code: KR-43
+  name: Chungcheongbukdo
+  type: province
+- code: KR-44
+  name: Chungcheongnamdo
+  type: province
+- code: KR-42
+  name: Gang'weondo
+  type: province
+- code: KR-41
+  name: Gyeonggido
+  type: province
+- code: KR-47
+  name: Gyeongsangbukdo
+  type: province
+- code: KR-48
+  name: Gyeongsangnamdo
+  type: province
+- code: KR-49
+  name: Jejudo
+  type: province
+- code: KR-45
+  name: Jeonrabukdo
+  type: province
+- code: KR-46
+  name: Jeonranamdo
+  type: province

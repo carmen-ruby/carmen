@@ -1,0 +1,13 @@
+--- 
+- code: IT-GO
+  name: Gorizia
+  type: province
+- code: IT-PN
+  name: Pordenone
+  type: province
+- code: IT-TS
+  name: Trieste
+  type: province
+- code: IT-UD
+  name: Udine
+  type: province

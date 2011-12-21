@@ -1,0 +1,46 @@
+--- 
+- code: CV-BR
+  name: Brava
+  type: municipality
+- code: CV-MA
+  name: Maio
+  type: municipality
+- code: CV-MO
+  name: Mosteiros
+  type: municipality
+- code: CV-PR
+  name: Praia
+  type: municipality
+- code: CV-RS
+  name: Ribeira Grande de Santiago
+  type: municipality
+- code: CV-CA
+  name: Santa Catarina
+  type: municipality
+- code: CV-CF
+  name: Santa Catarina de Fogo
+  type: municipality
+- code: CV-CR
+  name: Santa Cruz
+  type: municipality
+- code: CV-SD
+  name: "S\xC3\xA3o Domingos"
+  type: municipality
+- code: CV-SF
+  name: "S\xC3\xA3o Filipe"
+  type: municipality
+- code: CV-SL
+  name: "S\xC3\xA3o Louren\xC3\xA7o dos \xC3\x93rg\xC3\xA3os"
+  type: municipality
+- code: CV-SM
+  name: "S\xC3\xA3o Miguel"
+  type: municipality
+- code: CV-SS
+  name: "S\xC3\xA3o Salvador do Mundo"
+  type: municipality
+- code: CV-TA
+  name: Tarrafal
+  type: municipality
+- code: CV-TS
+  name: "Tarrafal de S\xC3\xA3o Nicolau"
+  type: municipality

@@ -1,0 +1,13 @@
+--- 
+- code: ES-C
+  name: "A Coru\xC3\xB1a"
+  type: province
+- code: ES-LU
+  name: Lugo
+  type: province
+- code: ES-OR
+  name: Ourense
+  type: province
+- code: ES-PO
+  name: Pontevedra
+  type: province

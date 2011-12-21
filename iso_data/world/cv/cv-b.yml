@@ -1,0 +1,22 @@
+--- 
+- code: CV-BV
+  name: Boa Vista
+  type: municipality
+- code: CV-PA
+  name: Paul
+  type: municipality
+- code: CV-PN
+  name: Porto Novo
+  type: municipality
+- code: CV-RB
+  name: Ribeira Brava
+  type: municipality
+- code: CV-RG
+  name: Ribeira Grande
+  type: municipality
+- code: CV-SL
+  name: Sal
+  type: municipality
+- code: CV-SV
+  name: "S\xC3\xA3o Vicente"
+  type: municipality

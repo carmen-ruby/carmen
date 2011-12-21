@@ -1,0 +1,13 @@
+--- 
+- code: PH-BUK
+  name: Bukidnon
+  type: province
+- code: PH-CAM
+  name: Camiguin
+  type: province
+- code: PH-MSC
+  name: Misamis Occidental
+  type: province
+- code: PH-MSR
+  name: Misamis Oriental
+  type: province

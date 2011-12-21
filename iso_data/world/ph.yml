@@ -1,0 +1,52 @@
+--- 
+- code: PH-14
+  name: Autonomous Region in Muslim Mindanao (ARMM)
+  type: region
+- code: PH-05
+  name: Bicol (Region V)
+  type: region
+- code: PH-02
+  name: Cagayan Valley (Region II)
+  type: region
+- code: PH-40
+  name: CALABARZON (Region IV-A)
+  type: region
+- code: PH-13
+  name: Caraga (Region XIII)
+  type: region
+- code: PH-03
+  name: Central Luzon (Region III)
+  type: region
+- code: PH-07
+  name: Central Visayas (Region VII)
+  type: region
+- code: PH-15
+  name: Cordillera Administrative Region (CAR)
+  type: region
+- code: PH-08
+  name: Eastern Visayas (Region VIII)
+  type: region
+- code: PH-01
+  name: Ilocos (Region I)
+  type: region
+- code: PH-41
+  name: MIMAROPA (Region IV-B)
+  type: region
+- code: PH-00
+  name: National Capital Region
+  type: region
+- code: PH-10
+  name: Northern Mindanao (Region X)
+  type: region
+- code: PH-11
+  name: Davao (Region XI)
+  type: region
+- code: PH-12
+  name: Soccsksargen (Region XII)
+  type: region
+- code: PH-06
+  name: Western Visayas (Region VI)
+  type: region
+- code: PH-09
+  name: Zamboanga Peninsula (Region IX)
+  type: region

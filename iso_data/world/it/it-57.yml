@@ -1,0 +1,16 @@
+--- 
+- code: IT-AN
+  name: Ancona
+  type: province
+- code: IT-AP
+  name: Ascoli Piceno
+  type: province
+- code: IT-FM
+  name: Fermo
+  type: province
+- code: IT-MC
+  name: Macerata
+  type: province
+- code: IT-PU
+  name: Pesaro e Urbino
+  type: province

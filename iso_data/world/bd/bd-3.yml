@@ -1,0 +1,52 @@
+--- 
+- code: BD-13
+  name: Dhaka zila
+  type: district
+- code: BD-15
+  name: Faridpur zila
+  type: district
+- code: BD-18
+  name: Gazipur zila
+  type: district
+- code: BD-17
+  name: Gopalganj zila
+  type: district
+- code: BD-21
+  name: Jamalpur zila
+  type: district
+- code: BD-26
+  name: Kishorganj zila
+  type: district
+- code: BD-36
+  name: Madaripur zila
+  type: district
+- code: BD-33
+  name: Manikganj zila
+  type: district
+- code: BD-35
+  name: Munshiganj zila
+  type: district
+- code: BD-34
+  name: Mymensingh zila
+  type: district
+- code: BD-40
+  name: Narayanganj zila
+  type: district
+- code: BD-42
+  name: Narsingdi zila
+  type: district
+- code: BD-41
+  name: Netrakona zila
+  type: district
+- code: BD-53
+  name: Rajbari zila
+  type: district
+- code: BD-62
+  name: Shariatpur zila
+  type: district
+- code: BD-57
+  name: Sherpur zila
+  type: district
+- code: BD-63
+  name: Tangail zila
+  type: district

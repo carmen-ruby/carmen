@@ -1,0 +1,10 @@
+--- 
+- code: LU-D
+  name: Diekirch
+  type: district
+- code: LU-G
+  name: Grevenmacher
+  type: district
+- code: LU-L
+  name: Luxembourg
+  type: district

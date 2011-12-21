@@ -1,0 +1,13 @@
+--- 
+- code: AL-DV
+  name: Devoll
+  type: district
+- code: AL-ER
+  name: "Kolonj\xC3\xAB"
+  type: district
+- code: AL-KO
+  name: "Kor\xC3\xA7\xC3\xAB"
+  type: district
+- code: AL-PG
+  name: Pogradec
+  type: district

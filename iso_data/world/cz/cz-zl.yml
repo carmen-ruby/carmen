@@ -1,0 +1,13 @@
+--- 
+- code: CZ-721
+  name: "Krom\xC4\x95\xC5\x99\xC3\xAD\xC5\xBE"
+  type: district
+- code: CZ-722
+  name: "Uhersk\xC3\xA9 Hradi\xC5\xA1t\xC4\x95"
+  type: district
+- code: CZ-723
+  name: "Vset\xC3\xADn"
+  type: district
+- code: CZ-724
+  name: "Zl\xC3\xADn"
+  type: district

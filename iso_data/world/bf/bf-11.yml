@@ -1,0 +1,10 @@
+--- 
+- code: BF-GAN
+  name: Ganzourgou
+  type: province
+- code: BF-KOW
+  name: "Kourw\xC3\xA9ogo"
+  type: province
+- code: BF-OUB
+  name: Oubritenga
+  type: province

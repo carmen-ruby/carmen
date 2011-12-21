@@ -1,0 +1,61 @@
+--- 
+- code: YE-AB
+  name: "Aby\xC4\x81n"
+  type: governorate
+- code: YE-AD
+  name: "'Adan"
+  type: governorate
+- code: YE-DA
+  name: "Ad\xCC\xA7 D\xCC\xA7\xC4\x81li\xE2\x80\x98"
+  type: governorate
+- code: YE-BA
+  name: "Al Bay\xE1\xB8\x91\xC4\x81'"
+  type: governorate
+- code: YE-MU
+  name: "Al \xE1\xB8\xA8udaydah"
+  type: governorate
+- code: YE-JA
+  name: Al Jawf
+  type: governorate
+- code: YE-MR
+  name: Al Mahrah
+  type: governorate
+- code: YE-MW
+  name: "Al Ma\xE1\xB8\xA9w\xC4\xABt"
+  type: governorate
+- code: YE-AM
+  name: "'Amr\xC4\x81n"
+  type: governorate
+- code: YE-DH
+  name: "Dham\xC4\x81r"
+  type: governorate
+- code: YE-HD
+  name: "\xE1\xB8\xA8a\xE1\xB8\x91ramawt"
+  type: governorate
+- code: YE-HJ
+  name: "\xE1\xB8\xA8ajjah"
+  type: governorate
+- code: YE-IB
+  name: Ibb
+  type: governorate
+- code: YE-LA
+  name: "La\xE1\xB8\xA9ij"
+  type: governorate
+- code: YE-MA
+  name: Ma'rib
+  type: governorate
+- code: YE-RA
+  name: Raymah
+  type: governorate
+- code: YE-SD
+  name: "\xC5\x9Ea'dah"
+  type: governorate
+- code: YE-SN
+  name: "\xC5\x9Ean'\xC4\x81'"
+  type: governorate
+- code: YE-SH
+  name: Shabwah
+  type: governorate
+- code: YE-TA
+  name: "T\xC4\x81'izz"
+  type: governorate

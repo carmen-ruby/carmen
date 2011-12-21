@@ -1,0 +1,16 @@
+--- 
+- code: IE-G
+  name: Galway
+  type: county
+- code: IE-LM
+  name: Leitrim
+  type: county
+- code: IE-MO
+  name: Mayo
+  type: county
+- code: IE-RN
+  name: Roscommon
+  type: county
+- code: IE-SO
+  name: Sligo
+  type: county

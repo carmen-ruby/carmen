@@ -1,0 +1,10 @@
+--- 
+- code: FR-02
+  name: Aisne
+  type: metropolitan department
+- code: FR-60
+  name: Oise
+  type: metropolitan department
+- code: FR-80
+  name: Somme
+  type: metropolitan department

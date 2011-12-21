@@ -1,0 +1,34 @@
+--- 
+- code: AM-ER
+  name: Erevan
+  type: province
+- code: AM-AG
+  name: Aragacotn
+  type: province
+- code: AM-AR
+  name: Ararat
+  type: province
+- code: AM-AV
+  name: Armavir
+  type: province
+- code: AM-GR
+  name: Gegarkunik'
+  type: province
+- code: AM-KT
+  name: Kotayk'
+  type: province
+- code: AM-LO
+  name: Lory
+  type: province
+- code: AM-SH
+  name: Sirak
+  type: province
+- code: AM-SU
+  name: Syunik'
+  type: province
+- code: AM-TV
+  name: Tavus
+  type: province
+- code: AM-VD
+  name: Vayoc Jor
+  type: province

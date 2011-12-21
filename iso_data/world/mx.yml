@@ -1,0 +1,97 @@
+--- 
+- code: MX-DIF
+  name: Distrito Federal
+  type: federal district
+- code: MX-AGU
+  name: Aguascalientes
+  type: state
+- code: MX-BCN
+  name: Baja California
+  type: state
+- code: MX-BCS
+  name: Baja California Sur
+  type: state
+- code: MX-CAM
+  name: Campeche
+  type: state
+- code: MX-COA
+  name: Coahuila
+  type: state
+- code: MX-COL
+  name: Colima
+  type: state
+- code: MX-CHP
+  name: Chiapas
+  type: state
+- code: MX-CHH
+  name: Chihuahua
+  type: state
+- code: MX-DUR
+  name: Durango
+  type: state
+- code: MX-GUA
+  name: Guanajuato
+  type: state
+- code: MX-GRO
+  name: Guerrero
+  type: state
+- code: MX-HID
+  name: Hidalgo
+  type: state
+- code: MX-JAL
+  name: Jalisco
+  type: state
+- code: MX-MEX
+  name: "M\xC3\xA9xico"
+  type: state
+- code: MX-MIC
+  name: "Michoac\xC3\xA1n"
+  type: state
+- code: MX-MOR
+  name: Morelos
+  type: state
+- code: MX-NAY
+  name: Nayarit
+  type: state
+- code: MX-NLE
+  name: "Nuevo Le\xC3\xB3n"
+  type: state
+- code: MX-OAX
+  name: Oaxaca
+  type: state
+- code: MX-PUE
+  name: Puebla
+  type: state
+- code: MX-QUE
+  name: "Quer\xC3\xA9taro"
+  type: state
+- code: MX-ROO
+  name: Quintana Roo
+  type: state
+- code: MX-SLP
+  name: "San Luis Potos\xC3\xAD"
+  type: state
+- code: MX-SIN
+  name: Sinaloa
+  type: state
+- code: MX-SON
+  name: Sonora
+  type: state
+- code: MX-TAB
+  name: Tabasco
+  type: state
+- code: MX-TAM
+  name: Tamaulipas
+  type: state
+- code: MX-TLA
+  name: Tlaxcala
+  type: state
+- code: MX-VER
+  name: Veracruz
+  type: state
+- code: MX-YUC
+  name: "Yucat\xC3\xA1n"
+  type: state
+- code: MX-ZAC
+  name: Zacatecas
+  type: state

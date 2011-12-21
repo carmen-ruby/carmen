@@ -1,0 +1,10 @@
+--- 
+- code: AL-MM
+  name: "Mal\xC3\xABsi e Madhe"
+  type: district
+- code: AL-PU
+  name: "Puk\xC3\xAB"
+  type: district
+- code: AL-SH
+  name: "Shkod\xC3\xABr"
+  type: district

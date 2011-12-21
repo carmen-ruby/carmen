@@ -1,0 +1,100 @@
+--- 
+- code: LV-AI
+  name: "Aizkraukle Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-AL
+  name: "Al\xC5\xABksne Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-BL
+  name: "Balvi Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-BU
+  name: "Bauska Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-CE
+  name: "C\xC4\x93sis Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-DA
+  name: "Daugavpils Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-DO
+  name: "Dobele Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-GU
+  name: "Gulbene Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-JK
+  name: "J\xC4\x93kabpils Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-JL
+  name: "Jelgava Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-KR
+  name: "Kr\xC4\x81slava Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-KU
+  name: "Kuld\xC4\xABga Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-LE
+  name: "Liep\xC4\x81ja Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-LM
+  name: "Limba\xC5\xBEi Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-LU
+  name: "Ludza Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-MA
+  name: "Madona Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-OG
+  name: "Ogre Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-PR
+  name: "Prei\xC4\xBCi Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-RE
+  name: "R\xC4\x93zekne Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-RI
+  name: "R\xC4\xABga Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-SA
+  name: "Saldus Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-TA
+  name: "Talsi Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-TU
+  name: "Tukums Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-VK
+  name: "Valka Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-VM
+  name: "Valmiera Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-VE
+  name: "Ventspils Apri\xC5\x86\xC4\xB7is"
+  type: district
+- code: LV-DGV
+  name: Daugavpils
+  type: city
+- code: LV-JEL
+  name: Jelgava
+  type: city
+- code: LV-JUR
+  name: "J\xC5\xABrmala"
+  type: city
+- code: LV-LPX
+  name: "Liep\xC4\x81ja"
+  type: city
+- code: LV-REZ
+  name: "R\xC4\x93zekne"
+  type: city
+- code: LV-RIX
+  name: "R\xC4\xABga"
+  type: city
+- code: LV-VEN
+  name: Ventspils
+  type: city

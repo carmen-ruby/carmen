@@ -1,0 +1,40 @@
+--- 
+- code: CA-AB
+  name: Alberta
+  type: province
+- code: CA-BC
+  name: British Columbia
+  type: province
+- code: CA-MB
+  name: Manitoba
+  type: province
+- code: CA-NB
+  name: New Brunswick
+  type: province
+- code: CA-NL
+  name: Newfoundland and Labrador
+  type: province
+- code: CA-NS
+  name: Nova Scotia
+  type: province
+- code: CA-ON
+  name: Ontario
+  type: province
+- code: CA-PE
+  name: Prince Edward Island
+  type: province
+- code: CA-QC
+  name: Quebec
+  type: province
+- code: CA-SK
+  name: Saskatchewan
+  type: province
+- code: CA-NT
+  name: Northwest Territories
+  type: territory
+- code: CA-NU
+  name: Nunavut
+  type: territory
+- code: CA-YT
+  name: Yukon Territory
+  type: territory

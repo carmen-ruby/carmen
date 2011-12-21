@@ -1,0 +1,19 @@
+--- 
+- code: PH-AKL
+  name: Aklan
+  type: province
+- code: PH-ANT
+  name: Antique
+  type: province
+- code: PH-CAP
+  name: Capiz
+  type: province
+- code: PH-GUI
+  name: Guimaras
+  type: province
+- code: PH-ILI
+  name: Iloilo
+  type: province
+- code: PH-NEC
+  name: Negroe Occidental
+  type: province

@@ -1,0 +1,10 @@
+--- 
+- code: AL-BU
+  name: "Bulqiz\xC3\xAB"
+  type: district
+- code: AL-DI
+  name: "Dib\xC3\xABr"
+  type: district
+- code: AL-MT
+  name: Mat
+  type: district

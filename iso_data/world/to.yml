@@ -1,0 +1,16 @@
+--- 
+- code: TO-01
+  name: "'Eua"
+  type: division
+- code: TO-02
+  name: Ha'apai
+  type: division
+- code: TO-03
+  name: Niuas
+  type: division
+- code: TO-04
+  name: Tongatapu
+  type: division
+- code: TO-05
+  name: Vava'u
+  type: division

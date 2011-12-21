@@ -1,0 +1,172 @@
+--- 
+- code: US-AL
+  name: Alabama
+  type: state
+- code: US-AK
+  name: Alaska
+  type: state
+- code: US-AZ
+  name: Arizona
+  type: state
+- code: US-AR
+  name: Arkansas
+  type: state
+- code: US-CA
+  name: California
+  type: state
+- code: US-CO
+  name: Colorado
+  type: state
+- code: US-CT
+  name: Connecticut
+  type: state
+- code: US-DE
+  name: Delaware
+  type: state
+- code: US-FL
+  name: Florida
+  type: state
+- code: US-GA
+  name: Georgia
+  type: state
+- code: US-HI
+  name: Hawaii
+  type: state
+- code: US-ID
+  name: Idaho
+  type: state
+- code: US-IL
+  name: Illinois
+  type: state
+- code: US-IN
+  name: Indiana
+  type: state
+- code: US-IA
+  name: Iowa
+  type: state
+- code: US-KS
+  name: Kansas
+  type: state
+- code: US-KY
+  name: Kentucky
+  type: state
+- code: US-LA
+  name: Louisiana
+  type: state
+- code: US-ME
+  name: Maine
+  type: state
+- code: US-MD
+  name: Maryland
+  type: state
+- code: US-MA
+  name: Massachusetts
+  type: state
+- code: US-MI
+  name: Michigan
+  type: state
+- code: US-MN
+  name: Minnesota
+  type: state
+- code: US-MS
+  name: Mississippi
+  type: state
+- code: US-MO
+  name: Missouri
+  type: state
+- code: US-MT
+  name: Montana
+  type: state
+- code: US-NE
+  name: Nebraska
+  type: state
+- code: US-NV
+  name: Nevada
+  type: state
+- code: US-NH
+  name: New Hampshire
+  type: state
+- code: US-NJ
+  name: New Jersey
+  type: state
+- code: US-NM
+  name: New Mexico
+  type: state
+- code: US-NY
+  name: New York
+  type: state
+- code: US-NC
+  name: North Carolina
+  type: state
+- code: US-ND
+  name: North Dakota
+  type: state
+- code: US-OH
+  name: Ohio
+  type: state
+- code: US-OK
+  name: Oklahoma
+  type: state
+- code: US-OR
+  name: Oregon
+  type: state
+- code: US-PA
+  name: Pennsylvania
+  type: state
+- code: US-RI
+  name: Rhode Island
+  type: state
+- code: US-SC
+  name: South Carolina
+  type: state
+- code: US-SD
+  name: South Dakota
+  type: state
+- code: US-TN
+  name: Tennessee
+  type: state
+- code: US-TX
+  name: Texas
+  type: state
+- code: US-UT
+  name: Utah
+  type: state
+- code: US-VT
+  name: Vermont
+  type: state
+- code: US-VA
+  name: Virginia
+  type: state
+- code: US-WA
+  name: Washington
+  type: state
+- code: US-WV
+  name: West Virginia
+  type: state
+- code: US-WI
+  name: Wisconsin
+  type: state
+- code: US-WY
+  name: Wyoming
+  type: state
+- code: US-DC
+  name: District of Columbia
+  type: district
+- code: US-AS
+  name: American Samoa
+  type: outlying area
+- code: US-GU
+  name: Guam
+  type: outlying area
+- code: US-MP
+  name: Northern Mariana Islands
+  type: outlying area
+- code: US-PR
+  name: Puerto Rico
+  type: outlying area
+- code: US-UM
+  name: United States Minor Outlying Islands
+  type: outlying area
+- code: US-VI
+  name: Virgin Islands
+  type: outlying area

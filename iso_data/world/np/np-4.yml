@@ -1,0 +1,10 @@
+--- 
+- code: NP-KO
+  name: Kosi
+  type: zone
+- code: NP-ME
+  name: Mechi
+  type: zone
+- code: NP-SA
+  name: Sagarmatha
+  type: zone

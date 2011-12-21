@@ -1,0 +1,22 @@
+--- 
+- code: GR-64
+  name: Chalkidiki
+  type: department
+- code: GR-53
+  name: Imathia
+  type: department
+- code: GR-57
+  name: Kilkis
+  type: department
+- code: GR-59
+  name: Pella
+  type: department
+- code: GR-61
+  name: Pieria
+  type: department
+- code: GR-62
+  name: Serres
+  type: department
+- code: GR-54
+  name: Thessaloniki
+  type: department

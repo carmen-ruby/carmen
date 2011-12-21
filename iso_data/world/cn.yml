@@ -1,0 +1,103 @@
+--- 
+- code: CN-11
+  name: Beijing
+  type: municipality
+- code: CN-50
+  name: Chongqing
+  type: municipality
+- code: CN-31
+  name: Shanghai
+  type: municipality
+- code: CN-12
+  name: Tianjin
+  type: municipality
+- code: CN-34
+  name: Anhui
+  type: province
+- code: CN-35
+  name: Fujian
+  type: province
+- code: CN-62
+  name: Gansu
+  type: province
+- code: CN-44
+  name: Guangdong
+  type: province
+- code: CN-52
+  name: Guizhou
+  type: province
+- code: CN-46
+  name: Hainan
+  type: province
+- code: CN-13
+  name: Hebei
+  type: province
+- code: CN-23
+  name: Heilongjiang
+  type: province
+- code: CN-41
+  name: Henan
+  type: province
+- code: CN-42
+  name: Hubei
+  type: province
+- code: CN-43
+  name: Hunan
+  type: province
+- code: CN-32
+  name: Jiangsu
+  type: province
+- code: CN-36
+  name: Jiangxi
+  type: province
+- code: CN-22
+  name: Jilin
+  type: province
+- code: CN-21
+  name: Liaoning
+  type: province
+- code: CN-63
+  name: Qinghai
+  type: province
+- code: CN-61
+  name: Shaanxi
+  type: province
+- code: CN-37
+  name: Shandong
+  type: province
+- code: CN-14
+  name: Shanxi
+  type: province
+- code: CN-51
+  name: Sichuan
+  type: province
+- code: CN-71
+  name: Taiwan
+  type: province
+- code: CN-53
+  name: Yunnan
+  type: province
+- code: CN-33
+  name: Zhejiang
+  type: province
+- code: CN-45
+  name: Guangxi
+  type: autonomous region
+- code: CN-15
+  name: Nei Mongol
+  type: autonomous region
+- code: CN-64
+  name: Ningxia
+  type: autonomous region
+- code: CN-65
+  name: Xinjiang
+  type: autonomous region
+- code: CN-54
+  name: Xizang
+  type: autonomous region
+- code: CN-91
+  name: Xianggang (Hong-Kong)
+  type: special administrative region
+- code: CN-92
+  name: Aomen (Macau)
+  type: special administrative region

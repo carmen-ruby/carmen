@@ -1,0 +1,10 @@
+--- 
+- code: ID-BA
+  name: Bali
+  type: province
+- code: ID-NB
+  name: Nusa Tenggara Barat
+  type: province
+- code: ID-NT
+  name: Nusa Tenggara Timur
+  type: province

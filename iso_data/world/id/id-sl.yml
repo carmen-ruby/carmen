@@ -1,0 +1,19 @@
+--- 
+- code: ID-GO
+  name: Gorontalo
+  type: province
+- code: ID-SR
+  name: Sulawesi Barat
+  type: province
+- code: ID-SN
+  name: Sulawesi Selatan
+  type: province
+- code: ID-ST
+  name: Sulawesi Tengah
+  type: province
+- code: ID-SG
+  name: Sulawesi Tenggara
+  type: province
+- code: ID-SA
+  name: Sulawesi Utara
+  type: province

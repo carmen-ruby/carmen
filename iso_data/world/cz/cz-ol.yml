@@ -1,0 +1,16 @@
+--- 
+- code: CZ-711
+  name: "Jesen\xC3\xADk"
+  type: district
+- code: CZ-712
+  name: Olomouc
+  type: district
+- code: CZ-713
+  name: "Prost\xC4\x95jov"
+  type: district
+- code: CZ-714
+  name: "P\xC5\x99erov"
+  type: district
+- code: CZ-715
+  name: "\xC5\xA0umperk"
+  type: district

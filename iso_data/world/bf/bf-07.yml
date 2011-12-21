@@ -1,0 +1,10 @@
+--- 
+- code: BF-BAZ
+  name: "Baz\xC3\xA8ga"
+  type: province
+- code: BF-NAO
+  name: Naouri
+  type: province
+- code: BF-ZOU
+  name: "Zoundw\xC3\xA9ogo"
+  type: province

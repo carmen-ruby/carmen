@@ -1,0 +1,10 @@
+--- 
+- code: MW-C
+  name: Central Region
+  type: region
+- code: MW-N
+  name: Northern Region
+  type: region
+- code: MW-S
+  name: Southern Region
+  type: region

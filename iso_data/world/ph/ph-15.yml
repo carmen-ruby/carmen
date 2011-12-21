@@ -1,0 +1,19 @@
+--- 
+- code: PH-ABR
+  name: Abra
+  type: province
+- code: PH-APA
+  name: Apayao
+  type: province
+- code: PH-BEN
+  name: Benguet
+  type: province
+- code: PH-IFU
+  name: Ifugao
+  type: province
+- code: PH-KAL
+  name: Kalinga-Apayso
+  type: province
+- code: PH-MOU
+  name: Mountain Province
+  type: province

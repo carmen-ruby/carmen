@@ -1,0 +1,16 @@
+--- 
+- code: FJ-C
+  name: Central
+  type: division
+- code: FJ-E
+  name: Eastern
+  type: division
+- code: FJ-N
+  name: Northern
+  type: division
+- code: FJ-W
+  name: Western
+  type: division
+- code: FJ-R
+  name: Rotuma
+  type: dependency

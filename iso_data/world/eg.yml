@@ -1,0 +1,85 @@
+--- 
+- code: EG-DK
+  name: "Ad Daqahl\xC4\xAByah"
+  type: governorate
+- code: EG-BA
+  name: Al Bahr al Ahmar
+  type: governorate
+- code: EG-BH
+  name: Al Buhayrah
+  type: governorate
+- code: EG-FYM
+  name: "Al Fayy\xC5\xABm"
+  type: governorate
+- code: EG-GH
+  name: "Al Gharb\xC4\xAByah"
+  type: governorate
+- code: EG-ALX
+  name: "Al Iskandar\xC4\xAByah"
+  type: governorate
+- code: EG-IS
+  name: "Al Ism\xC4\x81`\xC4\xABl\xC4\xAByah"
+  type: governorate
+- code: EG-GZ
+  name: "Al J\xC4\xABzah"
+  type: governorate
+- code: EG-MNF
+  name: "Al Min\xC5\xABf\xC4\xAByah"
+  type: governorate
+- code: EG-MN
+  name: "Al Miny\xC4\x81"
+  type: governorate
+- code: EG-C
+  name: "Al Q\xC4\x81hirah"
+  type: governorate
+- code: EG-KB
+  name: "Al Qaly\xC5\xABb\xC4\xAByah"
+  type: governorate
+- code: EG-WAD
+  name: "Al W\xC4\x81d\xC4\xAB al Jad\xC4\xABd"
+  type: governorate
+- code: EG-SU
+  name: "As S\xC4\x81dis min Ukt\xC5\xABbar"
+  type: governorate
+- code: EG-SHR
+  name: "Ash Sharq\xC4\xAByah"
+  type: governorate
+- code: EG-SUZ
+  name: As Suways
+  type: governorate
+- code: EG-ASN
+  name: "Asw\xC4\x81n"
+  type: governorate
+- code: EG-AST
+  name: "Asy\xC5\xABt"
+  type: governorate
+- code: EG-BNS
+  name: "Ban\xC4\xAB Suwayf"
+  type: governorate
+- code: EG-PTS
+  name: "B\xC5\xABr Sa`\xC4\xABd"
+  type: governorate
+- code: EG-DT
+  name: "Dumy\xC4\x81t"
+  type: governorate
+- code: EG-HU
+  name: "H\xCC\xA7ulw\xC4\x81n"
+  type: governorate
+- code: EG-JS
+  name: "Jan\xC5\xABb S\xC4\xABn\xC4\x81'"
+  type: governorate
+- code: EG-KFS
+  name: Kafr ash Shaykh
+  type: governorate
+- code: EG-MT
+  name: "Matr\xC5\xABh"
+  type: governorate
+- code: EG-KN
+  name: "Qin\xC4\x81"
+  type: governorate
+- code: EG-SIN
+  name: "Shamal S\xC4\xABn\xC4\x81'"
+  type: governorate
+- code: EG-SHG
+  name: "S\xC5\xABh\xC4\x81j"
+  type: governorate

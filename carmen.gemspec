@@ -14,4 +14,5 @@ Gem::Specification.new do |s|
   s.files = Dir.glob("lib}**/*") + %w(MIT-LICENSE README.md CHANGELOG.md)
 
   s.add_development_dependency('minitest', ["= 2.6.1"])
+  s.add_development_dependency('nokogiri')
 end

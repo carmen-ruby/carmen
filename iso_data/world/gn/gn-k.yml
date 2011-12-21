@@ -1,0 +1,16 @@
+--- 
+- code: GN-KA
+  name: Kankan
+  type: prefecture
+- code: GN-KE
+  name: "K\xC3\xA9rouan\xC3\xA9"
+  type: prefecture
+- code: GN-KO
+  name: Kouroussa
+  type: prefecture
+- code: GN-MD
+  name: Mandiana
+  type: prefecture
+- code: GN-SI
+  name: Siguiri
+  type: prefecture

@@ -1,0 +1,13 @@
+--- 
+- code: PH-LAS
+  name: Lanao del Sur
+  type: province
+- code: PH-MAG
+  name: Maguindanao
+  type: province
+- code: PH-SLU
+  name: Sulu
+  type: province
+- code: PH-TAW
+  name: Tawi-Tawi
+  type: province

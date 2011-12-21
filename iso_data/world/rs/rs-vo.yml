@@ -1,0 +1,22 @@
+--- 
+- code: RS-06
+  name: "Ju\xC5\xBEnoba\xC4\x8Dki okrug"
+  type: district
+- code: RS-04
+  name: "Ju\xC5\xBEnobanatski okrug"
+  type: district
+- code: RS-01
+  name: "Severnoba\xC4\x8Dki okrug"
+  type: district
+- code: RS-03
+  name: Severnobanatski okrug
+  type: district
+- code: RS-02
+  name: Srednjebanatski okrug
+  type: district
+- code: RS-07
+  name: Sremski okrug
+  type: district
+- code: RS-05
+  name: "Zapadnoba\xC4\x8Dki okrug"
+  type: district

@@ -1,0 +1,16 @@
+--- 
+- code: MA-ASZ
+  name: Assa-Zag
+  type: province
+- code: MA-ESM
+  name: Es Smara (EH)
+  type: province
+- code: MA-GUE
+  name: Guelmim
+  type: province
+- code: MA-TNT
+  name: Tan-Tan
+  type: province
+- code: MA-TAT
+  name: Tata
+  type: province

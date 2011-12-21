@@ -1,0 +1,10 @@
+--- 
+- code: AL-BR
+  name: Berat
+  type: district
+- code: AL-KC
+  name: "Ku\xC3\xA7ov\xC3\xAB"
+  type: district
+- code: AL-SK
+  name: Skrapar
+  type: district

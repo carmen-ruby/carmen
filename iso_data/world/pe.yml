@@ -1,0 +1,79 @@
+--- 
+- code: PE-CAL
+  name: El Callao
+  type: constitutional province
+- code: PE-LMA
+  name: Municipalidad Metropolitana de Lima
+  type: municipality
+- code: PE-AMA
+  name: Amazonas
+  type: region
+- code: PE-ANC
+  name: Ancash
+  type: region
+- code: PE-APU
+  name: "Apur\xC3\xADmac"
+  type: region
+- code: PE-ARE
+  name: Arequipa
+  type: region
+- code: PE-AYA
+  name: Ayacucho
+  type: region
+- code: PE-CAJ
+  name: Cajamarca
+  type: region
+- code: PE-CUS
+  name: Cusco [Cuzco]
+  type: region
+- code: PE-HUV
+  name: Huancavelica
+  type: region
+- code: PE-HUC
+  name: "Hu\xC3\xA1nuco"
+  type: region
+- code: PE-ICA
+  name: Ica
+  type: region
+- code: PE-JUN
+  name: "Jun\xC3\xADn"
+  type: region
+- code: PE-LAL
+  name: La Libertad
+  type: region
+- code: PE-LAM
+  name: Lambayeque
+  type: region
+- code: PE-LIM
+  name: Lima
+  type: region
+- code: PE-LOR
+  name: Loreto
+  type: region
+- code: PE-MDD
+  name: Madre de Dios
+  type: region
+- code: PE-MOQ
+  name: Moquegua
+  type: region
+- code: PE-PAS
+  name: Pasco
+  type: region
+- code: PE-PIU
+  name: Piura
+  type: region
+- code: PE-PUN
+  name: Puno
+  type: region
+- code: PE-SAM
+  name: "San Mart\xC3\xADn"
+  type: region
+- code: PE-TAC
+  name: Tacna
+  type: region
+- code: PE-TUM
+  name: Tumbes
+  type: region
+- code: PE-UCA
+  name: Ucayali
+  type: region

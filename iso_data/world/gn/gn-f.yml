@@ -1,0 +1,13 @@
+--- 
+- code: GN-DB
+  name: Dabola
+  type: prefecture
+- code: GN-DI
+  name: Dinguiraye
+  type: prefecture
+- code: GN-FA
+  name: Faranah
+  type: prefecture
+- code: GN-KS
+  name: Kissidougou
+  type: prefecture

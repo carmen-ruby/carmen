@@ -1,0 +1,55 @@
+--- 
+- code: AO-BGO
+  name: Bengo
+  type: province
+- code: AO-BGU
+  name: Benguela
+  type: province
+- code: AO-BIE
+  name: "Bi\xC3\xA9"
+  type: province
+- code: AO-CAB
+  name: Cabinda
+  type: province
+- code: AO-CCU
+  name: Cuando-Cubango
+  type: province
+- code: AO-CNO
+  name: Cuanza Norte
+  type: province
+- code: AO-CUS
+  name: Cuanza Sul
+  type: province
+- code: AO-CNN
+  name: Cunene
+  type: province
+- code: AO-HUA
+  name: Huambo
+  type: province
+- code: AO-HUI
+  name: "Hu\xC3\xADla"
+  type: province
+- code: AO-LUA
+  name: Luanda
+  type: province
+- code: AO-LNO
+  name: Lunda Norte
+  type: province
+- code: AO-LSU
+  name: Lunda Sul
+  type: province
+- code: AO-MAL
+  name: Malange
+  type: province
+- code: AO-MOX
+  name: Moxico
+  type: province
+- code: AO-NAM
+  name: Namibe
+  type: province
+- code: AO-UIG
+  name: "U\xC3\xADge"
+  type: province
+- code: AO-ZAI
+  name: Zaire
+  type: province

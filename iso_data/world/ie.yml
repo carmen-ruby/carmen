@@ -1,0 +1,13 @@
+--- 
+- code: IE-C
+  name: Connacht
+  type: province
+- code: IE-L
+  name: Leinster
+  type: province
+- code: IE-M
+  name: Munster
+  type: province
+- code: IE-U
+  name: Ulster
+  type: province

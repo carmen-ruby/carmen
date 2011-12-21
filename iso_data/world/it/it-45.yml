@@ -1,0 +1,28 @@
+--- 
+- code: IT-BO
+  name: Bologna
+  type: province
+- code: IT-FE
+  name: Ferrara
+  type: province
+- code: IT-FC
+  name: "Forl\xC3\xAC-Cesena"
+  type: province
+- code: IT-MO
+  name: Modena
+  type: province
+- code: IT-PR
+  name: Parma
+  type: province
+- code: IT-PC
+  name: Piacenza
+  type: province
+- code: IT-RA
+  name: Ravenna
+  type: province
+- code: IT-RE
+  name: Reggio Emilia
+  type: province
+- code: IT-RN
+  name: Rimini
+  type: province

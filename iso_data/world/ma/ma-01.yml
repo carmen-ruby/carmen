@@ -1,0 +1,16 @@
+--- 
+- code: MA-CHE
+  name: Chefchaouen
+  type: province
+- code: MA-LAR
+  name: Larache
+  type: province
+- code: MA-FAH
+  name: Fahs-Beni Makada
+  type: prefecture
+- code: MA-TNG
+  name: Tanger-Assilah
+  type: prefecture
+- code: MA-TET
+  name: "T\xC3\xA9touan"
+  type: prefecture

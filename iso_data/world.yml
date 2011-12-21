@@ -884,9 +884,9 @@
 - alpha_2_code: LY
   alpha_3_code: LBY
   numeric_code: "434"
-  common_name: Libya
-  name: Libyan Arab Jamahiriya
-  official_name: Socialist People's Libyan Arab Jamahiriya
+  common_name: 
+  name: Libya
+  official_name: Libya
   type: country
 - alpha_2_code: LI
   alpha_3_code: LIE
@@ -1403,7 +1403,7 @@
   alpha_3_code: SXM
   numeric_code: "702"
   common_name: 
-  name: Sint Maarten
+  name: Sint Maarten (Dutch part)
   official_name: Sint Maarten (Dutch part)
   type: country
 - alpha_2_code: SK
@@ -1683,7 +1683,7 @@
   alpha_3_code: VEN
   numeric_code: "862"
   common_name: Venezuela
-  name: Venezuela, Bolivarian republic of
+  name: Venezuela, Bolivarian Republic of
   official_name: Bolivarian Republic of Venezuela
   type: country
 - alpha_2_code: VN

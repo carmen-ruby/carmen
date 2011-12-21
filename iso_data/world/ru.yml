@@ -1,0 +1,250 @@
+--- 
+- code: RU-AD
+  name: Adygeya, Respublika
+  type: republic
+- code: RU-AL
+  name: Altay, Respublika
+  type: republic
+- code: RU-BA
+  name: Bashkortostan, Respublika
+  type: republic
+- code: RU-BU
+  name: Buryatiya, Respublika
+  type: republic
+- code: RU-CE
+  name: Chechenskaya Respublika
+  type: republic
+- code: RU-CU
+  name: Chuvashskaya Respublika
+  type: republic
+- code: RU-DA
+  name: Dagestan, Respublika
+  type: republic
+- code: RU-IN
+  name: Respublika Ingushetiya
+  type: republic
+- code: RU-KB
+  name: Kabardino-Balkarskaya Respublika
+  type: republic
+- code: RU-KL
+  name: Kalmykiya, Respublika
+  type: republic
+- code: RU-KC
+  name: Karachayevo-Cherkesskaya Respublika
+  type: republic
+- code: RU-KR
+  name: Kareliya, Respublika
+  type: republic
+- code: RU-KK
+  name: Khakasiya, Respublika
+  type: republic
+- code: RU-KO
+  name: Komi, Respublika
+  type: republic
+- code: RU-ME
+  name: Mariy El, Respublika
+  type: republic
+- code: RU-MO
+  name: Mordoviya, Respublika
+  type: republic
+- code: RU-SA
+  name: Sakha, Respublika [Yakutiya]
+  type: republic
+- code: RU-SE
+  name: Severnaya Osetiya-Alaniya, Respublika
+  type: republic
+- code: RU-TA
+  name: Tatarstan, Respublika
+  type: republic
+- code: RU-TY
+  name: Tyva, Respublika [Tuva]
+  type: republic
+- code: RU-UD
+  name: Udmurtskaya Respublika
+  type: republic
+- code: RU-ALT
+  name: Altayskiy kray
+  type: administrative territory
+- code: RU-KAM
+  name: Kamchatskiy kray
+  type: administrative territory
+- code: RU-KHA
+  name: Khabarovskiy kray
+  type: administrative territory
+- code: RU-KDA
+  name: Krasnodarskiy kray
+  type: administrative territory
+- code: RU-KYA
+  name: Krasnoyarskiy kray
+  type: administrative territory
+- code: RU-PER
+  name: Permskiy kray
+  type: administrative territory
+- code: RU-PRI
+  name: Primorskiy kray
+  type: administrative territory
+- code: RU-STA
+  name: Stavropol'skiy kray
+  type: administrative territory
+- code: RU-ZAB
+  name: Zabajkal'skij kraj
+  type: administrative territory
+- code: RU-AMU
+  name: Amurskaya oblast'
+  type: administrative region
+- code: RU-ARK
+  name: Arkhangel'skaya oblast'
+  type: administrative region
+- code: RU-AST
+  name: Astrakhanskaya oblast'
+  type: administrative region
+- code: RU-BEL
+  name: Belgorodskaya oblast'
+  type: administrative region
+- code: RU-BRY
+  name: Bryanskaya oblast'
+  type: administrative region
+- code: RU-CHE
+  name: Chelyabinskaya oblast'
+  type: administrative region
+- code: RU-IRK
+  name: Irkutiskaya oblast'
+  type: administrative region
+- code: RU-IVA
+  name: Ivanovskaya oblast'
+  type: administrative region
+- code: RU-KGD
+  name: Kaliningradskaya oblast'
+  type: administrative region
+- code: RU-KLU
+  name: Kaluzhskaya oblast'
+  type: administrative region
+- code: RU-KEM
+  name: Kemerovskaya oblast'
+  type: administrative region
+- code: RU-KIR
+  name: Kirovskaya oblast'
+  type: administrative region
+- code: RU-KOS
+  name: Kostromskaya oblast'
+  type: administrative region
+- code: RU-KGN
+  name: Kurganskaya oblast'
+  type: administrative region
+- code: RU-KRS
+  name: Kurskaya oblast'
+  type: administrative region
+- code: RU-LEN
+  name: Leningradskaya oblast'
+  type: administrative region
+- code: RU-LIP
+  name: Lipetskaya oblast'
+  type: administrative region
+- code: RU-MAG
+  name: Magadanskaya oblast'
+  type: administrative region
+- code: RU-MOS
+  name: Moskovskaya oblast'
+  type: administrative region
+- code: RU-MUR
+  name: Murmanskaya oblast'
+  type: administrative region
+- code: RU-NIZ
+  name: Nizhegorodskaya oblast'
+  type: administrative region
+- code: RU-NGR
+  name: Novgorodskaya oblast'
+  type: administrative region
+- code: RU-NVS
+  name: Novosibirskaya oblast'
+  type: administrative region
+- code: RU-OMS
+  name: Omskaya oblast'
+  type: administrative region
+- code: RU-ORE
+  name: Orenburgskaya oblast'
+  type: administrative region
+- code: RU-ORL
+  name: Orlovskaya oblast'
+  type: administrative region
+- code: RU-PNZ
+  name: Penzenskaya oblast'
+  type: administrative region
+- code: RU-PSK
+  name: Pskovskaya oblast'
+  type: administrative region
+- code: RU-ROS
+  name: Rostovskaya oblast'
+  type: administrative region
+- code: RU-RYA
+  name: Ryazanskaya oblast'
+  type: administrative region
+- code: RU-SAK
+  name: Sakhalinskaya oblast'
+  type: administrative region
+- code: RU-SAM
+  name: Samaraskaya oblast'
+  type: administrative region
+- code: RU-SAR
+  name: Saratovskaya oblast'
+  type: administrative region
+- code: RU-SMO
+  name: Smolenskaya oblast'
+  type: administrative region
+- code: RU-SVE
+  name: Sverdlovskaya oblast'
+  type: administrative region
+- code: RU-TAM
+  name: Tambovskaya oblast'
+  type: administrative region
+- code: RU-TOM
+  name: Tomskaya oblast'
+  type: administrative region
+- code: RU-TUL
+  name: Tul'skaya oblast'
+  type: administrative region
+- code: RU-TVE
+  name: Tverskaya oblast'
+  type: administrative region
+- code: RU-TYU
+  name: Tyumenskaya oblast'
+  type: administrative region
+- code: RU-ULY
+  name: Ul'yanovskaya oblast'
+  type: administrative region
+- code: RU-VLA
+  name: Vladimirskaya oblast'
+  type: administrative region
+- code: RU-VGG
+  name: Volgogradskaya oblast'
+  type: administrative region
+- code: RU-VLG
+  name: Vologodskaya oblast'
+  type: administrative region
+- code: RU-VOR
+  name: Voronezhskaya oblast'
+  type: administrative region
+- code: RU-YAR
+  name: Yaroslavskaya oblast'
+  type: administrative region
+- code: RU-MOW
+  name: Moskva
+  type: autonomous city
+- code: RU-SPE
+  name: Sankt-Peterburg
+  type: autonomous city
+- code: RU-YEV
+  name: Yevreyskaya avtonomnaya oblast'
+  type: autonomous region
+- code: RU-CHU
+  name: Chukotskiy avtonomnyy okrug
+  type: autonomous district
+- code: RU-KHM
+  name: Khanty-Mansiysky avtonomnyy okrug-Yugra
+  type: autonomous district
+- code: RU-NEN
+  name: Nenetskiy avtonomnyy okrug
+  type: autonomous district
+- code: RU-YAN
+  name: Yamalo-Nenetskiy avtonomnyy okrug
+  type: autonomous district

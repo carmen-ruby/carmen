@@ -1,0 +1,7 @@
+--- 
+- code: MA-JDI
+  name: El Jadida
+  type: province
+- code: MA-SAF
+  name: Safi
+  type: province

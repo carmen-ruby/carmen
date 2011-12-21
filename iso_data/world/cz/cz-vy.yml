@@ -1,0 +1,16 @@
+--- 
+- code: CZ-611
+  name: "Havl\xC3\xAD\xC4\x8Dk\xC5\xAFv Brod"
+  type: district
+- code: CZ-612
+  name: Jihlava
+  type: district
+- code: CZ-613
+  name: "Pelh\xC5\x99imov"
+  type: district
+- code: CZ-614
+  name: "T\xC5\x99eb\xC3\xAD\xC4\x8D"
+  type: district
+- code: CZ-615
+  name: "\xC5\xBDd\xE2\x80\x99\xC3\xA1r nad S\xC3\xA1zavou"
+  type: district

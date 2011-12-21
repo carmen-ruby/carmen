@@ -1,0 +1,10 @@
+--- 
+- code: NP-DH
+  name: Dhawalagiri
+  type: zone
+- code: NP-GA
+  name: Gandaki
+  type: zone
+- code: NP-LU
+  name: Lumbini
+  type: zone

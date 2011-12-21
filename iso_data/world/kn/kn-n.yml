@@ -1,0 +1,16 @@
+--- 
+- code: KN-04
+  name: Saint George Gingerland
+  type: parish
+- code: KN-05
+  name: Saint James Windward
+  type: parish
+- code: KN-07
+  name: Saint John Figtree
+  type: parish
+- code: KN-10
+  name: Saint Paul Charlestown
+  type: parish
+- code: KN-12
+  name: Saint Thomas Lowland
+  type: parish

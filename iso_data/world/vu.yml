@@ -1,0 +1,19 @@
+--- 
+- code: VU-MAP
+  name: Malampa
+  type: province
+- code: VU-PAM
+  name: "P\xC3\xA9nama"
+  type: province
+- code: VU-SAM
+  name: Sanma
+  type: province
+- code: VU-SEE
+  name: "Sh\xC3\xA9fa"
+  type: province
+- code: VU-TAE
+  name: "Taf\xC3\xA9a"
+  type: province
+- code: VU-TOB
+  name: Torba
+  type: province

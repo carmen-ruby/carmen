@@ -1,0 +1,22 @@
+--- 
+- code: MA-CHT
+  name: Chtouka-Ait Baha
+  type: province
+- code: MA-OUA
+  name: Ouarzazate
+  type: province
+- code: MA-TAR
+  name: Taroudant
+  type: province
+- code: MA-TIZ
+  name: Tiznit
+  type: province
+- code: MA-ZAG
+  name: Zagora
+  type: province
+- code: MA-AGD
+  name: Agadir-Ida-Outanane
+  type: prefecture
+- code: MA-INE
+  name: Inezgane-Ait Melloul
+  type: prefecture

@@ -1,0 +1,10 @@
+--- 
+- code: NZ-N
+  name: North Island
+  type: island
+- code: NZ-S
+  name: South Island
+  type: island
+- code: NZ-CIT
+  name: Chatham Islands Territory
+  type: special island authority

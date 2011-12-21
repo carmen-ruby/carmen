@@ -1,0 +1,10 @@
+--- 
+- code: BF-BAM
+  name: Bam
+  type: province
+- code: BF-NAM
+  name: Namentenga
+  type: province
+- code: BF-SMT
+  name: Sanmatenga
+  type: province

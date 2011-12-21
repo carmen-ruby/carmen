@@ -1,0 +1,19 @@
+--- 
+- code: BD-02
+  name: Barguna zila
+  type: district
+- code: BD-06
+  name: Barisal zila
+  type: district
+- code: BD-07
+  name: Bhola zila
+  type: district
+- code: BD-25
+  name: Jhalakati zila
+  type: district
+- code: BD-51
+  name: Patuakhali zila
+  type: district
+- code: BD-50
+  name: Pirojpur zila
+  type: district

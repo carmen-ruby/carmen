@@ -1,0 +1,31 @@
+--- 
+- code: LT-AL
+  name: Alytaus Apskritis
+  type: county
+- code: LT-KU
+  name: Kauno Apskritis
+  type: county
+- code: LT-KL
+  name: "Klaip\xC4\x97dos Apskritis"
+  type: county
+- code: LT-MR
+  name: "Marijampol\xC4\x97s Apskritis"
+  type: county
+- code: LT-PN
+  name: "Panev\xC4\x97\xC5\xBEio Apskritis"
+  type: county
+- code: LT-SA
+  name: "\xC5\xA0iauli\xC5\xB3 Apskritis"
+  type: county
+- code: LT-TA
+  name: "Taurag\xC3\xA9s Apskritis"
+  type: county
+- code: LT-TE
+  name: "Tel\xC5\xA1i\xC5\xB3 Apskritis"
+  type: county
+- code: LT-UT
+  name: Utenos Apskritis
+  type: county
+- code: LT-VL
+  name: Vilniaus Apskritis
+  type: county

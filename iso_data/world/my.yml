@@ -1,0 +1,49 @@
+--- 
+- code: MY-14
+  name: Wilayah Persekutuan Kuala Lumpur
+  type: federal territories
+- code: MY-15
+  name: Wilayah Persekutuan Labuan
+  type: federal territories
+- code: MY-16
+  name: Wilayah Persekutuan Putrajaya
+  type: federal territories
+- code: MY-01
+  name: Johor
+  type: state
+- code: MY-02
+  name: Kedah
+  type: state
+- code: MY-03
+  name: Kelantan
+  type: state
+- code: MY-04
+  name: Melaka
+  type: state
+- code: MY-05
+  name: Negeri Sembilan
+  type: state
+- code: MY-06
+  name: Pahang
+  type: state
+- code: MY-08
+  name: Perak
+  type: state
+- code: MY-09
+  name: Perlis
+  type: state
+- code: MY-07
+  name: Pulau Pinang
+  type: state
+- code: MY-12
+  name: Sabah
+  type: state
+- code: MY-13
+  name: Sarawak
+  type: state
+- code: MY-10
+  name: Selangor
+  type: state
+- code: MY-11
+  name: Terengganu
+  type: state

@@ -1,0 +1,13 @@
+--- 
+- code: ID-KB
+  name: Kalimantan Barat
+  type: province
+- code: ID-KT
+  name: Kalimantan Tengah
+  type: province
+- code: ID-KS
+  name: Kalimantan Selatan
+  type: province
+- code: ID-KI
+  name: Kalimantan Timur
+  type: province

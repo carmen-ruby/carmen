@@ -1,0 +1,7 @@
+--- 
+- code: ID-MA
+  name: Maluku
+  type: province
+- code: ID-MU
+  name: Maluku Utara
+  type: province

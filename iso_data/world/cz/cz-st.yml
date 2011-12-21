@@ -1,0 +1,37 @@
+--- 
+- code: CZ-201
+  name: "Bene\xC5\xA1ov"
+  type: district
+- code: CZ-202
+  name: Beroun
+  type: district
+- code: CZ-203
+  name: Kladno
+  type: district
+- code: CZ-204
+  name: "Kol\xC3\xADn"
+  type: district
+- code: CZ-205
+  name: "Kutn\xC3\xA1 Hora"
+  type: district
+- code: CZ-206
+  name: "M\xC4\x9Bln\xC3\xADk"
+  type: district
+- code: CZ-207
+  name: "Mlad\xC3\xA1 Boleslav"
+  type: district
+- code: CZ-208
+  name: Nymburk
+  type: district
+- code: CZ-209
+  name: "Praha v\xC3\xBDchod"
+  type: district
+- code: CZ-20A
+  name: "Praha z\xC3\xA1pad"
+  type: district
+- code: CZ-20B
+  name: "P\xC5\x99\xC3\xADbram"
+  type: district
+- code: CZ-20C
+  name: "Rakovn\xC3\xADk"
+  type: district

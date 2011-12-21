@@ -1,0 +1,19 @@
+--- 
+- code: IT-BA
+  name: Bari
+  type: province
+- code: IT-BT
+  name: Barletta-Andria-Trani
+  type: province
+- code: IT-BR
+  name: Brindisi
+  type: province
+- code: IT-FG
+  name: Foggia
+  type: province
+- code: IT-LE
+  name: Lecce
+  type: province
+- code: IT-TA
+  name: Taranto
+  type: province

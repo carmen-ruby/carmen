@@ -1,0 +1,16 @@
+--- 
+- code: BF-GNA
+  name: Gnagna
+  type: province
+- code: BF-GOU
+  name: Gourma
+  type: province
+- code: BF-KMD
+  name: Komondjari
+  type: province
+- code: BF-KMP
+  name: Kompienga
+  type: province
+- code: BF-TAP
+  name: Tapoa
+  type: province

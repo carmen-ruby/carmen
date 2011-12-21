@@ -8,6 +8,23 @@ rescue LoadError
   require 'fileutils' # ftools is now fileutils in Ruby 1.9
 end
 
+def write_data_to_path_as_yaml(data, path)
+  FileUtils.mkdir_p(File.dirname(path))
+  File.open(path, 'w') { |f| f.write data.to_yaml }
+end
+
+def write_regions_to_path_as_yaml(regions_data, path)
+  regions_data.each do |subregion_data|
+    subregions = subregion_data.delete('subregions')
+    if subregions
+      subregion_path = path.sub('.yml', "/#{subregion_data['code'].downcase}.yml")
+      write_regions_to_path_as_yaml(subregions, subregion_path)
+    end
+  end
+  write_data_to_path_as_yaml(regions_data, path)
+end
+
+
 puts "Downloading data"
 
 data_path = Pathname.new(File.expand_path('../../iso_data', __FILE__))
@@ -47,9 +64,7 @@ end
 
 puts
 
-File.open(data_path + 'world.yml', 'w') do |f|
-  f.write countries.to_yaml
-end
+write_data_to_path_as_yaml(countries, data_path + 'world.yml')
 
 # regions
 puts "Importing regions"
@@ -63,17 +78,17 @@ warnings = []
 
 doc.css('iso_3166_country').each do |country|
   code = country['code'].downcase
-  print '.'
   regions = []
   country.css('iso_3166_subset').each do |subset|
 
     type = subset['type'].downcase
-    subset.css('iso_3166_2_entry').each do |subregion|
+    subregions = subset.css('iso_3166_2_entry').map do |subregion|
       data = {
         'code' => subregion['code'],
         'name' => subregion['name'],
         'type' => type
       }
+
       if subregion['parent']
         parent = regions.find do |r|
           parent_code = r['code']
@@ -94,12 +109,10 @@ doc.css('iso_3166_country').each do |country|
       end
     end
 
-    dir = data_path + 'regions'
-    FileUtils.mkdir_p(dir)
-    File.open(dir + "#{code}.yml", 'w') do |f|
-      f.write regions.to_yaml
-    end
   end
+
+  write_regions_to_path_as_yaml(regions, data_path + "world/#{code}.yml")
+  print '.'
 end
 
 puts

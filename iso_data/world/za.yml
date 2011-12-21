@@ -1,0 +1,28 @@
+--- 
+- code: ZA-EC
+  name: Eastern Cape
+  type: province
+- code: ZA-FS
+  name: Free State
+  type: province
+- code: ZA-GT
+  name: Gauteng
+  type: province
+- code: ZA-NL
+  name: Kwazulu-Natal
+  type: province
+- code: ZA-LP
+  name: Limpopo
+  type: province
+- code: ZA-MP
+  name: Mpumalanga
+  type: province
+- code: ZA-NC
+  name: Northern Cape
+  type: province
+- code: ZA-NW
+  name: North-West (South Africa)
+  type: province
+- code: ZA-WC
+  name: Western Cape
+  type: province

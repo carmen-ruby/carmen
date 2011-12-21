@@ -1,0 +1,19 @@
+--- 
+- code: IE-CE
+  name: Clare
+  type: county
+- code: IE-C
+  name: Cork
+  type: county
+- code: IE-KY
+  name: Kerry
+  type: county
+- code: IE-LK
+  name: Limerick
+  type: county
+- code: IE-TA
+  name: Tipperary
+  type: county
+- code: IE-WD
+  name: Waterford
+  type: county

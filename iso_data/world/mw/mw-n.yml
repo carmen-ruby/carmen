@@ -1,0 +1,22 @@
+--- 
+- code: MW-CT
+  name: Chitipa
+  type: district
+- code: MW-KR
+  name: Karonga
+  type: district
+- code: MW-LK
+  name: Likoma
+  type: district
+- code: MW-MZ
+  name: Mzimba
+  type: district
+- code: MW-NE
+  name: Neno
+  type: district
+- code: MW-NB
+  name: Nkhata Bay
+  type: district
+- code: MW-RU
+  name: Rumphi
+  type: district

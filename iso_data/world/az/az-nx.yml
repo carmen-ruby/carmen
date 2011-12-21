@@ -1,0 +1,19 @@
+--- 
+- code: AZ-BAB
+  name: "Bab\xC9\x99k"
+  type: rayon
+- code: AZ-CUL
+  name: Culfa
+  type: rayon
+- code: AZ-ORD
+  name: Ordubad
+  type: rayon
+- code: AZ-SAD
+  name: "S\xC9\x99d\xC9\x99r\xC9\x99k"
+  type: rayon
+- code: AZ-SAH
+  name: "\xC5\x9Eahbuz"
+  type: rayon
+- code: AZ-SAR
+  name: "\xC5\x9E\xC9\x99rur"
+  type: rayon

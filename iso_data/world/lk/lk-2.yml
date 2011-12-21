@@ -1,0 +1,10 @@
+--- 
+- code: LK-21
+  name: Mahanuvara
+  type: district
+- code: LK-22
+  name: "M\xC4\x81tale"
+  type: district
+- code: LK-23
+  name: "Nuvara \xC4\x94liya"
+  type: district

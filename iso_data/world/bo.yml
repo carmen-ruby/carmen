@@ -1,0 +1,28 @@
+--- 
+- code: BO-H
+  name: Chuquisaca
+  type: department
+- code: BO-C
+  name: Cochabamba
+  type: department
+- code: BO-B
+  name: El Beni
+  type: department
+- code: BO-L
+  name: La Paz
+  type: department
+- code: BO-O
+  name: Oruro
+  type: department
+- code: BO-N
+  name: Pando
+  type: department
+- code: BO-P
+  name: "Potos\xC3\xAD"
+  type: department
+- code: BO-S
+  name: Santa Cruz
+  type: department
+- code: BO-T
+  name: Tarija
+  type: department

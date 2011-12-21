@@ -1,0 +1,10 @@
+--- 
+- code: GW-BM
+  name: Biombo
+  type: region
+- code: GW-CA
+  name: Cacheu
+  type: region
+- code: GW-OI
+  name: Oio
+  type: region

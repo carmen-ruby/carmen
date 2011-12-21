@@ -1,0 +1,19 @@
+--- 
+- code: ID-BT
+  name: Banten
+  type: province
+- code: ID-JB
+  name: Jawa Barat
+  type: province
+- code: ID-JT
+  name: Jawa Tengah
+  type: province
+- code: ID-JI
+  name: Jawa Timur
+  type: province
+- code: ID-JK
+  name: Jakarta Raya
+  type: special district
+- code: ID-YO
+  name: Yogyakarta
+  type: special region

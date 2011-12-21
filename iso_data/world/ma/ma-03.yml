@@ -1,0 +1,10 @@
+--- 
+- code: MA-HOC
+  name: "Al Hoce\xC3\xAFma"
+  type: province
+- code: MA-TAO
+  name: Taounate
+  type: province
+- code: MA-TAZ
+  name: Taza
+  type: province

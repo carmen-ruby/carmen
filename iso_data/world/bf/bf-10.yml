@@ -1,0 +1,13 @@
+--- 
+- code: BF-LOR
+  name: Loroum
+  type: province
+- code: BF-PAS
+  name: "Passor\xC3\xA9"
+  type: province
+- code: BF-YAT
+  name: Yatenga
+  type: province
+- code: BF-ZON
+  name: Zondoma
+  type: province

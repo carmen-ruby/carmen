@@ -1,0 +1,25 @@
+--- 
+- code: ES-AL
+  name: "Almer\xC3\xADa"
+  type: province
+- code: ES-CA
+  name: "C\xC3\xA1diz"
+  type: province
+- code: ES-CO
+  name: "C\xC3\xB3rdoba"
+  type: province
+- code: ES-GR
+  name: Granada
+  type: province
+- code: ES-H
+  name: Huelva
+  type: province
+- code: ES-J
+  name: "Ja\xC3\xA9n"
+  type: province
+- code: ES-MA
+  name: "M\xC3\xA1laga"
+  type: province
+- code: ES-SE
+  name: Sevilla
+  type: province
