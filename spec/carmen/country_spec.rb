@@ -71,7 +71,7 @@ describe Carmen::Country do
 
       airstrip_one.name.must_equal "Airstrip One"
       airstrip_one.type.must_equal "providence"
-      airstrip_one.code.must_equal "AO"
+      airstrip_one.code.must_equal "OC-AO"
     end
 
     it "sets itself as the parent of a subregions" do
