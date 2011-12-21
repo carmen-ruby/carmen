@@ -69,7 +69,7 @@ similarly to a `Country` to find, for instance, a specific state:
     illinois = us.subregions.coded('IL')
     => <#Carmen::Region "Illinois">
 
-Subregions support a limited set of attributes than countries:
+Subregions support a smaller set of attributes than countries:
 
 	illinois.name
     => "Illinois"
