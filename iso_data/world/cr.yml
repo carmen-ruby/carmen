@@ -1,22 +1,22 @@
 --- 
-- code: CR-A
+- code: A
   name: Alajuela
   type: province
-- code: CR-C
+- code: C
   name: Cartago
   type: province
-- code: CR-G
+- code: G
   name: Guanacaste
   type: province
-- code: CR-H
+- code: H
   name: Heredia
   type: province
-- code: CR-L
+- code: L
   name: "Lim\xC3\xB3n"
   type: province
-- code: CR-P
+- code: P
   name: Puntarenas
   type: province
-- code: CR-SJ
+- code: SJ
   name: "San Jos\xC3\xA9"
   type: province

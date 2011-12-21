@@ -1,28 +1,28 @@
 --- 
-- code: GQ-C
+- code: C
   name: "Regi\xC3\xB3n Continental"
   type: province
-- code: GQ-I
+- code: I
   name: "Regi\xC3\xB3n Insular"
   type: province
-- code: GQ-AN
+- code: AN
   name: "Annob\xC3\xB3n"
   type: province
-- code: GQ-BN
+- code: BN
   name: Bioko Norte
   type: province
-- code: GQ-BS
+- code: BS
   name: Bioko Sur
   type: province
-- code: GQ-CS
+- code: CS
   name: Centro Sur
   type: province
-- code: GQ-KN
+- code: KN
   name: "Ki\xC3\xA9-Ntem"
   type: province
-- code: GQ-LI
+- code: LI
   name: Litoral
   type: province
-- code: GQ-WN
+- code: WN
   name: "Wele-Nz\xC3\xA1s"
   type: province

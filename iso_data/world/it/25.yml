@@ -1,0 +1,37 @@
+--- 
+- code: BG
+  name: Bergamo
+  type: province
+- code: BS
+  name: Brescia
+  type: province
+- code: CO
+  name: Como
+  type: province
+- code: CR
+  name: Cremona
+  type: province
+- code: LC
+  name: Lecco
+  type: province
+- code: LO
+  name: Lodi
+  type: province
+- code: MN
+  name: Mantova
+  type: province
+- code: MI
+  name: Milano
+  type: province
+- code: MB
+  name: Monza e Brianza
+  type: province
+- code: PV
+  name: Pavia
+  type: province
+- code: SO
+  name: Sondrio
+  type: province
+- code: VA
+  name: Varese
+  type: province

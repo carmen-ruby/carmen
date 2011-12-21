@@ -1,0 +1,13 @@
+--- 
+- code: "41"
+  name: Karditsa
+  type: department
+- code: "42"
+  name: Larisa
+  type: department
+- code: "43"
+  name: Magnisia
+  type: department
+- code: "44"
+  name: Trikala
+  type: department

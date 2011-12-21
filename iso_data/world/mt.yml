@@ -1,205 +1,205 @@
 --- 
-- code: MT-01
+- code: "01"
   name: Attard
   type: local council
-- code: MT-02
+- code: "02"
   name: Balzan
   type: local council
-- code: MT-03
+- code: "03"
   name: Birgu
   type: local council
-- code: MT-04
+- code: "04"
   name: Birkirkara
   type: local council
-- code: MT-05
+- code: "05"
   name: "Bir\xC5\xBCebbu\xC4\xA1a"
   type: local council
-- code: MT-06
+- code: "06"
   name: Bormla
   type: local council
-- code: MT-07
+- code: "07"
   name: Dingli
   type: local council
-- code: MT-08
+- code: 08
   name: Fgura
   type: local council
-- code: MT-09
+- code: 09
   name: Floriana
   type: local council
-- code: MT-10
+- code: "10"
   name: Fontana
   type: local council
-- code: MT-11
+- code: "11"
   name: Gudja
   type: local council
-- code: MT-12
+- code: "12"
   name: "G\xC5\xBCira"
   type: local council
-- code: MT-13
+- code: "13"
   name: "G\xC4\xA7ajnsielem"
   type: local council
-- code: MT-14
+- code: "14"
   name: "G\xC4\xA7arb"
   type: local council
-- code: MT-15
+- code: "15"
   name: "G\xC4\xA7arg\xC4\xA7ur"
   type: local council
-- code: MT-16
+- code: "16"
   name: "G\xC4\xA7asri"
   type: local council
-- code: MT-17
+- code: "17"
   name: "G\xC4\xA7axaq"
   type: local council
-- code: MT-18
+- code: "18"
   name: "\xC4\xA6amrun"
   type: local council
-- code: MT-19
+- code: "19"
   name: Iklin
   type: local council
-- code: MT-20
+- code: "20"
   name: Isla
   type: local council
-- code: MT-21
+- code: "21"
   name: Kalkara
   type: local council
-- code: MT-22
+- code: "22"
   name: "Ker\xC4\x8Bem"
   type: local council
-- code: MT-23
+- code: "23"
   name: Kirkop
   type: local council
-- code: MT-24
+- code: "24"
   name: Lija
   type: local council
-- code: MT-25
+- code: "25"
   name: Luqa
   type: local council
-- code: MT-26
+- code: "26"
   name: Marsa
   type: local council
-- code: MT-27
+- code: "27"
   name: Marsaskala
   type: local council
-- code: MT-28
+- code: "28"
   name: Marsaxlokk
   type: local council
-- code: MT-29
+- code: "29"
   name: Mdina
   type: local council
-- code: MT-30
+- code: "30"
   name: "Mellie\xC4\xA7a"
   type: local council
-- code: MT-31
+- code: "31"
   name: "M\xC4\xA1arr"
   type: local council
-- code: MT-32
+- code: "32"
   name: Mosta
   type: local council
-- code: MT-33
+- code: "33"
   name: Mqabba
   type: local council
-- code: MT-34
+- code: "34"
   name: Msida
   type: local council
-- code: MT-35
+- code: "35"
   name: Mtarfa
   type: local council
-- code: MT-36
+- code: "36"
   name: Munxar
   type: local council
-- code: MT-37
+- code: "37"
   name: Nadur
   type: local council
-- code: MT-38
+- code: "38"
   name: Naxxar
   type: local council
-- code: MT-39
+- code: "39"
   name: Paola
   type: local council
-- code: MT-40
+- code: "40"
   name: Pembroke
   type: local council
-- code: MT-41
+- code: "41"
   name: "Piet\xC3\xA0"
   type: local council
-- code: MT-42
+- code: "42"
   name: Qala
   type: local council
-- code: MT-43
+- code: "43"
   name: Qormi
   type: local council
-- code: MT-44
+- code: "44"
   name: Qrendi
   type: local council
-- code: MT-45
+- code: "45"
   name: "Rabat G\xC4\xA7awdex"
   type: local council
-- code: MT-46
+- code: "46"
   name: Rabat Malta
   type: local council
-- code: MT-47
+- code: "47"
   name: Safi
   type: local council
-- code: MT-48
+- code: "48"
   name: "San \xC4\xA0iljan"
   type: local council
-- code: MT-49
+- code: "49"
   name: "San \xC4\xA0wann"
   type: local council
-- code: MT-50
+- code: "50"
   name: San Lawrenz
   type: local council
-- code: MT-51
+- code: "51"
   name: "San Pawl il-Ba\xC4\xA7ar"
   type: local council
-- code: MT-52
+- code: "52"
   name: Sannat
   type: local council
-- code: MT-53
+- code: "53"
   name: "Santa Lu\xC4\x8Bija"
   type: local council
-- code: MT-54
+- code: "54"
   name: Santa Venera
   type: local council
-- code: MT-55
+- code: "55"
   name: "Si\xC4\xA1\xC4\xA1iewi"
   type: local council
-- code: MT-56
+- code: "56"
   name: Sliema
   type: local council
-- code: MT-57
+- code: "57"
   name: Swieqi
   type: local council
-- code: MT-58
+- code: "58"
   name: "Ta\xE2\x80\x99 Xbiex"
   type: local council
-- code: MT-59
+- code: "59"
   name: Tarxien
   type: local council
-- code: MT-60
+- code: "60"
   name: Valletta
   type: local council
-- code: MT-61
+- code: "61"
   name: "Xag\xC4\xA7ra"
   type: local council
-- code: MT-62
+- code: "62"
   name: Xewkija
   type: local council
-- code: MT-63
+- code: "63"
   name: "Xg\xC4\xA7ajra"
   type: local council
-- code: MT-64
+- code: "64"
   name: "\xC5\xBBabbar"
   type: local council
-- code: MT-65
+- code: "65"
   name: "\xC5\xBBebbu\xC4\xA1 G\xC4\xA7awdex"
   type: local council
-- code: MT-66
+- code: "66"
   name: "\xC5\xBBebbu\xC4\xA1 Malta"
   type: local council
-- code: MT-67
+- code: "67"
   name: "\xC5\xBBejtun"
   type: local council
-- code: MT-68
+- code: "68"
   name: "\xC5\xBBurrieq"
   type: local council

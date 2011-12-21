@@ -1,52 +1,52 @@
 --- 
-- code: CF-BGF
+- code: BGF
   name: Bangui
   type: commune
-- code: CF-BB
+- code: BB
   name: Bamingui-Bangoran
   type: prefecture
-- code: CF-BK
+- code: BK
   name: Basse-Kotto
   type: prefecture
-- code: CF-HK
+- code: HK
   name: Haute-Kotto
   type: prefecture
-- code: CF-HM
+- code: HM
   name: Haut-Mbomou
   type: prefecture
-- code: CF-KG
+- code: KG
   name: "K\xC3\xA9mo-Gribingui"
   type: prefecture
-- code: CF-LB
+- code: LB
   name: Lobaye
   type: prefecture
-- code: CF-HS
+- code: HS
   name: "Haute-Sangha / Mamb\xC3\xA9r\xC3\xA9-Kad\xC3\xA9\xC3\xAF"
   type: prefecture
-- code: CF-MB
+- code: MB
   name: Mbomou
   type: prefecture
-- code: CF-NM
+- code: NM
   name: "Nana-Mamb\xC3\xA9r\xC3\xA9"
   type: prefecture
-- code: CF-MP
+- code: MP
   name: Ombella-M'poko
   type: prefecture
-- code: CF-UK
+- code: UK
   name: Ouaka
   type: prefecture
-- code: CF-AC
+- code: AC
   name: Ouham
   type: prefecture
-- code: CF-OP
+- code: OP
   name: "Ouham-Pend\xC3\xA9"
   type: prefecture
-- code: CF-VK
+- code: VK
   name: Vakaga
   type: prefecture
-- code: CF-KB
+- code: KB
   name: Gribingui
   type: economic prefecture
-- code: CF-SE
+- code: SE
   name: Sangha
   type: economic prefecture

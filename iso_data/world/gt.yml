@@ -1,67 +1,67 @@
 --- 
-- code: GT-AV
+- code: AV
   name: Alta Verapaz
   type: department
-- code: GT-BV
+- code: BV
   name: Baja Verapaz
   type: department
-- code: GT-CM
+- code: CM
   name: Chimaltenango
   type: department
-- code: GT-CQ
+- code: CQ
   name: Chiquimula
   type: department
-- code: GT-PR
+- code: PR
   name: El Progreso
   type: department
-- code: GT-ES
+- code: ES
   name: Escuintla
   type: department
-- code: GT-GU
+- code: GU
   name: Guatemala
   type: department
-- code: GT-HU
+- code: HU
   name: Huehuetenango
   type: department
-- code: GT-IZ
+- code: IZ
   name: Izabal
   type: department
-- code: GT-JA
+- code: JA
   name: Jalapa
   type: department
-- code: GT-JU
+- code: JU
   name: Jutiapa
   type: department
-- code: GT-PE
+- code: PE
   name: "Pet\xC3\xA9n"
   type: department
-- code: GT-QZ
+- code: QZ
   name: Quetzaltenango
   type: department
-- code: GT-QC
+- code: QC
   name: "Quich\xC3\xA9"
   type: department
-- code: GT-RE
+- code: RE
   name: Retalhuleu
   type: department
-- code: GT-SA
+- code: SA
   name: "Sacatep\xC3\xA9quez"
   type: department
-- code: GT-SM
+- code: SM
   name: San Marcos
   type: department
-- code: GT-SR
+- code: SR
   name: Santa Rosa
   type: department
-- code: GT-SO
+- code: SO
   name: "Solol\xC3\xA1"
   type: department
-- code: GT-SU
+- code: SU
   name: "Suchitep\xC3\xA9quez"
   type: department
-- code: GT-TO
+- code: TO
   name: "Totonicap\xC3\xA1n"
   type: department
-- code: GT-ZA
+- code: ZA
   name: Zacapa
   type: department

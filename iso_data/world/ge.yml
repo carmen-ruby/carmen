@@ -1,37 +1,37 @@
 --- 
-- code: GE-AB
+- code: AB
   name: Abkhazia
   type: autonomous republic
-- code: GE-AJ
+- code: AJ
   name: Ajaria
   type: autonomous republic
-- code: GE-TB
+- code: TB
   name: "T\xE2\x80\x99bilisi"
   type: city
-- code: GE-GU
+- code: GU
   name: Guria
   type: region
-- code: GE-IM
+- code: IM
   name: "Imeret\xE2\x80\x99i"
   type: region
-- code: GE-KA
+- code: KA
   name: "Kakhet\xE2\x80\x99i"
   type: region
-- code: GE-KK
+- code: KK
   name: "K\xE2\x80\x99vemo K\xE2\x80\x99art\xE2\x80\x99li"
   type: region
-- code: GE-MM
+- code: MM
   name: "Mts\xE2\x80\x99khet\xE2\x80\x99a-Mt\xE2\x80\x99ianet\xE2\x80\x99i"
   type: region
-- code: GE-RL
+- code: RL
   name: "Racha-Lech\xE2\x80\x99khumi-K\xE2\x80\x99vemo Svanet\xE2\x80\x99i"
   type: region
-- code: GE-SZ
+- code: SZ
   name: "Samegrelo-Zemo Svanet\xE2\x80\x99i"
   type: region
-- code: GE-SJ
+- code: SJ
   name: "Samts\xE2\x80\x99khe-Javakhet\xE2\x80\x99i"
   type: region
-- code: GE-SK
+- code: SK
   name: "Shida K\xE2\x80\x99art\xE2\x80\x99li"
   type: region

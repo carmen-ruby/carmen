@@ -1,61 +1,61 @@
 --- 
-- code: PG-NCD
+- code: NCD
   name: National Capital District (Port Moresby)
   type: district
-- code: PG-CPM
+- code: CPM
   name: Central
   type: province
-- code: PG-CPK
+- code: CPK
   name: Chimbu
   type: province
-- code: PG-EHG
+- code: EHG
   name: Eastern Highlands
   type: province
-- code: PG-EBR
+- code: EBR
   name: East New Britain
   type: province
-- code: PG-ESW
+- code: ESW
   name: East Sepik
   type: province
-- code: PG-EPW
+- code: EPW
   name: Enga
   type: province
-- code: PG-GPK
+- code: GPK
   name: Gulf
   type: province
-- code: PG-MPM
+- code: MPM
   name: Madang
   type: province
-- code: PG-MRL
+- code: MRL
   name: Manus
   type: province
-- code: PG-MBA
+- code: MBA
   name: Milne Bay
   type: province
-- code: PG-MPL
+- code: MPL
   name: Morobe
   type: province
-- code: PG-NIK
+- code: NIK
   name: New Ireland
   type: province
-- code: PG-NPP
+- code: NPP
   name: Northern
   type: province
-- code: PG-NSA
+- code: NSA
   name: North Solomons
   type: province
-- code: PG-SAN
+- code: SAN
   name: Sandaun
   type: province
-- code: PG-SHM
+- code: SHM
   name: Southern Highlands
   type: province
-- code: PG-WPD
+- code: WPD
   name: Western
   type: province
-- code: PG-WHM
+- code: WHM
   name: Western Highlands
   type: province
-- code: PG-WBK
+- code: WBK
   name: West New Britain
   type: province

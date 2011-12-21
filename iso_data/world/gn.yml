@@ -1,25 +1,25 @@
 --- 
-- code: GN-B
+- code: B
   name: "Bok\xC3\xA9"
   type: governorate
-- code: GN-F
+- code: F
   name: Faranah
   type: governorate
-- code: GN-K
+- code: K
   name: Kankan
   type: governorate
-- code: GN-D
+- code: D
   name: Kindia
   type: governorate
-- code: GN-L
+- code: L
   name: "Lab\xC3\xA9"
   type: governorate
-- code: GN-M
+- code: M
   name: Mamou
   type: governorate
-- code: GN-N
+- code: N
   name: "Nz\xC3\xA9r\xC3\xA9kor\xC3\xA9"
   type: governorate
-- code: GN-C
+- code: C
   name: Conakry
   type: special zone

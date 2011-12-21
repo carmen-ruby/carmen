@@ -1,52 +1,52 @@
 --- 
-- code: NI-BO
+- code: BO
   name: Boaco
   type: department
-- code: NI-CA
+- code: CA
   name: Carazo
   type: department
-- code: NI-CI
+- code: CI
   name: Chinandega
   type: department
-- code: NI-CO
+- code: CO
   name: Chontales
   type: department
-- code: NI-ES
+- code: ES
   name: "Estel\xC3\xAD"
   type: department
-- code: NI-GR
+- code: GR
   name: Granada
   type: department
-- code: NI-JI
+- code: JI
   name: Jinotega
   type: department
-- code: NI-LE
+- code: LE
   name: "Le\xC3\xB3n"
   type: department
-- code: NI-MD
+- code: MD
   name: Madriz
   type: department
-- code: NI-MN
+- code: MN
   name: Managua
   type: department
-- code: NI-MS
+- code: MS
   name: Masaya
   type: department
-- code: NI-MT
+- code: MT
   name: Matagalpa
   type: department
-- code: NI-NS
+- code: NS
   name: Nueva Segovia
   type: department
-- code: NI-SJ
+- code: SJ
   name: "R\xC3\xADo San Juan"
   type: department
-- code: NI-RI
+- code: RI
   name: Rivas
   type: department
-- code: NI-AN
+- code: AN
   name: "Atl\xC3\xA1ntico Norte"
   type: autonomous region
-- code: NI-AS
+- code: AS
   name: "Atl\xC3\xA1ntico Sur"
   type: autonomous region

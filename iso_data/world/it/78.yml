@@ -1,0 +1,16 @@
+--- 
+- code: CZ
+  name: Catanzaro
+  type: province
+- code: CS
+  name: Cosenza
+  type: province
+- code: KR
+  name: Crotone
+  type: province
+- code: RC
+  name: Reggio Calabria
+  type: province
+- code: VV
+  name: Vibo Valentia
+  type: province

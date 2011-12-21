@@ -1,0 +1,13 @@
+--- 
+- code: C
+  name: "A Coru\xC3\xB1a"
+  type: province
+- code: LU
+  name: Lugo
+  type: province
+- code: OR
+  name: Ourense
+  type: province
+- code: PO
+  name: Pontevedra
+  type: province

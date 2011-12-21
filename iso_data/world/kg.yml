@@ -1,25 +1,25 @@
 --- 
-- code: KG-GB
+- code: GB
   name: Bishkek
   type: city
-- code: KG-B
+- code: B
   name: Batken
   type: region
-- code: KG-C
+- code: C
   name: "Ch\xC3\xBC"
   type: region
-- code: KG-J
+- code: J
   name: Jalal-Abad
   type: region
-- code: KG-N
+- code: N
   name: Naryn
   type: region
-- code: KG-O
+- code: O
   name: Osh
   type: region
-- code: KG-T
+- code: T
   name: Talas
   type: region
-- code: KG-Y
+- code: Y
   name: "Ysyk-K\xC3\xB6l"
   type: region

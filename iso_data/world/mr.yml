@@ -1,40 +1,40 @@
 --- 
-- code: MR-NKC
+- code: NKC
   name: Nouakchott
   type: district
-- code: MR-07
+- code: "07"
   name: Adrar
   type: region
-- code: MR-03
+- code: "03"
   name: Assaba
   type: region
-- code: MR-05
+- code: "05"
   name: Brakna
   type: region
-- code: MR-08
+- code: 08
   name: Dakhlet Nouadhibou
   type: region
-- code: MR-04
+- code: "04"
   name: Gorgol
   type: region
-- code: MR-10
+- code: "10"
   name: Guidimaka
   type: region
-- code: MR-01
+- code: "01"
   name: Hodh ech Chargui
   type: region
-- code: MR-02
+- code: "02"
   name: Hodh el Charbi
   type: region
-- code: MR-12
+- code: "12"
   name: Inchiri
   type: region
-- code: MR-09
+- code: 09
   name: Tagant
   type: region
-- code: MR-11
+- code: "11"
   name: Tiris Zemmour
   type: region
-- code: MR-06
+- code: "06"
   name: Trarza
   type: region

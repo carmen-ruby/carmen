@@ -84,7 +84,7 @@ doc.css('iso_3166_country').each do |country|
     type = subset['type'].downcase
     subregions = subset.css('iso_3166_2_entry').map do |subregion|
       data = {
-        'code' => subregion['code'],
+        'code' => subregion['code'].gsub(%r{^#{country['code']}-}, ''),
         'name' => subregion['name'],
         'type' => type
       }

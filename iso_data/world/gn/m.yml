@@ -1,0 +1,10 @@
+--- 
+- code: DL
+  name: Dalaba
+  type: prefecture
+- code: MM
+  name: Mamou
+  type: prefecture
+- code: PI
+  name: Pita
+  type: prefecture

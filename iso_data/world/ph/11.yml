@@ -1,0 +1,19 @@
+--- 
+- code: COM
+  name: Compostela Valley
+  type: province
+- code: DAV
+  name: Davao del Norte
+  type: province
+- code: DAS
+  name: Davao del Sur
+  type: province
+- code: DAO
+  name: Davao Oriental
+  type: province
+- code: SAR
+  name: Sarangani
+  type: province
+- code: SCO
+  name: South Cotabato
+  type: province

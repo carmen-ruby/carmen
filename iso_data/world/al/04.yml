@@ -1,0 +1,10 @@
+--- 
+- code: FR
+  name: Fier
+  type: district
+- code: LU
+  name: "Lushnj\xC3\xAB"
+  type: district
+- code: MK
+  name: "Mallakast\xC3\xABr"
+  type: district

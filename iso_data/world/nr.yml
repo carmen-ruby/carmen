@@ -1,43 +1,43 @@
 --- 
-- code: NR-01
+- code: "01"
   name: Aiwo
   type: district
-- code: NR-02
+- code: "02"
   name: Anabar
   type: district
-- code: NR-03
+- code: "03"
   name: Anetan
   type: district
-- code: NR-04
+- code: "04"
   name: Anibare
   type: district
-- code: NR-05
+- code: "05"
   name: Baiti
   type: district
-- code: NR-06
+- code: "06"
   name: Boe
   type: district
-- code: NR-07
+- code: "07"
   name: Buada
   type: district
-- code: NR-08
+- code: 08
   name: Denigomodu
   type: district
-- code: NR-09
+- code: 09
   name: Ewa
   type: district
-- code: NR-10
+- code: "10"
   name: Ijuw
   type: district
-- code: NR-11
+- code: "11"
   name: Meneng
   type: district
-- code: NR-12
+- code: "12"
   name: Nibok
   type: district
-- code: NR-13
+- code: "13"
   name: Uaboe
   type: district
-- code: NR-14
+- code: "14"
   name: Yaren
   type: district

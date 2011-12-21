@@ -1,19 +1,19 @@
 --- 
-- code: MG-T
+- code: T
   name: Antananarivo
   type: autonomous province
-- code: MG-D
+- code: D
   name: Antsiranana
   type: autonomous province
-- code: MG-F
+- code: F
   name: Fianarantsoa
   type: autonomous province
-- code: MG-M
+- code: M
   name: Mahajanga
   type: autonomous province
-- code: MG-A
+- code: A
   name: Toamasina
   type: autonomous province
-- code: MG-U
+- code: U
   name: Toliara
   type: autonomous province

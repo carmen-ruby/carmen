@@ -1,244 +1,244 @@
 --- 
-- code: TR-01
+- code: "01"
   name: Adana
   type: province
-- code: TR-02
+- code: "02"
   name: "Ad\xC4\xB1yaman"
   type: province
-- code: TR-03
+- code: "03"
   name: Afyon
   type: province
-- code: TR-04
+- code: "04"
   name: "A\xC4\x9Fr\xC4\xB1"
   type: province
-- code: TR-68
+- code: "68"
   name: Aksaray
   type: province
-- code: TR-05
+- code: "05"
   name: Amasya
   type: province
-- code: TR-06
+- code: "06"
   name: Ankara
   type: province
-- code: TR-07
+- code: "07"
   name: Antalya
   type: province
-- code: TR-75
+- code: "75"
   name: Ardahan
   type: province
-- code: TR-08
+- code: 08
   name: Artvin
   type: province
-- code: TR-09
+- code: 09
   name: "Ayd\xC4\xB1n"
   type: province
-- code: TR-10
+- code: "10"
   name: "Bal\xC4\xB1kesir"
   type: province
-- code: TR-74
+- code: "74"
   name: "Bart\xC4\xB1n"
   type: province
-- code: TR-72
+- code: "72"
   name: Batman
   type: province
-- code: TR-69
+- code: "69"
   name: Bayburt
   type: province
-- code: TR-11
+- code: "11"
   name: Bilecik
   type: province
-- code: TR-12
+- code: "12"
   name: "Bing\xC3\xB6l"
   type: province
-- code: TR-13
+- code: "13"
   name: Bitlis
   type: province
-- code: TR-14
+- code: "14"
   name: Bolu
   type: province
-- code: TR-15
+- code: "15"
   name: Burdur
   type: province
-- code: TR-16
+- code: "16"
   name: Bursa
   type: province
-- code: TR-17
+- code: "17"
   name: "\xC3\x87anakkale"
   type: province
-- code: TR-18
+- code: "18"
   name: "\xC3\x87ank\xC4\xB1r\xC4\xB1"
   type: province
-- code: TR-19
+- code: "19"
   name: "\xC3\x87orum"
   type: province
-- code: TR-20
+- code: "20"
   name: Denizli
   type: province
-- code: TR-21
+- code: "21"
   name: "Diyarbak\xC4\xB1r"
   type: province
-- code: TR-81
+- code: "81"
   name: "D\xC3\xBCzce"
   type: province
-- code: TR-22
+- code: "22"
   name: Edirne
   type: province
-- code: TR-23
+- code: "23"
   name: "Elaz\xC4\xB1\xC4\x9F"
   type: province
-- code: TR-24
+- code: "24"
   name: Erzincan
   type: province
-- code: TR-25
+- code: "25"
   name: Erzurum
   type: province
-- code: TR-26
+- code: "26"
   name: "Eski\xC5\x9Fehir"
   type: province
-- code: TR-27
+- code: "27"
   name: Gaziantep
   type: province
-- code: TR-28
+- code: "28"
   name: Giresun
   type: province
-- code: TR-29
+- code: "29"
   name: "G\xC3\xBCm\xC3\xBC\xC5\x9Fhane"
   type: province
-- code: TR-30
+- code: "30"
   name: "Hakk\xC3\xA2ri"
   type: province
-- code: TR-31
+- code: "31"
   name: Hatay
   type: province
-- code: TR-76
+- code: "76"
   name: "I\xC4\x9Fd\xC4\xB1r"
   type: province
-- code: TR-32
+- code: "32"
   name: Isparta
   type: province
-- code: TR-33
+- code: "33"
   name: "\xC4\xB0\xC3\xA7el"
   type: province
-- code: TR-34
+- code: "34"
   name: "\xC4\xB0stanbul"
   type: province
-- code: TR-35
+- code: "35"
   name: "\xC4\xB0zmir"
   type: province
-- code: TR-46
+- code: "46"
   name: "Kahramanmara\xC5\x9F"
   type: province
-- code: TR-78
+- code: "78"
   name: "Karab\xC3\xBCk"
   type: province
-- code: TR-70
+- code: "70"
   name: Karaman
   type: province
-- code: TR-36
+- code: "36"
   name: Kars
   type: province
-- code: TR-37
+- code: "37"
   name: Kastamonu
   type: province
-- code: TR-38
+- code: "38"
   name: Kayseri
   type: province
-- code: TR-71
+- code: "71"
   name: "K\xC4\xB1r\xC4\xB1kkale"
   type: province
-- code: TR-39
+- code: "39"
   name: "K\xC4\xB1rklareli"
   type: province
-- code: TR-40
+- code: "40"
   name: "K\xC4\xB1r\xC5\x9Fehir"
   type: province
-- code: TR-79
+- code: "79"
   name: Kilis
   type: province
-- code: TR-41
+- code: "41"
   name: Kocaeli
   type: province
-- code: TR-42
+- code: "42"
   name: Konya
   type: province
-- code: TR-43
+- code: "43"
   name: "K\xC3\xBCtahya"
   type: province
-- code: TR-44
+- code: "44"
   name: Malatya
   type: province
-- code: TR-45
+- code: "45"
   name: Manisa
   type: province
-- code: TR-47
+- code: "47"
   name: Mardin
   type: province
-- code: TR-48
+- code: "48"
   name: "Mu\xC4\x9Fla"
   type: province
-- code: TR-49
+- code: "49"
   name: "Mu\xC5\x9F"
   type: province
-- code: TR-50
+- code: "50"
   name: "Nev\xC5\x9Fehir"
   type: province
-- code: TR-51
+- code: "51"
   name: "Ni\xC4\x9Fde"
   type: province
-- code: TR-52
+- code: "52"
   name: Ordu
   type: province
-- code: TR-80
+- code: "80"
   name: Osmaniye
   type: province
-- code: TR-53
+- code: "53"
   name: Rize
   type: province
-- code: TR-54
+- code: "54"
   name: Sakarya
   type: province
-- code: TR-55
+- code: "55"
   name: Samsun
   type: province
-- code: TR-56
+- code: "56"
   name: Siirt
   type: province
-- code: TR-57
+- code: "57"
   name: Sinop
   type: province
-- code: TR-58
+- code: "58"
   name: Sivas
   type: province
-- code: TR-63
+- code: "63"
   name: "\xC5\x9Eanl\xC4\xB1urfa"
   type: province
-- code: TR-73
+- code: "73"
   name: "\xC5\x9E\xC4\xB1rnak"
   type: province
-- code: TR-59
+- code: "59"
   name: "Tekirda\xC4\x9F"
   type: province
-- code: TR-60
+- code: "60"
   name: Tokat
   type: province
-- code: TR-61
+- code: "61"
   name: Trabzon
   type: province
-- code: TR-62
+- code: "62"
   name: Tunceli
   type: province
-- code: TR-64
+- code: "64"
   name: "U\xC5\x9Fak"
   type: province
-- code: TR-65
+- code: "65"
   name: Van
   type: province
-- code: TR-77
+- code: "77"
   name: Yalova
   type: province
-- code: TR-66
+- code: "66"
   name: Yozgat
   type: province
-- code: TR-67
+- code: "67"
   name: Zonguldak
   type: province

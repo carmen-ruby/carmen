@@ -1,13 +1,13 @@
 --- 
-- code: FM-TRK
+- code: TRK
   name: Chuuk
   type: state
-- code: FM-KSA
+- code: KSA
   name: Kosrae
   type: state
-- code: FM-PNI
+- code: PNI
   name: Pohnpei
   type: state
-- code: FM-YAP
+- code: YAP
   name: Yap
   type: state

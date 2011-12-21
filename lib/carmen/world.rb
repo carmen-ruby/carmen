@@ -20,5 +20,6 @@ module Carmen
     def inspect
       "<##{self.class}>"
     end
+
   end
 end

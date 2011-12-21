@@ -1,250 +1,250 @@
 --- 
-- code: RU-AD
+- code: AD
   name: Adygeya, Respublika
   type: republic
-- code: RU-AL
+- code: AL
   name: Altay, Respublika
   type: republic
-- code: RU-BA
+- code: BA
   name: Bashkortostan, Respublika
   type: republic
-- code: RU-BU
+- code: BU
   name: Buryatiya, Respublika
   type: republic
-- code: RU-CE
+- code: CE
   name: Chechenskaya Respublika
   type: republic
-- code: RU-CU
+- code: CU
   name: Chuvashskaya Respublika
   type: republic
-- code: RU-DA
+- code: DA
   name: Dagestan, Respublika
   type: republic
-- code: RU-IN
+- code: IN
   name: Respublika Ingushetiya
   type: republic
-- code: RU-KB
+- code: KB
   name: Kabardino-Balkarskaya Respublika
   type: republic
-- code: RU-KL
+- code: KL
   name: Kalmykiya, Respublika
   type: republic
-- code: RU-KC
+- code: KC
   name: Karachayevo-Cherkesskaya Respublika
   type: republic
-- code: RU-KR
+- code: KR
   name: Kareliya, Respublika
   type: republic
-- code: RU-KK
+- code: KK
   name: Khakasiya, Respublika
   type: republic
-- code: RU-KO
+- code: KO
   name: Komi, Respublika
   type: republic
-- code: RU-ME
+- code: ME
   name: Mariy El, Respublika
   type: republic
-- code: RU-MO
+- code: MO
   name: Mordoviya, Respublika
   type: republic
-- code: RU-SA
+- code: SA
   name: Sakha, Respublika [Yakutiya]
   type: republic
-- code: RU-SE
+- code: SE
   name: Severnaya Osetiya-Alaniya, Respublika
   type: republic
-- code: RU-TA
+- code: TA
   name: Tatarstan, Respublika
   type: republic
-- code: RU-TY
+- code: TY
   name: Tyva, Respublika [Tuva]
   type: republic
-- code: RU-UD
+- code: UD
   name: Udmurtskaya Respublika
   type: republic
-- code: RU-ALT
+- code: ALT
   name: Altayskiy kray
   type: administrative territory
-- code: RU-KAM
+- code: KAM
   name: Kamchatskiy kray
   type: administrative territory
-- code: RU-KHA
+- code: KHA
   name: Khabarovskiy kray
   type: administrative territory
-- code: RU-KDA
+- code: KDA
   name: Krasnodarskiy kray
   type: administrative territory
-- code: RU-KYA
+- code: KYA
   name: Krasnoyarskiy kray
   type: administrative territory
-- code: RU-PER
+- code: PER
   name: Permskiy kray
   type: administrative territory
-- code: RU-PRI
+- code: PRI
   name: Primorskiy kray
   type: administrative territory
-- code: RU-STA
+- code: STA
   name: Stavropol'skiy kray
   type: administrative territory
-- code: RU-ZAB
+- code: ZAB
   name: Zabajkal'skij kraj
   type: administrative territory
-- code: RU-AMU
+- code: AMU
   name: Amurskaya oblast'
   type: administrative region
-- code: RU-ARK
+- code: ARK
   name: Arkhangel'skaya oblast'
   type: administrative region
-- code: RU-AST
+- code: AST
   name: Astrakhanskaya oblast'
   type: administrative region
-- code: RU-BEL
+- code: BEL
   name: Belgorodskaya oblast'
   type: administrative region
-- code: RU-BRY
+- code: BRY
   name: Bryanskaya oblast'
   type: administrative region
-- code: RU-CHE
+- code: CHE
   name: Chelyabinskaya oblast'
   type: administrative region
-- code: RU-IRK
+- code: IRK
   name: Irkutiskaya oblast'
   type: administrative region
-- code: RU-IVA
+- code: IVA
   name: Ivanovskaya oblast'
   type: administrative region
-- code: RU-KGD
+- code: KGD
   name: Kaliningradskaya oblast'
   type: administrative region
-- code: RU-KLU
+- code: KLU
   name: Kaluzhskaya oblast'
   type: administrative region
-- code: RU-KEM
+- code: KEM
   name: Kemerovskaya oblast'
   type: administrative region
-- code: RU-KIR
+- code: KIR
   name: Kirovskaya oblast'
   type: administrative region
-- code: RU-KOS
+- code: KOS
   name: Kostromskaya oblast'
   type: administrative region
-- code: RU-KGN
+- code: KGN
   name: Kurganskaya oblast'
   type: administrative region
-- code: RU-KRS
+- code: KRS
   name: Kurskaya oblast'
   type: administrative region
-- code: RU-LEN
+- code: LEN
   name: Leningradskaya oblast'
   type: administrative region
-- code: RU-LIP
+- code: LIP
   name: Lipetskaya oblast'
   type: administrative region
-- code: RU-MAG
+- code: MAG
   name: Magadanskaya oblast'
   type: administrative region
-- code: RU-MOS
+- code: MOS
   name: Moskovskaya oblast'
   type: administrative region
-- code: RU-MUR
+- code: MUR
   name: Murmanskaya oblast'
   type: administrative region
-- code: RU-NIZ
+- code: NIZ
   name: Nizhegorodskaya oblast'
   type: administrative region
-- code: RU-NGR
+- code: NGR
   name: Novgorodskaya oblast'
   type: administrative region
-- code: RU-NVS
+- code: NVS
   name: Novosibirskaya oblast'
   type: administrative region
-- code: RU-OMS
+- code: OMS
   name: Omskaya oblast'
   type: administrative region
-- code: RU-ORE
+- code: ORE
   name: Orenburgskaya oblast'
   type: administrative region
-- code: RU-ORL
+- code: ORL
   name: Orlovskaya oblast'
   type: administrative region
-- code: RU-PNZ
+- code: PNZ
   name: Penzenskaya oblast'
   type: administrative region
-- code: RU-PSK
+- code: PSK
   name: Pskovskaya oblast'
   type: administrative region
-- code: RU-ROS
+- code: ROS
   name: Rostovskaya oblast'
   type: administrative region
-- code: RU-RYA
+- code: RYA
   name: Ryazanskaya oblast'
   type: administrative region
-- code: RU-SAK
+- code: SAK
   name: Sakhalinskaya oblast'
   type: administrative region
-- code: RU-SAM
+- code: SAM
   name: Samaraskaya oblast'
   type: administrative region
-- code: RU-SAR
+- code: SAR
   name: Saratovskaya oblast'
   type: administrative region
-- code: RU-SMO
+- code: SMO
   name: Smolenskaya oblast'
   type: administrative region
-- code: RU-SVE
+- code: SVE
   name: Sverdlovskaya oblast'
   type: administrative region
-- code: RU-TAM
+- code: TAM
   name: Tambovskaya oblast'
   type: administrative region
-- code: RU-TOM
+- code: TOM
   name: Tomskaya oblast'
   type: administrative region
-- code: RU-TUL
+- code: TUL
   name: Tul'skaya oblast'
   type: administrative region
-- code: RU-TVE
+- code: TVE
   name: Tverskaya oblast'
   type: administrative region
-- code: RU-TYU
+- code: TYU
   name: Tyumenskaya oblast'
   type: administrative region
-- code: RU-ULY
+- code: ULY
   name: Ul'yanovskaya oblast'
   type: administrative region
-- code: RU-VLA
+- code: VLA
   name: Vladimirskaya oblast'
   type: administrative region
-- code: RU-VGG
+- code: VGG
   name: Volgogradskaya oblast'
   type: administrative region
-- code: RU-VLG
+- code: VLG
   name: Vologodskaya oblast'
   type: administrative region
-- code: RU-VOR
+- code: VOR
   name: Voronezhskaya oblast'
   type: administrative region
-- code: RU-YAR
+- code: YAR
   name: Yaroslavskaya oblast'
   type: administrative region
-- code: RU-MOW
+- code: MOW
   name: Moskva
   type: autonomous city
-- code: RU-SPE
+- code: SPE
   name: Sankt-Peterburg
   type: autonomous city
-- code: RU-YEV
+- code: YEV
   name: Yevreyskaya avtonomnaya oblast'
   type: autonomous region
-- code: RU-CHU
+- code: CHU
   name: Chukotskiy avtonomnyy okrug
   type: autonomous district
-- code: RU-KHM
+- code: KHM
   name: Khanty-Mansiysky avtonomnyy okrug-Yugra
   type: autonomous district
-- code: RU-NEN
+- code: NEN
   name: Nenetskiy avtonomnyy okrug
   type: autonomous district
-- code: RU-YAN
+- code: YAN
   name: Yamalo-Nenetskiy avtonomnyy okrug
   type: autonomous district

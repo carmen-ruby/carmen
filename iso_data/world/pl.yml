@@ -1,49 +1,49 @@
 --- 
-- code: PL-DS
+- code: DS
   name: "Dolno\xC5\x9Bl\xC4\x85skie"
   type: province
-- code: PL-KP
+- code: KP
   name: Kujawsko-pomorskie
   type: province
-- code: PL-LU
+- code: LU
   name: Lubelskie
   type: province
-- code: PL-LB
+- code: LB
   name: Lubuskie
   type: province
-- code: PL-LD
+- code: LD
   name: "\xC5\x81\xC3\xB3dzkie"
   type: province
-- code: PL-MA
+- code: MA
   name: "Ma\xC5\x82opolskie"
   type: province
-- code: PL-MZ
+- code: MZ
   name: Mazowieckie
   type: province
-- code: PL-OP
+- code: OP
   name: Opolskie
   type: province
-- code: PL-PK
+- code: PK
   name: Podkarpackie
   type: province
-- code: PL-PD
+- code: PD
   name: Podlaskie
   type: province
-- code: PL-PM
+- code: PM
   name: Pomorskie
   type: province
-- code: PL-SL
+- code: SL
   name: "\xC5\x9Al\xC4\x85skie"
   type: province
-- code: PL-SK
+- code: SK
   name: "\xC5\x9Awi\xC4\x99tokrzyskie"
   type: province
-- code: PL-WN
+- code: WN
   name: "Warmi\xC5\x84sko-mazurskie"
   type: province
-- code: PL-WP
+- code: WP
   name: Wielkopolskie
   type: province
-- code: PL-ZP
+- code: ZP
   name: Zachodniopomorskie
   type: province

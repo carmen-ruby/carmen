@@ -1,28 +1,28 @@
 --- 
-- code: OM-DA
+- code: DA
   name: "Ad D\xC4\x81khil\xC4\xABya"
   type: region
-- code: OM-BA
+- code: BA
   name: "Al B\xC4\x81\xC5\xA3inah"
   type: region
-- code: OM-WU
+- code: WU
   name: "Al Wus\xC5\xA3\xC3\xA1"
   type: region
-- code: OM-SH
+- code: SH
   name: "Ash Sharq\xC4\xAByah"
   type: region
-- code: OM-ZA
+- code: ZA
   name: "Az\xCC\xA7 Z\xCC\xA7\xC4\x81hirah"
   type: region
-- code: OM-BU
+- code: BU
   name: "Al Buraym\xC4\xAB"
   type: governorate
-- code: OM-MA
+- code: MA
   name: "Masqa\xC5\xA3"
   type: governorate
-- code: OM-MU
+- code: MU
   name: Musandam
   type: governorate
-- code: OM-ZU
+- code: ZU
   name: "Z\xCC\xA7uf\xC4\x81r"
   type: governorate

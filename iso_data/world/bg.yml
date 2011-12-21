@@ -1,85 +1,85 @@
 --- 
-- code: BG-01
+- code: "01"
   name: Blagoevgrad
   type: region
-- code: BG-02
+- code: "02"
   name: Burgas
   type: region
-- code: BG-08
+- code: 08
   name: Dobrich
   type: region
-- code: BG-07
+- code: "07"
   name: Gabrovo
   type: region
-- code: BG-26
+- code: "26"
   name: Haskovo
   type: region
-- code: BG-09
+- code: 09
   name: Kardzhali
   type: region
-- code: BG-10
+- code: "10"
   name: Kyustendil
   type: region
-- code: BG-11
+- code: "11"
   name: Lovech
   type: region
-- code: BG-12
+- code: "12"
   name: Montana
   type: region
-- code: BG-13
+- code: "13"
   name: Pazardzhik
   type: region
-- code: BG-14
+- code: "14"
   name: Pernik
   type: region
-- code: BG-15
+- code: "15"
   name: Pleven
   type: region
-- code: BG-16
+- code: "16"
   name: Plovdiv
   type: region
-- code: BG-17
+- code: "17"
   name: Razgrad
   type: region
-- code: BG-18
+- code: "18"
   name: Ruse
   type: region
-- code: BG-27
+- code: "27"
   name: Shumen
   type: region
-- code: BG-19
+- code: "19"
   name: Silistra
   type: region
-- code: BG-20
+- code: "20"
   name: Sliven
   type: region
-- code: BG-21
+- code: "21"
   name: Smolyan
   type: region
-- code: BG-23
+- code: "23"
   name: Sofia
   type: region
-- code: BG-22
+- code: "22"
   name: Sofia-Grad
   type: region
-- code: BG-24
+- code: "24"
   name: Stara Zagora
   type: region
-- code: BG-25
+- code: "25"
   name: Targovishte
   type: region
-- code: BG-03
+- code: "03"
   name: Varna
   type: region
-- code: BG-04
+- code: "04"
   name: Veliko Tarnovo
   type: region
-- code: BG-05
+- code: "05"
   name: Vidin
   type: region
-- code: BG-06
+- code: "06"
   name: Vratsa
   type: region
-- code: BG-28
+- code: "28"
   name: Yambol
   type: region

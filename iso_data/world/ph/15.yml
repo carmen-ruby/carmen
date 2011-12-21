@@ -1,0 +1,19 @@
+--- 
+- code: ABR
+  name: Abra
+  type: province
+- code: APA
+  name: Apayao
+  type: province
+- code: BEN
+  name: Benguet
+  type: province
+- code: IFU
+  name: Ifugao
+  type: province
+- code: KAL
+  name: Kalinga-Apayso
+  type: province
+- code: MOU
+  name: Mountain Province
+  type: province

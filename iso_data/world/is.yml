@@ -1,28 +1,28 @@
 --- 
-- code: IS-7
+- code: "7"
   name: Austurland
   type: region
-- code: IS-1
+- code: "1"
   name: "H\xC3\xB6fu\xC3\xB0borgarsv\xC3\xA6\xC3\xB0i\xC3\xB0"
   type: region
-- code: IS-6
+- code: "6"
   name: "Nor\xC3\xB0urland eystra"
   type: region
-- code: IS-5
+- code: "5"
   name: "Nor\xC3\xB0urland vestra"
   type: region
-- code: IS-8
+- code: "8"
   name: "Su\xC3\xB0urland"
   type: region
-- code: IS-2
+- code: "2"
   name: "Su\xC3\xB0urnes"
   type: region
-- code: IS-4
+- code: "4"
   name: "Vestfir\xC3\xB0ir"
   type: region
-- code: IS-3
+- code: "3"
   name: Vesturland
   type: region
-- code: IS-0
+- code: "0"
   name: "Reykjav\xC3\xADk"
   type: city

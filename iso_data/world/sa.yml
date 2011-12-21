@@ -1,40 +1,40 @@
 --- 
-- code: SA-11
+- code: "11"
   name: "Al B\xC4\x81hah"
   type: province
-- code: SA-08
+- code: 08
   name: "Al \xE1\xB8\xA4ud\xC5\xABd ash Sham\xC4\x81liyah"
   type: province
-- code: SA-12
+- code: "12"
   name: Al Jawf
   type: province
-- code: SA-03
+- code: "03"
   name: "Al Mad\xC4\xABnah"
   type: province
-- code: SA-05
+- code: "05"
   name: "Al Qa\xC5\x9F\xC4\xABm"
   type: province
-- code: SA-01
+- code: "01"
   name: "Ar Riy\xC4\x81\xE1\xB8\x8D"
   type: province
-- code: SA-04
+- code: "04"
   name: "Ash Sharq\xC4\xAByah"
   type: province
-- code: SA-14
+- code: "14"
   name: "`As\xC4\xABr"
   type: province
-- code: SA-06
+- code: "06"
   name: "\xE1\xB8\xA4\xC4\x81'il"
   type: province
-- code: SA-09
+- code: 09
   name: "J\xC4\xABzan"
   type: province
-- code: SA-02
+- code: "02"
   name: Makkah
   type: province
-- code: SA-10
+- code: "10"
   name: "Najr\xC4\x81n"
   type: province
-- code: SA-07
+- code: "07"
   name: "Tab\xC5\xABk"
   type: province

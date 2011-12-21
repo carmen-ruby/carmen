@@ -1,49 +1,49 @@
 --- 
-- code: DE-BW
+- code: BW
   name: "Baden-W\xC3\xBCrttemberg"
   type: state
-- code: DE-BY
+- code: BY
   name: Bayern
   type: state
-- code: DE-HB
+- code: HB
   name: Bremen
   type: state
-- code: DE-HH
+- code: HH
   name: Hamburg
   type: state
-- code: DE-HE
+- code: HE
   name: Hessen
   type: state
-- code: DE-NI
+- code: NI
   name: Niedersachsen
   type: state
-- code: DE-NW
+- code: NW
   name: Nordrhein-Westfalen
   type: state
-- code: DE-RP
+- code: RP
   name: Rheinland-Pfalz
   type: state
-- code: DE-SL
+- code: SL
   name: Saarland
   type: state
-- code: DE-SH
+- code: SH
   name: Schleswig-Holstein
   type: state
-- code: DE-BE
+- code: BE
   name: Berlin
   type: state
-- code: DE-BB
+- code: BB
   name: Brandenburg
   type: state
-- code: DE-MV
+- code: MV
   name: Mecklenburg-Vorpommern
   type: state
-- code: DE-SN
+- code: SN
   name: Sachsen
   type: state
-- code: DE-ST
+- code: ST
   name: Sachsen-Anhalt
   type: state
-- code: DE-TH
+- code: TH
   name: "Th\xC3\xBCringen"
   type: state

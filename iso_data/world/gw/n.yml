@@ -1,0 +1,10 @@
+--- 
+- code: BM
+  name: Biombo
+  type: region
+- code: CA
+  name: Cacheu
+  type: region
+- code: OI
+  name: Oio
+  type: region

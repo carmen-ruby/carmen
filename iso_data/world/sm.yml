@@ -1,28 +1,28 @@
 --- 
-- code: SM-01
+- code: "01"
   name: Acquaviva
   type: municipalities
-- code: SM-06
+- code: "06"
   name: Borgo Maggiore
   type: municipalities
-- code: SM-02
+- code: "02"
   name: Chiesanuova
   type: municipalities
-- code: SM-03
+- code: "03"
   name: Domagnano
   type: municipalities
-- code: SM-04
+- code: "04"
   name: Faetano
   type: municipalities
-- code: SM-05
+- code: "05"
   name: Fiorentino
   type: municipalities
-- code: SM-08
+- code: 08
   name: Montegiardino
   type: municipalities
-- code: SM-07
+- code: "07"
   name: San Marino
   type: municipalities
-- code: SM-09
+- code: 09
   name: Serravalle
   type: municipalities

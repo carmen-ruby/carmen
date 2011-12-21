@@ -1,73 +1,73 @@
 --- 
-- code: KH-23
+- code: "23"
   name: Krong Kaeb
   type: autonomous municipality
-- code: KH-24
+- code: "24"
   name: Krong Pailin
   type: autonomous municipality
-- code: KH-18
+- code: "18"
   name: Krong Preah Sihanouk
   type: autonomous municipality
-- code: KH-12
+- code: "12"
   name: Phnom Penh
   type: autonomous municipality
-- code: KH-2
+- code: "2"
   name: Battambang
   type: province
-- code: KH-1
+- code: "1"
   name: Banteay Mean Chey
   type: province
-- code: KH-3
+- code: "3"
   name: Kampong Cham
   type: province
-- code: KH-4
+- code: "4"
   name: Kampong Chhnang
   type: province
-- code: KH-5
+- code: "5"
   name: Kampong Speu
   type: province
-- code: KH-6
+- code: "6"
   name: Kampong Thom
   type: province
-- code: KH-7
+- code: "7"
   name: Kampot
   type: province
-- code: KH-8
+- code: "8"
   name: Kandal
   type: province
-- code: KH-9
+- code: "9"
   name: Kach Kong
   type: province
-- code: KH-10
+- code: "10"
   name: Krachoh
   type: province
-- code: KH-11
+- code: "11"
   name: Mondol Kiri
   type: province
-- code: KH-22
+- code: "22"
   name: Otdar Mean Chey
   type: province
-- code: KH-15
+- code: "15"
   name: Pousaat
   type: province
-- code: KH-13
+- code: "13"
   name: Preah Vihear
   type: province
-- code: KH-14
+- code: "14"
   name: Prey Veaeng
   type: province
-- code: KH-16
+- code: "16"
   name: Rotanak Kiri
   type: province
-- code: KH-17
+- code: "17"
   name: Siem Reab
   type: province
-- code: KH-19
+- code: "19"
   name: Stueng Traeng
   type: province
-- code: KH-20
+- code: "20"
   name: Svaay Rieng
   type: province
-- code: KH-21
+- code: "21"
   name: Taakaev
   type: province

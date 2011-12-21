@@ -1,22 +1,22 @@
 --- 
-- code: KE-110
+- code: "110"
   name: Nairobi Municipality
   type: province
-- code: KE-200
+- code: "200"
   name: Central
   type: province
-- code: KE-300
+- code: "300"
   name: Coast
   type: province
-- code: KE-400
+- code: "400"
   name: Eastern
   type: province
-- code: KE-500
+- code: "500"
   name: North-Eastern Kaskazini Mashariki
   type: province
-- code: KE-700
+- code: "700"
   name: Rift Valley
   type: province
-- code: KE-900
+- code: "900"
   name: Western Magharibi
   type: province

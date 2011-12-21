@@ -1,37 +1,37 @@
 --- 
-- code: AL-01
+- code: "01"
   name: Berat
   type: county
-- code: AL-09
+- code: 09
   name: "Dib\xC3\xABr"
   type: county
-- code: AL-02
+- code: "02"
   name: "Durr\xC3\xABs"
   type: county
-- code: AL-03
+- code: "03"
   name: Elbasan
   type: county
-- code: AL-04
+- code: "04"
   name: Fier
   type: county
-- code: AL-05
+- code: "05"
   name: "Gjirokast\xC3\xABr"
   type: county
-- code: AL-06
+- code: "06"
   name: "Kor\xC3\xA7\xC3\xAB"
   type: county
-- code: AL-07
+- code: "07"
   name: "Kuk\xC3\xABs"
   type: county
-- code: AL-08
+- code: 08
   name: "Lezh\xC3\xAB"
   type: county
-- code: AL-10
+- code: "10"
   name: "Shkod\xC3\xABr"
   type: county
-- code: AL-11
+- code: "11"
   name: "Tiran\xC3\xAB"
   type: county
-- code: AL-12
+- code: "12"
   name: "Vlor\xC3\xAB"
   type: county

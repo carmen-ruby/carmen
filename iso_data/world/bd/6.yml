@@ -1,0 +1,13 @@
+--- 
+- code: "20"
+  name: Habiganj zila
+  type: district
+- code: "38"
+  name: Moulvibazar zila
+  type: district
+- code: "61"
+  name: Sunamganj zila
+  type: district
+- code: "60"
+  name: Sylhet zila
+  type: district

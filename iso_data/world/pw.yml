@@ -1,49 +1,49 @@
 --- 
-- code: PW-002
+- code: "002"
   name: Aimeliik
   type: state
-- code: PW-004
+- code: "004"
   name: Airai
   type: state
-- code: PW-010
+- code: "010"
   name: Angaur
   type: state
-- code: PW-050
+- code: "050"
   name: Hatobohei
   type: state
-- code: PW-100
+- code: "100"
   name: Kayangel
   type: state
-- code: PW-150
+- code: "150"
   name: Koror
   type: state
-- code: PW-212
+- code: "212"
   name: Melekeok
   type: state
-- code: PW-214
+- code: "214"
   name: Ngaraard
   type: state
-- code: PW-218
+- code: "218"
   name: Ngarchelong
   type: state
-- code: PW-222
+- code: "222"
   name: Ngardmau
   type: state
-- code: PW-224
+- code: "224"
   name: Ngatpang
   type: state
-- code: PW-226
+- code: "226"
   name: Ngchesar
   type: state
-- code: PW-227
+- code: "227"
   name: Ngeremlengui
   type: state
-- code: PW-228
+- code: "228"
   name: Ngiwal
   type: state
-- code: PW-350
+- code: "350"
   name: Peleliu
   type: state
-- code: PW-370
+- code: "370"
   name: Sonsorol
   type: state

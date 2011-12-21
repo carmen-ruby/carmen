@@ -1,52 +1,52 @@
 --- 
-- code: MU-BR
+- code: BR
   name: Beau Bassin-Rose Hill
   type: city
-- code: MU-CU
+- code: CU
   name: Curepipe
   type: city
-- code: MU-PU
+- code: PU
   name: Port Louis
   type: city
-- code: MU-QB
+- code: QB
   name: Quatre Bornes
   type: city
-- code: MU-VP
+- code: VP
   name: Vacoas-Phoenix
   type: city
-- code: MU-AG
+- code: AG
   name: Agalega Islands
   type: dependency
-- code: MU-CC
+- code: CC
   name: Cargados Carajos Shoals
   type: dependency
-- code: MU-RO
+- code: RO
   name: Rodrigues Island
   type: dependency
-- code: MU-BL
+- code: BL
   name: Black River
   type: district
-- code: MU-FL
+- code: FL
   name: Flacq
   type: district
-- code: MU-GP
+- code: GP
   name: Grand Port
   type: district
-- code: MU-MO
+- code: MO
   name: Moka
   type: district
-- code: MU-PA
+- code: PA
   name: Pamplemousses
   type: district
-- code: MU-PW
+- code: PW
   name: Plaines Wilhems
   type: district
-- code: MU-PL
+- code: PL
   name: Port Louis
   type: district
-- code: MU-RP
+- code: RP
   name: "Rivi\xC3\xA8re du Rempart"
   type: district
-- code: MU-SA
+- code: SA
   name: Savanne
   type: district

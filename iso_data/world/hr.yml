@@ -1,64 +1,64 @@
 --- 
-- code: HR-21
+- code: "21"
   name: Grad Zagreb
   type: city
-- code: HR-07
+- code: "07"
   name: "Bjelovarsko-bilogorska \xC5\xBEupanija"
   type: county
-- code: HR-12
+- code: "12"
   name: "Brodsko-posavska \xC5\xBEupanija"
   type: county
-- code: HR-19
+- code: "19"
   name: "Dubrova\xC4\x8Dko-neretvanska \xC5\xBEupanija"
   type: county
-- code: HR-18
+- code: "18"
   name: "Istarska \xC5\xBEupanija"
   type: county
-- code: HR-04
+- code: "04"
   name: "Karlova\xC4\x8Dka \xC5\xBEupanija"
   type: county
-- code: HR-06
+- code: "06"
   name: "Koprivni\xC4\x8Dko-kri\xC5\xBEeva\xC4\x8Dka \xC5\xBEupanija"
   type: county
-- code: HR-02
+- code: "02"
   name: "Krapinsko-zagorska \xC5\xBEupanija"
   type: county
-- code: HR-09
+- code: 09
   name: "Li\xC4\x8Dko-senjska \xC5\xBEupanija"
   type: county
-- code: HR-20
+- code: "20"
   name: "Me\xC4\x91imurska \xC5\xBEupanija"
   type: county
-- code: HR-14
+- code: "14"
   name: "Osje\xC4\x8Dko-baranjska \xC5\xBEupanija"
   type: county
-- code: HR-11
+- code: "11"
   name: "Po\xC5\xBEe\xC5\xA1ko-slavonska \xC5\xBEupanija"
   type: county
-- code: HR-08
+- code: 08
   name: "Primorsko-goranska \xC5\xBEupanija"
   type: county
-- code: HR-03
+- code: "03"
   name: "Sisa\xC4\x8Dko-moslava\xC4\x8Dka \xC5\xBEupanija"
   type: county
-- code: HR-17
+- code: "17"
   name: "Splitsko-dalmatinska \xC5\xBEupanija"
   type: county
-- code: HR-15
+- code: "15"
   name: "\xC5\xA0ibensko-kninska \xC5\xBEupanija"
   type: county
-- code: HR-05
+- code: "05"
   name: "Vara\xC5\xBEdinska \xC5\xBEupanija"
   type: county
-- code: HR-10
+- code: "10"
   name: "Viroviti\xC4\x8Dko-podravska \xC5\xBEupanija"
   type: county
-- code: HR-16
+- code: "16"
   name: "Vukovarsko-srijemska \xC5\xBEupanija"
   type: county
-- code: HR-13
+- code: "13"
   name: "Zadarska \xC5\xBEupanija"
   type: county
-- code: HR-01
+- code: "01"
   name: "Zagreba\xC4\x8Dka \xC5\xBEupanija"
   type: county

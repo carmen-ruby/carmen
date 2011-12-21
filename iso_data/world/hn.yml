@@ -1,55 +1,55 @@
 --- 
-- code: HN-AT
+- code: AT
   name: "Atl\xC3\xA1ntida"
   type: department
-- code: HN-CL
+- code: CL
   name: "Col\xC3\xB3n"
   type: department
-- code: HN-CM
+- code: CM
   name: Comayagua
   type: department
-- code: HN-CP
+- code: CP
   name: "Cop\xC3\xA1n"
   type: department
-- code: HN-CR
+- code: CR
   name: "Cort\xC3\xA9s"
   type: department
-- code: HN-CH
+- code: CH
   name: Choluteca
   type: department
-- code: HN-EP
+- code: EP
   name: "El Para\xC3\xADso"
   type: department
-- code: HN-FM
+- code: FM
   name: "Francisco Moraz\xC3\xA1n"
   type: department
-- code: HN-GD
+- code: GD
   name: Gracias a Dios
   type: department
-- code: HN-IN
+- code: IN
   name: "Intibuc\xC3\xA1"
   type: department
-- code: HN-IB
+- code: IB
   name: "Islas de la Bah\xC3\xADa"
   type: department
-- code: HN-LP
+- code: LP
   name: La Paz
   type: department
-- code: HN-LE
+- code: LE
   name: Lempira
   type: department
-- code: HN-OC
+- code: OC
   name: Ocotepeque
   type: department
-- code: HN-OL
+- code: OL
   name: Olancho
   type: department
-- code: HN-SB
+- code: SB
   name: "Santa B\xC3\xA1rbara"
   type: department
-- code: HN-VA
+- code: VA
   name: Valle
   type: department
-- code: HN-YO
+- code: YO
   name: Yoro
   type: department

@@ -1,49 +1,49 @@
 --- 
-- code: KZ-ALA
+- code: ALA
   name: Almaty
   type: city
-- code: KZ-AST
+- code: AST
   name: Astana
   type: city
-- code: KZ-ALM
+- code: ALM
   name: Almaty oblysy
   type: region
-- code: KZ-AKM
+- code: AKM
   name: Aqmola oblysy
   type: region
-- code: KZ-AKT
+- code: AKT
   name: "Aqt\xC3\xB6be oblysy"
   type: region
-- code: KZ-ATY
+- code: ATY
   name: "Atyra\xC5\xAB oblysy"
   type: region
-- code: KZ-ZAP
+- code: ZAP
   name: Batys Quzaqstan oblysy
   type: region
-- code: KZ-MAN
+- code: MAN
   name: "Mangghysta\xC5\xAB oblysy"
   type: region
-- code: KZ-YUZ
+- code: YUZ
   name: "Ongt\xC3\xBCstik Qazaqstan oblysy"
   type: region
-- code: KZ-PAV
+- code: PAV
   name: Pavlodar oblysy
   type: region
-- code: KZ-KAR
+- code: KAR
   name: Qaraghandy oblysy
   type: region
-- code: KZ-KUS
+- code: KUS
   name: Qostanay oblysy
   type: region
-- code: KZ-KZY
+- code: KZY
   name: Qyzylorda oblysy
   type: region
-- code: KZ-VOS
+- code: VOS
   name: Shyghys Qazaqstan oblysy
   type: region
-- code: KZ-SEV
+- code: SEV
   name: "Solt\xC3\xBCstik Quzaqstan oblysy"
   type: region
-- code: KZ-ZHA
+- code: ZHA
   name: Zhambyl oblysy
   type: region

@@ -1,0 +1,13 @@
+--- 
+- code: "94"
+  name: Chania
+  type: department
+- code: "91"
+  name: Irakleio
+  type: department
+- code: "92"
+  name: Lasithi
+  type: department
+- code: "93"
+  name: Rethymno
+  type: department

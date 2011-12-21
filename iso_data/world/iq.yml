@@ -1,55 +1,55 @@
 --- 
-- code: IQ-AN
+- code: AN
   name: Al Anbar
   type: governorate
-- code: IQ-BA
+- code: BA
   name: Al Basrah
   type: governorate
-- code: IQ-MU
+- code: MU
   name: Al Muthanna
   type: governorate
-- code: IQ-QA
+- code: QA
   name: Al Qadisiyah
   type: governorate
-- code: IQ-NA
+- code: NA
   name: An Najef
   type: governorate
-- code: IQ-AR
+- code: AR
   name: Arbil
   type: governorate
-- code: IQ-SW
+- code: SW
   name: As Sulaymaniyah
   type: governorate
-- code: IQ-TS
+- code: TS
   name: At Ta'mim
   type: governorate
-- code: IQ-BB
+- code: BB
   name: Babil
   type: governorate
-- code: IQ-BG
+- code: BG
   name: Baghdad
   type: governorate
-- code: IQ-DA
+- code: DA
   name: Dahuk
   type: governorate
-- code: IQ-DQ
+- code: DQ
   name: Dhi Qar
   type: governorate
-- code: IQ-DI
+- code: DI
   name: Diyala
   type: governorate
-- code: IQ-KA
+- code: KA
   name: Karbala'
   type: governorate
-- code: IQ-MA
+- code: MA
   name: Maysan
   type: governorate
-- code: IQ-NI
+- code: NI
   name: Ninawa
   type: governorate
-- code: IQ-SD
+- code: SD
   name: Salah ad Din
   type: governorate
-- code: IQ-WA
+- code: WA
   name: Wasit
   type: governorate

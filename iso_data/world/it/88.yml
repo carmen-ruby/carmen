@@ -1,0 +1,25 @@
+--- 
+- code: CA
+  name: Cagliari
+  type: province
+- code: CI
+  name: Carbonia-Iglesias
+  type: province
+- code: VS
+  name: Medio Campidano
+  type: province
+- code: NU
+  name: Nuoro
+  type: province
+- code: OG
+  name: Ogliastra
+  type: province
+- code: OT
+  name: Olbia-Tempio
+  type: province
+- code: OR
+  name: Oristano
+  type: province
+- code: SS
+  name: Sassari
+  type: province

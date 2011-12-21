@@ -1,0 +1,10 @@
+--- 
+- code: BA
+  name: Bali
+  type: province
+- code: NB
+  name: Nusa Tenggara Barat
+  type: province
+- code: NT
+  name: Nusa Tenggara Timur
+  type: province

@@ -1,0 +1,28 @@
+--- 
+- code: "01"
+  name: Christ Church Nichola Town
+  type: parish
+- code: "02"
+  name: Saint Anne Sandy Point
+  type: parish
+- code: "03"
+  name: Saint George Basseterre
+  type: parish
+- code: "06"
+  name: Saint John Capisterre
+  type: parish
+- code: 08
+  name: Saint Mary Cayon
+  type: parish
+- code: 09
+  name: Saint Paul Capisterre
+  type: parish
+- code: "11"
+  name: Saint Peter Basseterre
+  type: parish
+- code: "13"
+  name: Saint Thomas Middle Island
+  type: parish
+- code: "15"
+  name: Trinity Palmetto Point
+  type: parish

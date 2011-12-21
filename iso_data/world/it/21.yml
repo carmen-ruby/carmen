@@ -1,0 +1,25 @@
+--- 
+- code: AL
+  name: Alessandria
+  type: province
+- code: AT
+  name: Asti
+  type: province
+- code: BI
+  name: Biella
+  type: province
+- code: CN
+  name: Cuneo
+  type: province
+- code: "NO"
+  name: Novara
+  type: province
+- code: TO
+  name: Torino
+  type: province
+- code: VB
+  name: Verbano-Cusio-Ossola
+  type: province
+- code: VC
+  name: Vercelli
+  type: province

@@ -1,0 +1,13 @@
+--- 
+- code: "25"
+  name: Doubs
+  type: metropolitan department
+- code: "70"
+  name: "Haute-Sa\xC3\xB4ne"
+  type: metropolitan department
+- code: "39"
+  name: Jura
+  type: metropolitan department
+- code: "90"
+  name: Territoire de Belfort
+  type: metropolitan department

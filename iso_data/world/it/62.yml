@@ -1,0 +1,16 @@
+--- 
+- code: FR
+  name: Frosinone
+  type: province
+- code: LT
+  name: Latina
+  type: province
+- code: RI
+  name: Rieti
+  type: province
+- code: RM
+  name: Roma
+  type: province
+- code: VT
+  name: Viterbo
+  type: province

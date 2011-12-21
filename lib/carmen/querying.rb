@@ -7,15 +7,11 @@ module Carmen
     #
     # Returns a region with the supplied code, or nil ir none is found.
     def coded(code)
-      attribute = case code.to_s.size
-      when 2
-        :alpha_2_code
-      when 3
-        :alpha_3_code
-      else
-        fail "coded only accepts 2 or 3 character codes"
+      attribute = attribute_to_search_for_code(code)
+      if attribute.nil?
+        fail "could not find an attribute to search for code '#{code}'"
       end
-      subregions.find do |region|
+      query_collection.find do |region|
         region.send(attribute) == code
       end
     end
@@ -29,7 +25,7 @@ module Carmen
     #
     # Returns a region with the supplied name, or nil if none if found.
     def named(name, options={})
-      subregions.find do |region|
+      query_collection.find do |region|
         region.name == name
       end
     end

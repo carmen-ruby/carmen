@@ -1,85 +1,85 @@
 --- 
-- code: BR-AC
+- code: AC
   name: Acre
   type: state
-- code: BR-AL
+- code: AL
   name: Alagoas
   type: state
-- code: BR-AM
+- code: AM
   name: Amazonas
   type: state
-- code: BR-AP
+- code: AP
   name: "Amap\xC3\xA1"
   type: state
-- code: BR-BA
+- code: BA
   name: Bahia
   type: state
-- code: BR-CE
+- code: CE
   name: "Cear\xC3\xA1"
   type: state
-- code: BR-ES
+- code: ES
   name: "Esp\xC3\xADrito Santo"
   type: state
-- code: BR-FN
+- code: FN
   name: Fernando de Noronha
   type: state
-- code: BR-GO
+- code: GO
   name: "Goi\xC3\xA1s"
   type: state
-- code: BR-MA
+- code: MA
   name: "Maranh\xC3\xA3o"
   type: state
-- code: BR-MG
+- code: MG
   name: Minas Gerais
   type: state
-- code: BR-MS
+- code: MS
   name: Mato Grosso do Sul
   type: state
-- code: BR-MT
+- code: MT
   name: Mato Grosso
   type: state
-- code: BR-PA
+- code: PA
   name: "Par\xC3\xA1"
   type: state
-- code: BR-PB
+- code: PB
   name: "Para\xC3\xADba"
   type: state
-- code: BR-PE
+- code: PE
   name: Pernambuco
   type: state
-- code: BR-PI
+- code: PI
   name: "Piau\xC3\xAD"
   type: state
-- code: BR-PR
+- code: PR
   name: "Paran\xC3\xA1"
   type: state
-- code: BR-RJ
+- code: RJ
   name: Rio de Janeiro
   type: state
-- code: BR-RN
+- code: RN
   name: Rio Grande do Norte
   type: state
-- code: BR-RO
+- code: RO
   name: "Rond\xC3\xB4nia"
   type: state
-- code: BR-RR
+- code: RR
   name: Roraima
   type: state
-- code: BR-RS
+- code: RS
   name: Rio Grande do Sul
   type: state
-- code: BR-SC
+- code: SC
   name: Santa Catarina
   type: state
-- code: BR-SE
+- code: SE
   name: Sergipe
   type: state
-- code: BR-SP
+- code: SP
   name: "S\xC3\xA3o Paulo"
   type: state
-- code: BR-TO
+- code: TO
   name: Tocantins
   type: state
-- code: BR-DF
+- code: DF
   name: Distrito Federal
   type: federal district

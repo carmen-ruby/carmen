@@ -1,16 +1,16 @@
 --- 
-- code: SG-01
+- code: "01"
   name: Central Singapore
   type: district
-- code: SG-02
+- code: "02"
   name: North East
   type: district
-- code: SG-03
+- code: "03"
   name: North West
   type: district
-- code: SG-04
+- code: "04"
   name: South East
   type: district
-- code: SG-05
+- code: "05"
   name: South West
   type: district

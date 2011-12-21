@@ -1,40 +1,40 @@
 --- 
-- code: NA-CA
+- code: CA
   name: Caprivi
   type: region
-- code: NA-ER
+- code: ER
   name: Erongo
   type: region
-- code: NA-HA
+- code: HA
   name: Hardap
   type: region
-- code: NA-KA
+- code: KA
   name: Karas
   type: region
-- code: NA-KH
+- code: KH
   name: Khomas
   type: region
-- code: NA-KU
+- code: KU
   name: Kunene
   type: region
-- code: NA-OW
+- code: OW
   name: Ohangwena
   type: region
-- code: NA-OK
+- code: OK
   name: Okavango
   type: region
-- code: NA-OH
+- code: OH
   name: Omaheke
   type: region
-- code: NA-OS
+- code: OS
   name: Omusati
   type: region
-- code: NA-ON
+- code: "ON"
   name: Oshana
   type: region
-- code: NA-OT
+- code: OT
   name: Oshikoto
   type: region
-- code: NA-OD
+- code: OD
   name: Otjozondjupa
   type: region

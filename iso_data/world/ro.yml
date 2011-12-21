@@ -1,127 +1,127 @@
 --- 
-- code: RO-AB
+- code: AB
   name: Alba
   type: department
-- code: RO-AR
+- code: AR
   name: Arad
   type: department
-- code: RO-AG
+- code: AG
   name: "Arge\xC8\x99"
   type: department
-- code: RO-BC
+- code: BC
   name: "Bac\xC4\x83u"
   type: department
-- code: RO-BH
+- code: BH
   name: Bihor
   type: department
-- code: RO-BN
+- code: BN
   name: "Bistri\xC8\x9Ba-N\xC4\x83s\xC4\x83ud"
   type: department
-- code: RO-BT
+- code: BT
   name: "Boto\xC8\x99ani"
   type: department
-- code: RO-BV
+- code: BV
   name: "Bra\xC8\x99ov"
   type: department
-- code: RO-BR
+- code: BR
   name: "Br\xC4\x83ila"
   type: department
-- code: RO-BZ
+- code: BZ
   name: "Buz\xC4\x83u"
   type: department
-- code: RO-CS
+- code: CS
   name: "Cara\xC8\x99-Severin"
   type: department
-- code: RO-CL
+- code: CL
   name: "C\xC4\x83l\xC4\x83ra\xC8\x99i"
   type: department
-- code: RO-CJ
+- code: CJ
   name: Cluj
   type: department
-- code: RO-CT
+- code: CT
   name: "Constan\xC8\x9Ba"
   type: department
-- code: RO-CV
+- code: CV
   name: Covasna
   type: department
-- code: RO-DB
+- code: DB
   name: "D\xC3\xA2mbovi\xC8\x9Ba"
   type: department
-- code: RO-DJ
+- code: DJ
   name: Dolj
   type: department
-- code: RO-GL
+- code: GL
   name: "Gala\xC8\x9Bi"
   type: department
-- code: RO-GR
+- code: GR
   name: Giurgiu
   type: department
-- code: RO-GJ
+- code: GJ
   name: Gorj
   type: department
-- code: RO-HR
+- code: HR
   name: Harghita
   type: department
-- code: RO-HD
+- code: HD
   name: Hunedoara
   type: department
-- code: RO-IL
+- code: IL
   name: "Ialomi\xC8\x9Ba"
   type: department
-- code: RO-IS
+- code: IS
   name: "Ia\xC8\x99i"
   type: department
-- code: RO-IF
+- code: IF
   name: Ilfov
   type: department
-- code: RO-MM
+- code: MM
   name: "Maramure\xC8\x99"
   type: department
-- code: RO-MH
+- code: MH
   name: "Mehedin\xC8\x9Bi"
   type: department
-- code: RO-MS
+- code: MS
   name: "Mure\xC8\x99"
   type: department
-- code: RO-NT
+- code: NT
   name: "Neam\xC8\x9B"
   type: department
-- code: RO-OT
+- code: OT
   name: Olt
   type: department
-- code: RO-PH
+- code: PH
   name: Prahova
   type: department
-- code: RO-SM
+- code: SM
   name: Satu Mare
   type: department
-- code: RO-SJ
+- code: SJ
   name: "S\xC4\x83laj"
   type: department
-- code: RO-SB
+- code: SB
   name: Sibiu
   type: department
-- code: RO-SV
+- code: SV
   name: Suceava
   type: department
-- code: RO-TR
+- code: TR
   name: Teleorman
   type: department
-- code: RO-TM
+- code: TM
   name: "Timi\xC8\x99"
   type: department
-- code: RO-TL
+- code: TL
   name: Tulcea
   type: department
-- code: RO-VS
+- code: VS
   name: Vaslui
   type: department
-- code: RO-VL
+- code: VL
   name: "V\xC3\xA2lcea"
   type: department
-- code: RO-VN
+- code: VN
   name: Vrancea
   type: department
-- code: RO-B
+- code: B
   name: "Bucure\xC8\x99ti"
   type: municipality

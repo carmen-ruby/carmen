@@ -1,0 +1,13 @@
+--- 
+- code: "63"
+  name: Florina
+  type: department
+- code: "51"
+  name: Grevena
+  type: department
+- code: "56"
+  name: Kastoria
+  type: department
+- code: "58"
+  name: Kozani
+  type: department

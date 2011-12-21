@@ -1,43 +1,43 @@
 --- 
-- code: SV-AH
+- code: AH
   name: "Ahuachap\xC3\xA1n"
   type: department
-- code: SV-CA
+- code: CA
   name: "Caba\xC3\xB1as"
   type: department
-- code: SV-CU
+- code: CU
   name: "Cuscatl\xC3\xA1n"
   type: department
-- code: SV-CH
+- code: CH
   name: Chalatenango
   type: department
-- code: SV-LI
+- code: LI
   name: La Libertad
   type: department
-- code: SV-PA
+- code: PA
   name: La Paz
   type: department
-- code: SV-UN
+- code: UN
   name: "La Uni\xC3\xB3n"
   type: department
-- code: SV-MO
+- code: MO
   name: "Moraz\xC3\xA1n"
   type: department
-- code: SV-SM
+- code: SM
   name: San Miguel
   type: department
-- code: SV-SS
+- code: SS
   name: San Salvador
   type: department
-- code: SV-SA
+- code: SA
   name: Santa Ana
   type: department
-- code: SV-SV
+- code: SV
   name: San Vicente
   type: department
-- code: SV-SO
+- code: SO
   name: Sonsonate
   type: department
-- code: SV-US
+- code: US
   name: "Usulut\xC3\xA1n"
   type: department

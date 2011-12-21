@@ -1,43 +1,43 @@
 --- 
-- code: MM-07
+- code: "07"
   name: Ayeyarwady
   type: division
-- code: MM-02
+- code: "02"
   name: Bago
   type: division
-- code: MM-03
+- code: "03"
   name: Magway
   type: division
-- code: MM-04
+- code: "04"
   name: Mandalay
   type: division
-- code: MM-01
+- code: "01"
   name: Sagaing
   type: division
-- code: MM-05
+- code: "05"
   name: Tanintharyi
   type: division
-- code: MM-06
+- code: "06"
   name: Yangon
   type: division
-- code: MM-14
+- code: "14"
   name: Chin
   type: state
-- code: MM-11
+- code: "11"
   name: Kachin
   type: state
-- code: MM-12
+- code: "12"
   name: Kayah
   type: state
-- code: MM-13
+- code: "13"
   name: Kayin
   type: state
-- code: MM-15
+- code: "15"
   name: Mon
   type: state
-- code: MM-16
+- code: "16"
   name: Rakhine
   type: state
-- code: MM-17
+- code: "17"
   name: Shan
   type: state

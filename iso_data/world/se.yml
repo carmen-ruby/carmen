@@ -1,64 +1,64 @@
 --- 
-- code: SE-K
+- code: K
   name: "Blekinge l\xC3\xA4n"
   type: county
-- code: SE-W
+- code: W
   name: "Dalarnas l\xC3\xA4n"
   type: county
-- code: SE-I
+- code: I
   name: "Gotlands l\xC3\xA4n"
   type: county
-- code: SE-X
+- code: X
   name: "G\xC3\xA4vleborgs l\xC3\xA4n"
   type: county
-- code: SE-N
+- code: N
   name: "Hallands l\xC3\xA4n"
   type: county
-- code: SE-Z
+- code: Z
   name: "J\xC3\xA4mtlande l\xC3\xA4n"
   type: county
-- code: SE-F
+- code: F
   name: "J\xC3\xB6nk\xC3\xB6pings l\xC3\xA4n"
   type: county
-- code: SE-H
+- code: H
   name: "Kalmar l\xC3\xA4n"
   type: county
-- code: SE-G
+- code: G
   name: "Kronobergs l\xC3\xA4n"
   type: county
-- code: SE-BD
+- code: BD
   name: "Norrbottens l\xC3\xA4n"
   type: county
-- code: SE-M
+- code: M
   name: "Sk\xC3\xA5ne l\xC3\xA4n"
   type: county
-- code: SE-AB
+- code: AB
   name: "Stockholms l\xC3\xA4n"
   type: county
-- code: SE-D
+- code: D
   name: "S\xC3\xB6dermanlands l\xC3\xA4n"
   type: county
-- code: SE-C
+- code: C
   name: "Uppsala l\xC3\xA4n"
   type: county
-- code: SE-S
+- code: S
   name: "V\xC3\xA4rmlands l\xC3\xA4n"
   type: county
-- code: SE-AC
+- code: AC
   name: "V\xC3\xA4sterbottens l\xC3\xA4n"
   type: county
-- code: SE-Y
+- code: Y
   name: "V\xC3\xA4sternorrlands l\xC3\xA4n"
   type: county
-- code: SE-U
+- code: U
   name: "V\xC3\xA4stmanlands l\xC3\xA4n"
   type: county
-- code: SE-O
+- code: O
   name: "V\xC3\xA4stra G\xC3\xB6talands l\xC3\xA4n"
   type: county
-- code: SE-T
+- code: T
   name: "\xC3\x96rebro l\xC3\xA4n"
   type: county
-- code: SE-E
+- code: E
   name: "\xC3\x96sterg\xC3\xB6tlands l\xC3\xA4n"
   type: county

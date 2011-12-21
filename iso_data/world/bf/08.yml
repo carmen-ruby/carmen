@@ -1,0 +1,16 @@
+--- 
+- code: GNA
+  name: Gnagna
+  type: province
+- code: GOU
+  name: Gourma
+  type: province
+- code: KMD
+  name: Komondjari
+  type: province
+- code: KMP
+  name: Kompienga
+  type: province
+- code: TAP
+  name: Tapoa
+  type: province

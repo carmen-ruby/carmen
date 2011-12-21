@@ -1,0 +1,13 @@
+--- 
+- code: BOM
+  name: Boulemane
+  type: province
+- code: MOU
+  name: Moulay Yacoub
+  type: province
+- code: SEF
+  name: Sefrou
+  type: province
+- code: FES
+  name: "F\xC3\xA8s-Dar-Dbibegh"
+  type: prefecture

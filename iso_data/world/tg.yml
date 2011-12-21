@@ -1,16 +1,16 @@
 --- 
-- code: TG-C
+- code: C
   name: "R\xC3\xA9gion du Centre"
   type: region
-- code: TG-K
+- code: K
   name: "R\xC3\xA9gion de la Kara"
   type: region
-- code: TG-M
+- code: M
   name: "R\xC3\xA9gion Maritime"
   type: region
-- code: TG-P
+- code: P
   name: "R\xC3\xA9gion des Plateaux"
   type: region
-- code: TG-S
+- code: S
   name: "R\xC3\xA9gion des Savannes"
   type: region

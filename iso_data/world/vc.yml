@@ -1,19 +1,19 @@
 --- 
-- code: VC-01
+- code: "01"
   name: Charlotte
   type: parish
-- code: VC-06
+- code: "06"
   name: Grenadines
   type: parish
-- code: VC-02
+- code: "02"
   name: Saint Andrew
   type: parish
-- code: VC-03
+- code: "03"
   name: Saint David
   type: parish
-- code: VC-04
+- code: "04"
   name: Saint George
   type: parish
-- code: VC-05
+- code: "05"
   name: Saint Patrick
   type: parish

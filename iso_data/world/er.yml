@@ -1,19 +1,19 @@
 --- 
-- code: ER-AN
+- code: AN
   name: Anseba
   type: province
-- code: ER-DU
+- code: DU
   name: Debub
   type: province
-- code: ER-DK
+- code: DK
   name: Debubawi Keyih Bahri [Debub-Keih-Bahri]
   type: province
-- code: ER-GB
+- code: GB
   name: Gash-Barka
   type: province
-- code: ER-MA
+- code: MA
   name: Maakel [Maekel]
   type: province
-- code: ER-SK
+- code: SK
   name: Semenawi Keyih Bahri [Semien-Keih-Bahri]
   type: province

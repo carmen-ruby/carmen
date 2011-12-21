@@ -1,49 +1,49 @@
 --- 
-- code: BI-BB
+- code: BB
   name: Bubanza
   type: province
-- code: BI-BM
+- code: BM
   name: Bujumbura Mairie
   type: province
-- code: BI-BL
+- code: BL
   name: Bujumbura Rural
   type: province
-- code: BI-BR
+- code: BR
   name: Bururi
   type: province
-- code: BI-CA
+- code: CA
   name: Cankuzo
   type: province
-- code: BI-CI
+- code: CI
   name: Cibitoke
   type: province
-- code: BI-GI
+- code: GI
   name: Gitega
   type: province
-- code: BI-KR
+- code: KR
   name: Karuzi
   type: province
-- code: BI-KY
+- code: KY
   name: Kayanza
   type: province
-- code: BI-KI
+- code: KI
   name: Kirundo
   type: province
-- code: BI-MA
+- code: MA
   name: Makamba
   type: province
-- code: BI-MU
+- code: MU
   name: Muramvya
   type: province
-- code: BI-MW
+- code: MW
   name: Mwaro
   type: province
-- code: BI-NG
+- code: NG
   name: Ngozi
   type: province
-- code: BI-RT
+- code: RT
   name: Rutana
   type: province
-- code: BI-RY
+- code: RY
   name: Ruyigi
   type: province

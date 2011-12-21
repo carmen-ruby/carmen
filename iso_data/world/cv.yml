@@ -1,7 +1,7 @@
 --- 
-- code: CV-B
+- code: B
   name: Ilhas de Barlavento
   type: geographical region
-- code: CV-S
+- code: S
   name: Ilhas de Sotavento
   type: geographical region

@@ -1,43 +1,43 @@
 --- 
-- code: SN-DK
+- code: DK
   name: Dakar
   type: region
-- code: SN-DB
+- code: DB
   name: Diourbel
   type: region
-- code: SN-FK
+- code: FK
   name: Fatick
   type: region
-- code: SN-KA
+- code: KA
   name: Kaffrine
   type: region
-- code: SN-KL
+- code: KL
   name: Kaolack
   type: region
-- code: SN-KE
+- code: KE
   name: "K\xC3\xA9dougou"
   type: region
-- code: SN-KD
+- code: KD
   name: Kolda
   type: region
-- code: SN-LG
+- code: LG
   name: Louga
   type: region
-- code: SN-MT
+- code: MT
   name: Matam
   type: region
-- code: SN-SL
+- code: SL
   name: Saint-Louis
   type: region
-- code: SN-SE
+- code: SE
   name: "S\xC3\xA9dhiou"
   type: region
-- code: SN-TC
+- code: TC
   name: Tambacounda
   type: region
-- code: SN-TH
+- code: TH
   name: "Thi\xC3\xA8s"
   type: region
-- code: SN-ZG
+- code: ZG
   name: Ziguinchor
   type: region

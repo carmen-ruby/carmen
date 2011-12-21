@@ -1,10 +1,10 @@
 --- 
-- code: KI-G
+- code: G
   name: Gilbert Islands
   type: island group
-- code: KI-L
+- code: L
   name: Line Islands
   type: island group
-- code: KI-P
+- code: P
   name: Phoenix Islands
   type: island group

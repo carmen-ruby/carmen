@@ -1,37 +1,37 @@
 --- 
-- code: BJ-AL
+- code: AL
   name: Alibori
   type: department
-- code: BJ-AK
+- code: AK
   name: Atakora
   type: department
-- code: BJ-AQ
+- code: AQ
   name: Atlantique
   type: department
-- code: BJ-BO
+- code: BO
   name: Borgou
   type: department
-- code: BJ-CO
+- code: CO
   name: Collines
   type: department
-- code: BJ-DO
+- code: DO
   name: Donga
   type: department
-- code: BJ-KO
+- code: KO
   name: Kouffo
   type: department
-- code: BJ-LI
+- code: LI
   name: Littoral
   type: department
-- code: BJ-MO
+- code: MO
   name: Mono
   type: department
-- code: BJ-OU
+- code: OU
   name: "Ou\xC3\xA9m\xC3\xA9"
   type: department
-- code: BJ-PL
+- code: PL
   name: Plateau
   type: department
-- code: BJ-ZO
+- code: ZO
   name: Zou
   type: department

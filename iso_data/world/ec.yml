@@ -1,73 +1,73 @@
 --- 
-- code: EC-A
+- code: A
   name: Azuay
   type: province
-- code: EC-B
+- code: B
   name: "Bol\xC3\xADvar"
   type: province
-- code: EC-F
+- code: F
   name: "Ca\xC3\xB1ar"
   type: province
-- code: EC-C
+- code: C
   name: Carchi
   type: province
-- code: EC-X
+- code: X
   name: Cotopaxi
   type: province
-- code: EC-H
+- code: H
   name: Chimborazo
   type: province
-- code: EC-O
+- code: O
   name: El Oro
   type: province
-- code: EC-E
+- code: E
   name: Esmeraldas
   type: province
-- code: EC-W
+- code: W
   name: "Gal\xC3\xA1pagos"
   type: province
-- code: EC-G
+- code: G
   name: Guayas
   type: province
-- code: EC-I
+- code: I
   name: Imbabura
   type: province
-- code: EC-L
+- code: L
   name: Loja
   type: province
-- code: EC-R
+- code: R
   name: "Los R\xC3\xADos"
   type: province
-- code: EC-M
+- code: M
   name: "Manab\xC3\xAD"
   type: province
-- code: EC-S
+- code: S
   name: Morona-Santiago
   type: province
-- code: EC-N
+- code: N
   name: Napo
   type: province
-- code: EC-D
+- code: D
   name: Orellana
   type: province
-- code: EC-Y
+- code: Y
   name: Pastaza
   type: province
-- code: EC-P
+- code: P
   name: Pichincha
   type: province
-- code: EC-SE
+- code: SE
   name: Santa Elena
   type: province
-- code: EC-SD
+- code: SD
   name: "Santo Domingo de los Ts\xC3\xA1chilas"
   type: province
-- code: EC-U
+- code: U
   name: "Sucumb\xC3\xADos"
   type: province
-- code: EC-T
+- code: T
   name: Tungurahua
   type: province
-- code: EC-Z
+- code: Z
   name: Zamora-Chinchipe
   type: province

@@ -1,19 +1,19 @@
 --- 
-- code: TM-A
+- code: A
   name: Ahal
   type: region
-- code: TM-B
+- code: B
   name: Balkan
   type: region
-- code: TM-D
+- code: D
   name: "Da\xC5\x9Foguz"
   type: region
-- code: TM-L
+- code: L
   name: Lebap
   type: region
-- code: TM-M
+- code: M
   name: Mary
   type: region
-- code: TM-S
+- code: S
   name: "A\xC5\x9Fgabat"
   type: city

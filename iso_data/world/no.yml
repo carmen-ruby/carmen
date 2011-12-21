@@ -1,64 +1,64 @@
 --- 
-- code: NO-02
+- code: "02"
   name: Akershus
   type: county
-- code: NO-09
+- code: 09
   name: Aust-Agder
   type: county
-- code: NO-06
+- code: "06"
   name: Buskerud
   type: county
-- code: NO-20
+- code: "20"
   name: Finnmark
   type: county
-- code: NO-04
+- code: "04"
   name: Hedmark
   type: county
-- code: NO-12
+- code: "12"
   name: Hordaland
   type: county
-- code: NO-15
+- code: "15"
   name: "M\xC3\xB8re og Romsdal"
   type: county
-- code: NO-18
+- code: "18"
   name: Nordland
   type: county
-- code: NO-17
+- code: "17"
   name: "Nord-Tr\xC3\xB8ndelag"
   type: county
-- code: NO-05
+- code: "05"
   name: Oppland
   type: county
-- code: NO-03
+- code: "03"
   name: Oslo
   type: county
-- code: NO-11
+- code: "11"
   name: Rogaland
   type: county
-- code: NO-14
+- code: "14"
   name: Sogn og Fjordane
   type: county
-- code: NO-16
+- code: "16"
   name: "S\xC3\xB8r-Tr\xC3\xB8ndelag"
   type: county
-- code: NO-08
+- code: 08
   name: Telemark
   type: county
-- code: NO-19
+- code: "19"
   name: Troms
   type: county
-- code: NO-10
+- code: "10"
   name: Vest-Agder
   type: county
-- code: NO-07
+- code: "07"
   name: Vestfold
   type: county
-- code: NO-01
+- code: "01"
   name: "\xC3\x98stfold"
   type: county
-- code: NO-22
+- code: "22"
   name: Jan Mayen
   type: county
-- code: NO-21
+- code: "21"
   name: Svalbard
   type: county

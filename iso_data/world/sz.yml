@@ -1,13 +1,13 @@
 --- 
-- code: SZ-HH
+- code: HH
   name: Hhohho
   type: district
-- code: SZ-LU
+- code: LU
   name: Lubombo
   type: district
-- code: SZ-MA
+- code: MA
   name: Manzini
   type: district
-- code: SZ-SH
+- code: SH
   name: Shiselweni
   type: district

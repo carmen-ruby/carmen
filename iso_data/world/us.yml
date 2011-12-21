@@ -1,172 +1,172 @@
 --- 
-- code: US-AL
+- code: AL
   name: Alabama
   type: state
-- code: US-AK
+- code: AK
   name: Alaska
   type: state
-- code: US-AZ
+- code: AZ
   name: Arizona
   type: state
-- code: US-AR
+- code: AR
   name: Arkansas
   type: state
-- code: US-CA
+- code: CA
   name: California
   type: state
-- code: US-CO
+- code: CO
   name: Colorado
   type: state
-- code: US-CT
+- code: CT
   name: Connecticut
   type: state
-- code: US-DE
+- code: DE
   name: Delaware
   type: state
-- code: US-FL
+- code: FL
   name: Florida
   type: state
-- code: US-GA
+- code: GA
   name: Georgia
   type: state
-- code: US-HI
+- code: HI
   name: Hawaii
   type: state
-- code: US-ID
+- code: ID
   name: Idaho
   type: state
-- code: US-IL
+- code: IL
   name: Illinois
   type: state
-- code: US-IN
+- code: IN
   name: Indiana
   type: state
-- code: US-IA
+- code: IA
   name: Iowa
   type: state
-- code: US-KS
+- code: KS
   name: Kansas
   type: state
-- code: US-KY
+- code: KY
   name: Kentucky
   type: state
-- code: US-LA
+- code: LA
   name: Louisiana
   type: state
-- code: US-ME
+- code: ME
   name: Maine
   type: state
-- code: US-MD
+- code: MD
   name: Maryland
   type: state
-- code: US-MA
+- code: MA
   name: Massachusetts
   type: state
-- code: US-MI
+- code: MI
   name: Michigan
   type: state
-- code: US-MN
+- code: MN
   name: Minnesota
   type: state
-- code: US-MS
+- code: MS
   name: Mississippi
   type: state
-- code: US-MO
+- code: MO
   name: Missouri
   type: state
-- code: US-MT
+- code: MT
   name: Montana
   type: state
-- code: US-NE
+- code: NE
   name: Nebraska
   type: state
-- code: US-NV
+- code: NV
   name: Nevada
   type: state
-- code: US-NH
+- code: NH
   name: New Hampshire
   type: state
-- code: US-NJ
+- code: NJ
   name: New Jersey
   type: state
-- code: US-NM
+- code: NM
   name: New Mexico
   type: state
-- code: US-NY
+- code: NY
   name: New York
   type: state
-- code: US-NC
+- code: NC
   name: North Carolina
   type: state
-- code: US-ND
+- code: ND
   name: North Dakota
   type: state
-- code: US-OH
+- code: OH
   name: Ohio
   type: state
-- code: US-OK
+- code: OK
   name: Oklahoma
   type: state
-- code: US-OR
+- code: OR
   name: Oregon
   type: state
-- code: US-PA
+- code: PA
   name: Pennsylvania
   type: state
-- code: US-RI
+- code: RI
   name: Rhode Island
   type: state
-- code: US-SC
+- code: SC
   name: South Carolina
   type: state
-- code: US-SD
+- code: SD
   name: South Dakota
   type: state
-- code: US-TN
+- code: TN
   name: Tennessee
   type: state
-- code: US-TX
+- code: TX
   name: Texas
   type: state
-- code: US-UT
+- code: UT
   name: Utah
   type: state
-- code: US-VT
+- code: VT
   name: Vermont
   type: state
-- code: US-VA
+- code: VA
   name: Virginia
   type: state
-- code: US-WA
+- code: WA
   name: Washington
   type: state
-- code: US-WV
+- code: WV
   name: West Virginia
   type: state
-- code: US-WI
+- code: WI
   name: Wisconsin
   type: state
-- code: US-WY
+- code: WY
   name: Wyoming
   type: state
-- code: US-DC
+- code: DC
   name: District of Columbia
   type: district
-- code: US-AS
+- code: AS
   name: American Samoa
   type: outlying area
-- code: US-GU
+- code: GU
   name: Guam
   type: outlying area
-- code: US-MP
+- code: MP
   name: Northern Mariana Islands
   type: outlying area
-- code: US-PR
+- code: PR
   name: Puerto Rico
   type: outlying area
-- code: US-UM
+- code: UM
   name: United States Minor Outlying Islands
   type: outlying area
-- code: US-VI
+- code: VI
   name: Virgin Islands
   type: outlying area

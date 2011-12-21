@@ -1,0 +1,13 @@
+--- 
+- code: 08
+  name: Ardennes
+  type: metropolitan department
+- code: "10"
+  name: Aube
+  type: metropolitan department
+- code: "52"
+  name: Haute-Marne
+  type: metropolitan department
+- code: "51"
+  name: Marne
+  type: metropolitan department

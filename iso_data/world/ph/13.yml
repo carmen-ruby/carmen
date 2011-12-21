@@ -1,0 +1,16 @@
+--- 
+- code: AGN
+  name: Agusan del Norte
+  type: province
+- code: AGS
+  name: Agusan del Sur
+  type: province
+- code: DIN
+  name: Dinagat Islands
+  type: province
+- code: SUN
+  name: Surigao del Norte
+  type: province
+- code: SUR
+  name: Surigao del Sur
+  type: province

@@ -1,0 +1,13 @@
+--- 
+- code: "16"
+  name: Charente
+  type: metropolitan department
+- code: "17"
+  name: Charente-Maritime
+  type: metropolitan department
+- code: "79"
+  name: "Deux-S\xC3\xA8vres"
+  type: metropolitan department
+- code: "86"
+  name: Vienne
+  type: metropolitan department

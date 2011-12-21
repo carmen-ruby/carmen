@@ -1,67 +1,67 @@
 --- 
-- code: TD-BA
+- code: BA
   name: "Al Ba\xE1\xB9\xADh\xCC\xA7ah"
   type: region
-- code: TD-LC
+- code: LC
   name: "Al Buh\xCC\xA7ayrah"
   type: region
-- code: TD-BG
+- code: BG
   name: "Bah\xCC\xA7r al Ghaz\xC4\x81l"
   type: region
-- code: TD-BO
+- code: BO
   name: "B\xC5\xABrk\xC5\xAB"
   type: region
-- code: TD-HL
+- code: HL
   name: "\xE1\xB8\xA4ajjar Lam\xC4\xABs"
   type: region
-- code: TD-EN
+- code: EN
   name: "Inn\xC4\xABd\xC4\xAB"
   type: region
-- code: TD-KA
+- code: KA
   name: "K\xC4\x81nim"
   type: region
-- code: TD-LO
+- code: LO
   name: "L\xC5\xABq\xC5\xABn al Gharb\xC4\xAB"
   type: region
-- code: TD-LR
+- code: LR
   name: "L\xC5\xABq\xC5\xABn ash Sharq\xC4\xAB"
   type: region
-- code: TD-ND
+- code: ND
   name: "Mad\xC4\xABnat Injam\xC4\xABn\xC4\x81"
   type: region
-- code: TD-MA
+- code: MA
   name: "M\xC4\x81nd\xC5\xABl"
   type: region
-- code: TD-MO
+- code: MO
   name: "M\xC4\x81y\xC5\xAB K\xC4\xABbb\xC4\xAB al Gharb\xC4\xAB"
   type: region
-- code: TD-ME
+- code: ME
   name: "M\xC4\x81y\xC5\xAB K\xC4\xABbb\xC4\xAB ash Sharq\xC4\xAB"
   type: region
-- code: TD-GR
+- code: GR
   name: "Q\xC4\xABr\xC4\x81"
   type: region
-- code: TD-SA
+- code: SA
   name: "Sal\xC4\x81m\xC4\x81t"
   type: region
-- code: TD-MC
+- code: MC
   name: "Sh\xC4\x81r\xC4\xAB al Awsa\xE1\xB9\xAD"
   type: region
-- code: TD-CB
+- code: CB
   name: "Sh\xC4\x81r\xC4\xAB B\xC4\x81qirm\xC4\xAB"
   type: region
-- code: TD-SI
+- code: SI
   name: "S\xC4\xABl\xC4\x81"
   type: region
-- code: TD-TA
+- code: TA
   name: "T\xC4\x81njil\xC4\xAB"
   type: region
-- code: TD-TI
+- code: TI
   name: "Tibast\xC4\xAB"
   type: region
-- code: TD-OD
+- code: OD
   name: "Wadd\xC4\x81y"
   type: region
-- code: TD-WF
+- code: WF
   name: "W\xC4\x81d\xC4\xAB F\xC4\xABr\xC4\x81"
   type: region

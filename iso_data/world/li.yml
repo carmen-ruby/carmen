@@ -1,34 +1,34 @@
 --- 
-- code: LI-01
+- code: "01"
   name: Balzers
   type: commune
-- code: LI-02
+- code: "02"
   name: Eschen
   type: commune
-- code: LI-03
+- code: "03"
   name: Gamprin
   type: commune
-- code: LI-04
+- code: "04"
   name: Mauren
   type: commune
-- code: LI-05
+- code: "05"
   name: Planken
   type: commune
-- code: LI-06
+- code: "06"
   name: Ruggell
   type: commune
-- code: LI-07
+- code: "07"
   name: Schaan
   type: commune
-- code: LI-08
+- code: 08
   name: Schellenberg
   type: commune
-- code: LI-09
+- code: 09
   name: Triesen
   type: commune
-- code: LI-10
+- code: "10"
   name: Triesenberg
   type: commune
-- code: LI-11
+- code: "11"
   name: Vaduz
   type: commune

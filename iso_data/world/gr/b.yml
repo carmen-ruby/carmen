@@ -1,0 +1,22 @@
+--- 
+- code: "64"
+  name: Chalkidiki
+  type: department
+- code: "53"
+  name: Imathia
+  type: department
+- code: "57"
+  name: Kilkis
+  type: department
+- code: "59"
+  name: Pella
+  type: department
+- code: "61"
+  name: Pieria
+  type: department
+- code: "62"
+  name: Serres
+  type: department
+- code: "54"
+  name: Thessaloniki
+  type: department

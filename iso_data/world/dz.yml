@@ -1,145 +1,145 @@
 --- 
-- code: DZ-01
+- code: "01"
   name: Adrar
   type: province
-- code: DZ-44
+- code: "44"
   name: "A\xC3\xAFn Defla"
   type: province
-- code: DZ-46
+- code: "46"
   name: "A\xC3\xAFn T\xC3\xA9mouchent"
   type: province
-- code: DZ-16
+- code: "16"
   name: Alger
   type: province
-- code: DZ-23
+- code: "23"
   name: Annaba
   type: province
-- code: DZ-05
+- code: "05"
   name: Batna
   type: province
-- code: DZ-08
+- code: 08
   name: "B\xC3\xA9char"
   type: province
-- code: DZ-06
+- code: "06"
   name: "B\xC3\xA9ja\xC3\xAFa"
   type: province
-- code: DZ-07
+- code: "07"
   name: Biskra
   type: province
-- code: DZ-09
+- code: 09
   name: Blida
   type: province
-- code: DZ-34
+- code: "34"
   name: "Bordj Bou Arr\xC3\xA9ridj"
   type: province
-- code: DZ-10
+- code: "10"
   name: Bouira
   type: province
-- code: DZ-35
+- code: "35"
   name: "Boumerd\xC3\xA8s"
   type: province
-- code: DZ-02
+- code: "02"
   name: Chlef
   type: province
-- code: DZ-25
+- code: "25"
   name: Constantine
   type: province
-- code: DZ-17
+- code: "17"
   name: Djelfa
   type: province
-- code: DZ-32
+- code: "32"
   name: El Bayadh
   type: province
-- code: DZ-39
+- code: "39"
   name: El Oued
   type: province
-- code: DZ-36
+- code: "36"
   name: El Tarf
   type: province
-- code: DZ-47
+- code: "47"
   name: "Gharda\xC3\xAFa"
   type: province
-- code: DZ-24
+- code: "24"
   name: Guelma
   type: province
-- code: DZ-33
+- code: "33"
   name: Illizi
   type: province
-- code: DZ-18
+- code: "18"
   name: Jijel
   type: province
-- code: DZ-40
+- code: "40"
   name: Khenchela
   type: province
-- code: DZ-03
+- code: "03"
   name: Laghouat
   type: province
-- code: DZ-29
+- code: "29"
   name: Mascara
   type: province
-- code: DZ-26
+- code: "26"
   name: "M\xC3\xA9d\xC3\xA9a"
   type: province
-- code: DZ-43
+- code: "43"
   name: Mila
   type: province
-- code: DZ-27
+- code: "27"
   name: Mostaganem
   type: province
-- code: DZ-28
+- code: "28"
   name: Msila
   type: province
-- code: DZ-45
+- code: "45"
   name: Naama
   type: province
-- code: DZ-31
+- code: "31"
   name: Oran
   type: province
-- code: DZ-30
+- code: "30"
   name: Ouargla
   type: province
-- code: DZ-04
+- code: "04"
   name: Oum el Bouaghi
   type: province
-- code: DZ-48
+- code: "48"
   name: Relizane
   type: province
-- code: DZ-20
+- code: "20"
   name: "Sa\xC3\xAFda"
   type: province
-- code: DZ-19
+- code: "19"
   name: "S\xC3\xA9tif"
   type: province
-- code: DZ-22
+- code: "22"
   name: "Sidi Bel Abb\xC3\xA8s"
   type: province
-- code: DZ-21
+- code: "21"
   name: Skikda
   type: province
-- code: DZ-41
+- code: "41"
   name: Souk Ahras
   type: province
-- code: DZ-11
+- code: "11"
   name: Tamanghasset
   type: province
-- code: DZ-12
+- code: "12"
   name: "T\xC3\xA9bessa"
   type: province
-- code: DZ-14
+- code: "14"
   name: Tiaret
   type: province
-- code: DZ-37
+- code: "37"
   name: Tindouf
   type: province
-- code: DZ-42
+- code: "42"
   name: Tipaza
   type: province
-- code: DZ-38
+- code: "38"
   name: Tissemsilt
   type: province
-- code: DZ-15
+- code: "15"
   name: Tizi Ouzou
   type: province
-- code: DZ-13
+- code: "13"
   name: Tlemcen
   type: province

@@ -1,22 +1,22 @@
 --- 
-- code: ID-JW
+- code: JW
   name: Jawa
   type: geographical unit
-- code: ID-KA
+- code: KA
   name: Kalimantan
   type: geographical unit
-- code: ID-MA
+- code: MA
   name: Maluku
   type: geographical unit
-- code: ID-NU
+- code: NU
   name: Nusa Tenggara
   type: geographical unit
-- code: ID-IJ
+- code: IJ
   name: Papua
   type: geographical unit
-- code: ID-SL
+- code: SL
   name: Sulawesi
   type: geographical unit
-- code: ID-SM
+- code: SM
   name: Sumatera
   type: geographical unit

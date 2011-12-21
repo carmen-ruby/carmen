@@ -1,58 +1,58 @@
 --- 
-- code: UY-AR
+- code: AR
   name: Artigas
   type: department
-- code: UY-CA
+- code: CA
   name: Canelones
   type: department
-- code: UY-CL
+- code: CL
   name: Cerro Largo
   type: department
-- code: UY-CO
+- code: CO
   name: Colonia
   type: department
-- code: UY-DU
+- code: DU
   name: Durazno
   type: department
-- code: UY-FS
+- code: FS
   name: Flores
   type: department
-- code: UY-FD
+- code: FD
   name: Florida
   type: department
-- code: UY-LA
+- code: LA
   name: Lavalleja
   type: department
-- code: UY-MA
+- code: MA
   name: Maldonado
   type: department
-- code: UY-MO
+- code: MO
   name: Montevideo
   type: department
-- code: UY-PA
+- code: PA
   name: "Paysand\xC3\xBA"
   type: department
-- code: UY-RN
+- code: RN
   name: "R\xC3\xADo Negro"
   type: department
-- code: UY-RV
+- code: RV
   name: Rivera
   type: department
-- code: UY-RO
+- code: RO
   name: Rocha
   type: department
-- code: UY-SA
+- code: SA
   name: Salto
   type: department
-- code: UY-SJ
+- code: SJ
   name: "San Jos\xC3\xA9"
   type: department
-- code: UY-SO
+- code: SO
   name: Soriano
   type: department
-- code: UY-TA
+- code: TA
   name: "Tacuaremb\xC3\xB3"
   type: department
-- code: UY-TT
+- code: TT
   name: Treinta y Tres
   type: department

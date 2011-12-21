@@ -1,112 +1,112 @@
 --- 
-- code: NG-FC
+- code: FC
   name: Abuja Capital Territory
   type: capital territory
-- code: NG-AB
+- code: AB
   name: Abia
   type: state
-- code: NG-AD
+- code: AD
   name: Adamawa
   type: state
-- code: NG-AK
+- code: AK
   name: Akwa Ibom
   type: state
-- code: NG-AN
+- code: AN
   name: Anambra
   type: state
-- code: NG-BA
+- code: BA
   name: Bauchi
   type: state
-- code: NG-BY
+- code: BY
   name: Bayelsa
   type: state
-- code: NG-BE
+- code: BE
   name: Benue
   type: state
-- code: NG-BO
+- code: BO
   name: Borno
   type: state
-- code: NG-CR
+- code: CR
   name: Cross River
   type: state
-- code: NG-DE
+- code: DE
   name: Delta
   type: state
-- code: NG-EB
+- code: EB
   name: Ebonyi
   type: state
-- code: NG-ED
+- code: ED
   name: Edo
   type: state
-- code: NG-EK
+- code: EK
   name: Ekiti
   type: state
-- code: NG-EN
+- code: EN
   name: Enugu
   type: state
-- code: NG-GO
+- code: GO
   name: Gombe
   type: state
-- code: NG-IM
+- code: IM
   name: Imo
   type: state
-- code: NG-JI
+- code: JI
   name: Jigawa
   type: state
-- code: NG-KD
+- code: KD
   name: Kaduna
   type: state
-- code: NG-KN
+- code: KN
   name: Kano
   type: state
-- code: NG-KT
+- code: KT
   name: Katsina
   type: state
-- code: NG-KE
+- code: KE
   name: Kebbi
   type: state
-- code: NG-KO
+- code: KO
   name: Kogi
   type: state
-- code: NG-KW
+- code: KW
   name: Kwara
   type: state
-- code: NG-LA
+- code: LA
   name: Lagos
   type: state
-- code: NG-NA
+- code: NA
   name: Nassarawa
   type: state
-- code: NG-NI
+- code: NI
   name: Niger
   type: state
-- code: NG-OG
+- code: OG
   name: Ogun
   type: state
-- code: NG-ON
+- code: "ON"
   name: Ondo
   type: state
-- code: NG-OS
+- code: OS
   name: Osun
   type: state
-- code: NG-OY
+- code: OY
   name: Oyo
   type: state
-- code: NG-PL
+- code: PL
   name: Plateau
   type: state
-- code: NG-RI
+- code: RI
   name: Rivers
   type: state
-- code: NG-SO
+- code: SO
   name: Sokoto
   type: state
-- code: NG-TA
+- code: TA
   name: Taraba
   type: state
-- code: NG-YO
+- code: YO
   name: Yobe
   type: state
-- code: NG-ZA
+- code: ZA
   name: Zamfara
   type: state

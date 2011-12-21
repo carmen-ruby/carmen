@@ -1,43 +1,43 @@
 --- 
-- code: UZ-TK
+- code: TK
   name: Toshkent
   type: city
-- code: UZ-AN
+- code: AN
   name: Andijon
   type: region
-- code: UZ-BU
+- code: BU
   name: Buxoro
   type: region
-- code: UZ-FA
+- code: FA
   name: Farg'ona
   type: region
-- code: UZ-JI
+- code: JI
   name: Jizzax
   type: region
-- code: UZ-NG
+- code: NG
   name: Namangan
   type: region
-- code: UZ-NW
+- code: NW
   name: Navoiy
   type: region
-- code: UZ-QA
+- code: QA
   name: Qashqadaryo
   type: region
-- code: UZ-SA
+- code: SA
   name: Samarqand
   type: region
-- code: UZ-SI
+- code: SI
   name: Sirdaryo
   type: region
-- code: UZ-SU
+- code: SU
   name: Surxondaryo
   type: region
-- code: UZ-TO
+- code: TO
   name: Toshkent
   type: region
-- code: UZ-XO
+- code: XO
   name: Xorazm
   type: region
-- code: UZ-QR
+- code: QR
   name: Qoraqalpog'iston Respublikasi
   type: republic

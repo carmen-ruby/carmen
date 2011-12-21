@@ -1,112 +1,112 @@
 --- 
-- code: MD-GA
+- code: GA
   name: "G\xC4\x83g\xC4\x83uzia, Unitatea teritorial\xC4\x83 autonom\xC4\x83"
   type: autonomous territorial unit
-- code: MD-BA
+- code: BA
   name: "B\xC4\x83l\xC8\x9Bi"
   type: city
-- code: MD-BD
+- code: BD
   name: Tighina
   type: city
-- code: MD-CU
+- code: CU
   name: "Chi\xC8\x99in\xC4\x83u"
   type: city
-- code: MD-AN
+- code: AN
   name: Anenii Noi
   type: district
-- code: MD-BS
+- code: BS
   name: Basarabeasca
   type: district
-- code: MD-BR
+- code: BR
   name: Briceni
   type: district
-- code: MD-CA
+- code: CA
   name: Cahul
   type: district
-- code: MD-CT
+- code: CT
   name: Cantemir
   type: district
-- code: MD-CL
+- code: CL
   name: "C\xC4\x83l\xC4\x83ra\xC8\x99i"
   type: district
-- code: MD-CS
+- code: CS
   name: "C\xC4\x83u\xC8\x99eni"
   type: district
-- code: MD-CM
+- code: CM
   name: "Cimi\xC8\x99lia"
   type: district
-- code: MD-CR
+- code: CR
   name: Criuleni
   type: district
-- code: MD-DO
+- code: DO
   name: "Dondu\xC8\x99eni"
   type: district
-- code: MD-DR
+- code: DR
   name: Drochia
   type: district
-- code: MD-DU
+- code: DU
   name: "Dub\xC4\x83sari"
   type: district
-- code: MD-ED
+- code: ED
   name: "Edine\xC8\x9B"
   type: district
-- code: MD-FA
+- code: FA
   name: "F\xC4\x83le\xC8\x99ti"
   type: district
-- code: MD-FL
+- code: FL
   name: "Flore\xC8\x99ti"
   type: district
-- code: MD-GL
+- code: GL
   name: Glodeni
   type: district
-- code: MD-HI
+- code: HI
   name: "H\xC3\xAEnce\xC8\x99ti"
   type: district
-- code: MD-IA
+- code: IA
   name: Ialoveni
   type: district
-- code: MD-LE
+- code: LE
   name: Leova
   type: district
-- code: MD-NI
+- code: NI
   name: Nisporeni
   type: district
-- code: MD-OC
+- code: OC
   name: "Ocni\xC8\x9Ba"
   type: district
-- code: MD-OR
+- code: OR
   name: Orhei
   type: district
-- code: MD-RE
+- code: RE
   name: Rezina
   type: district
-- code: MD-RI
+- code: RI
   name: "R\xC3\xAE\xC8\x99cani"
   type: district
-- code: MD-SI
+- code: SI
   name: "S\xC3\xAEngerei"
   type: district
-- code: MD-SO
+- code: SO
   name: Soroca
   type: district
-- code: MD-ST
+- code: ST
   name: "Str\xC4\x83\xC8\x99eni"
   type: district
-- code: MD-SD
+- code: SD
   name: "\xC8\x98old\xC4\x83ne\xC8\x99ti"
   type: district
-- code: MD-SV
+- code: SV
   name: "\xC8\x98tefan Vod\xC4\x83"
   type: district
-- code: MD-TA
+- code: TA
   name: Taraclia
   type: district
-- code: MD-TE
+- code: TE
   name: "Telene\xC8\x99ti"
   type: district
-- code: MD-UN
+- code: UN
   name: Ungheni
   type: district
-- code: MD-SN
+- code: SN
   name: "St\xC3\xAEnga Nistrului, unitatea teritorial\xC4\x83 din"
   type: territorial unit

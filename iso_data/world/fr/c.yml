@@ -1,0 +1,13 @@
+--- 
+- code: "03"
+  name: Allier
+  type: metropolitan department
+- code: "15"
+  name: Cantal
+  type: metropolitan department
+- code: "43"
+  name: Haute-Loire
+  type: metropolitan department
+- code: "63"
+  name: "Puy-de-D\xC3\xB4me"
+  type: metropolitan department

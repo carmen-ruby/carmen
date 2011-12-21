@@ -1,19 +1,19 @@
 --- 
-- code: FI-AL
+- code: AL
   name: "Ahvenanmaan l\xC3\xA4\xC3\xA4ni"
   type: province
-- code: FI-ES
+- code: ES
   name: "Etel\xC3\xA4-Suomen l\xC3\xA4\xC3\xA4ni"
   type: province
-- code: FI-IS
+- code: IS
   name: "It\xC3\xA4-Suomen l\xC3\xA4\xC3\xA4ni"
   type: province
-- code: FI-LL
+- code: LL
   name: "Lapin l\xC3\xA4\xC3\xA4ni"
   type: province
-- code: FI-LS
+- code: LS
   name: "L\xC3\xA4nsi-Suomen l\xC3\xA4\xC3\xA4ni"
   type: province
-- code: FI-OL
+- code: OL
   name: "Oulun l\xC3\xA4\xC3\xA4ni"
   type: province

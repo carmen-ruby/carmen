@@ -1,22 +1,22 @@
 --- 
-- code: GD-01
+- code: "01"
   name: Saint Andrew
   type: parish
-- code: GD-02
+- code: "02"
   name: Saint David
   type: parish
-- code: GD-03
+- code: "03"
   name: Saint George
   type: parish
-- code: GD-04
+- code: "04"
   name: Saint John
   type: parish
-- code: GD-05
+- code: "05"
   name: Saint Mark
   type: parish
-- code: GD-06
+- code: "06"
   name: Saint Patrick
   type: parish
-- code: GD-10
+- code: "10"
   name: Southern Grenadine Islands
   type: dependency

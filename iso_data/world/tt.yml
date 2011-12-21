@@ -1,49 +1,49 @@
 --- 
-- code: TT-CTT
+- code: CTT
   name: Couva-Tabaquite-Talparo
   type: region
-- code: TT-DMN
+- code: DMN
   name: Diego Martin
   type: region
-- code: TT-ETO
+- code: ETO
   name: Eastern Tobago
   type: region
-- code: TT-PED
+- code: PED
   name: Penal-Debe
   type: region
-- code: TT-PRT
+- code: PRT
   name: Princes Town
   type: region
-- code: TT-RCM
+- code: RCM
   name: Rio Claro-Mayaro
   type: region
-- code: TT-SGE
+- code: SGE
   name: Sangre Grande
   type: region
-- code: TT-SJL
+- code: SJL
   name: San Juan-Laventille
   type: region
-- code: TT-SIP
+- code: SIP
   name: Siparia
   type: region
-- code: TT-TUP
+- code: TUP
   name: Tunapuna-Piarco
   type: region
-- code: TT-WTO
+- code: WTO
   name: Western Tobago
   type: region
-- code: TT-ARI
+- code: ARI
   name: Arima
   type: borough
-- code: TT-CHA
+- code: CHA
   name: Chaguanas
   type: borough
-- code: TT-PTF
+- code: PTF
   name: Point Fortin
   type: borough
-- code: TT-POS
+- code: POS
   name: Port of Spain
   type: city
-- code: TT-SFO
+- code: SFO
   name: San Fernando
   type: city

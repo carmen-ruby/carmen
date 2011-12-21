@@ -1,103 +1,103 @@
 --- 
-- code: AF-BDS
+- code: BDS
   name: "Badakhsh\xC4\x81n"
   type: province
-- code: AF-BDG
+- code: BDG
   name: "B\xC4\x81dgh\xC4\xABs"
   type: province
-- code: AF-BGL
+- code: BGL
   name: "Baghl\xC4\x81n"
   type: province
-- code: AF-BAL
+- code: BAL
   name: Balkh
   type: province
-- code: AF-BAM
+- code: BAM
   name: "B\xC4\x81m\xC4\xAB\xC4\x81n"
   type: province
-- code: AF-DAY
+- code: DAY
   name: "D\xC4\x81ykond\xC4\xAB"
   type: province
-- code: AF-FRA
+- code: FRA
   name: "Far\xC4\x81h"
   type: province
-- code: AF-FYB
+- code: FYB
   name: "F\xC4\x81ry\xC4\x81b"
   type: province
-- code: AF-GHA
+- code: GHA
   name: "Ghazn\xC4\xAB"
   type: province
-- code: AF-GHO
+- code: GHO
   name: Ghowr
   type: province
-- code: AF-HEL
+- code: HEL
   name: Helmand
   type: province
-- code: AF-HER
+- code: HER
   name: "Her\xC4\x81t"
   type: province
-- code: AF-JOW
+- code: JOW
   name: "Jowzj\xC4\x81n"
   type: province
-- code: AF-KAB
+- code: KAB
   name: "K\xC4\x81bul [K\xC4\x81bol]"
   type: province
-- code: AF-KAN
+- code: KAN
   name: "Kandah\xC4\x81r"
   type: province
-- code: AF-KAP
+- code: KAP
   name: "K\xC4\x81p\xC4\xABs\xC4\x81"
   type: province
-- code: AF-KHO
+- code: KHO
   name: Khowst
   type: province
-- code: AF-KNR
+- code: KNR
   name: Konar [Kunar]
   type: province
-- code: AF-KDZ
+- code: KDZ
   name: Kondoz [Kunduz]
   type: province
-- code: AF-LAG
+- code: LAG
   name: "Laghm\xC4\x81n"
   type: province
-- code: AF-LOW
+- code: LOW
   name: Lowgar
   type: province
-- code: AF-NAN
+- code: NAN
   name: "Nangrah\xC4\x81r [Nangarh\xC4\x81r]"
   type: province
-- code: AF-NIM
+- code: NIM
   name: "N\xC4\xABmr\xC5\xABz"
   type: province
-- code: AF-NUR
+- code: NUR
   name: "N\xC5\xABrest\xC4\x81n"
   type: province
-- code: AF-ORU
+- code: ORU
   name: "Or\xC5\xABzg\xC4\x81n [Ur\xC5\xABzg\xC4\x81n]"
   type: province
-- code: AF-PAN
+- code: PAN
   name: "Panjsh\xC4\xABr"
   type: province
-- code: AF-PIA
+- code: PIA
   name: "Pakt\xC4\xAB\xC4\x81"
   type: province
-- code: AF-PKA
+- code: PKA
   name: "Pakt\xC4\xABk\xC4\x81"
   type: province
-- code: AF-PAR
+- code: PAR
   name: "Parw\xC4\x81n"
   type: province
-- code: AF-SAM
+- code: SAM
   name: "Samang\xC4\x81n"
   type: province
-- code: AF-SAR
+- code: SAR
   name: Sar-e Pol
   type: province
-- code: AF-TAK
+- code: TAK
   name: "Takh\xC4\x81r"
   type: province
-- code: AF-WAR
+- code: WAR
   name: Wardak [Wardag]
   type: province
-- code: AF-ZAB
+- code: ZAB
   name: "Z\xC4\x81bol [Z\xC4\x81bul]"
   type: province

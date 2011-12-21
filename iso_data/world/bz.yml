@@ -1,19 +1,19 @@
 --- 
-- code: BZ-BZ
+- code: BZ
   name: Belize
   type: district
-- code: BZ-CY
+- code: CY
   name: Cayo
   type: district
-- code: BZ-CZL
+- code: CZL
   name: Corozal
   type: district
-- code: BZ-OW
+- code: OW
   name: Orange Walk
   type: district
-- code: BZ-SC
+- code: SC
   name: Stann Creek
   type: district
-- code: BZ-TOL
+- code: TOL
   name: Toledo
   type: district

@@ -1,61 +1,61 @@
 --- 
-- code: IT-65
+- code: "65"
   name: Abruzzo
   type: region
-- code: IT-77
+- code: "77"
   name: Basilicata
   type: region
-- code: IT-78
+- code: "78"
   name: Calabria
   type: region
-- code: IT-72
+- code: "72"
   name: Campania
   type: region
-- code: IT-45
+- code: "45"
   name: Emilia-Romagna
   type: region
-- code: IT-36
+- code: "36"
   name: Friuli-Venezia Giulia
   type: region
-- code: IT-62
+- code: "62"
   name: Lazio
   type: region
-- code: IT-42
+- code: "42"
   name: Liguria
   type: region
-- code: IT-25
+- code: "25"
   name: Lombardia
   type: region
-- code: IT-57
+- code: "57"
   name: Marche
   type: region
-- code: IT-67
+- code: "67"
   name: Molise
   type: region
-- code: IT-21
+- code: "21"
   name: Piemonte
   type: region
-- code: IT-75
+- code: "75"
   name: Puglia
   type: region
-- code: IT-88
+- code: "88"
   name: Sardegna
   type: region
-- code: IT-82
+- code: "82"
   name: Sicilia
   type: region
-- code: IT-52
+- code: "52"
   name: Toscana
   type: region
-- code: IT-32
+- code: "32"
   name: Trentino-Alto Adige
   type: region
-- code: IT-55
+- code: "55"
   name: Umbria
   type: region
-- code: IT-23
+- code: "23"
   name: Valle d'Aosta
   type: region
-- code: IT-34
+- code: "34"
   name: Veneto
   type: region

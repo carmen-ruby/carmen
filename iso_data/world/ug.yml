@@ -1,13 +1,13 @@
 --- 
-- code: UG-C
+- code: C
   name: Central
   type: geographical region
-- code: UG-E
+- code: E
   name: Eastern
   type: geographical region
-- code: UG-N
+- code: N
   name: Northern
   type: geographical region
-- code: UG-W
+- code: W
   name: Western
   type: geographical region

@@ -1,0 +1,46 @@
+--- 
+- code: BR
+  name: Brava
+  type: municipality
+- code: MA
+  name: Maio
+  type: municipality
+- code: MO
+  name: Mosteiros
+  type: municipality
+- code: PR
+  name: Praia
+  type: municipality
+- code: RS
+  name: Ribeira Grande de Santiago
+  type: municipality
+- code: CA
+  name: Santa Catarina
+  type: municipality
+- code: CF
+  name: Santa Catarina de Fogo
+  type: municipality
+- code: CR
+  name: Santa Cruz
+  type: municipality
+- code: SD
+  name: "S\xC3\xA3o Domingos"
+  type: municipality
+- code: SF
+  name: "S\xC3\xA3o Filipe"
+  type: municipality
+- code: SL
+  name: "S\xC3\xA3o Louren\xC3\xA7o dos \xC3\x93rg\xC3\xA3os"
+  type: municipality
+- code: SM
+  name: "S\xC3\xA3o Miguel"
+  type: municipality
+- code: SS
+  name: "S\xC3\xA3o Salvador do Mundo"
+  type: municipality
+- code: TA
+  name: Tarrafal
+  type: municipality
+- code: TS
+  name: "Tarrafal de S\xC3\xA3o Nicolau"
+  type: municipality

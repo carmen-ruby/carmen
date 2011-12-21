@@ -1,28 +1,28 @@
 --- 
-- code: LK-1
+- code: "1"
   name: "Basn\xC4\x81hira pa\xE1\xB8\xB7\xC4\x81ta"
   type: province
-- code: LK-3
+- code: "3"
   name: "Daku\xE1\xB9\x87u pa\xE1\xB8\xB7\xC4\x81ta"
   type: province
-- code: LK-2
+- code: "2"
   name: "Madhyama pa\xE1\xB8\xB7\xC4\x81ta"
   type: province
-- code: LK-5
+- code: "5"
   name: "N\xC3\xA6\xCC\x86g\xC4\x95nahira pa\xE1\xB8\xB7\xC4\x81ta"
   type: province
-- code: LK-9
+- code: "9"
   name: "Sabaragamuva pa\xE1\xB8\xB7\xC4\x81ta"
   type: province
-- code: LK-7
+- code: "7"
   name: "Uturum\xC3\xA6\xCC\x86da pa\xE1\xB8\xB7\xC4\x81ta"
   type: province
-- code: LK-4
+- code: "4"
   name: "Uturu pa\xE1\xB8\xB7\xC4\x81ta"
   type: province
-- code: LK-8
+- code: "8"
   name: "\xC5\xAAva pa\xE1\xB8\xB7\xC4\x81ta"
   type: province
-- code: LK-6
+- code: "6"
   name: "Vayamba pa\xE1\xB8\xB7\xC4\x81ta"
   type: province

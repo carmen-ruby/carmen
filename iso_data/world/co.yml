@@ -1,100 +1,100 @@
 --- 
-- code: CO-DC
+- code: DC
   name: "Distrito Capital de Bogot\xC3\xA1"
   type: capital district
-- code: CO-AMA
+- code: AMA
   name: Amazonas
   type: department
-- code: CO-ANT
+- code: ANT
   name: Antioquia
   type: department
-- code: CO-ARA
+- code: ARA
   name: Arauca
   type: department
-- code: CO-ATL
+- code: ATL
   name: "Atl\xC3\xA1ntico"
   type: department
-- code: CO-BOL
+- code: BOL
   name: "Bol\xC3\xADvar"
   type: department
-- code: CO-BOY
+- code: BOY
   name: "Boyac\xC3\xA1"
   type: department
-- code: CO-CAL
+- code: CAL
   name: Caldas
   type: department
-- code: CO-CAQ
+- code: CAQ
   name: "Caquet\xC3\xA1"
   type: department
-- code: CO-CAS
+- code: CAS
   name: Casanare
   type: department
-- code: CO-CAU
+- code: CAU
   name: Cauca
   type: department
-- code: CO-CES
+- code: CES
   name: Cesar
   type: department
-- code: CO-CHO
+- code: CHO
   name: "Choc\xC3\xB3"
   type: department
-- code: CO-COR
+- code: COR
   name: "C\xC3\xB3rdoba"
   type: department
-- code: CO-CUN
+- code: CUN
   name: Cundinamarca
   type: department
-- code: CO-GUA
+- code: GUA
   name: "Guain\xC3\xADa"
   type: department
-- code: CO-GUV
+- code: GUV
   name: Guaviare
   type: department
-- code: CO-HUI
+- code: HUI
   name: Huila
   type: department
-- code: CO-LAG
+- code: LAG
   name: La Guajira
   type: department
-- code: CO-MAG
+- code: MAG
   name: Magdalena
   type: department
-- code: CO-MET
+- code: MET
   name: Meta
   type: department
-- code: CO-NAR
+- code: NAR
   name: "Nari\xC3\xB1o"
   type: department
-- code: CO-NSA
+- code: NSA
   name: Norte de Santander
   type: department
-- code: CO-PUT
+- code: PUT
   name: Putumayo
   type: department
-- code: CO-QUI
+- code: QUI
   name: "Quind\xC3\xADo"
   type: department
-- code: CO-RIS
+- code: RIS
   name: Risaralda
   type: department
-- code: CO-SAP
+- code: SAP
   name: "San Andr\xC3\xA9s, Providencia y Santa Catalina"
   type: department
-- code: CO-SAN
+- code: SAN
   name: Santander
   type: department
-- code: CO-SUC
+- code: SUC
   name: Sucre
   type: department
-- code: CO-TOL
+- code: TOL
   name: Tolima
   type: department
-- code: CO-VAC
+- code: VAC
   name: Valle del Cauca
   type: department
-- code: CO-VAU
+- code: VAU
   name: "Vaup\xC3\xA9s"
   type: department
-- code: CO-VID
+- code: VID
   name: Vichada
   type: department

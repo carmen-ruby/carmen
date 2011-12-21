@@ -1,58 +1,58 @@
 --- 
-- code: CI-06
+- code: "06"
   name: "18 Montagnes (R\xC3\xA9gion des)"
   type: region
-- code: CI-16
+- code: "16"
   name: "Agn\xC3\xA9bi (R\xC3\xA9gion de l')"
   type: region
-- code: CI-17
+- code: "17"
   name: "Bafing (R\xC3\xA9gion du)"
   type: region
-- code: CI-09
+- code: 09
   name: "Bas-Sassandra (R\xC3\xA9gion du)"
   type: region
-- code: CI-10
+- code: "10"
   name: "Dengu\xC3\xA9l\xC3\xA9 (R\xC3\xA9gion du)"
   type: region
-- code: CI-18
+- code: "18"
   name: "Fromager (R\xC3\xA9gion du)"
   type: region
-- code: CI-02
+- code: "02"
   name: "Haut-Sassandra (R\xC3\xA9gion du)"
   type: region
-- code: CI-07
+- code: "07"
   name: "Lacs (R\xC3\xA9gion des)"
   type: region
-- code: CI-01
+- code: "01"
   name: "Lagunes (R\xC3\xA9gion des)"
   type: region
-- code: CI-12
+- code: "12"
   name: "Marahou\xC3\xA9 (R\xC3\xA9gion de la)"
   type: region
-- code: CI-19
+- code: "19"
   name: "Moyen-Cavally (R\xC3\xA9gion du)"
   type: region
-- code: CI-05
+- code: "05"
   name: "Moyen-Como\xC3\xA9 (R\xC3\xA9gion du)"
   type: region
-- code: CI-11
+- code: "11"
   name: "Nzi-Como\xC3\xA9 (R\xC3\xA9gion)"
   type: region
-- code: CI-03
+- code: "03"
   name: "Savanes (R\xC3\xA9gion des)"
   type: region
-- code: CI-15
+- code: "15"
   name: "Sud-Bandama (R\xC3\xA9gion du)"
   type: region
-- code: CI-13
+- code: "13"
   name: "Sud-Como\xC3\xA9 (R\xC3\xA9gion du)"
   type: region
-- code: CI-04
+- code: "04"
   name: "Vall\xC3\xA9e du Bandama (R\xC3\xA9gion de la)"
   type: region
-- code: CI-14
+- code: "14"
   name: "Worodouqou (R\xC3\xA9gion du)"
   type: region
-- code: CI-08
+- code: 08
   name: "Zanzan (R\xC3\xA9gion du)"
   type: region

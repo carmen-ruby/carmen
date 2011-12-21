@@ -1,79 +1,79 @@
 --- 
-- code: CH-AG
+- code: AG
   name: Aargau
   type: canton
-- code: CH-AI
+- code: AI
   name: Appenzell Innerrhoden
   type: canton
-- code: CH-AR
+- code: AR
   name: Appenzell Ausserrhoden
   type: canton
-- code: CH-BE
+- code: BE
   name: Bern
   type: canton
-- code: CH-BL
+- code: BL
   name: Basel-Landschaft
   type: canton
-- code: CH-BS
+- code: BS
   name: Basel-Stadt
   type: canton
-- code: CH-FR
+- code: FR
   name: Fribourg
   type: canton
-- code: CH-GE
+- code: GE
   name: "Gen\xC3\xA8ve"
   type: canton
-- code: CH-GL
+- code: GL
   name: Glarus
   type: canton
-- code: CH-GR
+- code: GR
   name: "Graub\xC3\xBCnden"
   type: canton
-- code: CH-JU
+- code: JU
   name: Jura
   type: canton
-- code: CH-LU
+- code: LU
   name: Luzern
   type: canton
-- code: CH-NE
+- code: NE
   name: "Neuch\xC3\xA2tel"
   type: canton
-- code: CH-NW
+- code: NW
   name: Nidwalden
   type: canton
-- code: CH-OW
+- code: OW
   name: Obwalden
   type: canton
-- code: CH-SG
+- code: SG
   name: Sankt Gallen
   type: canton
-- code: CH-SH
+- code: SH
   name: Schaffhausen
   type: canton
-- code: CH-SO
+- code: SO
   name: Solothurn
   type: canton
-- code: CH-SZ
+- code: SZ
   name: Schwyz
   type: canton
-- code: CH-TG
+- code: TG
   name: Thurgau
   type: canton
-- code: CH-TI
+- code: TI
   name: Ticino
   type: canton
-- code: CH-UR
+- code: UR
   name: Uri
   type: canton
-- code: CH-VD
+- code: VD
   name: Vaud
   type: canton
-- code: CH-VS
+- code: VS
   name: Valais
   type: canton
-- code: CH-ZG
+- code: ZG
   name: Zug
   type: canton
-- code: CH-ZH
+- code: ZH
   name: "Z\xC3\xBCrich"
   type: canton

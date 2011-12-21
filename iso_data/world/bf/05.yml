@@ -1,0 +1,10 @@
+--- 
+- code: BAM
+  name: Bam
+  type: province
+- code: NAM
+  name: Namentenga
+  type: province
+- code: SMT
+  name: Sanmatenga
+  type: province

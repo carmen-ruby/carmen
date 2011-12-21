@@ -22,7 +22,7 @@ module Carmen
       World.instance.subregions
     end
 
-    def self.subregions
+    def self.query_collection
       all
     end
 
@@ -31,6 +31,10 @@ module Carmen
     end
 
   private
+
+    def self.attribute_to_search_for_code(code)
+      code.to_s.size == 2 ? :alpha_2_code : :alpha_3_code
+    end
 
     def subregion_directory
       alpha_2_code.downcase

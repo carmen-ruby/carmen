@@ -1,40 +1,40 @@
 --- 
-- code: TL-AL
+- code: AL
   name: Aileu
   type: district
-- code: TL-AN
+- code: AN
   name: Ainaro
   type: district
-- code: TL-BA
+- code: BA
   name: Baucau
   type: district
-- code: TL-BO
+- code: BO
   name: Bobonaro
   type: district
-- code: TL-CO
+- code: CO
   name: Cova Lima
   type: district
-- code: TL-DI
+- code: DI
   name: Dili
   type: district
-- code: TL-ER
+- code: ER
   name: Ermera
   type: district
-- code: TL-LA
+- code: LA
   name: Lautem
   type: district
-- code: TL-LI
+- code: LI
   name: "Liqui\xC3\xA7a"
   type: district
-- code: TL-MT
+- code: MT
   name: Manatuto
   type: district
-- code: TL-MF
+- code: MF
   name: Manufahi
   type: district
-- code: TL-OE
+- code: OE
   name: Oecussi
   type: district
-- code: TL-VI
+- code: VI
   name: Viqueque
   type: district

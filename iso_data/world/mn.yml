@@ -1,67 +1,67 @@
 --- 
-- code: MN-073
+- code: "073"
   name: Arhangay
   type: province
-- code: MN-069
+- code: 069
   name: Bayanhongor
   type: province
-- code: MN-071
+- code: "071"
   name: "Bayan-\xC3\x96lgiy"
   type: province
-- code: MN-067
+- code: "067"
   name: Bulgan
   type: province
-- code: MN-061
+- code: "061"
   name: Dornod
   type: province
-- code: MN-063
+- code: "063"
   name: Dornogovi
   type: province
-- code: MN-059
+- code: 059
   name: Dundgovi
   type: province
-- code: MN-057
+- code: "057"
   name: Dzavhan
   type: province
-- code: MN-065
+- code: "065"
   name: Govi-Altay
   type: province
-- code: MN-039
+- code: 039
   name: Hentiy
   type: province
-- code: MN-043
+- code: "043"
   name: Hovd
   type: province
-- code: MN-041
+- code: "041"
   name: "H\xC3\xB6vsg\xC3\xB6l"
   type: province
-- code: MN-053
+- code: "053"
   name: "\xC3\x96mn\xC3\xB6govi"
   type: province
-- code: MN-055
+- code: "055"
   name: "\xC3\x96v\xC3\xB6rhangay"
   type: province
-- code: MN-049
+- code: 049
   name: Selenge
   type: province
-- code: MN-051
+- code: "051"
   name: "S\xC3\xBChbaatar"
   type: province
-- code: MN-047
+- code: "047"
   name: "T\xC3\xB6v"
   type: province
-- code: MN-046
+- code: "046"
   name: Uvs
   type: province
-- code: MN-1
+- code: "1"
   name: Ulanbaatar
   type: municipality
-- code: MN-037
+- code: "037"
   name: Darhan uul
   type: municipality
-- code: MN-064
+- code: "064"
   name: Govi-Sumber
   type: municipality
-- code: MN-035
+- code: "035"
   name: Orhon
   type: municipality

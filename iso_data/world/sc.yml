@@ -1,76 +1,76 @@
 --- 
-- code: SC-01
+- code: "01"
   name: Anse aux Pins
   type: district
-- code: SC-02
+- code: "02"
   name: Anse Boileau
   type: district
-- code: SC-03
+- code: "03"
   name: Anse Etoile
   type: district
-- code: SC-04
+- code: "04"
   name: Anse Louis
   type: district
-- code: SC-05
+- code: "05"
   name: Anse Royale
   type: district
-- code: SC-06
+- code: "06"
   name: Baie Lazare
   type: district
-- code: SC-07
+- code: "07"
   name: Baie Sainte Anne
   type: district
-- code: SC-08
+- code: 08
   name: Beau Vallon
   type: district
-- code: SC-09
+- code: 09
   name: Bel Air
   type: district
-- code: SC-10
+- code: "10"
   name: Bel Ombre
   type: district
-- code: SC-11
+- code: "11"
   name: Cascade
   type: district
-- code: SC-12
+- code: "12"
   name: Glacis
   type: district
-- code: SC-13
+- code: "13"
   name: Grand Anse Mahe
   type: district
-- code: SC-14
+- code: "14"
   name: Grand Anse Praslin
   type: district
-- code: SC-15
+- code: "15"
   name: La Digue
   type: district
-- code: SC-16
+- code: "16"
   name: English River
   type: district
-- code: SC-24
+- code: "24"
   name: Les Mamelles
   type: district
-- code: SC-17
+- code: "17"
   name: Mont Buxton
   type: district
-- code: SC-18
+- code: "18"
   name: Mont Fleuri
   type: district
-- code: SC-19
+- code: "19"
   name: Plaisance
   type: district
-- code: SC-20
+- code: "20"
   name: Pointe Larue
   type: district
-- code: SC-21
+- code: "21"
   name: Port Glaud
   type: district
-- code: SC-25
+- code: "25"
   name: Roche Caiman
   type: district
-- code: SC-22
+- code: "22"
   name: Saint Louis
   type: district
-- code: SC-23
+- code: "23"
   name: Takamaka
   type: district

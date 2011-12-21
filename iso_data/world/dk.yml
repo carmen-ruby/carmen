@@ -1,16 +1,16 @@
 --- 
-- code: DK-81
+- code: "81"
   name: Nordjylland
   type: region
-- code: DK-82
+- code: "82"
   name: Midtjylland
   type: region
-- code: DK-83
+- code: "83"
   name: Syddanmark
   type: region
-- code: DK-84
+- code: "84"
   name: Hovedstaden
   type: region
-- code: DK-85
+- code: "85"
   name: "Sj\xC3\xA6lland"
   type: region

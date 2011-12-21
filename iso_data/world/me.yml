@@ -1,64 +1,64 @@
 --- 
-- code: ME-01
+- code: "01"
   name: Andrijevica
   type: municipality
-- code: ME-02
+- code: "02"
   name: Bar
   type: municipality
-- code: ME-03
+- code: "03"
   name: Berane
   type: municipality
-- code: ME-04
+- code: "04"
   name: Bijelo Polje
   type: municipality
-- code: ME-05
+- code: "05"
   name: Budva
   type: municipality
-- code: ME-06
+- code: "06"
   name: Cetinje
   type: municipality
-- code: ME-07
+- code: "07"
   name: Danilovgrad
   type: municipality
-- code: ME-08
+- code: 08
   name: Herceg-Novi
   type: municipality
-- code: ME-09
+- code: 09
   name: "Kola\xC5\xA1in"
   type: municipality
-- code: ME-10
+- code: "10"
   name: Kotor
   type: municipality
-- code: ME-11
+- code: "11"
   name: Mojkovac
   type: municipality
-- code: ME-12
+- code: "12"
   name: "Nik\xC5\xA1i\xC4\x87"
   type: municipality
-- code: ME-13
+- code: "13"
   name: Plav
   type: municipality
-- code: ME-14
+- code: "14"
   name: Pljevlja
   type: municipality
-- code: ME-15
+- code: "15"
   name: "Plu\xC5\xBEine"
   type: municipality
-- code: ME-16
+- code: "16"
   name: Podgorica
   type: municipality
-- code: ME-17
+- code: "17"
   name: "Ro\xC5\xBEaje"
   type: municipality
-- code: ME-18
+- code: "18"
   name: "\xC5\xA0avnik"
   type: municipality
-- code: ME-19
+- code: "19"
   name: Tivat
   type: municipality
-- code: ME-20
+- code: "20"
   name: Ulcinj
   type: municipality
-- code: ME-21
+- code: "21"
   name: "\xC5\xBDabljak"
   type: municipality

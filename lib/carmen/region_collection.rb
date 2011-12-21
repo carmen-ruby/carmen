@@ -15,5 +15,16 @@ module Carmen
   #
   class RegionCollection < Array
     include Querying
+
+  private
+
+    def query_collection
+      self
+    end
+
+    def attribute_to_search_for_code(code)
+      :code
+    end
+
   end
 end

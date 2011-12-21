@@ -1,0 +1,10 @@
+--- 
+- code: HOU
+  name: Houet
+  type: province
+- code: KEN
+  name: "K\xC3\xA9n\xC3\xA9dougou"
+  type: province
+- code: TUI
+  name: Tui
+  type: province

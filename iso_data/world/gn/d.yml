@@ -1,0 +1,16 @@
+--- 
+- code: CO
+  name: Coyah
+  type: prefecture
+- code: DU
+  name: "Dubr\xC3\xA9ka"
+  type: prefecture
+- code: FO
+  name: "For\xC3\xA9cariah"
+  type: prefecture
+- code: KD
+  name: Kindia
+  type: prefecture
+- code: TE
+  name: "T\xC3\xA9lim\xC3\xA9l\xC3\xA9"
+  type: prefecture

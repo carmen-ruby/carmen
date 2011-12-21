@@ -1,82 +1,82 @@
 --- 
-- code: UA-71
+- code: "71"
   name: Cherkas'ka Oblast'
   type: province
-- code: UA-74
+- code: "74"
   name: Chernihivs'ka Oblast'
   type: province
-- code: UA-77
+- code: "77"
   name: Chernivets'ka Oblast'
   type: province
-- code: UA-12
+- code: "12"
   name: Dnipropetrovs'ka Oblast'
   type: province
-- code: UA-14
+- code: "14"
   name: Donets'ka Oblast'
   type: province
-- code: UA-26
+- code: "26"
   name: Ivano-Frankivs'ka Oblast'
   type: province
-- code: UA-63
+- code: "63"
   name: Kharkivs'ka Oblast'
   type: province
-- code: UA-65
+- code: "65"
   name: Khersons'ka Oblast'
   type: province
-- code: UA-68
+- code: "68"
   name: Khmel'nyts'ka Oblast'
   type: province
-- code: UA-35
+- code: "35"
   name: Kirovohrads'ka Oblast'
   type: province
-- code: UA-32
+- code: "32"
   name: "Ky\xC3\xAFvs'ka Oblast'"
   type: province
-- code: UA-09
+- code: 09
   name: Luhans'ka Oblast'
   type: province
-- code: UA-46
+- code: "46"
   name: L'vivs'ka Oblast'
   type: province
-- code: UA-48
+- code: "48"
   name: "Mykola\xC3\xAFvs'ka Oblast'"
   type: province
-- code: UA-51
+- code: "51"
   name: Odes'ka Oblast'
   type: province
-- code: UA-53
+- code: "53"
   name: Poltavs'ka Oblast'
   type: province
-- code: UA-56
+- code: "56"
   name: Rivnens'ka Oblast'
   type: province
-- code: UA-59
+- code: "59"
   name: Sums 'ka Oblast'
   type: province
-- code: UA-61
+- code: "61"
   name: Ternopil's'ka Oblast'
   type: province
-- code: UA-05
+- code: "05"
   name: Vinnyts'ka Oblast'
   type: province
-- code: UA-07
+- code: "07"
   name: Volyns'ka Oblast'
   type: province
-- code: UA-21
+- code: "21"
   name: Zakarpats'ka Oblast'
   type: province
-- code: UA-23
+- code: "23"
   name: Zaporiz'ka Oblast'
   type: province
-- code: UA-18
+- code: "18"
   name: Zhytomyrs'ka Oblast'
   type: province
-- code: UA-43
+- code: "43"
   name: Respublika Krym
   type: autonomous republic
-- code: UA-30
+- code: "30"
   name: "Ky\xC3\xAFvs'ka mis'ka rada"
   type: city
-- code: UA-40
+- code: "40"
   name: Sevastopol
   type: city

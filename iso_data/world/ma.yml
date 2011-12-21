@@ -1,49 +1,49 @@
 --- 
-- code: MA-09
+- code: 09
   name: Chaouia-Ouardigha
   type: economic region
-- code: MA-10
+- code: "10"
   name: Doukhala-Abda
   type: economic region
-- code: MA-05
+- code: "05"
   name: "F\xC3\xA8s-Boulemane"
   type: economic region
-- code: MA-02
+- code: "02"
   name: Gharb-Chrarda-Beni Hssen
   type: economic region
-- code: MA-08
+- code: 08
   name: Grand Casablanca
   type: economic region
-- code: MA-14
+- code: "14"
   name: Guelmim-Es Smara
   type: economic region
-- code: MA-15
+- code: "15"
   name: "La\xC3\xA2youne-Boujdour-Sakia el Hamra"
   type: economic region
-- code: MA-04
+- code: "04"
   name: L'Oriental
   type: economic region
-- code: MA-11
+- code: "11"
   name: Marrakech-Tensift-Al Haouz
   type: economic region
-- code: MA-06
+- code: "06"
   name: "Mekn\xC3\xA8s-Tafilalet"
   type: economic region
-- code: MA-16
+- code: "16"
   name: Oued ed Dahab-Lagouira
   type: economic region
-- code: MA-07
+- code: "07"
   name: "Rabat-Sal\xC3\xA9-Zemmour-Zaer"
   type: economic region
-- code: MA-13
+- code: "13"
   name: Sous-Massa-Draa
   type: economic region
-- code: MA-12
+- code: "12"
   name: Tadla-Azilal
   type: economic region
-- code: MA-01
+- code: "01"
   name: "Tanger-T\xC3\xA9touan"
   type: economic region
-- code: MA-03
+- code: "03"
   name: Taza-Al Hoceima-Taounate
   type: economic region

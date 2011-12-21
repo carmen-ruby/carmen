@@ -1,70 +1,70 @@
 --- 
-- code: AR-C
+- code: C
   name: "Ciudad Aut\xC3\xB3noma de Buenos Aires"
   type: city
-- code: AR-B
+- code: B
   name: Buenos Aires
   type: province
-- code: AR-K
+- code: K
   name: Catamarca
   type: province
-- code: AR-X
+- code: X
   name: Cordoba
   type: province
-- code: AR-W
+- code: W
   name: Corrientes
   type: province
-- code: AR-H
+- code: H
   name: Chaco
   type: province
-- code: AR-U
+- code: U
   name: Chubut
   type: province
-- code: AR-E
+- code: E
   name: Entre Rios
   type: province
-- code: AR-P
+- code: P
   name: Formosa
   type: province
-- code: AR-Y
+- code: Y
   name: Jujuy
   type: province
-- code: AR-L
+- code: L
   name: La Pampa
   type: province
-- code: AR-M
+- code: M
   name: Mendoza
   type: province
-- code: AR-N
+- code: N
   name: Misiones
   type: province
-- code: AR-Q
+- code: Q
   name: Neuquen
   type: province
-- code: AR-R
+- code: R
   name: Rio Negro
   type: province
-- code: AR-A
+- code: A
   name: Salta
   type: province
-- code: AR-J
+- code: J
   name: San Juan
   type: province
-- code: AR-D
+- code: D
   name: San Luis
   type: province
-- code: AR-Z
+- code: Z
   name: Santa Cruz
   type: province
-- code: AR-S
+- code: S
   name: Santa Fe
   type: province
-- code: AR-G
+- code: G
   name: Santiago del Estero
   type: province
-- code: AR-V
+- code: V
   name: Tierra del Fuego
   type: province
-- code: AR-T
+- code: T
   name: Tucuman
   type: province

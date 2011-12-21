@@ -1,13 +1,13 @@
 --- 
-- code: SL-W
+- code: W
   name: Western Area (Freetown)
   type: area
-- code: SL-E
+- code: E
   name: Eastern
   type: province
-- code: SL-N
+- code: N
   name: Northern
   type: province
-- code: SL-S
+- code: S
   name: Southern (Sierra Leone)
   type: province

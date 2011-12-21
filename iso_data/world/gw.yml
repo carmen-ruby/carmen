@@ -1,13 +1,13 @@
 --- 
-- code: GW-BS
+- code: BS
   name: Bissau
   type: autonomous sector
-- code: GW-L
+- code: L
   name: Leste
   type: province
-- code: GW-N
+- code: N
   name: Norte
   type: province
-- code: GW-S
+- code: S
   name: Sul
   type: province

@@ -1,28 +1,28 @@
 --- 
-- code: GA-1
+- code: "1"
   name: Estuaire
   type: province
-- code: GA-2
+- code: "2"
   name: "Haut-Ogoou\xC3\xA9"
   type: province
-- code: GA-3
+- code: "3"
   name: "Moyen-Ogoou\xC3\xA9"
   type: province
-- code: GA-4
+- code: "4"
   name: "Ngouni\xC3\xA9"
   type: province
-- code: GA-5
+- code: "5"
   name: Nyanga
   type: province
-- code: GA-6
+- code: "6"
   name: "Ogoou\xC3\xA9-Ivindo"
   type: province
-- code: GA-7
+- code: "7"
   name: "Ogoou\xC3\xA9-Lolo"
   type: province
-- code: GA-8
+- code: "8"
   name: "Ogoou\xC3\xA9-Maritime"
   type: province
-- code: GA-9
+- code: "9"
   name: Woleu-Ntem
   type: province

@@ -66,12 +66,17 @@ describe Carmen::Country do
       @oceania.subregions.size.must_equal 1
     end
 
+    it "can use Querying methods on the subregions collection" do
+      airstrip_one = @oceania.subregions.coded('AO')
+      airstrip_one.instance_of?(Carmen::Region).must_equal true
+    end
+
     it "loads all attributes for subregions" do
       airstrip_one = @oceania.subregions.first
 
       airstrip_one.name.must_equal "Airstrip One"
       airstrip_one.type.must_equal "providence"
-      airstrip_one.code.must_equal "OC-AO"
+      airstrip_one.code.must_equal "AO"
     end
 
     it "sets itself as the parent of a subregions" do

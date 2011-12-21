@@ -1,43 +1,43 @@
 --- 
-- code: JM-13
+- code: "13"
   name: Clarendon
   type: parish
-- code: JM-09
+- code: 09
   name: Hanover
   type: parish
-- code: JM-01
+- code: "01"
   name: Kingston
   type: parish
-- code: JM-12
+- code: "12"
   name: Manchester
   type: parish
-- code: JM-04
+- code: "04"
   name: Portland
   type: parish
-- code: JM-02
+- code: "02"
   name: Saint Andrew
   type: parish
-- code: JM-06
+- code: "06"
   name: Saint Ann
   type: parish
-- code: JM-14
+- code: "14"
   name: Saint Catherine
   type: parish
-- code: JM-11
+- code: "11"
   name: Saint Elizabeth
   type: parish
-- code: JM-08
+- code: 08
   name: Saint James
   type: parish
-- code: JM-05
+- code: "05"
   name: Saint Mary
   type: parish
-- code: JM-03
+- code: "03"
   name: Saint Thomas
   type: parish
-- code: JM-07
+- code: "07"
   name: Trelawny
   type: parish
-- code: JM-10
+- code: "10"
   name: Westmoreland
   type: parish

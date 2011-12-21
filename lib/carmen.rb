@@ -36,6 +36,7 @@ module Carmen
     # path - The String path to the data directory.
     def data_path=(path)
       @data_path = Pathname.new(path)
+      World.instance.reset!
     end
 
     # Public: Set the overlay data path.

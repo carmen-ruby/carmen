@@ -1,0 +1,19 @@
+--- 
+- code: AKL
+  name: Aklan
+  type: province
+- code: ANT
+  name: Antique
+  type: province
+- code: CAP
+  name: Capiz
+  type: province
+- code: GUI
+  name: Guimaras
+  type: province
+- code: ILI
+  name: Iloilo
+  type: province
+- code: NEC
+  name: Negroe Occidental
+  type: province

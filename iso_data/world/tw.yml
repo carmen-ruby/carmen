@@ -1,70 +1,70 @@
 --- 
-- code: TW-CHA
+- code: CHA
   name: Changhua
   type: district
-- code: TW-CYQ
+- code: CYQ
   name: Chiayi
   type: district
-- code: TW-HSQ
+- code: HSQ
   name: Hsinchu
   type: district
-- code: TW-HUA
+- code: HUA
   name: Hualien
   type: district
-- code: TW-ILA
+- code: ILA
   name: Ilan
   type: district
-- code: TW-KHQ
+- code: KHQ
   name: Kaohsiung
   type: district
-- code: TW-MIA
+- code: MIA
   name: Miaoli
   type: district
-- code: TW-NAN
+- code: NAN
   name: Nantou
   type: district
-- code: TW-PEN
+- code: PEN
   name: Penghu
   type: district
-- code: TW-PIF
+- code: PIF
   name: Pingtung
   type: district
-- code: TW-TXQ
+- code: TXQ
   name: Taichung
   type: district
-- code: TW-TNQ
+- code: TNQ
   name: Tainan
   type: district
-- code: TW-TPQ
+- code: TPQ
   name: Taipei
   type: district
-- code: TW-TTT
+- code: TTT
   name: Taitung
   type: district
-- code: TW-TAO
+- code: TAO
   name: Taoyuan
   type: district
-- code: TW-YUN
+- code: YUN
   name: Yunlin
   type: district
-- code: TW-CYI
+- code: CYI
   name: Chiay City
   type: municipality
-- code: TW-HSZ
+- code: HSZ
   name: Hsinchui City
   type: municipality
-- code: TW-KEE
+- code: KEE
   name: Keelung City
   type: municipality
-- code: TW-TXG
+- code: TXG
   name: Taichung City
   type: municipality
-- code: TW-TNN
+- code: TNN
   name: Tainan City
   type: municipality
-- code: TW-KHH
+- code: KHH
   name: Kaohsiung City
   type: special municipality
-- code: TW-TPE
+- code: TPE
   name: Taipei City
   type: special municipality

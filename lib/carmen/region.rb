@@ -39,6 +39,11 @@ module Carmen
       "<##{self.class} name=\"#{name}\" type=\"#{type}\">"
     end
 
+    # Clears the subregion cache
+    def reset!
+      @subregions = nil
+    end
+
   private
 
     def subregion_directory
@@ -60,6 +65,5 @@ module Carmen
 
       RegionCollection.new(regions)
     end
-
   end
 end

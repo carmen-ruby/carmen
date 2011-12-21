@@ -1,31 +1,31 @@
 --- 
-- code: CM-AD
+- code: AD
   name: Adamaoua
   type: province
-- code: CM-CE
+- code: CE
   name: Centre
   type: province
-- code: CM-ES
+- code: ES
   name: East
   type: province
-- code: CM-EN
+- code: EN
   name: Far North
   type: province
-- code: CM-LT
+- code: LT
   name: Littoral
   type: province
-- code: CM-NO
+- code: "NO"
   name: North
   type: province
-- code: CM-NW
+- code: NW
   name: North-West (Cameroon)
   type: province
-- code: CM-SU
+- code: SU
   name: South
   type: province
-- code: CM-SW
+- code: SW
   name: South-West
   type: province
-- code: CM-OU
+- code: OU
   name: West
   type: province

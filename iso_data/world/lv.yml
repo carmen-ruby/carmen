@@ -1,100 +1,100 @@
 --- 
-- code: LV-AI
+- code: AI
   name: "Aizkraukle Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-AL
+- code: AL
   name: "Al\xC5\xABksne Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-BL
+- code: BL
   name: "Balvi Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-BU
+- code: BU
   name: "Bauska Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-CE
+- code: CE
   name: "C\xC4\x93sis Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-DA
+- code: DA
   name: "Daugavpils Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-DO
+- code: DO
   name: "Dobele Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-GU
+- code: GU
   name: "Gulbene Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-JK
+- code: JK
   name: "J\xC4\x93kabpils Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-JL
+- code: JL
   name: "Jelgava Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-KR
+- code: KR
   name: "Kr\xC4\x81slava Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-KU
+- code: KU
   name: "Kuld\xC4\xABga Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-LE
+- code: LE
   name: "Liep\xC4\x81ja Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-LM
+- code: LM
   name: "Limba\xC5\xBEi Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-LU
+- code: LU
   name: "Ludza Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-MA
+- code: MA
   name: "Madona Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-OG
+- code: OG
   name: "Ogre Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-PR
+- code: PR
   name: "Prei\xC4\xBCi Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-RE
+- code: RE
   name: "R\xC4\x93zekne Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-RI
+- code: RI
   name: "R\xC4\xABga Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-SA
+- code: SA
   name: "Saldus Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-TA
+- code: TA
   name: "Talsi Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-TU
+- code: TU
   name: "Tukums Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-VK
+- code: VK
   name: "Valka Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-VM
+- code: VM
   name: "Valmiera Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-VE
+- code: VE
   name: "Ventspils Apri\xC5\x86\xC4\xB7is"
   type: district
-- code: LV-DGV
+- code: DGV
   name: Daugavpils
   type: city
-- code: LV-JEL
+- code: JEL
   name: Jelgava
   type: city
-- code: LV-JUR
+- code: JUR
   name: "J\xC5\xABrmala"
   type: city
-- code: LV-LPX
+- code: LPX
   name: "Liep\xC4\x81ja"
   type: city
-- code: LV-REZ
+- code: REZ
   name: "R\xC4\x93zekne"
   type: city
-- code: LV-RIX
+- code: RIX
   name: "R\xC4\xABga"
   type: city
-- code: LV-VEN
+- code: VEN
   name: Ventspils
   type: city

@@ -1,0 +1,34 @@
+--- 
+- code: "01"
+  name: Bandarban zila
+  type: district
+- code: "04"
+  name: Brahmanbaria zila
+  type: district
+- code: 09
+  name: Chandpur zila
+  type: district
+- code: "10"
+  name: Chittagong zila
+  type: district
+- code: 08
+  name: Comilla zila
+  type: district
+- code: "11"
+  name: Cox's Bazar zila
+  type: district
+- code: "16"
+  name: Feni zila
+  type: district
+- code: "29"
+  name: Khagrachari zila
+  type: district
+- code: "31"
+  name: Lakshmipur zila
+  type: district
+- code: "47"
+  name: Noakhali zila
+  type: district
+- code: "56"
+  name: Rangamati zila
+  type: district

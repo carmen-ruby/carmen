@@ -1,37 +1,37 @@
 --- 
-- code: JO-AJ
+- code: AJ
   name: `Ajlun
   type: governorate
-- code: JO-AQ
+- code: AQ
   name: Al `Aqabah
   type: governorate
-- code: JO-BA
+- code: BA
   name: "Al Balq\xC4\x81'"
   type: governorate
-- code: JO-KA
+- code: KA
   name: Al Karak
   type: governorate
-- code: JO-MA
+- code: MA
   name: Al Mafraq
   type: governorate
-- code: JO-AM
+- code: AM
   name: Amman
   type: governorate
-- code: JO-AT
+- code: AT
   name: "A\xC5\xA3 \xC5\xA2af\xC4\xABlah"
   type: governorate
-- code: JO-AZ
+- code: AZ
   name: "Az Zarq\xC4\x81'"
   type: governorate
-- code: JO-JR
+- code: JR
   name: Irbid
   type: governorate
-- code: JO-JA
+- code: JA
   name: Jarash
   type: governorate
-- code: JO-MN
+- code: MN
   name: "Ma`\xC4\x81n"
   type: governorate
-- code: JO-MD
+- code: MD
   name: "M\xC4\x81dab\xC4\x81"
   type: governorate

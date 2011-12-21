@@ -1,31 +1,31 @@
 --- 
-- code: SB-CT
+- code: CT
   name: Capital Territory (Honiara)
   type: capital territory
-- code: SB-CE
+- code: CE
   name: Central
   type: province
-- code: SB-CH
+- code: CH
   name: Choiseul
   type: province
-- code: SB-GU
+- code: GU
   name: Guadalcanal
   type: province
-- code: SB-IS
+- code: IS
   name: Isabel
   type: province
-- code: SB-MK
+- code: MK
   name: Makira
   type: province
-- code: SB-ML
+- code: ML
   name: Malaita
   type: province
-- code: SB-RB
+- code: RB
   name: Rennell and Bellona
   type: province
-- code: SB-TE
+- code: TE
   name: Temotu
   type: province
-- code: SB-WE
+- code: WE
   name: Western
   type: province

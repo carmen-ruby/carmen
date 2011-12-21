@@ -1,0 +1,16 @@
+--- 
+- code: MAD
+  name: Marinduque
+  type: province
+- code: MDC
+  name: Mindoro Occidental
+  type: province
+- code: MDR
+  name: Mindoro Oriental
+  type: province
+- code: PLW
+  name: Palawan
+  type: province
+- code: ROM
+  name: Romblon
+  type: province

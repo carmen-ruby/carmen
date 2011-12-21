@@ -1,31 +1,31 @@
 --- 
-- code: GY-BA
+- code: BA
   name: Barima-Waini
   type: region
-- code: GY-CU
+- code: CU
   name: Cuyuni-Mazaruni
   type: region
-- code: GY-DE
+- code: DE
   name: Demerara-Mahaica
   type: region
-- code: GY-EB
+- code: EB
   name: East Berbice-Corentyne
   type: region
-- code: GY-ES
+- code: ES
   name: Essequibo Islands-West Demerara
   type: region
-- code: GY-MA
+- code: MA
   name: Mahaica-Berbice
   type: region
-- code: GY-PM
+- code: PM
   name: Pomeroon-Supenaam
   type: region
-- code: GY-PT
+- code: PT
   name: Potaro-Siparuni
   type: region
-- code: GY-UD
+- code: UD
   name: Upper Demerara-Berbice
   type: region
-- code: GY-UT
+- code: UT
   name: Upper Takutu-Upper Essequibo
   type: region

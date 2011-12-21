@@ -1,31 +1,31 @@
 --- 
-- code: ZW-BU
+- code: BU
   name: Bulawayo
   type: city
-- code: ZW-HA
+- code: HA
   name: Harare
   type: city
-- code: ZW-MA
+- code: MA
   name: Manicaland
   type: province
-- code: ZW-MC
+- code: MC
   name: Mashonaland Central
   type: province
-- code: ZW-ME
+- code: ME
   name: Mashonaland East
   type: province
-- code: ZW-MW
+- code: MW
   name: Mashonaland West
   type: province
-- code: ZW-MV
+- code: MV
   name: Masvingo
   type: province
-- code: ZW-MN
+- code: MN
   name: Matabeleland North
   type: province
-- code: ZW-MS
+- code: MS
   name: Matabeleland South
   type: province
-- code: ZW-MI
+- code: MI
   name: Midlands
   type: province

@@ -1,0 +1,10 @@
+--- 
+- code: BES
+  name: Ben Slimane
+  type: province
+- code: KHO
+  name: Khouribga
+  type: province
+- code: SET
+  name: Settat
+  type: province

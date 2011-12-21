@@ -1,0 +1,19 @@
+--- 
+- code: "801"
+  name: "Brunt\xC3\xA1l"
+  type: district
+- code: "802"
+  name: "Fr\xC3\xBDdek M\xC3\xADstek"
+  type: district
+- code: "803"
+  name: "Karvin\xC3\xA1"
+  type: district
+- code: "804"
+  name: "Nov\xC3\xBD Ji\xC4\x8D\xC3\xADn"
+  type: district
+- code: "805"
+  name: Opava
+  type: district
+- code: "806"
+  name: "Ostrava m\xC4\x9Bsto"
+  type: district

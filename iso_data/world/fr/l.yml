@@ -1,0 +1,10 @@
+--- 
+- code: "19"
+  name: "Corr\xC3\xA8ze"
+  type: metropolitan department
+- code: "23"
+  name: Creuse
+  type: metropolitan department
+- code: "87"
+  name: Haute-Vienne
+  type: metropolitan department

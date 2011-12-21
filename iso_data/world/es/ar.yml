@@ -1,0 +1,10 @@
+--- 
+- code: HU
+  name: Huesca
+  type: province
+- code: TE
+  name: Teruel
+  type: province
+- code: Z
+  name: Zaragoza
+  type: province

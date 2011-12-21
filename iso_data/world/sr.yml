@@ -1,31 +1,31 @@
 --- 
-- code: SR-BR
+- code: BR
   name: Brokopondo
   type: district
-- code: SR-CM
+- code: CM
   name: Commewijne
   type: district
-- code: SR-CR
+- code: CR
   name: Coronie
   type: district
-- code: SR-MA
+- code: MA
   name: Marowijne
   type: district
-- code: SR-NI
+- code: NI
   name: Nickerie
   type: district
-- code: SR-PR
+- code: PR
   name: Para
   type: district
-- code: SR-PM
+- code: PM
   name: Paramaribo
   type: district
-- code: SR-SA
+- code: SA
   name: Saramacca
   type: district
-- code: SR-SI
+- code: SI
   name: Sipaliwini
   type: district
-- code: SR-WA
+- code: WA
   name: Wanica
   type: district

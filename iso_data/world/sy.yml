@@ -1,43 +1,43 @@
 --- 
-- code: SY-HA
+- code: HA
   name: Al Hasakah
   type: governorate
-- code: SY-LA
+- code: LA
   name: Al Ladhiqiyah
   type: governorate
-- code: SY-QU
+- code: QU
   name: Al Qunaytirah
   type: governorate
-- code: SY-RA
+- code: RA
   name: Ar Raqqah
   type: governorate
-- code: SY-SU
+- code: SU
   name: As Suwayda'
   type: governorate
-- code: SY-DR
+- code: DR
   name: Dar'a
   type: governorate
-- code: SY-DY
+- code: DY
   name: Dayr az Zawr
   type: governorate
-- code: SY-DI
+- code: DI
   name: Dimashq
   type: governorate
-- code: SY-HL
+- code: HL
   name: Halab
   type: governorate
-- code: SY-HM
+- code: HM
   name: Hamah
   type: governorate
-- code: SY-HI
+- code: HI
   name: Homs
   type: governorate
-- code: SY-ID
+- code: ID
   name: Idlib
   type: governorate
-- code: SY-RD
+- code: RD
   name: Rif Dimashq
   type: governorate
-- code: SY-TA
+- code: TA
   name: Tartus
   type: governorate

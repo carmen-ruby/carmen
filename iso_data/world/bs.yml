@@ -1,97 +1,97 @@
 --- 
-- code: BS-AC
+- code: AC
   name: Acklins Islands
   type: district
-- code: BS-BY
+- code: BY
   name: Berry Islands
   type: district
-- code: BS-BI
+- code: BI
   name: Bimini and Cat Cay
   type: district
-- code: BS-BP
+- code: BP
   name: Black Point
   type: district
-- code: BS-CI
+- code: CI
   name: Cat Island
   type: district
-- code: BS-CO
+- code: CO
   name: Central Abaco
   type: district
-- code: BS-CS
+- code: CS
   name: Central Andros
   type: district
-- code: BS-CE
+- code: CE
   name: Central Eleuthera
   type: district
-- code: BS-FP
+- code: FP
   name: City of Freeport
   type: district
-- code: BS-CK
+- code: CK
   name: Crooked Island and Long Cay
   type: district
-- code: BS-EG
+- code: EG
   name: East Grand Bahama
   type: district
-- code: BS-EX
+- code: EX
   name: Exuma
   type: district
-- code: BS-GC
+- code: GC
   name: Grand Cay
   type: district
-- code: BS-GT
+- code: GT
   name: Green Turtle Cay
   type: district
-- code: BS-HI
+- code: HI
   name: Harbour Island
   type: district
-- code: BS-HT
+- code: HT
   name: Hope Town
   type: district
-- code: BS-IN
+- code: IN
   name: Inagua
   type: district
-- code: BS-LI
+- code: LI
   name: Long Island
   type: district
-- code: BS-MC
+- code: MC
   name: Mangrove Cay
   type: district
-- code: BS-MG
+- code: MG
   name: Mayaguana
   type: district
-- code: BS-MI
+- code: MI
   name: Moore's Island
   type: district
-- code: BS-NO
+- code: "NO"
   name: North Abaco
   type: district
-- code: BS-NS
+- code: NS
   name: North Andros
   type: district
-- code: BS-NE
+- code: NE
   name: North Eleuthera
   type: district
-- code: BS-RI
+- code: RI
   name: Ragged Island
   type: district
-- code: BS-RC
+- code: RC
   name: Rum Cay
   type: district
-- code: BS-SS
+- code: SS
   name: San Salvador
   type: district
-- code: BS-SO
+- code: SO
   name: South Abaco
   type: district
-- code: BS-SA
+- code: SA
   name: South Andros
   type: district
-- code: BS-SE
+- code: SE
   name: South Eleuthera
   type: district
-- code: BS-SW
+- code: SW
   name: Spanish Wells
   type: district
-- code: BS-WG
+- code: WG
   name: West Grand Bahama
   type: district

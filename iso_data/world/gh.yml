@@ -1,32 +1,32 @@
 --- 
-- code: GH-AH
+- code: AH
   name: Ashanti
   type: region
-- code: GH-BA
+- code: BA
   name: Brong-Ahafo
   type: region
-- code: GH-CP
+- code: CP
   name: Central
   type: region
-- code: GH-EP
+- code: EP
   name: Eastern
   type: region
-- code: GH-AA
+- code: AA
   name: Greater Accra
   type: region
-- code: GH-NP
+- code: NP
   name: Northern
   type: region
-- code: GH-UE
+- code: UE
   name: Upper East
   type: region
-- code: GH-UW
+- code: UW
   name: Upper West
   type: region
-- code: GH-TV
+- code: TV
   name: Volta
   type: region
-- code: GH-WP
+- code: WP
   name: Western
   type: region
 - code: GL-KU

@@ -1,19 +1,19 @@
 --- 
-- code: BD-1
+- code: "1"
   name: Barisal bibhag
   type: division
-- code: BD-2
+- code: "2"
   name: Chittagong bibhag
   type: division
-- code: BD-3
+- code: "3"
   name: Dhaka bibhag
   type: division
-- code: BD-4
+- code: "4"
   name: Khulna bibhag
   type: division
-- code: BD-5
+- code: "5"
   name: Rajshahi bibhag
   type: division
-- code: BD-6
+- code: "6"
   name: Sylhet bibhag
   type: division

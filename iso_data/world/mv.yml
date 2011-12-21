@@ -1,61 +1,61 @@
 --- 
-- code: MV-MLE
+- code: MLE
   name: Male
   type: city
-- code: MV-02
+- code: "02"
   name: Alif
   type: atoll
-- code: MV-20
+- code: "20"
   name: Baa
   type: atoll
-- code: MV-17
+- code: "17"
   name: Dhaalu
   type: atoll
-- code: MV-14
+- code: "14"
   name: Faafu
   type: atoll
-- code: MV-27
+- code: "27"
   name: Gaafu Aliff
   type: atoll
-- code: MV-28
+- code: "28"
   name: Gaafu Daalu
   type: atoll
-- code: MV-29
+- code: "29"
   name: Gnaviyani
   type: atoll
-- code: MV-07
+- code: "07"
   name: Haa Alif
   type: atoll
-- code: MV-23
+- code: "23"
   name: Haa Dhaalu
   type: atoll
-- code: MV-26
+- code: "26"
   name: Kaafu
   type: atoll
-- code: MV-05
+- code: "05"
   name: Laamu
   type: atoll
-- code: MV-03
+- code: "03"
   name: Lhaviyani
   type: atoll
-- code: MV-12
+- code: "12"
   name: Meemu
   type: atoll
-- code: MV-25
+- code: "25"
   name: Noonu
   type: atoll
-- code: MV-13
+- code: "13"
   name: Raa
   type: atoll
-- code: MV-01
+- code: "01"
   name: Seenu
   type: atoll
-- code: MV-24
+- code: "24"
   name: Shaviyani
   type: atoll
-- code: MV-08
+- code: 08
   name: Thaa
   type: atoll
-- code: MV-04
+- code: "04"
   name: Vaavu
   type: atoll

@@ -1,28 +1,28 @@
 --- 
-- code: HT-AR
+- code: AR
   name: Artibonite
   type: department
-- code: HT-CE
+- code: CE
   name: Centre
   type: department
-- code: HT-GA
+- code: GA
   name: Grande-Anse
   type: department
-- code: HT-ND
+- code: ND
   name: Nord
   type: department
-- code: HT-NE
+- code: NE
   name: Nord-Est
   type: department
-- code: HT-NO
+- code: "NO"
   name: Nord-Ouest
   type: department
-- code: HT-OU
+- code: OU
   name: Ouest
   type: department
-- code: HT-SD
+- code: SD
   name: Sud
   type: department
-- code: HT-SE
+- code: SE
   name: Sud-Est
   type: department

@@ -1,28 +1,28 @@
 --- 
-- code: ZM-02
+- code: "02"
   name: Central
   type: province
-- code: ZM-08
+- code: 08
   name: Copperbelt
   type: province
-- code: ZM-03
+- code: "03"
   name: Eastern
   type: province
-- code: ZM-04
+- code: "04"
   name: Luapula
   type: province
-- code: ZM-09
+- code: 09
   name: Lusaka
   type: province
-- code: ZM-05
+- code: "05"
   name: Northern
   type: province
-- code: ZM-06
+- code: "06"
   name: North-Western
   type: province
-- code: ZM-07
+- code: "07"
   name: Southern (Zambia)
   type: province
-- code: ZM-01
+- code: "01"
   name: Western
   type: province

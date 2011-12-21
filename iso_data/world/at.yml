@@ -1,28 +1,28 @@
 --- 
-- code: AT-1
+- code: "1"
   name: Burgenland
   type: state
-- code: AT-2
+- code: "2"
   name: "K\xC3\xA4rnten"
   type: state
-- code: AT-3
+- code: "3"
   name: "Nieder\xC3\xB6sterreich"
   type: state
-- code: AT-4
+- code: "4"
   name: "Ober\xC3\xB6sterreich"
   type: state
-- code: AT-5
+- code: "5"
   name: Salzburg
   type: state
-- code: AT-6
+- code: "6"
   name: Steiermark
   type: state
-- code: AT-7
+- code: "7"
   name: Tirol
   type: state
-- code: AT-8
+- code: "8"
   name: Vorarlberg
   type: state
-- code: AT-9
+- code: "9"
   name: Wien
   type: state

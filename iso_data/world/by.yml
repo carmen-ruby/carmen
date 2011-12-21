@@ -1,22 +1,22 @@
 --- 
-- code: BY-HM
+- code: HM
   name: Horad Minsk
   type: city
-- code: BY-BR
+- code: BR
   name: "Br\xC3\xA8sckaja voblasc'"
   type: oblast
-- code: BY-HO
+- code: HO
   name: Homel'skaja voblasc'
   type: oblast
-- code: BY-HR
+- code: HR
   name: Hrodzenskaja voblasc'
   type: oblast
-- code: BY-MA
+- code: MA
   name: "Mahil\xC3\xABuskaja voblasc'"
   type: oblast
-- code: BY-MI
+- code: MI
   name: Minskaja voblasc'
   type: oblast
-- code: BY-VI
+- code: VI
   name: Vicebskaja voblasc'
   type: oblast

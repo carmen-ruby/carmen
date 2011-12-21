@@ -1,19 +1,19 @@
 --- 
-- code: CY-04
+- code: "04"
   name: "Amm\xC3\xB3chostos"
   type: district
-- code: CY-06
+- code: "06"
   name: "Ker\xC3\xBDneia"
   type: district
-- code: CY-03
+- code: "03"
   name: "L\xC3\xA1rnaka"
   type: district
-- code: CY-01
+- code: "01"
   name: "Lefkos\xC3\xADa"
   type: district
-- code: CY-02
+- code: "02"
   name: "Lemes\xC3\xB3s"
   type: district
-- code: CY-05
+- code: "05"
   name: "P\xC3\xA1fos"
   type: district

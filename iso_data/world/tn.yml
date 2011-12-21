@@ -1,73 +1,73 @@
 --- 
-- code: TN-31
+- code: "31"
   name: "B\xC3\xA9ja"
   type: governorate
-- code: TN-13
+- code: "13"
   name: Ben Arous
   type: governorate
-- code: TN-23
+- code: "23"
   name: Bizerte
   type: governorate
-- code: TN-81
+- code: "81"
   name: "Gab\xC3\xA8s"
   type: governorate
-- code: TN-71
+- code: "71"
   name: Gafsa
   type: governorate
-- code: TN-32
+- code: "32"
   name: Jendouba
   type: governorate
-- code: TN-41
+- code: "41"
   name: Kairouan
   type: governorate
-- code: TN-42
+- code: "42"
   name: Kasserine
   type: governorate
-- code: TN-73
+- code: "73"
   name: Kebili
   type: governorate
-- code: TN-12
+- code: "12"
   name: L'Ariana
   type: governorate
-- code: TN-33
+- code: "33"
   name: Le Kef
   type: governorate
-- code: TN-53
+- code: "53"
   name: Mahdia
   type: governorate
-- code: TN-14
+- code: "14"
   name: La Manouba
   type: governorate
-- code: TN-82
+- code: "82"
   name: Medenine
   type: governorate
-- code: TN-52
+- code: "52"
   name: Monastir
   type: governorate
-- code: TN-21
+- code: "21"
   name: Nabeul
   type: governorate
-- code: TN-61
+- code: "61"
   name: Sfax
   type: governorate
-- code: TN-43
+- code: "43"
   name: Sidi Bouzid
   type: governorate
-- code: TN-34
+- code: "34"
   name: Siliana
   type: governorate
-- code: TN-51
+- code: "51"
   name: Sousse
   type: governorate
-- code: TN-83
+- code: "83"
   name: Tataouine
   type: governorate
-- code: TN-72
+- code: "72"
   name: Tozeur
   type: governorate
-- code: TN-11
+- code: "11"
   name: Tunis
   type: governorate
-- code: TN-22
+- code: "22"
   name: Zaghouan
   type: governorate

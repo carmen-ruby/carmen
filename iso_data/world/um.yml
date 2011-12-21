@@ -1,28 +1,28 @@
 --- 
-- code: UM-81
+- code: "81"
   name: Baker Island
   type: territory
-- code: UM-84
+- code: "84"
   name: Howland Island
   type: territory
-- code: UM-86
+- code: "86"
   name: Jarvis Island
   type: territory
-- code: UM-67
+- code: "67"
   name: Johnston Atoll
   type: territory
-- code: UM-89
+- code: "89"
   name: Kingman Reef
   type: territory
-- code: UM-71
+- code: "71"
   name: Midway Islands
   type: territory
-- code: UM-76
+- code: "76"
   name: Navassa Island
   type: territory
-- code: UM-95
+- code: "95"
   name: Palmyra Atoll
   type: territory
-- code: UM-79
+- code: "79"
   name: Wake Island
   type: territory
