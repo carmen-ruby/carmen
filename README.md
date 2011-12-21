@@ -1,3 +1,9 @@
+# WARNING
+
+This branch (master) is home to a rewrite of the Carmen library. If you're currently using Carmen in your application, you probably want to see the [0.2.x branch](https://github.com/jim/carmen/tree/0.2.x), which will be maintained until version 1 is ready.
+
+If you'd like become a maintainer of the project, please let me know.
+
 # Carmen- A repository of geographic regions for Ruby
 
 ## A Little History
