@@ -1,0 +1,31 @@
+--- 
+- code: D
+  name: Berea
+  type: district
+- code: B
+  name: Butha-Buthe
+  type: district
+- code: C
+  name: Leribe
+  type: district
+- code: E
+  name: Mafeteng
+  type: district
+- code: A
+  name: Maseru
+  type: district
+- code: F
+  name: Mohale's Hoek
+  type: district
+- code: J
+  name: Mokhotlong
+  type: district
+- code: H
+  name: Qacha's Nek
+  type: district
+- code: G
+  name: Quthing
+  type: district
+- code: K
+  name: Thaba-Tseka
+  type: district

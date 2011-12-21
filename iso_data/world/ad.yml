@@ -1,0 +1,22 @@
+--- 
+- code: "07"
+  name: Andorra la Vella
+  type: parish
+- code: "02"
+  name: Canillo
+  type: parish
+- code: "03"
+  name: Encamp
+  type: parish
+- code: 08
+  name: Escaldes-Engordany
+  type: parish
+- code: "04"
+  name: La Massana
+  type: parish
+- code: "05"
+  name: Ordino
+  type: parish
+- code: "06"
+  name: "Sant Juli\xC3\xA0 de L\xC3\xB2ria"
+  type: parish

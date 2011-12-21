@@ -1,0 +1,16 @@
+--- 
+- code: "11"
+  name: Argolida
+  type: department
+- code: "12"
+  name: Arkadia
+  type: department
+- code: "15"
+  name: Korinthia
+  type: department
+- code: "16"
+  name: Lakonia
+  type: department
+- code: "17"
+  name: Messinia
+  type: department

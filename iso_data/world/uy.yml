@@ -1,0 +1,58 @@
+--- 
+- code: AR
+  name: Artigas
+  type: department
+- code: CA
+  name: Canelones
+  type: department
+- code: CL
+  name: Cerro Largo
+  type: department
+- code: CO
+  name: Colonia
+  type: department
+- code: DU
+  name: Durazno
+  type: department
+- code: FS
+  name: Flores
+  type: department
+- code: FD
+  name: Florida
+  type: department
+- code: LA
+  name: Lavalleja
+  type: department
+- code: MA
+  name: Maldonado
+  type: department
+- code: MO
+  name: Montevideo
+  type: department
+- code: PA
+  name: "Paysand\xC3\xBA"
+  type: department
+- code: RN
+  name: "R\xC3\xADo Negro"
+  type: department
+- code: RV
+  name: Rivera
+  type: department
+- code: RO
+  name: Rocha
+  type: department
+- code: SA
+  name: Salto
+  type: department
+- code: SJ
+  name: "San Jos\xC3\xA9"
+  type: department
+- code: SO
+  name: Soriano
+  type: department
+- code: TA
+  name: "Tacuaremb\xC3\xB3"
+  type: department
+- code: TT
+  name: Treinta y Tres
+  type: department

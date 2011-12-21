@@ -1,0 +1,13 @@
+--- 
+- code: "22"
+  name: "C\xC3\xB4tes-d'Armor"
+  type: metropolitan department
+- code: "29"
+  name: "Finist\xC3\xA8re"
+  type: metropolitan department
+- code: "35"
+  name: Ille-et-Vilaine
+  type: metropolitan department
+- code: "56"
+  name: Morbihan
+  type: metropolitan department

@@ -1,0 +1,22 @@
+--- 
+- code: HAO
+  name: Al Haouz
+  type: province
+- code: CHI
+  name: Chichaoua
+  type: province
+- code: ESI
+  name: Essaouira
+  type: province
+- code: KES
+  name: Kelaat es Sraghna
+  type: province
+- code: MMD
+  name: Marrakech-Medina
+  type: prefecture
+- code: MMN
+  name: Marrakech-Menara
+  type: prefecture
+- code: SYB
+  name: Sidi Youssef Ben Ali
+  type: prefecture

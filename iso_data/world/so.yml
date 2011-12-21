@@ -1,0 +1,55 @@
+--- 
+- code: AW
+  name: Awdal
+  type: region
+- code: BK
+  name: Bakool
+  type: region
+- code: BN
+  name: Banaadir
+  type: region
+- code: BR
+  name: Bari
+  type: region
+- code: BY
+  name: Bay
+  type: region
+- code: GA
+  name: Galguduud
+  type: region
+- code: GE
+  name: Gedo
+  type: region
+- code: HI
+  name: Hiirsan
+  type: region
+- code: JD
+  name: Jubbada Dhexe
+  type: region
+- code: JH
+  name: Jubbada Hoose
+  type: region
+- code: MU
+  name: Mudug
+  type: region
+- code: NU
+  name: Nugaal
+  type: region
+- code: SA
+  name: Saneag
+  type: region
+- code: SD
+  name: Shabeellaha Dhexe
+  type: region
+- code: SH
+  name: Shabeellaha Hoose
+  type: region
+- code: SO
+  name: Sool
+  type: region
+- code: TO
+  name: Togdheer
+  type: region
+- code: WO
+  name: Woqooyi Galbeed
+  type: region

@@ -1,0 +1,43 @@
+--- 
+- code: JC
+  name: "Jiho\xC4\x8Desk\xC3\xBD kraj"
+  type: region
+- code: JM
+  name: "Jihomoravsk\xC3\xBD kraj"
+  type: region
+- code: KA
+  name: "Karlovarsk\xC3\xBD kraj"
+  type: region
+- code: KR
+  name: "Kr\xC3\xA1lov\xC3\xA9hradeck\xC3\xBD kraj"
+  type: region
+- code: LI
+  name: "Libereck\xC3\xBD kraj"
+  type: region
+- code: MO
+  name: "Moravskoslezsk\xC3\xBD kraj"
+  type: region
+- code: OL
+  name: "Olomouck\xC3\xBD kraj"
+  type: region
+- code: PA
+  name: "Pardubick\xC3\xBD kraj"
+  type: region
+- code: PL
+  name: "Plze\xC5\x88sk\xC3\xBD kraj"
+  type: region
+- code: PR
+  name: "Praha, hlavn\xC3\xAD m\xC4\x9Bsto"
+  type: region
+- code: ST
+  name: "St\xC5\x99edo\xC4\x8Desk\xC3\xBD kraj"
+  type: region
+- code: US
+  name: "\xC3\x9Asteck\xC3\xBD kraj"
+  type: region
+- code: VY
+  name: "Vyso\xC4\x8Dina"
+  type: region
+- code: ZL
+  name: "Zl\xC3\xADnsk\xC3\xBD kraj"
+  type: region

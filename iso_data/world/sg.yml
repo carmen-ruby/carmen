@@ -1,0 +1,16 @@
+--- 
+- code: "01"
+  name: Central Singapore
+  type: district
+- code: "02"
+  name: North East
+  type: district
+- code: "03"
+  name: North West
+  type: district
+- code: "04"
+  name: South East
+  type: district
+- code: "05"
+  name: South West
+  type: district

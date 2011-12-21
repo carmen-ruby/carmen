@@ -1,0 +1,10 @@
+--- 
+- code: BL
+  name: Bolama
+  type: region
+- code: QU
+  name: Quinara
+  type: region
+- code: TO
+  name: Tombali
+  type: region

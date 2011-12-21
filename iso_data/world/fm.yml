@@ -1,0 +1,13 @@
+--- 
+- code: TRK
+  name: Chuuk
+  type: state
+- code: KSA
+  name: Kosrae
+  type: state
+- code: PNI
+  name: Pohnpei
+  type: state
+- code: YAP
+  name: Yap
+  type: state

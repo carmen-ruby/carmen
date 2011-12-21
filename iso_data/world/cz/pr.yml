@@ -1,0 +1,46 @@
+--- 
+- code: "101"
+  name: Praha 1
+  type: district
+- code: "102"
+  name: Praha 2
+  type: district
+- code: "103"
+  name: Praha 3
+  type: district
+- code: "104"
+  name: Praha 4
+  type: district
+- code: "105"
+  name: Praha 5
+  type: district
+- code: "106"
+  name: Praha 6
+  type: district
+- code: "107"
+  name: Praha 7
+  type: district
+- code: "108"
+  name: Praha 8
+  type: district
+- code: "109"
+  name: Praha 9
+  type: district
+- code: 10A
+  name: Praha 10
+  type: district
+- code: 10B
+  name: Praha 11
+  type: district
+- code: 10C
+  name: Praha 12
+  type: district
+- code: 10D
+  name: Praha 13
+  type: district
+- code: 10E
+  name: Praha 14
+  type: district
+- code: 10F
+  name: Praha 15
+  type: district

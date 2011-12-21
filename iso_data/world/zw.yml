@@ -1,0 +1,31 @@
+--- 
+- code: BU
+  name: Bulawayo
+  type: city
+- code: HA
+  name: Harare
+  type: city
+- code: MA
+  name: Manicaland
+  type: province
+- code: MC
+  name: Mashonaland Central
+  type: province
+- code: ME
+  name: Mashonaland East
+  type: province
+- code: MW
+  name: Mashonaland West
+  type: province
+- code: MV
+  name: Masvingo
+  type: province
+- code: MN
+  name: Matabeleland North
+  type: province
+- code: MS
+  name: Matabeleland South
+  type: province
+- code: MI
+  name: Midlands
+  type: province

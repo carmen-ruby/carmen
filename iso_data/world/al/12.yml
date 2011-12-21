@@ -1,0 +1,10 @@
+--- 
+- code: DL
+  name: "Delvin\xC3\xAB"
+  type: district
+- code: SR
+  name: "Sarand\xC3\xAB"
+  type: district
+- code: VL
+  name: "Vlor\xC3\xAB"
+  type: district

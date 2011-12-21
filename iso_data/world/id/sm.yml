@@ -1,0 +1,31 @@
+--- 
+- code: AC
+  name: Aceh
+  type: autonomous province
+- code: BB
+  name: Bangka Belitung
+  type: province
+- code: BE
+  name: Bengkulu
+  type: province
+- code: JA
+  name: Jambi
+  type: province
+- code: KR
+  name: Kepulauan Riau
+  type: province
+- code: LA
+  name: Lampung
+  type: province
+- code: RI
+  name: Riau
+  type: province
+- code: SB
+  name: Sumatra Barat
+  type: province
+- code: SS
+  name: Sumatra Selatan
+  type: province
+- code: SU
+  name: Sumatera Utara
+  type: province

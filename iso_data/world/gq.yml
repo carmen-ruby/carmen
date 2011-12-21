@@ -1,0 +1,28 @@
+--- 
+- code: C
+  name: "Regi\xC3\xB3n Continental"
+  type: province
+- code: I
+  name: "Regi\xC3\xB3n Insular"
+  type: province
+- code: AN
+  name: "Annob\xC3\xB3n"
+  type: province
+- code: BN
+  name: Bioko Norte
+  type: province
+- code: BS
+  name: Bioko Sur
+  type: province
+- code: CS
+  name: Centro Sur
+  type: province
+- code: KN
+  name: "Ki\xC3\xA9-Ntem"
+  type: province
+- code: LI
+  name: Litoral
+  type: province
+- code: WN
+  name: "Wele-Nz\xC3\xA1s"
+  type: province

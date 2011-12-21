@@ -1,0 +1,16 @@
+--- 
+- code: "521"
+  name: "Hradec Kr\xC3\xA1lov\xC3\xA9"
+  type: district
+- code: "522"
+  name: "Ji\xC4\x8D\xC3\xADn"
+  type: district
+- code: "523"
+  name: "N\xC3\xA1chod"
+  type: district
+- code: "524"
+  name: "Rychnov nad Kn\xC4\x9B\xC5\xBEnou"
+  type: district
+- code: "525"
+  name: Trutnov
+  type: district

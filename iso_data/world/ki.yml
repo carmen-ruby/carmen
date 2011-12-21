@@ -1,0 +1,10 @@
+--- 
+- code: G
+  name: Gilbert Islands
+  type: island group
+- code: L
+  name: Line Islands
+  type: island group
+- code: P
+  name: Phoenix Islands
+  type: island group

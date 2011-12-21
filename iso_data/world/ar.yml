@@ -1,0 +1,70 @@
+--- 
+- code: C
+  name: "Ciudad Aut\xC3\xB3noma de Buenos Aires"
+  type: city
+- code: B
+  name: Buenos Aires
+  type: province
+- code: K
+  name: Catamarca
+  type: province
+- code: X
+  name: Cordoba
+  type: province
+- code: W
+  name: Corrientes
+  type: province
+- code: H
+  name: Chaco
+  type: province
+- code: U
+  name: Chubut
+  type: province
+- code: E
+  name: Entre Rios
+  type: province
+- code: P
+  name: Formosa
+  type: province
+- code: Y
+  name: Jujuy
+  type: province
+- code: L
+  name: La Pampa
+  type: province
+- code: M
+  name: Mendoza
+  type: province
+- code: N
+  name: Misiones
+  type: province
+- code: Q
+  name: Neuquen
+  type: province
+- code: R
+  name: Rio Negro
+  type: province
+- code: A
+  name: Salta
+  type: province
+- code: J
+  name: San Juan
+  type: province
+- code: D
+  name: San Luis
+  type: province
+- code: Z
+  name: Santa Cruz
+  type: province
+- code: S
+  name: Santa Fe
+  type: province
+- code: G
+  name: Santiago del Estero
+  type: province
+- code: V
+  name: Tierra del Fuego
+  type: province
+- code: T
+  name: Tucuman
+  type: province

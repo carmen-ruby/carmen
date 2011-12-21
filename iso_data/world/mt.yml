@@ -1,0 +1,205 @@
+--- 
+- code: "01"
+  name: Attard
+  type: local council
+- code: "02"
+  name: Balzan
+  type: local council
+- code: "03"
+  name: Birgu
+  type: local council
+- code: "04"
+  name: Birkirkara
+  type: local council
+- code: "05"
+  name: "Bir\xC5\xBCebbu\xC4\xA1a"
+  type: local council
+- code: "06"
+  name: Bormla
+  type: local council
+- code: "07"
+  name: Dingli
+  type: local council
+- code: 08
+  name: Fgura
+  type: local council
+- code: 09
+  name: Floriana
+  type: local council
+- code: "10"
+  name: Fontana
+  type: local council
+- code: "11"
+  name: Gudja
+  type: local council
+- code: "12"
+  name: "G\xC5\xBCira"
+  type: local council
+- code: "13"
+  name: "G\xC4\xA7ajnsielem"
+  type: local council
+- code: "14"
+  name: "G\xC4\xA7arb"
+  type: local council
+- code: "15"
+  name: "G\xC4\xA7arg\xC4\xA7ur"
+  type: local council
+- code: "16"
+  name: "G\xC4\xA7asri"
+  type: local council
+- code: "17"
+  name: "G\xC4\xA7axaq"
+  type: local council
+- code: "18"
+  name: "\xC4\xA6amrun"
+  type: local council
+- code: "19"
+  name: Iklin
+  type: local council
+- code: "20"
+  name: Isla
+  type: local council
+- code: "21"
+  name: Kalkara
+  type: local council
+- code: "22"
+  name: "Ker\xC4\x8Bem"
+  type: local council
+- code: "23"
+  name: Kirkop
+  type: local council
+- code: "24"
+  name: Lija
+  type: local council
+- code: "25"
+  name: Luqa
+  type: local council
+- code: "26"
+  name: Marsa
+  type: local council
+- code: "27"
+  name: Marsaskala
+  type: local council
+- code: "28"
+  name: Marsaxlokk
+  type: local council
+- code: "29"
+  name: Mdina
+  type: local council
+- code: "30"
+  name: "Mellie\xC4\xA7a"
+  type: local council
+- code: "31"
+  name: "M\xC4\xA1arr"
+  type: local council
+- code: "32"
+  name: Mosta
+  type: local council
+- code: "33"
+  name: Mqabba
+  type: local council
+- code: "34"
+  name: Msida
+  type: local council
+- code: "35"
+  name: Mtarfa
+  type: local council
+- code: "36"
+  name: Munxar
+  type: local council
+- code: "37"
+  name: Nadur
+  type: local council
+- code: "38"
+  name: Naxxar
+  type: local council
+- code: "39"
+  name: Paola
+  type: local council
+- code: "40"
+  name: Pembroke
+  type: local council
+- code: "41"
+  name: "Piet\xC3\xA0"
+  type: local council
+- code: "42"
+  name: Qala
+  type: local council
+- code: "43"
+  name: Qormi
+  type: local council
+- code: "44"
+  name: Qrendi
+  type: local council
+- code: "45"
+  name: "Rabat G\xC4\xA7awdex"
+  type: local council
+- code: "46"
+  name: Rabat Malta
+  type: local council
+- code: "47"
+  name: Safi
+  type: local council
+- code: "48"
+  name: "San \xC4\xA0iljan"
+  type: local council
+- code: "49"
+  name: "San \xC4\xA0wann"
+  type: local council
+- code: "50"
+  name: San Lawrenz
+  type: local council
+- code: "51"
+  name: "San Pawl il-Ba\xC4\xA7ar"
+  type: local council
+- code: "52"
+  name: Sannat
+  type: local council
+- code: "53"
+  name: "Santa Lu\xC4\x8Bija"
+  type: local council
+- code: "54"
+  name: Santa Venera
+  type: local council
+- code: "55"
+  name: "Si\xC4\xA1\xC4\xA1iewi"
+  type: local council
+- code: "56"
+  name: Sliema
+  type: local council
+- code: "57"
+  name: Swieqi
+  type: local council
+- code: "58"
+  name: "Ta\xE2\x80\x99 Xbiex"
+  type: local council
+- code: "59"
+  name: Tarxien
+  type: local council
+- code: "60"
+  name: Valletta
+  type: local council
+- code: "61"
+  name: "Xag\xC4\xA7ra"
+  type: local council
+- code: "62"
+  name: Xewkija
+  type: local council
+- code: "63"
+  name: "Xg\xC4\xA7ajra"
+  type: local council
+- code: "64"
+  name: "\xC5\xBBabbar"
+  type: local council
+- code: "65"
+  name: "\xC5\xBBebbu\xC4\xA1 G\xC4\xA7awdex"
+  type: local council
+- code: "66"
+  name: "\xC5\xBBebbu\xC4\xA1 Malta"
+  type: local council
+- code: "67"
+  name: "\xC5\xBBejtun"
+  type: local council
+- code: "68"
+  name: "\xC5\xBBurrieq"
+  type: local council

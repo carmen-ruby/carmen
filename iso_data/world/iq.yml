@@ -1,0 +1,55 @@
+--- 
+- code: AN
+  name: Al Anbar
+  type: governorate
+- code: BA
+  name: Al Basrah
+  type: governorate
+- code: MU
+  name: Al Muthanna
+  type: governorate
+- code: QA
+  name: Al Qadisiyah
+  type: governorate
+- code: NA
+  name: An Najef
+  type: governorate
+- code: AR
+  name: Arbil
+  type: governorate
+- code: SW
+  name: As Sulaymaniyah
+  type: governorate
+- code: TS
+  name: At Ta'mim
+  type: governorate
+- code: BB
+  name: Babil
+  type: governorate
+- code: BG
+  name: Baghdad
+  type: governorate
+- code: DA
+  name: Dahuk
+  type: governorate
+- code: DQ
+  name: Dhi Qar
+  type: governorate
+- code: DI
+  name: Diyala
+  type: governorate
+- code: KA
+  name: Karbala'
+  type: governorate
+- code: MA
+  name: Maysan
+  type: governorate
+- code: NI
+  name: Ninawa
+  type: governorate
+- code: SD
+  name: Salah ad Din
+  type: governorate
+- code: WA
+  name: Wasit
+  type: governorate

@@ -1,3 +1,7 @@
+### 1.0.0pre
+* Complete rewrite. New data source and API. Extracting Rails view
+  helpers into seperate gem.
+
 ### 0.2.9
 * Preserve order of priority_countries in country_select (castiglione)
 * Add Finnish localization (marjakapyaho)

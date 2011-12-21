@@ -1,0 +1,28 @@
+--- 
+- code: "81"
+  name: Baker Island
+  type: territory
+- code: "84"
+  name: Howland Island
+  type: territory
+- code: "86"
+  name: Jarvis Island
+  type: territory
+- code: "67"
+  name: Johnston Atoll
+  type: territory
+- code: "89"
+  name: Kingman Reef
+  type: territory
+- code: "71"
+  name: Midway Islands
+  type: territory
+- code: "76"
+  name: Navassa Island
+  type: territory
+- code: "95"
+  name: Palmyra Atoll
+  type: territory
+- code: "79"
+  name: Wake Island
+  type: territory

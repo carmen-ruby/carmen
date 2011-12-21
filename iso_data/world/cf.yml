@@ -1,0 +1,52 @@
+--- 
+- code: BGF
+  name: Bangui
+  type: commune
+- code: BB
+  name: Bamingui-Bangoran
+  type: prefecture
+- code: BK
+  name: Basse-Kotto
+  type: prefecture
+- code: HK
+  name: Haute-Kotto
+  type: prefecture
+- code: HM
+  name: Haut-Mbomou
+  type: prefecture
+- code: KG
+  name: "K\xC3\xA9mo-Gribingui"
+  type: prefecture
+- code: LB
+  name: Lobaye
+  type: prefecture
+- code: HS
+  name: "Haute-Sangha / Mamb\xC3\xA9r\xC3\xA9-Kad\xC3\xA9\xC3\xAF"
+  type: prefecture
+- code: MB
+  name: Mbomou
+  type: prefecture
+- code: NM
+  name: "Nana-Mamb\xC3\xA9r\xC3\xA9"
+  type: prefecture
+- code: MP
+  name: Ombella-M'poko
+  type: prefecture
+- code: UK
+  name: Ouaka
+  type: prefecture
+- code: AC
+  name: Ouham
+  type: prefecture
+- code: OP
+  name: "Ouham-Pend\xC3\xA9"
+  type: prefecture
+- code: VK
+  name: Vakaga
+  type: prefecture
+- code: KB
+  name: Gribingui
+  type: economic prefecture
+- code: SE
+  name: Sangha
+  type: economic prefecture

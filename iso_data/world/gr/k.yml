@@ -1,0 +1,10 @@
+--- 
+- code: "85"
+  name: Chios
+  type: department
+- code: "83"
+  name: Lesvos
+  type: department
+- code: "84"
+  name: Samos
+  type: department

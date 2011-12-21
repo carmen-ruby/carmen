@@ -1,0 +1,61 @@
+--- 
+- code: NCD
+  name: National Capital District (Port Moresby)
+  type: district
+- code: CPM
+  name: Central
+  type: province
+- code: CPK
+  name: Chimbu
+  type: province
+- code: EHG
+  name: Eastern Highlands
+  type: province
+- code: EBR
+  name: East New Britain
+  type: province
+- code: ESW
+  name: East Sepik
+  type: province
+- code: EPW
+  name: Enga
+  type: province
+- code: GPK
+  name: Gulf
+  type: province
+- code: MPM
+  name: Madang
+  type: province
+- code: MRL
+  name: Manus
+  type: province
+- code: MBA
+  name: Milne Bay
+  type: province
+- code: MPL
+  name: Morobe
+  type: province
+- code: NIK
+  name: New Ireland
+  type: province
+- code: NPP
+  name: Northern
+  type: province
+- code: NSA
+  name: North Solomons
+  type: province
+- code: SAN
+  name: Sandaun
+  type: province
+- code: SHM
+  name: Southern Highlands
+  type: province
+- code: WPD
+  name: Western
+  type: province
+- code: WHM
+  name: Western Highlands
+  type: province
+- code: WBK
+  name: West New Britain
+  type: province

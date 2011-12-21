@@ -1,0 +1,10 @@
+--- 
+- code: BLG
+  name: Boulgou
+  type: province
+- code: KOP
+  name: "Koulp\xC3\xA9logo"
+  type: province
+- code: KOT
+  name: Kouritenga
+  type: province

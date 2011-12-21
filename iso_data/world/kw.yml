@@ -1,0 +1,16 @@
+--- 
+- code: AH
+  name: Al Ahmadi
+  type: governorate
+- code: FA
+  name: "Al Farw\xC4\x81n\xC4\xAByah"
+  type: governorate
+- code: JA
+  name: Al Jahrah
+  type: governorate
+- code: KU
+  name: Al Kuwayt
+  type: governorate
+- code: HA
+  name: "Hawall\xC4\xAB"
+  type: governorate

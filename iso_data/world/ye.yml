@@ -1,0 +1,61 @@
+--- 
+- code: AB
+  name: "Aby\xC4\x81n"
+  type: governorate
+- code: AD
+  name: "'Adan"
+  type: governorate
+- code: DA
+  name: "Ad\xCC\xA7 D\xCC\xA7\xC4\x81li\xE2\x80\x98"
+  type: governorate
+- code: BA
+  name: "Al Bay\xE1\xB8\x91\xC4\x81'"
+  type: governorate
+- code: MU
+  name: "Al \xE1\xB8\xA8udaydah"
+  type: governorate
+- code: JA
+  name: Al Jawf
+  type: governorate
+- code: MR
+  name: Al Mahrah
+  type: governorate
+- code: MW
+  name: "Al Ma\xE1\xB8\xA9w\xC4\xABt"
+  type: governorate
+- code: AM
+  name: "'Amr\xC4\x81n"
+  type: governorate
+- code: DH
+  name: "Dham\xC4\x81r"
+  type: governorate
+- code: HD
+  name: "\xE1\xB8\xA8a\xE1\xB8\x91ramawt"
+  type: governorate
+- code: HJ
+  name: "\xE1\xB8\xA8ajjah"
+  type: governorate
+- code: IB
+  name: Ibb
+  type: governorate
+- code: LA
+  name: "La\xE1\xB8\xA9ij"
+  type: governorate
+- code: MA
+  name: Ma'rib
+  type: governorate
+- code: RA
+  name: Raymah
+  type: governorate
+- code: SD
+  name: "\xC5\x9Ea'dah"
+  type: governorate
+- code: SN
+  name: "\xC5\x9Ean'\xC4\x81'"
+  type: governorate
+- code: SH
+  name: Shabwah
+  type: governorate
+- code: TA
+  name: "T\xC4\x81'izz"
+  type: governorate

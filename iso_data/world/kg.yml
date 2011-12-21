@@ -1,0 +1,25 @@
+--- 
+- code: GB
+  name: Bishkek
+  type: city
+- code: B
+  name: Batken
+  type: region
+- code: C
+  name: "Ch\xC3\xBC"
+  type: region
+- code: J
+  name: Jalal-Abad
+  type: region
+- code: N
+  name: Naryn
+  type: region
+- code: O
+  name: Osh
+  type: region
+- code: T
+  name: Talas
+  type: region
+- code: Y
+  name: "Ysyk-K\xC3\xB6l"
+  type: region

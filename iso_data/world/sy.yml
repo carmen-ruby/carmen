@@ -1,0 +1,43 @@
+--- 
+- code: HA
+  name: Al Hasakah
+  type: governorate
+- code: LA
+  name: Al Ladhiqiyah
+  type: governorate
+- code: QU
+  name: Al Qunaytirah
+  type: governorate
+- code: RA
+  name: Ar Raqqah
+  type: governorate
+- code: SU
+  name: As Suwayda'
+  type: governorate
+- code: DR
+  name: Dar'a
+  type: governorate
+- code: DY
+  name: Dayr az Zawr
+  type: governorate
+- code: DI
+  name: Dimashq
+  type: governorate
+- code: HL
+  name: Halab
+  type: governorate
+- code: HM
+  name: Hamah
+  type: governorate
+- code: HI
+  name: Homs
+  type: governorate
+- code: ID
+  name: Idlib
+  type: governorate
+- code: RD
+  name: Rif Dimashq
+  type: governorate
+- code: TA
+  name: Tartus
+  type: governorate

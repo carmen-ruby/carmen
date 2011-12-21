@@ -1,0 +1,91 @@
+--- 
+- code: "01"
+  name: Distrito Nacional (Santo Domingo)
+  type: district
+- code: "02"
+  name: Azua
+  type: province
+- code: "03"
+  name: Bahoruco
+  type: province
+- code: "04"
+  name: Barahona
+  type: province
+- code: "05"
+  name: "Dajab\xC3\xB3n"
+  type: province
+- code: "06"
+  name: Duarte
+  type: province
+- code: 08
+  name: El Seybo [El Seibo]
+  type: province
+- code: 09
+  name: Espaillat
+  type: province
+- code: "30"
+  name: Hato Mayor
+  type: province
+- code: "10"
+  name: Independencia
+  type: province
+- code: "11"
+  name: La Altagracia
+  type: province
+- code: "07"
+  name: "La Estrelleta [El\xC3\xADas Pi\xC3\xB1a]"
+  type: province
+- code: "12"
+  name: La Romana
+  type: province
+- code: "13"
+  name: La Vega
+  type: province
+- code: "14"
+  name: "Mar\xC3\xADa Trinidad S\xC3\xA1nchez"
+  type: province
+- code: "28"
+  name: "Monse\xC3\xB1or Nouel"
+  type: province
+- code: "15"
+  name: Monte Cristi
+  type: province
+- code: "29"
+  name: Monte Plata
+  type: province
+- code: "16"
+  name: Pedernales
+  type: province
+- code: "17"
+  name: Peravia
+  type: province
+- code: "18"
+  name: Puerto Plata
+  type: province
+- code: "19"
+  name: Salcedo
+  type: province
+- code: "20"
+  name: "Saman\xC3\xA1"
+  type: province
+- code: "21"
+  name: "San Crist\xC3\xB3bal"
+  type: province
+- code: "22"
+  name: San Juan
+  type: province
+- code: "23"
+  name: "San Pedro de Macor\xC3\xADs"
+  type: province
+- code: "24"
+  name: "S\xC3\xA1nchez Ram\xC3\xADrez"
+  type: province
+- code: "25"
+  name: Santiago
+  type: province
+- code: "26"
+  name: "Santiago Rodr\xC3\xADguez"
+  type: province
+- code: "27"
+  name: Valverde
+  type: province

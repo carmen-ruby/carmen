@@ -1,0 +1,13 @@
+--- 
+- code: OUD
+  name: Oudalan
+  type: province
+- code: SEN
+  name: "S\xC3\xA9no"
+  type: province
+- code: SOM
+  name: Soum
+  type: province
+- code: YAG
+  name: Yagha
+  type: province

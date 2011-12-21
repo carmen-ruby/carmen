@@ -1,0 +1,19 @@
+--- 
+- code: A
+  name: Ahal
+  type: region
+- code: B
+  name: Balkan
+  type: region
+- code: D
+  name: "Da\xC5\x9Foguz"
+  type: region
+- code: L
+  name: Lebap
+  type: region
+- code: M
+  name: Mary
+  type: region
+- code: S
+  name: "A\xC5\x9Fgabat"
+  type: city

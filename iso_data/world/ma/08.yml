@@ -1,0 +1,13 @@
+--- 
+- code: MED
+  name: "M\xC3\xA9diouna"
+  type: province
+- code: NOU
+  name: Nouaceur
+  type: province
+- code: CAS
+  name: "Casablanca [Dar el Be\xC3\xAFda]"
+  type: prefecture
+- code: MOH
+  name: Mohammadia
+  type: prefecture

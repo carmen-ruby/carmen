@@ -1,0 +1,16 @@
+--- 
+- code: BTN
+  name: Batanes
+  type: province
+- code: CAG
+  name: Cagayan
+  type: province
+- code: ISA
+  name: Isabela
+  type: province
+- code: NUV
+  name: Nueva Vizcaya
+  type: province
+- code: QUI
+  name: Quirino
+  type: province

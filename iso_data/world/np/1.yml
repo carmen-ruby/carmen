@@ -1,0 +1,10 @@
+--- 
+- code: BA
+  name: Bagmati
+  type: zone
+- code: JA
+  name: Janakpur
+  type: zone
+- code: NA
+  name: Narayani
+  type: zone

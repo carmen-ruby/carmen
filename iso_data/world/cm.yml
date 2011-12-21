@@ -1,0 +1,31 @@
+--- 
+- code: AD
+  name: Adamaoua
+  type: province
+- code: CE
+  name: Centre
+  type: province
+- code: ES
+  name: East
+  type: province
+- code: EN
+  name: Far North
+  type: province
+- code: LT
+  name: Littoral
+  type: province
+- code: "NO"
+  name: North
+  type: province
+- code: NW
+  name: North-West (Cameroon)
+  type: province
+- code: SU
+  name: South
+  type: province
+- code: SW
+  name: South-West
+  type: province
+- code: OU
+  name: West
+  type: province

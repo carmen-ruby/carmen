@@ -1,0 +1,16 @@
+--- 
+- code: "1"
+  name: Madhyamanchal
+  type: development region
+- code: "2"
+  name: Madhya Pashchimanchal
+  type: development region
+- code: "3"
+  name: Pashchimanchal
+  type: development region
+- code: "4"
+  name: Purwanchal
+  type: development region
+- code: "5"
+  name: Sudur Pashchimanchal
+  type: development region

@@ -1,0 +1,16 @@
+--- 
+- code: "41"
+  name: "Y\xC4\x81panaya"
+  type: district
+- code: "42"
+  name: "Kilin\xC5\x8Fchchi"
+  type: district
+- code: "43"
+  name: "Mann\xC4\x81rama"
+  type: district
+- code: "45"
+  name: Mulativ
+  type: district
+- code: "44"
+  name: "Vavuniy\xC4\x81va"
+  type: district

@@ -1,0 +1,40 @@
+--- 
+- code: AB
+  name: Alberta
+  type: province
+- code: BC
+  name: British Columbia
+  type: province
+- code: MB
+  name: Manitoba
+  type: province
+- code: NB
+  name: New Brunswick
+  type: province
+- code: NL
+  name: Newfoundland and Labrador
+  type: province
+- code: NS
+  name: Nova Scotia
+  type: province
+- code: "ON"
+  name: Ontario
+  type: province
+- code: PE
+  name: Prince Edward Island
+  type: province
+- code: QC
+  name: Quebec
+  type: province
+- code: SK
+  name: Saskatchewan
+  type: province
+- code: NT
+  name: Northwest Territories
+  type: territory
+- code: NU
+  name: Nunavut
+  type: territory
+- code: YT
+  name: Yukon Territory
+  type: territory

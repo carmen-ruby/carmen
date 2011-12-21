@@ -1,0 +1,16 @@
+--- 
+- code: AV
+  name: Avellino
+  type: province
+- code: BN
+  name: Benevento
+  type: province
+- code: CE
+  name: Caserta
+  type: province
+- code: NA
+  name: Napoli
+  type: province
+- code: SA
+  name: Salerno
+  type: province

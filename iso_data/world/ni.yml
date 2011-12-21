@@ -1,0 +1,52 @@
+--- 
+- code: BO
+  name: Boaco
+  type: department
+- code: CA
+  name: Carazo
+  type: department
+- code: CI
+  name: Chinandega
+  type: department
+- code: CO
+  name: Chontales
+  type: department
+- code: ES
+  name: "Estel\xC3\xAD"
+  type: department
+- code: GR
+  name: Granada
+  type: department
+- code: JI
+  name: Jinotega
+  type: department
+- code: LE
+  name: "Le\xC3\xB3n"
+  type: department
+- code: MD
+  name: Madriz
+  type: department
+- code: MN
+  name: Managua
+  type: department
+- code: MS
+  name: Masaya
+  type: department
+- code: MT
+  name: Matagalpa
+  type: department
+- code: NS
+  name: Nueva Segovia
+  type: department
+- code: SJ
+  name: "R\xC3\xADo San Juan"
+  type: department
+- code: RI
+  name: Rivas
+  type: department
+- code: AN
+  name: "Atl\xC3\xA1ntico Norte"
+  type: autonomous region
+- code: AS
+  name: "Atl\xC3\xA1ntico Sur"
+  type: autonomous region

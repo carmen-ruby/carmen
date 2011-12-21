@@ -1,0 +1,13 @@
+--- 
+- code: EL
+  name: Elbasan
+  type: district
+- code: GR
+  name: Gramsh
+  type: district
+- code: LB
+  name: Librazhd
+  type: district
+- code: PQ
+  name: Peqin
+  type: district

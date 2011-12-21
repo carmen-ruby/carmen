@@ -1,0 +1,13 @@
+--- 
+- code: BAS
+  name: Basilan
+  type: province
+- code: ZAN
+  name: Zamboanga del Norte
+  type: province
+- code: ZAS
+  name: Zamboanga del Sur
+  type: province
+- code: ZSI
+  name: Zamboanga Sibugay
+  type: province

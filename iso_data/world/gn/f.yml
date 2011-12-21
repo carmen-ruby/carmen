@@ -1,0 +1,13 @@
+--- 
+- code: DB
+  name: Dabola
+  type: prefecture
+- code: DI
+  name: Dinguiraye
+  type: prefecture
+- code: FA
+  name: Faranah
+  type: prefecture
+- code: KS
+  name: Kissidougou
+  type: prefecture

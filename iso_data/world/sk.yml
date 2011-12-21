@@ -1,0 +1,25 @@
+--- 
+- code: BC
+  name: "Banskobystrick\xC3\xBD kraj"
+  type: region
+- code: BL
+  name: "Bratislavsk\xC3\xBD kraj"
+  type: region
+- code: KI
+  name: "Ko\xC5\xA1ick\xC3\xBD kraj"
+  type: region
+- code: NI
+  name: Nitriansky kraj
+  type: region
+- code: PV
+  name: "Pre\xC5\xA1ovsk\xC3\xBD kraj"
+  type: region
+- code: TC
+  name: "Tren\xC4\x8Diansky kraj"
+  type: region
+- code: TA
+  name: "Trnavsk\xC3\xBD kraj"
+  type: region
+- code: ZI
+  name: "\xC5\xBDilinsk\xC3\xBD kraj"
+  type: region

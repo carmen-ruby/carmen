@@ -1,0 +1,34 @@
+--- 
+- code: AA
+  name: "\xC4\x80d\xC4\xABs \xC4\x80beba"
+  type: administration
+- code: DD
+  name: "Dir\xC4\x93 Dawa"
+  type: administration
+- code: AF
+  name: "\xC4\x80far"
+  type: state
+- code: AM
+  name: "\xC4\x80mara"
+  type: state
+- code: BE
+  name: "B\xC4\xABnshangul Gumuz"
+  type: state
+- code: GA
+  name: "Gamb\xC4\x93la Hizboch"
+  type: state
+- code: HA
+  name: "H\xC4\x81rer\xC4\xAB Hizb"
+  type: state
+- code: OR
+  name: "Orom\xC4\xABya"
+  type: state
+- code: SO
+  name: "Sumal\xC4\x93"
+  type: state
+- code: TI
+  name: Tigray
+  type: state
+- code: SN
+  name: "YeDebub Bih\xC4\x93roch Bih\xC4\x93reseboch na Hizboch"
+  type: state

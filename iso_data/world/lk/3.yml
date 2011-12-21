@@ -1,0 +1,10 @@
+--- 
+- code: "31"
+  name: "G\xC4\x81lla"
+  type: district
+- code: "33"
+  name: "Hambant\xC5\x8F\xE1\xB9\xADa"
+  type: district
+- code: "32"
+  name: "M\xC4\x81tara"
+  type: district

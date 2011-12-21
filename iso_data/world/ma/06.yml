@@ -1,0 +1,16 @@
+--- 
+- code: HAJ
+  name: El Hajeb
+  type: province
+- code: ERR
+  name: Errachidia
+  type: province
+- code: IFR
+  name: Ifrane
+  type: province
+- code: KHN
+  name: Khenifra
+  type: province
+- code: MEK
+  name: "Mekn\xC3\xA8s"
+  type: prefecture

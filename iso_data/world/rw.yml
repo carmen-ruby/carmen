@@ -1,0 +1,16 @@
+--- 
+- code: "01"
+  name: Ville de Kigali
+  type: town council
+- code: "02"
+  name: Est
+  type: province
+- code: "03"
+  name: Nord
+  type: province
+- code: "04"
+  name: Ouest
+  type: province
+- code: "05"
+  name: Sud
+  type: province

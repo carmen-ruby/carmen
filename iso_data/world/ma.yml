@@ -1,0 +1,49 @@
+--- 
+- code: 09
+  name: Chaouia-Ouardigha
+  type: economic region
+- code: "10"
+  name: Doukhala-Abda
+  type: economic region
+- code: "05"
+  name: "F\xC3\xA8s-Boulemane"
+  type: economic region
+- code: "02"
+  name: Gharb-Chrarda-Beni Hssen
+  type: economic region
+- code: 08
+  name: Grand Casablanca
+  type: economic region
+- code: "14"
+  name: Guelmim-Es Smara
+  type: economic region
+- code: "15"
+  name: "La\xC3\xA2youne-Boujdour-Sakia el Hamra"
+  type: economic region
+- code: "04"
+  name: L'Oriental
+  type: economic region
+- code: "11"
+  name: Marrakech-Tensift-Al Haouz
+  type: economic region
+- code: "06"
+  name: "Mekn\xC3\xA8s-Tafilalet"
+  type: economic region
+- code: "16"
+  name: Oued ed Dahab-Lagouira
+  type: economic region
+- code: "07"
+  name: "Rabat-Sal\xC3\xA9-Zemmour-Zaer"
+  type: economic region
+- code: "13"
+  name: Sous-Massa-Draa
+  type: economic region
+- code: "12"
+  name: Tadla-Azilal
+  type: economic region
+- code: "01"
+  name: "Tanger-T\xC3\xA9touan"
+  type: economic region
+- code: "03"
+  name: Taza-Al Hoceima-Taounate
+  type: economic region

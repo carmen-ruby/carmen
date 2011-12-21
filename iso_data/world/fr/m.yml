@@ -1,0 +1,13 @@
+--- 
+- code: "54"
+  name: Meurthe-et-Moselle
+  type: metropolitan department
+- code: "55"
+  name: Meuse
+  type: metropolitan department
+- code: "57"
+  name: Moselle
+  type: metropolitan department
+- code: "88"
+  name: Vosges
+  type: metropolitan department

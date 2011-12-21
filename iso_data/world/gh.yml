@@ -1,0 +1,43 @@
+--- 
+- code: AH
+  name: Ashanti
+  type: region
+- code: BA
+  name: Brong-Ahafo
+  type: region
+- code: CP
+  name: Central
+  type: region
+- code: EP
+  name: Eastern
+  type: region
+- code: AA
+  name: Greater Accra
+  type: region
+- code: NP
+  name: Northern
+  type: region
+- code: UE
+  name: Upper East
+  type: region
+- code: UW
+  name: Upper West
+  type: region
+- code: TV
+  name: Volta
+  type: region
+- code: WP
+  name: Western
+  type: region
+- code: GL-KU
+  name: Kommune Kujalleq
+  type: municipality
+- code: GL-SM
+  name: Kommuneqarfik Sermersooq
+  type: municipality
+- code: GL-QA
+  name: Qaasuitsup Kommunia
+  type: municipality
+- code: GL-QE
+  name: Qeqqata Kommunia
+  type: municipality

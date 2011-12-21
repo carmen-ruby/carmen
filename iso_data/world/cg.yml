@@ -1,0 +1,34 @@
+--- 
+- code: "11"
+  name: Bouenza
+  type: region
+- code: "8"
+  name: Cuvette
+  type: region
+- code: "15"
+  name: Cuvette-Ouest
+  type: region
+- code: "5"
+  name: Kouilou
+  type: region
+- code: "2"
+  name: "L\xC3\xA9koumou"
+  type: region
+- code: "7"
+  name: Likouala
+  type: region
+- code: "9"
+  name: Niari
+  type: region
+- code: "14"
+  name: Plateaux
+  type: region
+- code: "12"
+  name: Pool
+  type: region
+- code: "13"
+  name: Sangha
+  type: region
+- code: BZV
+  name: Brazzaville
+  type: capital district

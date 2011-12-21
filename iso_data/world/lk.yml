@@ -1,0 +1,28 @@
+--- 
+- code: "1"
+  name: "Basn\xC4\x81hira pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+- code: "3"
+  name: "Daku\xE1\xB9\x87u pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+- code: "2"
+  name: "Madhyama pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+- code: "5"
+  name: "N\xC3\xA6\xCC\x86g\xC4\x95nahira pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+- code: "9"
+  name: "Sabaragamuva pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+- code: "7"
+  name: "Uturum\xC3\xA6\xCC\x86da pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+- code: "4"
+  name: "Uturu pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+- code: "8"
+  name: "\xC5\xAAva pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province
+- code: "6"
+  name: "Vayamba pa\xE1\xB8\xB7\xC4\x81ta"
+  type: province

@@ -1,0 +1,10 @@
+--- 
+- code: KO
+  name: Kosi
+  type: zone
+- code: ME
+  name: Mechi
+  type: zone
+- code: SA
+  name: Sagarmatha
+  type: zone

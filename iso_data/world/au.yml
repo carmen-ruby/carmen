@@ -1,0 +1,25 @@
+--- 
+- code: NSW
+  name: New South Wales
+  type: state
+- code: QLD
+  name: Queensland
+  type: state
+- code: SA
+  name: South Australia
+  type: state
+- code: TAS
+  name: Tasmania
+  type: state
+- code: VIC
+  name: Victoria
+  type: state
+- code: WA
+  name: Western Australia
+  type: state
+- code: ACT
+  name: Australian Capital Territory
+  type: territory
+- code: NT
+  name: Northern Territory
+  type: territory

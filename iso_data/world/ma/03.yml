@@ -1,0 +1,10 @@
+--- 
+- code: HOC
+  name: "Al Hoce\xC3\xAFma"
+  type: province
+- code: TAO
+  name: Taounate
+  type: province
+- code: TAZ
+  name: Taza
+  type: province

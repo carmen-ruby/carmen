@@ -1,0 +1,193 @@
+--- 
+- code: "44"
+  name: An Giang
+  type: province
+- code: "43"
+  name: "B\xC3\xA0 R\xE1\xBB\x8Ba - V\xC5\xA9ng T\xC3\xA0u"
+  type: province
+- code: "53"
+  name: "B\xE1\xBA\xAFc K\xE1\xBA\xA1n"
+  type: province
+- code: "54"
+  name: "B\xE1\xBA\xAFc Giang"
+  type: province
+- code: "55"
+  name: "B\xE1\xBA\xA1c Li\xC3\xAAu"
+  type: province
+- code: "56"
+  name: "B\xE1\xBA\xAFc Ninh"
+  type: province
+- code: "50"
+  name: "B\xE1\xBA\xBFn Tre"
+  type: province
+- code: "31"
+  name: "B\xC3\xACnh \xC4\x90\xE1\xBB\x8Bnh"
+  type: province
+- code: "57"
+  name: "B\xC3\xACnh D\xC6\xB0\xC6\xA1ng"
+  type: province
+- code: "58"
+  name: "B\xC3\xACnh Ph\xC6\xB0\xE1\xBB\x9Bc"
+  type: province
+- code: "40"
+  name: "B\xC3\xACnh Thu\xE1\xBA\xADn"
+  type: province
+- code: "59"
+  name: "C\xC3\xA0 Mau"
+  type: province
+- code: "48"
+  name: "C\xE1\xBA\xA7n Th\xC6\xA1"
+  type: province
+- code: "04"
+  name: "Cao B\xE1\xBA\xB1ng"
+  type: province
+- code: "60"
+  name: "\xC4\x90\xC3\xA0 N\xE1\xBA\xB5ng, th\xC3\xA0nh ph\xE1\xBB\x91"
+  type: province
+- code: "33"
+  name: "\xC4\x90\xE1\xBA\xAFc L\xE1\xBA\xAFk"
+  type: province
+- code: "72"
+  name: "\xC4\x90\xE1\xBA\xAFk N\xC3\xB4ng"
+  type: province
+- code: "71"
+  name: "\xC4\x90i\xE1\xBB\x87n Bi\xC3\xAAn"
+  type: province
+- code: "39"
+  name: "\xC4\x90\xE1\xBB\x93ng Nai"
+  type: province
+- code: "45"
+  name: "\xC4\x90\xE1\xBB\x93ng Th\xC3\xA1p"
+  type: province
+- code: "30"
+  name: Gia Lai
+  type: province
+- code: "03"
+  name: "H\xC3\xA0 Giang"
+  type: province
+- code: "63"
+  name: "H\xC3\xA0 Nam"
+  type: province
+- code: "64"
+  name: "H\xC3\xA0 N\xE1\xBB\x99i, th\xE1\xBB\xA7 \xC4\x91\xC3\xB4"
+  type: province
+- code: "15"
+  name: "H\xC3\xA0 T\xC3\xA2y"
+  type: province
+- code: "23"
+  name: "H\xC3\xA0 T\xE1\xBB\x89nh"
+  type: province
+- code: "61"
+  name: "H\xE1\xBA\xA3i Duong"
+  type: province
+- code: "62"
+  name: "H\xE1\xBA\xA3i Ph\xC3\xB2ng, th\xC3\xA0nh ph\xE1\xBB\x91"
+  type: province
+- code: "73"
+  name: "H\xE1\xBA\xADu Giang"
+  type: province
+- code: "14"
+  name: "Ho\xC3\xA0 B\xC3\xACnh"
+  type: province
+- code: "65"
+  name: "H\xE1\xBB\x93 Ch\xC3\xAD Minh, th\xC3\xA0nh ph\xE1\xBB\x91 [S\xC3\xA0i G\xC3\xB2n]"
+  type: province
+- code: "66"
+  name: "H\xC6\xB0ng Y\xC3\xAAn"
+  type: province
+- code: "34"
+  name: "Kh\xC3\xA1nh H\xC3\xB2a"
+  type: province
+- code: "47"
+  name: "Ki\xC3\xAAn Giang"
+  type: province
+- code: "28"
+  name: Kon Tum
+  type: province
+- code: "01"
+  name: "Lai Ch\xC3\xA2u"
+  type: province
+- code: "35"
+  name: "L\xC3\xA2m \xC4\x90\xE1\xBB\x93ng"
+  type: province
+- code: 09
+  name: "L\xE1\xBA\xA1ng S\xC6\xA1n"
+  type: province
+- code: "02"
+  name: "L\xC3\xA0o Cai"
+  type: province
+- code: "41"
+  name: Long An
+  type: province
+- code: "67"
+  name: "Nam \xC4\x90\xE1\xBB\x8Bnh"
+  type: province
+- code: "22"
+  name: "Ngh\xE1\xBB\x87 An"
+  type: province
+- code: "18"
+  name: "Ninh B\xC3\xACnh"
+  type: province
+- code: "36"
+  name: "Ninh Thu\xE1\xBA\xADn"
+  type: province
+- code: "68"
+  name: "Ph\xC3\xBA Th\xE1\xBB\x8D"
+  type: province
+- code: "32"
+  name: "Ph\xC3\xBA Y\xC3\xAAn"
+  type: province
+- code: "24"
+  name: "Qu\xE1\xBA\xA3ng B\xC3\xACnh"
+  type: province
+- code: "27"
+  name: "Qu\xE1\xBA\xA3ng Nam"
+  type: province
+- code: "29"
+  name: "Qu\xE1\xBA\xA3ng Ng\xC3\xA3i"
+  type: province
+- code: "13"
+  name: "Qu\xE1\xBA\xA3ng Ninh"
+  type: province
+- code: "25"
+  name: "Qu\xE1\xBA\xA3ng Tr\xE1\xBB\x8B"
+  type: province
+- code: "52"
+  name: "S\xC3\xB3c Tr\xC4\x83ng"
+  type: province
+- code: "05"
+  name: "S\xC6\xA1n La"
+  type: province
+- code: "37"
+  name: "T\xC3\xA2y Ninh"
+  type: province
+- code: "20"
+  name: "Th\xC3\xA1i B\xC3\xACnh"
+  type: province
+- code: "69"
+  name: "Th\xC3\xA1i Nguy\xC3\xAAn"
+  type: province
+- code: "21"
+  name: "Thanh H\xC3\xB3a"
+  type: province
+- code: "26"
+  name: "Th\xE1\xBB\xABa Thi\xC3\xAAn-Hu\xE1\xBA\xBF"
+  type: province
+- code: "46"
+  name: "Ti\xE1\xBB\x81n Giang"
+  type: province
+- code: "51"
+  name: "Tr\xC3\xA0 Vinh"
+  type: province
+- code: "07"
+  name: "Tuy\xC3\xAAn Quang"
+  type: province
+- code: "49"
+  name: "V\xC4\xA9nh Long"
+  type: province
+- code: "70"
+  name: "V\xC4\xA9nh Ph\xC3\xBAc"
+  type: province
+- code: "06"
+  name: "Y\xC3\xAAn B\xC3\xA1i"
+  type: province

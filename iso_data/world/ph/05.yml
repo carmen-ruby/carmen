@@ -1,0 +1,19 @@
+--- 
+- code: ALB
+  name: Albay
+  type: province
+- code: CAN
+  name: Camarines Norte
+  type: province
+- code: CAS
+  name: Camarines Sur
+  type: province
+- code: CAT
+  name: Catanduanes
+  type: province
+- code: MAS
+  name: Masbate
+  type: province
+- code: SOR
+  name: Sorsogon
+  type: province

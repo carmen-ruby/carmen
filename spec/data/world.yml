@@ -1,0 +1,22 @@
+--- 
+- alpha_2_code: OC
+  alpha_3_code: OCE
+  numeric_code: "001"
+  common_name: Oceania
+  name: Oceania
+  official_name: The Superstate of Oceania
+  type: country
+- alpha_2_code: EU
+  alpha_3_code: EUR
+  numeric_code: "001"
+  common_name: Eurasia
+  name: Eurasia
+  official_name: The Superstate of Eurasia
+  type: country
+- alpha_2_code: ES
+  alpha_3_code: EST
+  numeric_code: "003"
+  common_name: Eastasia
+  name: Eastasia
+  official_name: The Superstate of Eastasia
+  type: country

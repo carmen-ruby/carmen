@@ -1,0 +1,16 @@
+--- 
+- code: "11"
+  name: Aude
+  type: metropolitan department
+- code: "30"
+  name: Gard
+  type: metropolitan department
+- code: "34"
+  name: "H\xC3\xA9rault"
+  type: metropolitan department
+- code: "48"
+  name: "Loz\xC3\xA8re"
+  type: metropolitan department
+- code: "66"
+  name: "Pyr\xC3\xA9n\xC3\xA9es-Orientales"
+  type: metropolitan department

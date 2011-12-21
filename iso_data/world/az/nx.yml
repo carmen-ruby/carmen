@@ -1,0 +1,19 @@
+--- 
+- code: BAB
+  name: "Bab\xC9\x99k"
+  type: rayon
+- code: CUL
+  name: Culfa
+  type: rayon
+- code: ORD
+  name: Ordubad
+  type: rayon
+- code: SAD
+  name: "S\xC9\x99d\xC9\x99r\xC9\x99k"
+  type: rayon
+- code: SAH
+  name: "\xC5\x9Eahbuz"
+  type: rayon
+- code: SAR
+  name: "\xC5\x9E\xC9\x99rur"
+  type: rayon

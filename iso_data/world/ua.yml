@@ -1,0 +1,82 @@
+--- 
+- code: "71"
+  name: Cherkas'ka Oblast'
+  type: province
+- code: "74"
+  name: Chernihivs'ka Oblast'
+  type: province
+- code: "77"
+  name: Chernivets'ka Oblast'
+  type: province
+- code: "12"
+  name: Dnipropetrovs'ka Oblast'
+  type: province
+- code: "14"
+  name: Donets'ka Oblast'
+  type: province
+- code: "26"
+  name: Ivano-Frankivs'ka Oblast'
+  type: province
+- code: "63"
+  name: Kharkivs'ka Oblast'
+  type: province
+- code: "65"
+  name: Khersons'ka Oblast'
+  type: province
+- code: "68"
+  name: Khmel'nyts'ka Oblast'
+  type: province
+- code: "35"
+  name: Kirovohrads'ka Oblast'
+  type: province
+- code: "32"
+  name: "Ky\xC3\xAFvs'ka Oblast'"
+  type: province
+- code: 09
+  name: Luhans'ka Oblast'
+  type: province
+- code: "46"
+  name: L'vivs'ka Oblast'
+  type: province
+- code: "48"
+  name: "Mykola\xC3\xAFvs'ka Oblast'"
+  type: province
+- code: "51"
+  name: Odes'ka Oblast'
+  type: province
+- code: "53"
+  name: Poltavs'ka Oblast'
+  type: province
+- code: "56"
+  name: Rivnens'ka Oblast'
+  type: province
+- code: "59"
+  name: Sums 'ka Oblast'
+  type: province
+- code: "61"
+  name: Ternopil's'ka Oblast'
+  type: province
+- code: "05"
+  name: Vinnyts'ka Oblast'
+  type: province
+- code: "07"
+  name: Volyns'ka Oblast'
+  type: province
+- code: "21"
+  name: Zakarpats'ka Oblast'
+  type: province
+- code: "23"
+  name: Zaporiz'ka Oblast'
+  type: province
+- code: "18"
+  name: Zhytomyrs'ka Oblast'
+  type: province
+- code: "43"
+  name: Respublika Krym
+  type: autonomous republic
+- code: "30"
+  name: "Ky\xC3\xAFvs'ka mis'ka rada"
+  type: city
+- code: "40"
+  name: Sevastopol
+  type: city

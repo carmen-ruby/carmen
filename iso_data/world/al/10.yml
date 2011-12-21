@@ -1,0 +1,10 @@
+--- 
+- code: MM
+  name: "Mal\xC3\xABsi e Madhe"
+  type: district
+- code: PU
+  name: "Puk\xC3\xAB"
+  type: district
+- code: SH
+  name: "Shkod\xC3\xABr"
+  type: district

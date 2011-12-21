@@ -1,0 +1,22 @@
+--- 
+- code: CAN
+  name: Canterbury
+  type: regional council
+- code: OTA
+  name: Otago
+  type: regional council
+- code: STL
+  name: Southland
+  type: regional council
+- code: WTC
+  name: West Coast
+  type: regional council
+- code: MBH
+  name: Marlborough District
+  type: unitary authority
+- code: NSN
+  name: Nelson City
+  type: unitary authority
+- code: TAS
+  name: Tasman District
+  type: unitary authority

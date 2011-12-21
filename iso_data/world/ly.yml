@@ -1,0 +1,70 @@
+--- 
+- code: BU
+  name: "Al Bu\xC5\xA3n\xC4\x81n"
+  type: popularates
+- code: JA
+  name: "Al Jabal al Akh\xE1\xB8\x91ar"
+  type: popularates
+- code: JG
+  name: "Al Jabal al Gharb\xC4\xAB"
+  type: popularates
+- code: JI
+  name: "Al Jif\xC4\x81rah"
+  type: popularates
+- code: JU
+  name: Al Jufrah
+  type: popularates
+- code: KF
+  name: Al Kufrah
+  type: popularates
+- code: MJ
+  name: Al Marj
+  type: popularates
+- code: MB
+  name: Al Marqab
+  type: popularates
+- code: WA
+  name: "Al W\xC4\x81h\xCC\xA7\xC4\x81t"
+  type: popularates
+- code: NQ
+  name: "An Nuqa\xC5\xA3 al Khams"
+  type: popularates
+- code: ZA
+  name: "Az Z\xC4\x81wiyah"
+  type: popularates
+- code: BA
+  name: "Bangh\xC4\x81z\xC4\xAB"
+  type: popularates
+- code: DR
+  name: Darnah
+  type: popularates
+- code: GT
+  name: "Gh\xC4\x81t"
+  type: popularates
+- code: JB
+  name: "Jaghb\xC5\xABb"
+  type: popularates
+- code: MI
+  name: "Mi\xC5\x9Fr\xC4\x81tah"
+  type: popularates
+- code: MQ
+  name: Murzuq
+  type: popularates
+- code: NL
+  name: "N\xC4\x81l\xC5\xABt"
+  type: popularates
+- code: SB
+  name: "Sabh\xC4\x81"
+  type: popularates
+- code: SR
+  name: Surt
+  type: popularates
+- code: TB
+  name: "\xC5\xA2ar\xC4\x81bulus"
+  type: popularates
+- code: WD
+  name: "W\xC4\x81d\xC4\xAB al \xE1\xB8\xA8ay\xC4\x81t"
+  type: popularates
+- code: WS
+  name: "W\xC4\x81d\xC4\xAB ash Sh\xC4\x81\xC5\xA3i\xCA\xBE"
+  type: popularates

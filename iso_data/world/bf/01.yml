@@ -1,0 +1,19 @@
+--- 
+- code: BAL
+  name: "Bal\xC3\xA9"
+  type: province
+- code: BAN
+  name: Banwa
+  type: province
+- code: KOS
+  name: Kossi
+  type: province
+- code: MOU
+  name: Mouhoun
+  type: province
+- code: NAY
+  name: Nayala
+  type: province
+- code: SOR
+  name: Sourou
+  type: province

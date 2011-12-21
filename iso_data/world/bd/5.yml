@@ -1,0 +1,49 @@
+--- 
+- code: "03"
+  name: Bogra zila
+  type: district
+- code: "14"
+  name: Dinajpur zila
+  type: district
+- code: "19"
+  name: Gaibandha zila
+  type: district
+- code: "24"
+  name: Jaipurhat zila
+  type: district
+- code: "28"
+  name: Kurigram zila
+  type: district
+- code: "32"
+  name: Lalmonirhat zila
+  type: district
+- code: "48"
+  name: Naogaon zila
+  type: district
+- code: "44"
+  name: Natore zila
+  type: district
+- code: "45"
+  name: Nawabganj zila
+  type: district
+- code: "46"
+  name: Nilphamari zila
+  type: district
+- code: "49"
+  name: Pabna zila
+  type: district
+- code: "52"
+  name: Panchagarh zila
+  type: district
+- code: "54"
+  name: Rajshahi zila
+  type: district
+- code: "55"
+  name: Rangpur zila
+  type: district
+- code: "59"
+  name: Sirajganj zila
+  type: district
+- code: "64"
+  name: Thakurgaon zila
+  type: district

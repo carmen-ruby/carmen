@@ -1,0 +1,10 @@
+--- 
+- code: BH
+  name: Bheri
+  type: zone
+- code: KA
+  name: Karnali
+  type: zone
+- code: RA
+  name: Rapti
+  type: zone

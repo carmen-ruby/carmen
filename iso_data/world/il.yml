@@ -1,0 +1,19 @@
+--- 
+- code: D
+  name: HaDarom
+  type: district
+- code: M
+  name: HaMerkaz
+  type: district
+- code: Z
+  name: HaZafon
+  type: district
+- code: HA
+  name: Hefa
+  type: district
+- code: TA
+  name: Tel-Aviv
+  type: district
+- code: JM
+  name: Yerushalayim Al Quds
+  type: district

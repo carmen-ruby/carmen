@@ -1,0 +1,31 @@
+--- 
+- code: "02"
+  name: Saint Andrew
+  type: parish
+- code: "03"
+  name: Saint David
+  type: parish
+- code: "04"
+  name: Saint George
+  type: parish
+- code: "05"
+  name: Saint John
+  type: parish
+- code: "06"
+  name: Saint Joseph
+  type: parish
+- code: "07"
+  name: Saint Luke
+  type: parish
+- code: 08
+  name: Saint Mark
+  type: parish
+- code: 09
+  name: Saint Patrick
+  type: parish
+- code: "10"
+  name: Saint Paul
+  type: parish
+- code: "01"
+  name: Saint Peter
+  type: parish

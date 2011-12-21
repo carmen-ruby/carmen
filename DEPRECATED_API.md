@@ -1,5 +1,3 @@
-= Carmen- A simple collection of geographic names and abbreviations for Ruby
-
 This library will work as a drop in replacement for the official Rails country_select and its various forks. The idea is to provide a single library for all geographic naming concerns, and unify them under a consistent API.
 
 States are supported for the following countries: Australia, Brazil, Canada, China, Cuba, Denmark, Germany, India, Italy, Mexico, the Netherlands, New Zealand, Norway, Spain, Ukraine, and United States.
@@ -97,16 +95,13 @@ Carmen ships with replacements for state_select and country_select. Usage is sim
 * Split the Rails-specific view helpers out into a separate gem (carmen-rails)
 * Move regex matching into an optional module.
 
+
 == Changelog
 
 See CHANGELOG.md
 
 
-== Development notes
-
-The plugin does not require rubygems anywhere in the test or libraries, so if you are having trouble with load errors running the tests, prepend your command with RUBYOPT=rubygems. {More info}[http://tomayko.com/writings/require-rubygems-antipattern].
-
-
 == Credits
 
 This project is only possible because of the work of {many fine developers from around the world}[https://github.com/jim/carmen/contributors].
+

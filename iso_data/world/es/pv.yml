@@ -1,0 +1,10 @@
+--- 
+- code: VI
+  name: "\xC3\x81lava"
+  type: province
+- code: SS
+  name: "Guip\xC3\xBAzcoa / Gipuzkoa"
+  type: province
+- code: BI
+  name: Vizcayaa / Bizkaia
+  type: province

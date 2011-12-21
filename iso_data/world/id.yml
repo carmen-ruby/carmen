@@ -1,0 +1,22 @@
+--- 
+- code: JW
+  name: Jawa
+  type: geographical unit
+- code: KA
+  name: Kalimantan
+  type: geographical unit
+- code: MA
+  name: Maluku
+  type: geographical unit
+- code: NU
+  name: Nusa Tenggara
+  type: geographical unit
+- code: IJ
+  name: Papua
+  type: geographical unit
+- code: SL
+  name: Sulawesi
+  type: geographical unit
+- code: SM
+  name: Sumatera
+  type: geographical unit

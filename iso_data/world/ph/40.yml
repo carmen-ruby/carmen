@@ -1,0 +1,16 @@
+--- 
+- code: BTG
+  name: Batangas
+  type: province
+- code: CAV
+  name: Cavite
+  type: province
+- code: LAG
+  name: Laguna
+  type: province
+- code: QUE
+  name: Quezon
+  type: province
+- code: RIZ
+  name: Rizal
+  type: province

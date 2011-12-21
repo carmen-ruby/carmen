@@ -1,0 +1,13 @@
+--- 
+- code: "21"
+  name: "C\xC3\xB4te-d'Or"
+  type: metropolitan department
+- code: "58"
+  name: "Ni\xC3\xA8vre"
+  type: metropolitan department
+- code: "71"
+  name: "Sa\xC3\xB4ne-et-Loire"
+  type: metropolitan department
+- code: "89"
+  name: Yonne
+  type: metropolitan department

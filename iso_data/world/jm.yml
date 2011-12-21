@@ -1,0 +1,43 @@
+--- 
+- code: "13"
+  name: Clarendon
+  type: parish
+- code: 09
+  name: Hanover
+  type: parish
+- code: "01"
+  name: Kingston
+  type: parish
+- code: "12"
+  name: Manchester
+  type: parish
+- code: "04"
+  name: Portland
+  type: parish
+- code: "02"
+  name: Saint Andrew
+  type: parish
+- code: "06"
+  name: Saint Ann
+  type: parish
+- code: "14"
+  name: Saint Catherine
+  type: parish
+- code: "11"
+  name: Saint Elizabeth
+  type: parish
+- code: 08
+  name: Saint James
+  type: parish
+- code: "05"
+  name: Saint Mary
+  type: parish
+- code: "03"
+  name: Saint Thomas
+  type: parish
+- code: "07"
+  name: Trelawny
+  type: parish
+- code: "10"
+  name: Westmoreland
+  type: parish

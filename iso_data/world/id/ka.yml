@@ -1,0 +1,13 @@
+--- 
+- code: KB
+  name: Kalimantan Barat
+  type: province
+- code: KT
+  name: Kalimantan Tengah
+  type: province
+- code: KS
+  name: Kalimantan Selatan
+  type: province
+- code: KI
+  name: Kalimantan Timur
+  type: province
