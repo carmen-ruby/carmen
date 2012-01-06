@@ -14,6 +14,8 @@ if defined?(Rails)
   end
 end
 
+require 'carmen/version'
+
 module Carmen
   class << self
     attr_accessor :default_country, :default_locale, :excluded_countries, :excluded_states,
