@@ -1,3 +1,7 @@
+### 0.2.12
+* Republish the gem with Ruby 1.8.7.
+### 0.2.11
+* Remove Jeweler and release new version.
 ### 0.2.10
 * Generate the gem with Ruby 1.8.7 to try to fix YAML library
   incompatibilities.
