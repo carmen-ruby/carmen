@@ -10,7 +10,7 @@ module Carmen
     def name; 'Earth'; end
 
     def subregion_data_path
-      Carmen::data_path + 'world.yml'
+      'world.yml'
     end
 
     def subregion_class

@@ -10,8 +10,7 @@ describe Carmen::Region do
   end
 
   it "has the correct subregion path" do
-    expected_path = Carmen.data_path + "world/oc/ao.yml"
-    @airstrip_one.subregion_data_path.must_equal expected_path
+    @airstrip_one.subregion_data_path.must_equal "world/oc/ao.yml"
   end
 
   it "knows if it has subregions" do

@@ -30,10 +30,10 @@ issues. Carmen 1.0 will feature the following:
 ## The TODO
 
 * Switch to a more complete data source (done)
-* Add the ability to overlay custom data on the dataset
-* Rewrite spike-level V2 API implementation
+* Add the ability to overlay custom data on the dataset (done)
+* Rewrite spike-level V2 API implementation (in progess)
 * Provide a legacy api so existing users have an upgrade path ('carmen/legacy')
-* Separate Rails view methods out into a carmen-rails gem
+* Separate Rails view methods out into a carmen-rails gem (in progress)
 * i18n integration
 
 # How to Use Carmen
@@ -97,3 +97,51 @@ Some subregions may contain additional subregions. An example of this is Spain:
 
 	andalucia.subregions.first
 	=> <#Carmen::Region name="Almería" type="province">
+
+## Overriding data
+
+You might want to tweak the data that Carmen provides for a variety of reasons.
+Carmen provides an `overlay_path` which can be set to point to a set of data that will be
+overlayed on top of the standard data. The structure of the files in this directory should mirror those in the data path that Carmen ships with.
+
+To override a country's name, you would create a directory (let's use my_data as an example), and create a `world.yml` file inside it. Then set Carmen to use the
+new overlay path:
+
+    Carmen.overlay_path = File.expand_path('../my_data', __FILE___)
+
+Elements within the data files are identified using their `code` values (or, in the case of countries, `alpha_2_code`). Then copy the block for the country you wish to modify into the new `my_data/world.yml`:
+
+    ---
+    - alpha_2_code: EU
+      alpha_3_code: EUR
+      numeric_code: "002"
+      common_name: Eurasia
+	  name: Eurasia
+	  official_name: The Superstate of Eurasia
+	  type: country
+
+Now, modify the fields you wish to change, and delete the others. Be sure to leave `alpha_2_code` and `code`, as those values are used internally by Carmen to match your customized data with the corresponding data in the default dataset:
+
+    - alpha_2_code: EU
+	  official_name: The Wonderous Superstate of Eurasia
+
+Now, Carmen will reflect your personal view of the world:
+
+    Carmen::Country.named('Eurasia').official_name
+    => "The Wonderous Superstate of Eurasia"
+
+### Adding new elements
+
+New elements can be added to a set of regions by adding a new block to `my_data/world.yml` that contains all the required attributes.
+
+### Disabling elements
+
+It is also possible to remove an element from the dataset by setting its `_enabled` value to [anything YAML considers false](http://yaml.org/type/bool.html), such as 'false' or 'no':
+
+    - alpha_2_code: EU
+	  _enabled: false
+
+This will cause Carmen to not return that element from any query:
+
+    Carmen::Country.named('Eurasia')
+    => nil

@@ -35,6 +35,7 @@ module Carmen
     # Public: Set the data path.
     # path - The String path to the data directory.
     def data_path=(path)
+      raise "Carmen's data_path cannot be nil" if path.nil?
       @data_path = Pathname.new(path)
       World.instance.reset!
     end
@@ -42,7 +43,9 @@ module Carmen
     # Public: Set the overlay data path.
     # path - The String path to the overlay data directory.
     def overlay_path=(path)
-      @overlay_path = Pathname.new(path)
+      path = Pathname.new(path) unless path.nil?
+      @overlay_path = path
+      World.instance.reset!
     end
   end
 

@@ -11,11 +11,13 @@ module Carmen
 
     attr_reader :alpha_2_code
     attr_reader :alpha_3_code
+    attr_reader :official_name
 
     def initialize(data={}, parent)
       super
-      @alpha_2_code = data['alpha_2_code']
-      @alpha_3_code = data['alpha_3_code']
+      @alpha_2_code =  data['alpha_2_code']
+      @alpha_3_code =  data['alpha_3_code']
+      @official_name = data['official_name']
     end
 
     def self.all

@@ -53,8 +53,7 @@ describe Carmen::Country do
     end
 
     it 'has a subregion data path' do
-      expected = Carmen.data_path + 'world/oc.yml'
-      @oceania.subregion_data_path.must_equal expected
+      @oceania.subregion_data_path.must_equal 'world/oc.yml'
     end
 
     it "has subregions" do
