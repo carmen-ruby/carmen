@@ -1,3 +1,6 @@
+### 0.2.10
+* Generate the gem with Ruby 1.8.7 to try to fix YAML library
+  incompatibilities.
 ### 0.2.9
 * Preserve order of priority_countries in country_select (castiglione)
 * Add Finnish localization (marjakapyaho)
