@@ -1,0 +1,15 @@
+--- 
+en:
+  world:
+    oc:
+      common_name: Oceania
+      name: Oceania
+      official_name: The Superstate of Oceania
+    eu:
+      common_name: Eurasia
+      name: Eurasia
+      official_name: The Superstate of Eurasia
+    es:
+      common_name: Eastasia
+      name: Eastasia
+      official_name: The Superstate of Eastasia
