@@ -1,106 +1,71 @@
 --- 
 - code: AP
-  name: Andhra Pradesh
   type: state
 - code: AR
-  name: "Arun\xC4\x81chal Pradesh"
   type: state
 - code: AS
-  name: Assam
   type: state
 - code: BR
-  name: "Bih\xC4\x81r"
   type: state
 - code: CT
-  name: "Chhatt\xC4\xABsgarh"
   type: state
 - code: GA
-  name: Goa
   type: state
 - code: GJ
-  name: "Gujar\xC4\x81t"
   type: state
 - code: HR
-  name: "Hary\xC4\x81na"
   type: state
 - code: HP
-  name: "Him\xC4\x81chal Pradesh"
   type: state
 - code: JK
-  name: "Jammu and Kashm\xC4\xABr"
   type: state
 - code: JH
-  name: Jharkhand
   type: state
 - code: KA
-  name: "Karn\xC4\x81taka"
   type: state
 - code: KL
-  name: Kerala
   type: state
 - code: MP
-  name: Madhya Pradesh
   type: state
 - code: MH
-  name: "Mah\xC4\x81r\xC4\x81shtra"
   type: state
 - code: MN
-  name: Manipur
   type: state
 - code: ML
-  name: "Megh\xC4\x81laya"
   type: state
 - code: MZ
-  name: Mizoram
   type: state
 - code: NL
-  name: "N\xC4\x81g\xC4\x81land"
   type: state
 - code: OR
-  name: Orissa
   type: state
 - code: PB
-  name: Punjab
   type: state
 - code: RJ
-  name: "R\xC4\x81jasth\xC4\x81n"
   type: state
 - code: SK
-  name: Sikkim
   type: state
 - code: TN
-  name: "Tamil N\xC4\x81du"
   type: state
 - code: TR
-  name: Tripura
   type: state
 - code: UL
-  name: Uttaranchal
   type: state
 - code: UP
-  name: Uttar Pradesh
   type: state
 - code: WB
-  name: West Bengal
   type: state
 - code: AN
-  name: Andaman and Nicobar Islands
   type: union territory
 - code: CH
-  name: "Chand\xC4\xABgarh"
   type: union territory
 - code: DN
-  name: "D\xC4\x81dra and Nagar Haveli"
   type: union territory
 - code: DD
-  name: "Dam\xC4\x81n and Diu"
   type: union territory
 - code: DL
-  name: Delhi
   type: union territory
 - code: LD
-  name: Lakshadweep
   type: union territory
 - code: PY
-  name: Pondicherry
   type: union territory

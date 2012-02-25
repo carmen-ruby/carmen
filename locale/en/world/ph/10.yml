@@ -1,0 +1,13 @@
+--- 
+en: 
+  world: 
+    ph: 
+      "10": 
+      - buk: 
+          name: Bukidnon
+      - cam: 
+          name: Camiguin
+      - msc: 
+          name: Misamis Occidental
+      - msr: 
+          name: Misamis Oriental

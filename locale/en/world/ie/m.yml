@@ -1,0 +1,17 @@
+--- 
+en: 
+  world: 
+    ie: 
+      m: 
+      - ce: 
+          name: Clare
+      - c: 
+          name: Cork
+      - ky: 
+          name: Kerry
+      - lk: 
+          name: Limerick
+      - ta: 
+          name: Tipperary
+      - wd: 
+          name: Waterford

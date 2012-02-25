@@ -1,64 +1,43 @@
 --- 
 - code: "02"
-  name: Akershus
   type: county
 - code: 09
-  name: Aust-Agder
   type: county
 - code: "06"
-  name: Buskerud
   type: county
 - code: "20"
-  name: Finnmark
   type: county
 - code: "04"
-  name: Hedmark
   type: county
 - code: "12"
-  name: Hordaland
   type: county
 - code: "15"
-  name: "M\xC3\xB8re og Romsdal"
   type: county
 - code: "18"
-  name: Nordland
   type: county
 - code: "17"
-  name: "Nord-Tr\xC3\xB8ndelag"
   type: county
 - code: "05"
-  name: Oppland
   type: county
 - code: "03"
-  name: Oslo
   type: county
 - code: "11"
-  name: Rogaland
   type: county
 - code: "14"
-  name: Sogn og Fjordane
   type: county
 - code: "16"
-  name: "S\xC3\xB8r-Tr\xC3\xB8ndelag"
   type: county
 - code: 08
-  name: Telemark
   type: county
 - code: "19"
-  name: Troms
   type: county
 - code: "10"
-  name: Vest-Agder
   type: county
 - code: "07"
-  name: Vestfold
   type: county
 - code: "01"
-  name: "\xC3\x98stfold"
   type: county
 - code: "22"
-  name: Jan Mayen
   type: county
 - code: "21"
-  name: Svalbard
   type: county

@@ -1,0 +1,132 @@
+--- 
+en: 
+  world: 
+    vn: 
+    - "44": 
+        name: An Giang
+    - "43": 
+        name: "B\xC3\xA0 R\xE1\xBB\x8Ba - V\xC5\xA9ng T\xC3\xA0u"
+    - "53": 
+        name: "B\xE1\xBA\xAFc K\xE1\xBA\xA1n"
+    - "54": 
+        name: "B\xE1\xBA\xAFc Giang"
+    - "55": 
+        name: "B\xE1\xBA\xA1c Li\xC3\xAAu"
+    - "56": 
+        name: "B\xE1\xBA\xAFc Ninh"
+    - "50": 
+        name: "B\xE1\xBA\xBFn Tre"
+    - "31": 
+        name: "B\xC3\xACnh \xC4\x90\xE1\xBB\x8Bnh"
+    - "57": 
+        name: "B\xC3\xACnh D\xC6\xB0\xC6\xA1ng"
+    - "58": 
+        name: "B\xC3\xACnh Ph\xC6\xB0\xE1\xBB\x9Bc"
+    - "40": 
+        name: "B\xC3\xACnh Thu\xE1\xBA\xADn"
+    - "59": 
+        name: "C\xC3\xA0 Mau"
+    - "48": 
+        name: "C\xE1\xBA\xA7n Th\xC6\xA1"
+    - "04": 
+        name: "Cao B\xE1\xBA\xB1ng"
+    - "60": 
+        name: "\xC4\x90\xC3\xA0 N\xE1\xBA\xB5ng, th\xC3\xA0nh ph\xE1\xBB\x91"
+    - "33": 
+        name: "\xC4\x90\xE1\xBA\xAFc L\xE1\xBA\xAFk"
+    - "72": 
+        name: "\xC4\x90\xE1\xBA\xAFk N\xC3\xB4ng"
+    - "71": 
+        name: "\xC4\x90i\xE1\xBB\x87n Bi\xC3\xAAn"
+    - "39": 
+        name: "\xC4\x90\xE1\xBB\x93ng Nai"
+    - "45": 
+        name: "\xC4\x90\xE1\xBB\x93ng Th\xC3\xA1p"
+    - "30": 
+        name: Gia Lai
+    - "03": 
+        name: "H\xC3\xA0 Giang"
+    - "63": 
+        name: "H\xC3\xA0 Nam"
+    - "64": 
+        name: "H\xC3\xA0 N\xE1\xBB\x99i, th\xE1\xBB\xA7 \xC4\x91\xC3\xB4"
+    - "15": 
+        name: "H\xC3\xA0 T\xC3\xA2y"
+    - "23": 
+        name: "H\xC3\xA0 T\xE1\xBB\x89nh"
+    - "61": 
+        name: "H\xE1\xBA\xA3i Duong"
+    - "62": 
+        name: "H\xE1\xBA\xA3i Ph\xC3\xB2ng, th\xC3\xA0nh ph\xE1\xBB\x91"
+    - "73": 
+        name: "H\xE1\xBA\xADu Giang"
+    - "14": 
+        name: "Ho\xC3\xA0 B\xC3\xACnh"
+    - "65": 
+        name: "H\xE1\xBB\x93 Ch\xC3\xAD Minh, th\xC3\xA0nh ph\xE1\xBB\x91 [S\xC3\xA0i G\xC3\xB2n]"
+    - "66": 
+        name: "H\xC6\xB0ng Y\xC3\xAAn"
+    - "34": 
+        name: "Kh\xC3\xA1nh H\xC3\xB2a"
+    - "47": 
+        name: "Ki\xC3\xAAn Giang"
+    - "28": 
+        name: Kon Tum
+    - "01": 
+        name: "Lai Ch\xC3\xA2u"
+    - "35": 
+        name: "L\xC3\xA2m \xC4\x90\xE1\xBB\x93ng"
+    - 09: 
+        name: "L\xE1\xBA\xA1ng S\xC6\xA1n"
+    - "02": 
+        name: "L\xC3\xA0o Cai"
+    - "41": 
+        name: Long An
+    - "67": 
+        name: "Nam \xC4\x90\xE1\xBB\x8Bnh"
+    - "22": 
+        name: "Ngh\xE1\xBB\x87 An"
+    - "18": 
+        name: "Ninh B\xC3\xACnh"
+    - "36": 
+        name: "Ninh Thu\xE1\xBA\xADn"
+    - "68": 
+        name: "Ph\xC3\xBA Th\xE1\xBB\x8D"
+    - "32": 
+        name: "Ph\xC3\xBA Y\xC3\xAAn"
+    - "24": 
+        name: "Qu\xE1\xBA\xA3ng B\xC3\xACnh"
+    - "27": 
+        name: "Qu\xE1\xBA\xA3ng Nam"
+    - "29": 
+        name: "Qu\xE1\xBA\xA3ng Ng\xC3\xA3i"
+    - "13": 
+        name: "Qu\xE1\xBA\xA3ng Ninh"
+    - "25": 
+        name: "Qu\xE1\xBA\xA3ng Tr\xE1\xBB\x8B"
+    - "52": 
+        name: "S\xC3\xB3c Tr\xC4\x83ng"
+    - "05": 
+        name: "S\xC6\xA1n La"
+    - "37": 
+        name: "T\xC3\xA2y Ninh"
+    - "20": 
+        name: "Th\xC3\xA1i B\xC3\xACnh"
+    - "69": 
+        name: "Th\xC3\xA1i Nguy\xC3\xAAn"
+    - "21": 
+        name: "Thanh H\xC3\xB3a"
+    - "26": 
+        name: "Th\xE1\xBB\xABa Thi\xC3\xAAn-Hu\xE1\xBA\xBF"
+    - "46": 
+        name: "Ti\xE1\xBB\x81n Giang"
+    - "51": 
+        name: "Tr\xC3\xA0 Vinh"
+    - "07": 
+        name: "Tuy\xC3\xAAn Quang"
+    - "49": 
+        name: "V\xC4\xA9nh Long"
+    - "70": 
+        name: "V\xC4\xA9nh Ph\xC3\xBAc"
+    - "06": 
+        name: "Y\xC3\xAAn B\xC3\xA1i"

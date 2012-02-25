@@ -1,28 +1,19 @@
 --- 
 - code: DE
-  name: Dedza
   type: district
 - code: DO
-  name: Dowa
   type: district
 - code: KS
-  name: Kasungu
   type: district
 - code: LI
-  name: Lilongwe
   type: district
 - code: MC
-  name: Mchinji
   type: district
 - code: NK
-  name: Nkhotakota
   type: district
 - code: NU
-  name: Ntcheu
   type: district
 - code: NI
-  name: Ntchisi
   type: district
 - code: SA
-  name: Salima
   type: district

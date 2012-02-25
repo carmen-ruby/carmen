@@ -1,40 +1,27 @@
 --- 
 - code: "01"
-  name: Boucle du Mouhoun
   type: region
 - code: "02"
-  name: Cascades
   type: region
 - code: "03"
-  name: Centre
   type: region
 - code: "04"
-  name: Centre-Est
   type: region
 - code: "05"
-  name: Centre-Nord
   type: region
 - code: "06"
-  name: Centre-Ouest
   type: region
 - code: "07"
-  name: Centre-Sud
   type: region
 - code: 08
-  name: Est
   type: region
 - code: 09
-  name: Hauts-Bassins
   type: region
 - code: "10"
-  name: Nord
   type: region
 - code: "11"
-  name: Plateau-Central
   type: region
 - code: "12"
-  name: Sahel
   type: region
 - code: "13"
-  name: Sud-Ouest
   type: region

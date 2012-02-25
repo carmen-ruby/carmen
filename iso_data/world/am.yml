@@ -1,34 +1,23 @@
 --- 
 - code: ER
-  name: Erevan
   type: province
 - code: AG
-  name: Aragacotn
   type: province
 - code: AR
-  name: Ararat
   type: province
 - code: AV
-  name: Armavir
   type: province
 - code: GR
-  name: Gegarkunik'
   type: province
 - code: KT
-  name: Kotayk'
   type: province
 - code: LO
-  name: Lory
   type: province
 - code: SH
-  name: Sirak
   type: province
 - code: SU
-  name: Syunik'
   type: province
 - code: TV
-  name: Tavus
   type: province
 - code: VD
-  name: Vayoc Jor
   type: province

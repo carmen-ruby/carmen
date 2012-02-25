@@ -1,46 +1,31 @@
 --- 
 - code: "37"
-  name: Harjumaa
   type: county
 - code: "39"
-  name: Hiiumaa
   type: county
 - code: "44"
-  name: Ida-Virumaa
   type: county
 - code: "49"
-  name: "J\xC3\xB5gevamaa"
   type: county
 - code: "51"
-  name: "J\xC3\xA4rvamaa"
   type: county
 - code: "57"
-  name: "L\xC3\xA4\xC3\xA4nemaa"
   type: county
 - code: "59"
-  name: "L\xC3\xA4\xC3\xA4ne-Virumaa"
   type: county
 - code: "65"
-  name: "P\xC3\xB5lvamaa"
   type: county
 - code: "67"
-  name: "P\xC3\xA4rnumaa"
   type: county
 - code: "70"
-  name: Raplamaa
   type: county
 - code: "74"
-  name: Saaremaa
   type: county
 - code: "78"
-  name: Tartumaa
   type: county
 - code: "82"
-  name: Valgamaa
   type: county
 - code: "84"
-  name: Viljandimaa
   type: county
 - code: "86"
-  name: "V\xC3\xB5rumaa"
   type: county

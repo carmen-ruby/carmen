@@ -1,0 +1,15 @@
+--- 
+en: 
+  world: 
+    it: 
+      "72": 
+      - av: 
+          name: Avellino
+      - bn: 
+          name: Benevento
+      - ce: 
+          name: Caserta
+      - na: 
+          name: Napoli
+      - sa: 
+          name: Salerno

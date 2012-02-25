@@ -1,0 +1,29 @@
+--- 
+en: 
+  world: 
+    cz: 
+      st: 
+      - "201": 
+          name: "Bene\xC5\xA1ov"
+      - "202": 
+          name: Beroun
+      - "203": 
+          name: Kladno
+      - "204": 
+          name: "Kol\xC3\xADn"
+      - "205": 
+          name: "Kutn\xC3\xA1 Hora"
+      - "206": 
+          name: "M\xC4\x9Bln\xC3\xADk"
+      - "207": 
+          name: "Mlad\xC3\xA1 Boleslav"
+      - "208": 
+          name: Nymburk
+      - "209": 
+          name: "Praha v\xC3\xBDchod"
+      - 20a: 
+          name: "Praha z\xC3\xA1pad"
+      - 20b: 
+          name: "P\xC5\x99\xC3\xADbram"
+      - 20c: 
+          name: "Rakovn\xC3\xADk"

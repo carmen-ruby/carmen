@@ -1,13 +1,9 @@
 --- 
 - code: LAS
-  name: Lanao del Sur
   type: province
 - code: MAG
-  name: Maguindanao
   type: province
 - code: SLU
-  name: Sulu
   type: province
 - code: TAW
-  name: Tawi-Tawi
   type: province

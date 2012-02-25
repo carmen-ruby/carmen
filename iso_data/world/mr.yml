@@ -1,40 +1,27 @@
 --- 
 - code: NKC
-  name: Nouakchott
   type: district
 - code: "07"
-  name: Adrar
   type: region
 - code: "03"
-  name: Assaba
   type: region
 - code: "05"
-  name: Brakna
   type: region
 - code: 08
-  name: Dakhlet Nouadhibou
   type: region
 - code: "04"
-  name: Gorgol
   type: region
 - code: "10"
-  name: Guidimaka
   type: region
 - code: "01"
-  name: Hodh ech Chargui
   type: region
 - code: "02"
-  name: Hodh el Charbi
   type: region
 - code: "12"
-  name: Inchiri
   type: region
 - code: 09
-  name: Tagant
   type: region
 - code: "11"
-  name: Tiris Zemmour
   type: region
 - code: "06"
-  name: Trarza
   type: region

@@ -1,97 +1,65 @@
 --- 
 - code: AC
-  name: Acklins Islands
   type: district
 - code: BY
-  name: Berry Islands
   type: district
 - code: BI
-  name: Bimini and Cat Cay
   type: district
 - code: BP
-  name: Black Point
   type: district
 - code: CI
-  name: Cat Island
   type: district
 - code: CO
-  name: Central Abaco
   type: district
 - code: CS
-  name: Central Andros
   type: district
 - code: CE
-  name: Central Eleuthera
   type: district
 - code: FP
-  name: City of Freeport
   type: district
 - code: CK
-  name: Crooked Island and Long Cay
   type: district
 - code: EG
-  name: East Grand Bahama
   type: district
 - code: EX
-  name: Exuma
   type: district
 - code: GC
-  name: Grand Cay
   type: district
 - code: GT
-  name: Green Turtle Cay
   type: district
 - code: HI
-  name: Harbour Island
   type: district
 - code: HT
-  name: Hope Town
   type: district
 - code: IN
-  name: Inagua
   type: district
 - code: LI
-  name: Long Island
   type: district
 - code: MC
-  name: Mangrove Cay
   type: district
 - code: MG
-  name: Mayaguana
   type: district
 - code: MI
-  name: Moore's Island
   type: district
 - code: "NO"
-  name: North Abaco
   type: district
 - code: NS
-  name: North Andros
   type: district
 - code: NE
-  name: North Eleuthera
   type: district
 - code: RI
-  name: Ragged Island
   type: district
 - code: RC
-  name: Rum Cay
   type: district
 - code: SS
-  name: San Salvador
   type: district
 - code: SO
-  name: South Abaco
   type: district
 - code: SA
-  name: South Andros
   type: district
 - code: SE
-  name: South Eleuthera
   type: district
 - code: SW
-  name: Spanish Wells
   type: district
 - code: WG
-  name: West Grand Bahama
   type: district

@@ -1,22 +1,15 @@
 --- 
 - code: AUR
-  name: Aurora
   type: province
 - code: BAN
-  name: Batasn
   type: province
 - code: BUL
-  name: Bulacan
   type: province
 - code: NUE
-  name: Nueva Ecija
   type: province
 - code: PAM
-  name: Pampanga
   type: province
 - code: TAR
-  name: Tarlac
   type: province
 - code: ZMB
-  name: Zambales
   type: province

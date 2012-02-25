@@ -1,13 +1,9 @@
 --- 
 - code: GO
-  name: Gorizia
   type: province
 - code: PN
-  name: Pordenone
   type: province
 - code: TS
-  name: Trieste
   type: province
 - code: UD
-  name: Udine
   type: province

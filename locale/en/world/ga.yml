@@ -1,0 +1,22 @@
+--- 
+en: 
+  world: 
+    ga: 
+    - "1": 
+        name: Estuaire
+    - "2": 
+        name: "Haut-Ogoou\xC3\xA9"
+    - "3": 
+        name: "Moyen-Ogoou\xC3\xA9"
+    - "4": 
+        name: "Ngouni\xC3\xA9"
+    - "5": 
+        name: Nyanga
+    - "6": 
+        name: "Ogoou\xC3\xA9-Ivindo"
+    - "7": 
+        name: "Ogoou\xC3\xA9-Lolo"
+    - "8": 
+        name: "Ogoou\xC3\xA9-Maritime"
+    - "9": 
+        name: Woleu-Ntem

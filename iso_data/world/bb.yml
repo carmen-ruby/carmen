@@ -1,34 +1,23 @@
 --- 
 - code: "01"
-  name: Christ Church
   type: parish
 - code: "02"
-  name: Saint Andrew
   type: parish
 - code: "03"
-  name: Saint George
   type: parish
 - code: "04"
-  name: Saint James
   type: parish
 - code: "05"
-  name: Saint John
   type: parish
 - code: "06"
-  name: Saint Joseph
   type: parish
 - code: "07"
-  name: Saint Lucy
   type: parish
 - code: 08
-  name: Saint Michael
   type: parish
 - code: 09
-  name: Saint Peter
   type: parish
 - code: "10"
-  name: Saint Philip
   type: parish
 - code: "11"
-  name: Saint Thomas
   type: parish

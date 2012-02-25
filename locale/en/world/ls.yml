@@ -1,0 +1,24 @@
+--- 
+en: 
+  world: 
+    ls: 
+    - d: 
+        name: Berea
+    - b: 
+        name: Butha-Buthe
+    - c: 
+        name: Leribe
+    - e: 
+        name: Mafeteng
+    - a: 
+        name: Maseru
+    - f: 
+        name: Mohale's Hoek
+    - j: 
+        name: Mokhotlong
+    - h: 
+        name: Qacha's Nek
+    - g: 
+        name: Quthing
+    - k: 
+        name: Thaba-Tseka

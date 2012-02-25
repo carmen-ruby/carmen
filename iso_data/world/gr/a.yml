@@ -1,16 +1,11 @@
 --- 
 - code: "52"
-  name: Drama
   type: department
 - code: "71"
-  name: Evros
   type: department
 - code: "55"
-  name: Kavala
   type: department
 - code: "73"
-  name: Rodopi
   type: department
 - code: "72"
-  name: Xanthi
   type: department

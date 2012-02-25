@@ -1,25 +1,17 @@
 --- 
 - code: FUN
-  name: Funafuti
   type: town council
 - code: NMG
-  name: Nanumanga
   type: island council
 - code: NMA
-  name: Nanumea
   type: island council
 - code: NIT
-  name: Niutao
   type: island council
 - code: NIU
-  name: Nui
   type: island council
 - code: NKF
-  name: Nukufetau
   type: island council
 - code: NKL
-  name: Nukulaelae
   type: island council
 - code: VAI
-  name: Vaitupu
   type: island council

@@ -1,13 +1,9 @@
 --- 
 - code: DV
-  name: Devoll
   type: district
 - code: ER
-  name: "Kolonj\xC3\xAB"
   type: district
 - code: KO
-  name: "Kor\xC3\xA7\xC3\xAB"
   type: district
 - code: PG
-  name: Pogradec
   type: district

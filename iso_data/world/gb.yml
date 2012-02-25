@@ -1,712 +1,475 @@
 --- 
 - code: ENG
-  name: England
   type: country
 - code: SCT
-  name: Scotland
   type: country
 - code: NIR
-  name: Northern Ireland
   type: province
 - code: WLS
-  name: Wales
   type: principality
 - code: EAW
-  name: England and Wales
   type: included for completeness
 - code: GBN
-  name: Great Britain
   type: included for completeness
 - code: UKM
-  name: United Kingdom
   type: included for completeness
 - code: BKM
-  name: Buckinghamshire
   type: two-tier county
 - code: CAM
-  name: Cambridgeshire
   type: two-tier county
 - code: CMA
-  name: Cumbria
   type: two-tier county
 - code: DBY
-  name: Derbyshire
   type: two-tier county
 - code: DEV
-  name: Devon
   type: two-tier county
 - code: DOR
-  name: Dorset
   type: two-tier county
 - code: ESX
-  name: East Sussex
   type: two-tier county
 - code: ESS
-  name: Essex
   type: two-tier county
 - code: GLS
-  name: Gloucestershire
   type: two-tier county
 - code: HAM
-  name: Hampshire
   type: two-tier county
 - code: HRT
-  name: Hertfordshire
   type: two-tier county
 - code: KEN
-  name: Kent
   type: two-tier county
 - code: LAN
-  name: Lancashire
   type: two-tier county
 - code: LEC
-  name: Leicestershire
   type: two-tier county
 - code: LIN
-  name: Lincolnshire
   type: two-tier county
 - code: NFK
-  name: Norfolk
   type: two-tier county
 - code: NYK
-  name: North Yorkshire
   type: two-tier county
 - code: NTH
-  name: Northamptonshire
   type: two-tier county
 - code: NTT
-  name: Nottinghamshire
   type: two-tier county
 - code: OXF
-  name: Oxfordshire
   type: two-tier county
 - code: SOM
-  name: Somerset
   type: two-tier county
 - code: STS
-  name: Staffordshire
   type: two-tier county
 - code: SFK
-  name: Suffolk
   type: two-tier county
 - code: SRY
-  name: Surrey
   type: two-tier county
 - code: WAR
-  name: Warwickshire
   type: two-tier county
 - code: WSX
-  name: West Sussex
   type: two-tier county
 - code: WOR
-  name: Worcestershire
   type: two-tier county
 - code: BDG
-  name: Barking and Dagenham
   type: london borough
 - code: BNE
-  name: Barnet
   type: london borough
 - code: BEX
-  name: Bexley
   type: london borough
 - code: BEN
-  name: Brent
   type: london borough
 - code: BRY
-  name: Bromley
   type: london borough
 - code: CMD
-  name: Camden
   type: london borough
 - code: CRY
-  name: Croydon
   type: london borough
 - code: EAL
-  name: Ealing
   type: london borough
 - code: ENF
-  name: Enfield
   type: london borough
 - code: GRE
-  name: Greenwich
   type: london borough
 - code: HCK
-  name: Hackney
   type: london borough
 - code: HMF
-  name: Hammersmith and Fulham
   type: london borough
 - code: HRY
-  name: Haringey
   type: london borough
 - code: HRW
-  name: Harrow
   type: london borough
 - code: HAV
-  name: Havering
   type: london borough
 - code: HIL
-  name: Hillingdon
   type: london borough
 - code: HNS
-  name: Hounslow
   type: london borough
 - code: ISL
-  name: Islington
   type: london borough
 - code: KEC
-  name: Kensington and Chelsea
   type: london borough
 - code: KTT
-  name: Kingston upon Thames
   type: london borough
 - code: LBH
-  name: Lambeth
   type: london borough
 - code: LEW
-  name: Lewisham
   type: london borough
 - code: MRT
-  name: Merton
   type: london borough
 - code: NWM
-  name: Newham
   type: london borough
 - code: RDB
-  name: Redbridge
   type: london borough
 - code: RIC
-  name: Richmond upon Thames
   type: london borough
 - code: SWK
-  name: Southwark
   type: london borough
 - code: STN
-  name: Sutton
   type: london borough
 - code: TWH
-  name: Tower Hamlets
   type: london borough
 - code: WFT
-  name: Waltham Forest
   type: london borough
 - code: WND
-  name: Wandsworth
   type: london borough
 - code: WSM
-  name: Westminster
   type: london borough
 - code: BNS
-  name: Barnsley
   type: metropolitan district
 - code: BIR
-  name: Birmingham
   type: metropolitan district
 - code: BOL
-  name: Bolton
   type: metropolitan district
 - code: BRD
-  name: Bradford
   type: metropolitan district
 - code: BUR
-  name: Bury
   type: metropolitan district
 - code: CLD
-  name: Calderdale
   type: metropolitan district
 - code: COV
-  name: Coventry
   type: metropolitan district
 - code: DNC
-  name: Doncaster
   type: metropolitan district
 - code: DUD
-  name: Dudley
   type: metropolitan district
 - code: GAT
-  name: Gateshead
   type: metropolitan district
 - code: KIR
-  name: Kirklees
   type: metropolitan district
 - code: KWL
-  name: Knowsley
   type: metropolitan district
 - code: LDS
-  name: Leeds
   type: metropolitan district
 - code: LIV
-  name: Liverpool
   type: metropolitan district
 - code: MAN
-  name: Manchester
   type: metropolitan district
 - code: NET
-  name: Newcastle upon Tyne
   type: metropolitan district
 - code: NTY
-  name: North Tyneside
   type: metropolitan district
 - code: OLD
-  name: Oldham
   type: metropolitan district
 - code: RCH
-  name: Rochdale
   type: metropolitan district
 - code: ROT
-  name: Rotherham
   type: metropolitan district
 - code: SHN
-  name: St. Helens
   type: metropolitan district
 - code: SLF
-  name: Salford
   type: metropolitan district
 - code: SAW
-  name: Sandwell
   type: metropolitan district
 - code: SFT
-  name: Sefton
   type: metropolitan district
 - code: SHF
-  name: Sheffield
   type: metropolitan district
 - code: SOL
-  name: Solihull
   type: metropolitan district
 - code: STY
-  name: South Tyneside
   type: metropolitan district
 - code: SKP
-  name: Stockport
   type: metropolitan district
 - code: SND
-  name: Sunderland
   type: metropolitan district
 - code: TAM
-  name: Tameside
   type: metropolitan district
 - code: TRF
-  name: Trafford
   type: metropolitan district
 - code: WKF
-  name: Wakefield
   type: metropolitan district
 - code: WLL
-  name: Walsall
   type: metropolitan district
 - code: WGN
-  name: Wigan
   type: metropolitan district
 - code: WRL
-  name: Wirral
   type: metropolitan district
 - code: WLV
-  name: Wolverhampton
   type: metropolitan district
 - code: LND
-  name: London, City of
   type: city corporation
 - code: ABE
-  name: Aberdeen City
   type: council area
 - code: ABD
-  name: Aberdeenshire
   type: council area
 - code: ANS
-  name: Angus
   type: council area
 - code: AGB
-  name: Argyll and Bute
   type: council area
 - code: CLK
-  name: Clackmannanshire
   type: council area
 - code: DGY
-  name: Dumfries and Galloway
   type: council area
 - code: DND
-  name: Dundee City
   type: council area
 - code: EAY
-  name: East Ayrshire
   type: council area
 - code: EDU
-  name: East Dunbartonshire
   type: council area
 - code: ELN
-  name: East Lothian
   type: council area
 - code: ERW
-  name: East Renfrewshire
   type: council area
 - code: EDH
-  name: Edinburgh, City of
   type: council area
 - code: ELS
-  name: Eilean Siar
   type: council area
 - code: FAL
-  name: Falkirk
   type: council area
 - code: FIF
-  name: Fife
   type: council area
 - code: GLG
-  name: Glasgow City
   type: council area
 - code: HLD
-  name: Highland
   type: council area
 - code: IVC
-  name: Inverclyde
   type: council area
 - code: MLN
-  name: Midlothian
   type: council area
 - code: MRY
-  name: Moray
   type: council area
 - code: NAY
-  name: North Ayrshire
   type: council area
 - code: NLK
-  name: North Lanarkshire
   type: council area
 - code: ORK
-  name: Orkney Islands
   type: council area
 - code: PKN
-  name: Perth and Kinross
   type: council area
 - code: RFW
-  name: Renfrewshire
   type: council area
 - code: SCB
-  name: Scottish Borders, The
   type: council area
 - code: ZET
-  name: Shetland Islands
   type: council area
 - code: SAY
-  name: South Ayrshire
   type: council area
 - code: SLK
-  name: South Lanarkshire
   type: council area
 - code: STG
-  name: Stirling
   type: council area
 - code: WDU
-  name: West Dunbartonshire
   type: council area
 - code: WLN
-  name: West Lothian
   type: council area
 - code: ANT
-  name: Antrim
   type: district council area
 - code: ARD
-  name: Ards
   type: district council area
 - code: ARM
-  name: Armagh
   type: district council area
 - code: BLA
-  name: Ballymena
   type: district council area
 - code: BLY
-  name: Ballymoney
   type: district council area
 - code: BNB
-  name: Banbridge
   type: district council area
 - code: BFS
-  name: Belfast
   type: district council area
 - code: CKF
-  name: Carrickfergus
   type: district council area
 - code: CSR
-  name: Castlereagh
   type: district council area
 - code: CLR
-  name: Coleraine
   type: district council area
 - code: CKT
-  name: Cookstown
   type: district council area
 - code: CGV
-  name: Craigavon
   type: district council area
 - code: DRY
-  name: Derry
   type: district council area
 - code: DOW
-  name: Down
   type: district council area
 - code: DGN
-  name: Dungannon
   type: district council area
 - code: FER
-  name: Fermanagh
   type: district council area
 - code: LRN
-  name: Larne
   type: district council area
 - code: LMV
-  name: Limavady
   type: district council area
 - code: LSB
-  name: Lisburn
   type: district council area
 - code: MFT
-  name: Magherafelt
   type: district council area
 - code: MYL
-  name: Moyle
   type: district council area
 - code: NYM
-  name: Newry and Mourne
   type: district council area
 - code: NTA
-  name: Newtownabbey
   type: district council area
 - code: NDN
-  name: North Down
   type: district council area
 - code: OMH
-  name: Omagh
   type: district council area
 - code: STB
-  name: Strabane
   type: district council area
 - code: BAS
-  name: Bath and North East Somerset
   type: unitary authority (england)
 - code: BBD
-  name: Blackburn with Darwen
   type: unitary authority (england)
 - code: BDF
-  name: Bedford
   type: unitary authority (england)
 - code: BPL
-  name: Blackpool
   type: unitary authority (england)
 - code: BMH
-  name: Bournemouth
   type: unitary authority (england)
 - code: BRC
-  name: Bracknell Forest
   type: unitary authority (england)
 - code: BNH
-  name: Brighton and Hove
   type: unitary authority (england)
 - code: BST
-  name: Bristol, City of
   type: unitary authority (england)
 - code: CBF
-  name: Central Bedfordshire
   type: unitary authority (england)
 - code: CHE
-  name: Cheshire East
   type: unitary authority (england)
 - code: CHW
-  name: Cheshire West and Chester
   type: unitary authority (england)
 - code: CON
-  name: Cornwall
   type: unitary authority (england)
 - code: DAL
-  name: Darlington
   type: unitary authority (england)
 - code: DER
-  name: Derby
   type: unitary authority (england)
 - code: DUR
-  name: Durham
   type: unitary authority (england)
 - code: ERY
-  name: East Riding of Yorkshire
   type: unitary authority (england)
 - code: HAL
-  name: Halton
   type: unitary authority (england)
 - code: HPL
-  name: Hartlepool
   type: unitary authority (england)
 - code: HEF
-  name: Herefordshire
   type: unitary authority (england)
 - code: IOW
-  name: Isle of Wight
   type: unitary authority (england)
 - code: KHL
-  name: Kingston upon Hull
   type: unitary authority (england)
 - code: LCE
-  name: Leicester
   type: unitary authority (england)
 - code: LUT
-  name: Luton
   type: unitary authority (england)
 - code: MDW
-  name: Medway
   type: unitary authority (england)
 - code: MDB
-  name: Middlesbrough
   type: unitary authority (england)
 - code: MIK
-  name: Milton Keynes
   type: unitary authority (england)
 - code: NEL
-  name: North East Lincolnshire
   type: unitary authority (england)
 - code: NLN
-  name: North Lincolnshire
   type: unitary authority (england)
 - code: NSM
-  name: North Somerset
   type: unitary authority (england)
 - code: NBL
-  name: Northumberland
   type: unitary authority (england)
 - code: NGM
-  name: Nottingham
   type: unitary authority (england)
 - code: PTE
-  name: Peterborough
   type: unitary authority (england)
 - code: PLY
-  name: Plymouth
   type: unitary authority (england)
 - code: POL
-  name: Poole
   type: unitary authority (england)
 - code: POR
-  name: Portsmouth
   type: unitary authority (england)
 - code: RDG
-  name: Reading
   type: unitary authority (england)
 - code: RCC
-  name: Redcar and Cleveland
   type: unitary authority (england)
 - code: RUT
-  name: Rutland
   type: unitary authority (england)
 - code: SHR
-  name: Shropshire
   type: unitary authority (england)
 - code: SLG
-  name: Slough
   type: unitary authority (england)
 - code: SGC
-  name: South Gloucestershire
   type: unitary authority (england)
 - code: STH
-  name: Southampton
   type: unitary authority (england)
 - code: SOS
-  name: Southend-on-Sea
   type: unitary authority (england)
 - code: STT
-  name: Stockton-on-Tees
   type: unitary authority (england)
 - code: STE
-  name: Stoke-on-Trent
   type: unitary authority (england)
 - code: SWD
-  name: Swindon
   type: unitary authority (england)
 - code: TFW
-  name: Telford and Wrekin
   type: unitary authority (england)
 - code: THR
-  name: Thurrock
   type: unitary authority (england)
 - code: TOB
-  name: Torbay
   type: unitary authority (england)
 - code: WRT
-  name: Warrington
   type: unitary authority (england)
 - code: WBK
-  name: West Berkshire
   type: unitary authority (england)
 - code: WNM
-  name: Windsor and Maidenhead
   type: unitary authority (england)
 - code: WOK
-  name: Wokingham
   type: unitary authority (england)
 - code: YOR
-  name: York
   type: unitary authority (england)
 - code: BGW
-  name: Blaenau Gwent
   type: unitary authority (wales)
 - code: BGE
-  name: Bridgend;Pen-y-bont ar Ogwr
   type: unitary authority (wales)
 - code: CAY
-  name: Caerphilly;Caerffili
   type: unitary authority (wales)
 - code: CRF
-  name: Cardiff;Caerdydd
   type: unitary authority (wales)
 - code: CMN
-  name: Carmarthenshire;Sir Gaerfyrddin
   type: unitary authority (wales)
 - code: CGN
-  name: Ceredigion;Sir Ceredigion
   type: unitary authority (wales)
 - code: CWY
-  name: Conwy
   type: unitary authority (wales)
 - code: DEN
-  name: Denbighshire;Sir Ddinbych
   type: unitary authority (wales)
 - code: FLN
-  name: Flintshire;Sir y Fflint
   type: unitary authority (wales)
 - code: GWN
-  name: Gwynedd
   type: unitary authority (wales)
 - code: AGY
-  name: "Isle of Anglesey;Sir Ynys M\xC3\xB4n"
   type: unitary authority (wales)
 - code: MTY
-  name: Merthyr Tydfil;Merthyr Tudful
   type: unitary authority (wales)
 - code: MON
-  name: Monmouthshire;Sir Fynwy
   type: unitary authority (wales)
 - code: NTL
-  name: Neath Port Talbot;Castell-nedd Port Talbot
   type: unitary authority (wales)
 - code: NWP
-  name: Newport;Casnewydd
   type: unitary authority (wales)
 - code: PEM
-  name: Pembrokeshire;Sir Benfro
   type: unitary authority (wales)
 - code: POW
-  name: Powys
   type: unitary authority (wales)
 - code: RCT
-  name: Rhondda, Cynon, Taff;Rhondda, Cynon,Taf
   type: unitary authority (wales)
 - code: SWA
-  name: Swansea;Abertawe
   type: unitary authority (wales)
 - code: TOF
-  name: Torfaen;Tor-faen
   type: unitary authority (wales)
 - code: VGL
-  name: Vale of Glamorgan, The;Bro Morgannwg
   type: unitary authority (wales)
 - code: WRX
-  name: Wrexham;Wrecsam
   type: unitary authority (wales)

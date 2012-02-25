@@ -1,7 +1,5 @@
 --- 
 - code: B
-  name: Ilhas de Barlavento
   type: geographical region
 - code: S
-  name: Ilhas de Sotavento
   type: geographical region

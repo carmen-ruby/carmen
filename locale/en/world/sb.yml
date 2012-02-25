@@ -1,0 +1,24 @@
+--- 
+en: 
+  world: 
+    sb: 
+    - ct: 
+        name: Capital Territory (Honiara)
+    - ce: 
+        name: Central
+    - ch: 
+        name: Choiseul
+    - gu: 
+        name: Guadalcanal
+    - is: 
+        name: Isabel
+    - mk: 
+        name: Makira
+    - ml: 
+        name: Malaita
+    - rb: 
+        name: Rennell and Bellona
+    - te: 
+        name: Temotu
+    - we: 
+        name: Western

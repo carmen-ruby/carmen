@@ -1,10 +1,7 @@
 --- 
 - code: "13"
-  name: "Acha\xC3\xAFa"
   type: department
 - code: "01"
-  name: Aitolia kai Akarnania
   type: department
 - code: "14"
-  name: Ileia
   type: department

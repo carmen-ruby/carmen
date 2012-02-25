@@ -1,22 +1,15 @@
 --- 
 - code: CHT
-  name: Chtouka-Ait Baha
   type: province
 - code: OUA
-  name: Ouarzazate
   type: province
 - code: TAR
-  name: Taroudant
   type: province
 - code: TIZ
-  name: Tiznit
   type: province
 - code: ZAG
-  name: Zagora
   type: province
 - code: AGD
-  name: Agadir-Ida-Outanane
   type: prefecture
 - code: INE
-  name: Inezgane-Ait Melloul
   type: prefecture

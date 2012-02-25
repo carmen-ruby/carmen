@@ -1,19 +1,13 @@
 --- 
 - code: GO
-  name: Gorontalo
   type: province
 - code: SR
-  name: Sulawesi Barat
   type: province
 - code: SN
-  name: Sulawesi Selatan
   type: province
 - code: ST
-  name: Sulawesi Tengah
   type: province
 - code: SG
-  name: Sulawesi Tenggara
   type: province
 - code: SA
-  name: Sulawesi Utara
   type: province

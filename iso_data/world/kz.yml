@@ -1,49 +1,33 @@
 --- 
 - code: ALA
-  name: Almaty
   type: city
 - code: AST
-  name: Astana
   type: city
 - code: ALM
-  name: Almaty oblysy
   type: region
 - code: AKM
-  name: Aqmola oblysy
   type: region
 - code: AKT
-  name: "Aqt\xC3\xB6be oblysy"
   type: region
 - code: ATY
-  name: "Atyra\xC5\xAB oblysy"
   type: region
 - code: ZAP
-  name: Batys Quzaqstan oblysy
   type: region
 - code: MAN
-  name: "Mangghysta\xC5\xAB oblysy"
   type: region
 - code: YUZ
-  name: "Ongt\xC3\xBCstik Qazaqstan oblysy"
   type: region
 - code: PAV
-  name: Pavlodar oblysy
   type: region
 - code: KAR
-  name: Qaraghandy oblysy
   type: region
 - code: KUS
-  name: Qostanay oblysy
   type: region
 - code: KZY
-  name: Qyzylorda oblysy
   type: region
 - code: VOS
-  name: Shyghys Qazaqstan oblysy
   type: region
 - code: SEV
-  name: "Solt\xC3\xBCstik Quzaqstan oblysy"
   type: region
 - code: ZHA
-  name: Zhambyl oblysy
   type: region

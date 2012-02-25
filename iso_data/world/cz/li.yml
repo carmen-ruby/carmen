@@ -1,13 +1,9 @@
 --- 
 - code: "511"
-  name: "\xC4\x8Cesk\xC3\xA1 L\xC3\xADpa"
   type: district
 - code: "512"
-  name: Jablonec nad Nisou
   type: district
 - code: "513"
-  name: Liberec
   type: district
 - code: "514"
-  name: Semily
   type: district

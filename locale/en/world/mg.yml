@@ -1,0 +1,16 @@
+--- 
+en: 
+  world: 
+    mg: 
+    - t: 
+        name: Antananarivo
+    - d: 
+        name: Antsiranana
+    - f: 
+        name: Fianarantsoa
+    - m: 
+        name: Mahajanga
+    - a: 
+        name: Toamasina
+    - u: 
+        name: Toliara

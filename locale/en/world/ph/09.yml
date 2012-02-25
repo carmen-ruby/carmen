@@ -1,0 +1,13 @@
+--- 
+en: 
+  world: 
+    ph: 
+      09: 
+      - bas: 
+          name: Basilan
+      - zan: 
+          name: Zamboanga del Norte
+      - zas: 
+          name: Zamboanga del Sur
+      - zsi: 
+          name: Zamboanga Sibugay

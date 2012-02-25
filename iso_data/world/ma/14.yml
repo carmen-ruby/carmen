@@ -1,16 +1,11 @@
 --- 
 - code: ASZ
-  name: Assa-Zag
   type: province
 - code: ESM
-  name: Es Smara (EH)
   type: province
 - code: GUE
-  name: Guelmim
   type: province
 - code: TNT
-  name: Tan-Tan
   type: province
 - code: TAT
-  name: Tata
   type: province

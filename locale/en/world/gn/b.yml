@@ -1,0 +1,15 @@
+--- 
+en: 
+  world: 
+    gn: 
+      b: 
+      - bf: 
+          name: Boffa
+      - bk: 
+          name: "Bok\xC3\xA9"
+      - fr: 
+          name: Fria
+      - ga: 
+          name: Gaoual
+      - kn: 
+          name: Koundara

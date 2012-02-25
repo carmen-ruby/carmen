@@ -1,13 +1,9 @@
 --- 
 - code: BOH
-  name: Bohol
   type: province
 - code: CEB
-  name: Cebu
   type: province
 - code: NER
-  name: Negros Oriental
   type: province
 - code: SIG
-  name: Siquijor
   type: province

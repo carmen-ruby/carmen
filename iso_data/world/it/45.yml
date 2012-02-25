@@ -1,28 +1,19 @@
 --- 
 - code: BO
-  name: Bologna
   type: province
 - code: FE
-  name: Ferrara
   type: province
 - code: FC
-  name: "Forl\xC3\xAC-Cesena"
   type: province
 - code: MO
-  name: Modena
   type: province
 - code: PR
-  name: Parma
   type: province
 - code: PC
-  name: Piacenza
   type: province
 - code: RA
-  name: Ravenna
   type: province
 - code: RE
-  name: Reggio Emilia
   type: province
 - code: RN
-  name: Rimini
   type: province

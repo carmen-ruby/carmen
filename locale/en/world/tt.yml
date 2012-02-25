@@ -1,0 +1,36 @@
+--- 
+en: 
+  world: 
+    tt: 
+    - ctt: 
+        name: Couva-Tabaquite-Talparo
+    - dmn: 
+        name: Diego Martin
+    - eto: 
+        name: Eastern Tobago
+    - ped: 
+        name: Penal-Debe
+    - prt: 
+        name: Princes Town
+    - rcm: 
+        name: Rio Claro-Mayaro
+    - sge: 
+        name: Sangre Grande
+    - sjl: 
+        name: San Juan-Laventille
+    - sip: 
+        name: Siparia
+    - tup: 
+        name: Tunapuna-Piarco
+    - wto: 
+        name: Western Tobago
+    - ari: 
+        name: Arima
+    - cha: 
+        name: Chaguanas
+    - ptf: 
+        name: Point Fortin
+    - pos: 
+        name: Port of Spain
+    - sfo: 
+        name: San Fernando

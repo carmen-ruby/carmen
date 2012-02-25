@@ -1,46 +1,31 @@
 --- 
 - code: 09
-  name: "Camag\xC3\xBCey"
   type: province
 - code: 08
-  name: "Ciego de \xC3\x81vila"
   type: province
 - code: "06"
-  name: Cienfuegos
   type: province
 - code: "03"
-  name: Ciudad de La Habana
   type: province
 - code: "12"
-  name: Granma
   type: province
 - code: "14"
-  name: "Guant\xC3\xA1namo"
   type: province
 - code: "11"
-  name: "Holgu\xC3\xADn"
   type: province
 - code: "02"
-  name: La Habana
   type: province
 - code: "10"
-  name: Las Tunas
   type: province
 - code: "04"
-  name: Matanzas
   type: province
 - code: "01"
-  name: Pinar del Rio
   type: province
 - code: "07"
-  name: "Sancti Sp\xC3\xADritus"
   type: province
 - code: "13"
-  name: Santiago de Cuba
   type: province
 - code: "05"
-  name: Villa Clara
   type: province
 - code: "99"
-  name: Isla de la Juventud
   type: special municipality

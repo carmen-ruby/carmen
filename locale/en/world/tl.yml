@@ -1,0 +1,30 @@
+--- 
+en: 
+  world: 
+    tl: 
+    - al: 
+        name: Aileu
+    - an: 
+        name: Ainaro
+    - ba: 
+        name: Baucau
+    - bo: 
+        name: Bobonaro
+    - co: 
+        name: Cova Lima
+    - di: 
+        name: Dili
+    - er: 
+        name: Ermera
+    - la: 
+        name: Lautem
+    - li: 
+        name: "Liqui\xC3\xA7a"
+    - mt: 
+        name: Manatuto
+    - mf: 
+        name: Manufahi
+    - oe: 
+        name: Oecussi
+    - vi: 
+        name: Viqueque

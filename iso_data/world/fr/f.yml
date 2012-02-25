@@ -1,19 +1,13 @@
 --- 
 - code: "18"
-  name: Cher
   type: metropolitan department
 - code: "28"
-  name: Eure-et-Loir
   type: metropolitan department
 - code: "36"
-  name: Indre
   type: metropolitan department
 - code: "37"
-  name: Indre-et-Loire
   type: metropolitan department
 - code: "41"
-  name: Loir-et-Cher
   type: metropolitan department
 - code: "45"
-  name: Loiret
   type: metropolitan department

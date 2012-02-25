@@ -1,49 +1,33 @@
 --- 
 - code: "002"
-  name: Aimeliik
   type: state
 - code: "004"
-  name: Airai
   type: state
 - code: "010"
-  name: Angaur
   type: state
 - code: "050"
-  name: Hatobohei
   type: state
 - code: "100"
-  name: Kayangel
   type: state
 - code: "150"
-  name: Koror
   type: state
 - code: "212"
-  name: Melekeok
   type: state
 - code: "214"
-  name: Ngaraard
   type: state
 - code: "218"
-  name: Ngarchelong
   type: state
 - code: "222"
-  name: Ngardmau
   type: state
 - code: "224"
-  name: Ngatpang
   type: state
 - code: "226"
-  name: Ngchesar
   type: state
 - code: "227"
-  name: Ngeremlengui
   type: state
 - code: "228"
-  name: Ngiwal
   type: state
 - code: "350"
-  name: Peleliu
   type: state
 - code: "370"
-  name: Sonsorol
   type: state

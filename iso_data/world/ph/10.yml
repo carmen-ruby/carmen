@@ -1,13 +1,9 @@
 --- 
 - code: BUK
-  name: Bukidnon
   type: province
 - code: CAM
-  name: Camiguin
   type: province
 - code: MSC
-  name: Misamis Occidental
   type: province
 - code: MSR
-  name: Misamis Oriental
   type: province

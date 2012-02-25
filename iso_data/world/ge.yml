@@ -1,37 +1,25 @@
 --- 
 - code: AB
-  name: Abkhazia
   type: autonomous republic
 - code: AJ
-  name: Ajaria
   type: autonomous republic
 - code: TB
-  name: "T\xE2\x80\x99bilisi"
   type: city
 - code: GU
-  name: Guria
   type: region
 - code: IM
-  name: "Imeret\xE2\x80\x99i"
   type: region
 - code: KA
-  name: "Kakhet\xE2\x80\x99i"
   type: region
 - code: KK
-  name: "K\xE2\x80\x99vemo K\xE2\x80\x99art\xE2\x80\x99li"
   type: region
 - code: MM
-  name: "Mts\xE2\x80\x99khet\xE2\x80\x99a-Mt\xE2\x80\x99ianet\xE2\x80\x99i"
   type: region
 - code: RL
-  name: "Racha-Lech\xE2\x80\x99khumi-K\xE2\x80\x99vemo Svanet\xE2\x80\x99i"
   type: region
 - code: SZ
-  name: "Samegrelo-Zemo Svanet\xE2\x80\x99i"
   type: region
 - code: SJ
-  name: "Samts\xE2\x80\x99khe-Javakhet\xE2\x80\x99i"
   type: region
 - code: SK
-  name: "Shida K\xE2\x80\x99art\xE2\x80\x99li"
   type: region

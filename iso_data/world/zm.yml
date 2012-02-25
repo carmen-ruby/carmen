@@ -1,28 +1,19 @@
 --- 
 - code: "02"
-  name: Central
   type: province
 - code: 08
-  name: Copperbelt
   type: province
 - code: "03"
-  name: Eastern
   type: province
 - code: "04"
-  name: Luapula
   type: province
 - code: 09
-  name: Lusaka
   type: province
 - code: "05"
-  name: Northern
   type: province
 - code: "06"
-  name: North-Western
   type: province
 - code: "07"
-  name: Southern (Zambia)
   type: province
 - code: "01"
-  name: Western
   type: province

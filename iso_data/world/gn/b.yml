@@ -1,16 +1,11 @@
 --- 
 - code: BF
-  name: Boffa
   type: prefecture
 - code: BK
-  name: "Bok\xC3\xA9"
   type: prefecture
 - code: FR
-  name: Fria
   type: prefecture
 - code: GA
-  name: Gaoual
   type: prefecture
 - code: KN
-  name: Koundara
   type: prefecture

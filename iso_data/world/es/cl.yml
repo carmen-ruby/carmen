@@ -1,28 +1,19 @@
 --- 
 - code: AV
-  name: "\xC3\x81vila"
   type: province
 - code: BU
-  name: Burgos
   type: province
 - code: LE
-  name: "Le\xC3\xB3n"
   type: province
 - code: P
-  name: Palencia
   type: province
 - code: SA
-  name: Salamanca
   type: province
 - code: SG
-  name: Segovia
   type: province
 - code: SO
-  name: Soria
   type: province
 - code: VA
-  name: Valladolid
   type: province
 - code: ZA
-  name: Zamora
   type: province

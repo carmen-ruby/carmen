@@ -1,0 +1,16 @@
+--- 
+en: 
+  world: 
+    vu: 
+    - map: 
+        name: Malampa
+    - pam: 
+        name: "P\xC3\xA9nama"
+    - sam: 
+        name: Sanma
+    - see: 
+        name: "Sh\xC3\xA9fa"
+    - tae: 
+        name: "Taf\xC3\xA9a"
+    - tob: 
+        name: Torba

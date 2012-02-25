@@ -1,16 +1,11 @@
 --- 
 - code: "44"
-  name: Loire-Atlantique
   type: metropolitan department
 - code: "49"
-  name: Maine-et-Loire
   type: metropolitan department
 - code: "53"
-  name: Mayenne
   type: metropolitan department
 - code: "72"
-  name: Sarthe
   type: metropolitan department
 - code: "85"
-  name: "Vend\xC3\xA9e"
   type: metropolitan department

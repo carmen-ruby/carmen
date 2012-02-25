@@ -1,67 +1,45 @@
 --- 
 - code: AV
-  name: Alta Verapaz
   type: department
 - code: BV
-  name: Baja Verapaz
   type: department
 - code: CM
-  name: Chimaltenango
   type: department
 - code: CQ
-  name: Chiquimula
   type: department
 - code: PR
-  name: El Progreso
   type: department
 - code: ES
-  name: Escuintla
   type: department
 - code: GU
-  name: Guatemala
   type: department
 - code: HU
-  name: Huehuetenango
   type: department
 - code: IZ
-  name: Izabal
   type: department
 - code: JA
-  name: Jalapa
   type: department
 - code: JU
-  name: Jutiapa
   type: department
 - code: PE
-  name: "Pet\xC3\xA9n"
   type: department
 - code: QZ
-  name: Quetzaltenango
   type: department
 - code: QC
-  name: "Quich\xC3\xA9"
   type: department
 - code: RE
-  name: Retalhuleu
   type: department
 - code: SA
-  name: "Sacatep\xC3\xA9quez"
   type: department
 - code: SM
-  name: San Marcos
   type: department
 - code: SR
-  name: Santa Rosa
   type: department
 - code: SO
-  name: "Solol\xC3\xA1"
   type: department
 - code: SU
-  name: "Suchitep\xC3\xA9quez"
   type: department
 - code: TO
-  name: "Totonicap\xC3\xA1n"
   type: department
 - code: ZA
-  name: Zacapa
   type: department

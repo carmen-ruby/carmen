@@ -1,13 +1,9 @@
 --- 
 - code: C
-  name: Connacht
   type: province
 - code: L
-  name: Leinster
   type: province
 - code: M
-  name: Munster
   type: province
 - code: U
-  name: Ulster
   type: province

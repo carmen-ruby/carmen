@@ -1,0 +1,21 @@
+--- 
+en: 
+  world: 
+    it: 
+      "21": 
+      - al: 
+          name: Alessandria
+      - at: 
+          name: Asti
+      - bi: 
+          name: Biella
+      - cn: 
+          name: Cuneo
+      - "no": 
+          name: Novara
+      - to: 
+          name: Torino
+      - vb: 
+          name: Verbano-Cusio-Ossola
+      - vc: 
+          name: Vercelli

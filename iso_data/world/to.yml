@@ -1,16 +1,11 @@
 --- 
 - code: "01"
-  name: "'Eua"
   type: division
 - code: "02"
-  name: Ha'apai
   type: division
 - code: "03"
-  name: Niuas
   type: division
 - code: "04"
-  name: Tongatapu
   type: division
 - code: "05"
-  name: Vava'u
   type: division

@@ -1,13 +1,9 @@
 --- 
 - code: KHE
-  name: Khemisaet
   type: province
 - code: RAB
-  name: Rabat
   type: prefecture
 - code: SAL
-  name: "Sal\xC3\xA9"
   type: prefecture
 - code: SKH
-  name: "Skhirate-T\xC3\xA9mara"
   type: prefecture

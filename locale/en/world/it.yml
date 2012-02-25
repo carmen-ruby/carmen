@@ -1,0 +1,44 @@
+--- 
+en: 
+  world: 
+    it: 
+    - "65": 
+        name: Abruzzo
+    - "77": 
+        name: Basilicata
+    - "78": 
+        name: Calabria
+    - "72": 
+        name: Campania
+    - "45": 
+        name: Emilia-Romagna
+    - "36": 
+        name: Friuli-Venezia Giulia
+    - "62": 
+        name: Lazio
+    - "42": 
+        name: Liguria
+    - "25": 
+        name: Lombardia
+    - "57": 
+        name: Marche
+    - "67": 
+        name: Molise
+    - "21": 
+        name: Piemonte
+    - "75": 
+        name: Puglia
+    - "88": 
+        name: Sardegna
+    - "82": 
+        name: Sicilia
+    - "52": 
+        name: Toscana
+    - "32": 
+        name: Trentino-Alto Adige
+    - "55": 
+        name: Umbria
+    - "23": 
+        name: Valle d'Aosta
+    - "34": 
+        name: Veneto

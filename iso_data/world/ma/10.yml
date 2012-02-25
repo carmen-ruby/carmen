@@ -1,7 +1,5 @@
 --- 
 - code: JDI
-  name: El Jadida
   type: province
 - code: SAF
-  name: Safi
   type: province

@@ -1,0 +1,70 @@
+--- 
+en: 
+  world: 
+    co: 
+    - dc: 
+        name: "Distrito Capital de Bogot\xC3\xA1"
+    - ama: 
+        name: Amazonas
+    - ant: 
+        name: Antioquia
+    - ara: 
+        name: Arauca
+    - atl: 
+        name: "Atl\xC3\xA1ntico"
+    - bol: 
+        name: "Bol\xC3\xADvar"
+    - boy: 
+        name: "Boyac\xC3\xA1"
+    - cal: 
+        name: Caldas
+    - caq: 
+        name: "Caquet\xC3\xA1"
+    - cas: 
+        name: Casanare
+    - cau: 
+        name: Cauca
+    - ces: 
+        name: Cesar
+    - cho: 
+        name: "Choc\xC3\xB3"
+    - cor: 
+        name: "C\xC3\xB3rdoba"
+    - cun: 
+        name: Cundinamarca
+    - gua: 
+        name: "Guain\xC3\xADa"
+    - guv: 
+        name: Guaviare
+    - hui: 
+        name: Huila
+    - lag: 
+        name: La Guajira
+    - mag: 
+        name: Magdalena
+    - met: 
+        name: Meta
+    - nar: 
+        name: "Nari\xC3\xB1o"
+    - nsa: 
+        name: Norte de Santander
+    - put: 
+        name: Putumayo
+    - qui: 
+        name: "Quind\xC3\xADo"
+    - ris: 
+        name: Risaralda
+    - sap: 
+        name: "San Andr\xC3\xA9s, Providencia y Santa Catalina"
+    - san: 
+        name: Santander
+    - suc: 
+        name: Sucre
+    - tol: 
+        name: Tolima
+    - vac: 
+        name: Valle del Cauca
+    - vau: 
+        name: "Vaup\xC3\xA9s"
+    - vid: 
+        name: Vichada

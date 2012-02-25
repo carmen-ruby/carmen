@@ -1,22 +1,15 @@
 --- 
 - code: BL
-  name: Belluno
   type: province
 - code: PD
-  name: Padova
   type: province
 - code: RO
-  name: Rovigo
   type: province
 - code: TV
-  name: Treviso
   type: province
 - code: VE
-  name: Venezia
   type: province
 - code: VR
-  name: Verona
   type: province
 - code: VI
-  name: Vicenza
   type: province

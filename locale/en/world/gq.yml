@@ -1,0 +1,22 @@
+--- 
+en: 
+  world: 
+    gq: 
+    - c: 
+        name: "Regi\xC3\xB3n Continental"
+    - i: 
+        name: "Regi\xC3\xB3n Insular"
+    - an: 
+        name: "Annob\xC3\xB3n"
+    - bn: 
+        name: Bioko Norte
+    - bs: 
+        name: Bioko Sur
+    - cs: 
+        name: Centro Sur
+    - kn: 
+        name: "Ki\xC3\xA9-Ntem"
+    - li: 
+        name: Litoral
+    - wn: 
+        name: "Wele-Nz\xC3\xA1s"

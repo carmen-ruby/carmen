@@ -1,0 +1,14 @@
+--- 
+en: 
+  world: 
+    tg: 
+    - c: 
+        name: "R\xC3\xA9gion du Centre"
+    - k: 
+        name: "R\xC3\xA9gion de la Kara"
+    - m: 
+        name: "R\xC3\xA9gion Maritime"
+    - p: 
+        name: "R\xC3\xA9gion des Plateaux"
+    - s: 
+        name: "R\xC3\xA9gion des Savannes"

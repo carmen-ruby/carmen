@@ -1,0 +1,64 @@
+--- 
+en: 
+  world: 
+    do: 
+    - "01": 
+        name: Distrito Nacional (Santo Domingo)
+    - "02": 
+        name: Azua
+    - "03": 
+        name: Bahoruco
+    - "04": 
+        name: Barahona
+    - "05": 
+        name: "Dajab\xC3\xB3n"
+    - "06": 
+        name: Duarte
+    - 08: 
+        name: El Seybo [El Seibo]
+    - 09: 
+        name: Espaillat
+    - "30": 
+        name: Hato Mayor
+    - "10": 
+        name: Independencia
+    - "11": 
+        name: La Altagracia
+    - "07": 
+        name: "La Estrelleta [El\xC3\xADas Pi\xC3\xB1a]"
+    - "12": 
+        name: La Romana
+    - "13": 
+        name: La Vega
+    - "14": 
+        name: "Mar\xC3\xADa Trinidad S\xC3\xA1nchez"
+    - "28": 
+        name: "Monse\xC3\xB1or Nouel"
+    - "15": 
+        name: Monte Cristi
+    - "29": 
+        name: Monte Plata
+    - "16": 
+        name: Pedernales
+    - "17": 
+        name: Peravia
+    - "18": 
+        name: Puerto Plata
+    - "19": 
+        name: Salcedo
+    - "20": 
+        name: "Saman\xC3\xA1"
+    - "21": 
+        name: "San Crist\xC3\xB3bal"
+    - "22": 
+        name: San Juan
+    - "23": 
+        name: "San Pedro de Macor\xC3\xADs"
+    - "24": 
+        name: "S\xC3\xA1nchez Ram\xC3\xADrez"
+    - "25": 
+        name: Santiago
+    - "26": 
+        name: "Santiago Rodr\xC3\xADguez"
+    - "27": 
+        name: Valverde

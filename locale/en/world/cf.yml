@@ -1,0 +1,38 @@
+--- 
+en: 
+  world: 
+    cf: 
+    - bgf: 
+        name: Bangui
+    - bb: 
+        name: Bamingui-Bangoran
+    - bk: 
+        name: Basse-Kotto
+    - hk: 
+        name: Haute-Kotto
+    - hm: 
+        name: Haut-Mbomou
+    - kg: 
+        name: "K\xC3\xA9mo-Gribingui"
+    - lb: 
+        name: Lobaye
+    - hs: 
+        name: "Haute-Sangha / Mamb\xC3\xA9r\xC3\xA9-Kad\xC3\xA9\xC3\xAF"
+    - mb: 
+        name: Mbomou
+    - nm: 
+        name: "Nana-Mamb\xC3\xA9r\xC3\xA9"
+    - mp: 
+        name: Ombella-M'poko
+    - uk: 
+        name: Ouaka
+    - ac: 
+        name: Ouham
+    - op: 
+        name: "Ouham-Pend\xC3\xA9"
+    - vk: 
+        name: Vakaga
+    - kb: 
+        name: Gribingui
+    - se: 
+        name: Sangha

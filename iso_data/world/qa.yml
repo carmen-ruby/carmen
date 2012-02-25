@@ -1,28 +1,19 @@
 --- 
 - code: DA
-  name: Ad Dawhah
   type: municipality
 - code: GH
-  name: Al Ghuwayriyah
   type: municipality
 - code: JU
-  name: Al Jumayliyah
   type: municipality
 - code: KH
-  name: Al Khawr
   type: municipality
 - code: WA
-  name: Al Wakrah
   type: municipality
 - code: RA
-  name: Ar Rayyan
   type: municipality
 - code: JB
-  name: Jariyan al Batnah
   type: municipality
 - code: MS
-  name: Madinat ash Shamal
   type: municipality
 - code: US
-  name: Umm Salal
   type: municipality

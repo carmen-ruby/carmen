@@ -1,19 +1,13 @@
 --- 
 - code: AN
-  name: Anseba
   type: province
 - code: DU
-  name: Debub
   type: province
 - code: DK
-  name: Debubawi Keyih Bahri [Debub-Keih-Bahri]
   type: province
 - code: GB
-  name: Gash-Barka
   type: province
 - code: MA
-  name: Maakel [Maekel]
   type: province
 - code: SK
-  name: Semenawi Keyih Bahri [Semien-Keih-Bahri]
   type: province

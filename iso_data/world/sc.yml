@@ -1,76 +1,51 @@
 --- 
 - code: "01"
-  name: Anse aux Pins
   type: district
 - code: "02"
-  name: Anse Boileau
   type: district
 - code: "03"
-  name: Anse Etoile
   type: district
 - code: "04"
-  name: Anse Louis
   type: district
 - code: "05"
-  name: Anse Royale
   type: district
 - code: "06"
-  name: Baie Lazare
   type: district
 - code: "07"
-  name: Baie Sainte Anne
   type: district
 - code: 08
-  name: Beau Vallon
   type: district
 - code: 09
-  name: Bel Air
   type: district
 - code: "10"
-  name: Bel Ombre
   type: district
 - code: "11"
-  name: Cascade
   type: district
 - code: "12"
-  name: Glacis
   type: district
 - code: "13"
-  name: Grand Anse Mahe
   type: district
 - code: "14"
-  name: Grand Anse Praslin
   type: district
 - code: "15"
-  name: La Digue
   type: district
 - code: "16"
-  name: English River
   type: district
 - code: "24"
-  name: Les Mamelles
   type: district
 - code: "17"
-  name: Mont Buxton
   type: district
 - code: "18"
-  name: Mont Fleuri
   type: district
 - code: "19"
-  name: Plaisance
   type: district
 - code: "20"
-  name: Pointe Larue
   type: district
 - code: "21"
-  name: Port Glaud
   type: district
 - code: "25"
-  name: Roche Caiman
   type: district
 - code: "22"
-  name: Saint Louis
   type: district
 - code: "23"
-  name: Takamaka
   type: district

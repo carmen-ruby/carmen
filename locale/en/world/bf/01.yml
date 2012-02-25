@@ -1,0 +1,17 @@
+--- 
+en: 
+  world: 
+    bf: 
+      "01": 
+      - bal: 
+          name: "Bal\xC3\xA9"
+      - ban: 
+          name: Banwa
+      - kos: 
+          name: Kossi
+      - mou: 
+          name: Mouhoun
+      - nay: 
+          name: Nayala
+      - sor: 
+          name: Sourou

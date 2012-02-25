@@ -1,43 +1,29 @@
 --- 
 - code: AH
-  name: "Ahuachap\xC3\xA1n"
   type: department
 - code: CA
-  name: "Caba\xC3\xB1as"
   type: department
 - code: CU
-  name: "Cuscatl\xC3\xA1n"
   type: department
 - code: CH
-  name: Chalatenango
   type: department
 - code: LI
-  name: La Libertad
   type: department
 - code: PA
-  name: La Paz
   type: department
 - code: UN
-  name: "La Uni\xC3\xB3n"
   type: department
 - code: MO
-  name: "Moraz\xC3\xA1n"
   type: department
 - code: SM
-  name: San Miguel
   type: department
 - code: SS
-  name: San Salvador
   type: department
 - code: SA
-  name: Santa Ana
   type: department
 - code: SV
-  name: San Vicente
   type: department
 - code: SO
-  name: Sonsonate
   type: department
 - code: US
-  name: "Usulut\xC3\xA1n"
   type: department

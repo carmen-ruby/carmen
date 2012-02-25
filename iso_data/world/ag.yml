@@ -1,25 +1,17 @@
 --- 
 - code: "03"
-  name: Saint George
   type: parish
 - code: "04"
-  name: Saint John
   type: parish
 - code: "05"
-  name: Saint Mary
   type: parish
 - code: "06"
-  name: Saint Paul
   type: parish
 - code: "07"
-  name: Saint Peter
   type: parish
 - code: 08
-  name: Saint Philip
   type: parish
 - code: "10"
-  name: Barbuda
   type: dependency
 - code: "11"
-  name: Redonda
   type: dependency

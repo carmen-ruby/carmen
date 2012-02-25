@@ -1,106 +1,71 @@
 --- 
 - code: A
-  name: Alsace
   type: metropolitan region
 - code: B
-  name: Aquitaine
   type: metropolitan region
 - code: C
-  name: Auvergne
   type: metropolitan region
 - code: P
-  name: Basse-Normandie
   type: metropolitan region
 - code: D
-  name: Bourgogne
   type: metropolitan region
 - code: E
-  name: Bretagne
   type: metropolitan region
 - code: F
-  name: Centre
   type: metropolitan region
 - code: G
-  name: Champagne-Ardenne
   type: metropolitan region
 - code: H
-  name: Corse
   type: metropolitan region
 - code: I
-  name: "Franche-Comt\xC3\xA9"
   type: metropolitan region
 - code: Q
-  name: Haute-Normandie
   type: metropolitan region
 - code: J
-  name: "\xC3\x8Ele-de-France"
   type: metropolitan region
 - code: K
-  name: Languedoc-Roussillon
   type: metropolitan region
 - code: L
-  name: Limousin
   type: metropolitan region
 - code: M
-  name: Lorraine
   type: metropolitan region
 - code: N
-  name: "Midi-Pyr\xC3\xA9n\xC3\xA9es"
   type: metropolitan region
 - code: O
-  name: Nord - Pas-de-Calais
   type: metropolitan region
 - code: R
-  name: Pays de la Loire
   type: metropolitan region
 - code: S
-  name: Picardie
   type: metropolitan region
 - code: T
-  name: Poitou-Charentes
   type: metropolitan region
 - code: U
-  name: "Provence-Alpes-C\xC3\xB4te d'Azur"
   type: metropolitan region
 - code: V
-  name: "Rh\xC3\xB4ne-Alpes"
   type: metropolitan region
 - code: GP
-  name: Guadeloupe
   type: overseas region/department
 - code: GF
-  name: Guyane
   type: overseas region/department
 - code: MQ
-  name: Martinique
   type: overseas region/department
 - code: RE
-  name: "R\xC3\xA9union"
   type: overseas region/department
 - code: CP
-  name: Clipperton
   type: dependency
 - code: YT
-  name: Mayotte
   type: overseas territorial collectivity
 - code: NC
-  name: "Nouvelle-Cal\xC3\xA9donie"
   type: overseas territorial collectivity
 - code: PF
-  name: "Polyn\xC3\xA9sie fran\xC3\xA7aise"
   type: overseas territorial collectivity
 - code: BL
-  name: "Saint-Barth\xC3\xA9lemy"
   type: overseas territorial collectivity
 - code: MF
-  name: Saint-Martin
   type: overseas territorial collectivity
 - code: PM
-  name: Saint-Pierre-et-Miquelon
   type: overseas territorial collectivity
 - code: TF
-  name: "Terres australes fran\xC3\xA7aises"
   type: overseas territorial collectivity
 - code: WF
-  name: Wallis-et-Futuna
   type: overseas territorial collectivity

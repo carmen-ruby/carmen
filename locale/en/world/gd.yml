@@ -1,0 +1,18 @@
+--- 
+en: 
+  world: 
+    gd: 
+    - "01": 
+        name: Saint Andrew
+    - "02": 
+        name: Saint David
+    - "03": 
+        name: Saint George
+    - "04": 
+        name: Saint John
+    - "05": 
+        name: Saint Mark
+    - "06": 
+        name: Saint Patrick
+    - "10": 
+        name: Southern Grenadine Islands

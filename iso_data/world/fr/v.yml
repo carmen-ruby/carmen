@@ -1,25 +1,17 @@
 --- 
 - code: "01"
-  name: Ain
   type: metropolitan department
 - code: "07"
-  name: "Ard\xC3\xA8che"
   type: metropolitan department
 - code: "26"
-  name: "Dr\xC3\xB4me"
   type: metropolitan department
 - code: "74"
-  name: Haute-Savoie
   type: metropolitan department
 - code: "38"
-  name: "Is\xC3\xA8re"
   type: metropolitan department
 - code: "42"
-  name: Loire
   type: metropolitan department
 - code: "69"
-  name: "Rh\xC3\xB4ne"
   type: metropolitan department
 - code: "73"
-  name: Savoie
   type: metropolitan department

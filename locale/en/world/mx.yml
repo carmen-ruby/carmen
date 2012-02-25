@@ -1,0 +1,68 @@
+--- 
+en: 
+  world: 
+    mx: 
+    - dif: 
+        name: Distrito Federal
+    - agu: 
+        name: Aguascalientes
+    - bcn: 
+        name: Baja California
+    - bcs: 
+        name: Baja California Sur
+    - cam: 
+        name: Campeche
+    - coa: 
+        name: Coahuila
+    - col: 
+        name: Colima
+    - chp: 
+        name: Chiapas
+    - chh: 
+        name: Chihuahua
+    - dur: 
+        name: Durango
+    - gua: 
+        name: Guanajuato
+    - gro: 
+        name: Guerrero
+    - hid: 
+        name: Hidalgo
+    - jal: 
+        name: Jalisco
+    - mex: 
+        name: "M\xC3\xA9xico"
+    - mic: 
+        name: "Michoac\xC3\xA1n"
+    - mor: 
+        name: Morelos
+    - nay: 
+        name: Nayarit
+    - nle: 
+        name: "Nuevo Le\xC3\xB3n"
+    - oax: 
+        name: Oaxaca
+    - pue: 
+        name: Puebla
+    - que: 
+        name: "Quer\xC3\xA9taro"
+    - roo: 
+        name: Quintana Roo
+    - slp: 
+        name: "San Luis Potos\xC3\xAD"
+    - sin: 
+        name: Sinaloa
+    - son: 
+        name: Sonora
+    - tab: 
+        name: Tabasco
+    - tam: 
+        name: Tamaulipas
+    - tla: 
+        name: Tlaxcala
+    - ver: 
+        name: Veracruz
+    - yuc: 
+        name: "Yucat\xC3\xA1n"
+    - zac: 
+        name: Zacatecas

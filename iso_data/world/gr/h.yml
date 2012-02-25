@@ -1,16 +1,11 @@
 --- 
 - code: "05"
-  name: Evrytania
   type: department
 - code: "04"
-  name: Evvoias
   type: department
 - code: "07"
-  name: Fokida
   type: department
 - code: "06"
-  name: Fthiotida
   type: department
 - code: "03"
-  name: Voiotia
   type: department

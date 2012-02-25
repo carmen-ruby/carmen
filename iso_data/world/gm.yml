@@ -1,19 +1,13 @@
 --- 
 - code: L
-  name: Lower River
   type: division
 - code: M
-  name: Central River
   type: division
 - code: N
-  name: North Bank
   type: division
 - code: U
-  name: Upper River
   type: division
 - code: W
-  name: Western
   type: division
 - code: B
-  name: Banjul
   type: city

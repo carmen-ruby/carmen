@@ -1,34 +1,23 @@
 --- 
 - code: "01"
-  name: "P\xE2\x80\x99y\xC5\x8Fngyang"
   type: capital city
 - code: "13"
-  name: "Nas\xC5\x8Fn (Najin-S\xC5\x8Fnbong)"
   type: special city
 - code: "02"
-  name: "P\xE2\x80\x99y\xC5\x8Fngan-namdo"
   type: province
 - code: "03"
-  name: "P\xE2\x80\x99y\xC5\x8Fngan-bukto"
   type: province
 - code: "04"
-  name: Chagang-do
   type: province
 - code: "05"
-  name: Hwanghae-namdo
   type: province
 - code: "06"
-  name: Hwanghae-bukto
   type: province
 - code: "07"
-  name: "Kangw\xC5\x8Fn-do"
   type: province
 - code: 08
-  name: "Hamgy\xC5\x8Fng-namdo"
   type: province
 - code: 09
-  name: "Hamgy\xC5\x8Fng-bukto"
   type: province
 - code: "10"
-  name: Yanggang-do
   type: province

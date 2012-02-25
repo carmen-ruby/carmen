@@ -1,142 +1,95 @@
 --- 
 - code: "23"
-  name: Aichi
   type: prefecture
 - code: "05"
-  name: Akita
   type: prefecture
 - code: "02"
-  name: Aomori
   type: prefecture
 - code: "12"
-  name: Chiba
   type: prefecture
 - code: "38"
-  name: Ehime
   type: prefecture
 - code: "18"
-  name: Fukui
   type: prefecture
 - code: "40"
-  name: Fukuoka
   type: prefecture
 - code: "07"
-  name: Fukushima
   type: prefecture
 - code: "21"
-  name: Gifu
   type: prefecture
 - code: "10"
-  name: Gunma
   type: prefecture
 - code: "34"
-  name: Hiroshima
   type: prefecture
 - code: "01"
-  name: Hokkaido
   type: prefecture
 - code: "28"
-  name: Hyogo
   type: prefecture
 - code: 08
-  name: Ibaraki
   type: prefecture
 - code: "17"
-  name: Ishikawa
   type: prefecture
 - code: "03"
-  name: Iwate
   type: prefecture
 - code: "37"
-  name: Kagawa
   type: prefecture
 - code: "46"
-  name: Kagoshima
   type: prefecture
 - code: "14"
-  name: Kanagawa
   type: prefecture
 - code: "39"
-  name: Kochi
   type: prefecture
 - code: "43"
-  name: Kumamoto
   type: prefecture
 - code: "26"
-  name: Kyoto
   type: prefecture
 - code: "24"
-  name: Mie
   type: prefecture
 - code: "04"
-  name: Miyagi
   type: prefecture
 - code: "45"
-  name: Miyazaki
   type: prefecture
 - code: "20"
-  name: Nagano
   type: prefecture
 - code: "42"
-  name: Nagasaki
   type: prefecture
 - code: "29"
-  name: Nara
   type: prefecture
 - code: "15"
-  name: Niigata
   type: prefecture
 - code: "44"
-  name: Oita
   type: prefecture
 - code: "33"
-  name: Okayama
   type: prefecture
 - code: "47"
-  name: Okinawa
   type: prefecture
 - code: "27"
-  name: Osaka
   type: prefecture
 - code: "41"
-  name: Saga
   type: prefecture
 - code: "11"
-  name: Saitama
   type: prefecture
 - code: "25"
-  name: Shiga
   type: prefecture
 - code: "32"
-  name: Shimane
   type: prefecture
 - code: "22"
-  name: Shizuoka
   type: prefecture
 - code: 09
-  name: Tochigi
   type: prefecture
 - code: "36"
-  name: Tokushima
   type: prefecture
 - code: "13"
-  name: Tokyo
   type: prefecture
 - code: "31"
-  name: Tottori
   type: prefecture
 - code: "16"
-  name: Toyama
   type: prefecture
 - code: "30"
-  name: Wakayama
   type: prefecture
 - code: "06"
-  name: Yamagata
   type: prefecture
 - code: "35"
-  name: Yamaguchi
   type: prefecture
 - code: "19"
-  name: Yamanashi
   type: prefecture

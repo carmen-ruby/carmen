@@ -1,37 +1,25 @@
 --- 
 - code: AL
-  name: Alibori
   type: department
 - code: AK
-  name: Atakora
   type: department
 - code: AQ
-  name: Atlantique
   type: department
 - code: BO
-  name: Borgou
   type: department
 - code: CO
-  name: Collines
   type: department
 - code: DO
-  name: Donga
   type: department
 - code: KO
-  name: Kouffo
   type: department
 - code: LI
-  name: Littoral
   type: department
 - code: MO
-  name: Mono
   type: department
 - code: OU
-  name: "Ou\xC3\xA9m\xC3\xA9"
   type: department
 - code: PL
-  name: Plateau
   type: department
 - code: ZO
-  name: Zou
   type: department

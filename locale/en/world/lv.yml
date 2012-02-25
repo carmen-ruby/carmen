@@ -1,0 +1,70 @@
+--- 
+en: 
+  world: 
+    lv: 
+    - ai: 
+        name: "Aizkraukle Apri\xC5\x86\xC4\xB7is"
+    - al: 
+        name: "Al\xC5\xABksne Apri\xC5\x86\xC4\xB7is"
+    - bl: 
+        name: "Balvi Apri\xC5\x86\xC4\xB7is"
+    - bu: 
+        name: "Bauska Apri\xC5\x86\xC4\xB7is"
+    - ce: 
+        name: "C\xC4\x93sis Apri\xC5\x86\xC4\xB7is"
+    - da: 
+        name: "Daugavpils Apri\xC5\x86\xC4\xB7is"
+    - do: 
+        name: "Dobele Apri\xC5\x86\xC4\xB7is"
+    - gu: 
+        name: "Gulbene Apri\xC5\x86\xC4\xB7is"
+    - jk: 
+        name: "J\xC4\x93kabpils Apri\xC5\x86\xC4\xB7is"
+    - jl: 
+        name: "Jelgava Apri\xC5\x86\xC4\xB7is"
+    - kr: 
+        name: "Kr\xC4\x81slava Apri\xC5\x86\xC4\xB7is"
+    - ku: 
+        name: "Kuld\xC4\xABga Apri\xC5\x86\xC4\xB7is"
+    - le: 
+        name: "Liep\xC4\x81ja Apri\xC5\x86\xC4\xB7is"
+    - lm: 
+        name: "Limba\xC5\xBEi Apri\xC5\x86\xC4\xB7is"
+    - lu: 
+        name: "Ludza Apri\xC5\x86\xC4\xB7is"
+    - ma: 
+        name: "Madona Apri\xC5\x86\xC4\xB7is"
+    - og: 
+        name: "Ogre Apri\xC5\x86\xC4\xB7is"
+    - pr: 
+        name: "Prei\xC4\xBCi Apri\xC5\x86\xC4\xB7is"
+    - re: 
+        name: "R\xC4\x93zekne Apri\xC5\x86\xC4\xB7is"
+    - ri: 
+        name: "R\xC4\xABga Apri\xC5\x86\xC4\xB7is"
+    - sa: 
+        name: "Saldus Apri\xC5\x86\xC4\xB7is"
+    - ta: 
+        name: "Talsi Apri\xC5\x86\xC4\xB7is"
+    - tu: 
+        name: "Tukums Apri\xC5\x86\xC4\xB7is"
+    - vk: 
+        name: "Valka Apri\xC5\x86\xC4\xB7is"
+    - vm: 
+        name: "Valmiera Apri\xC5\x86\xC4\xB7is"
+    - ve: 
+        name: "Ventspils Apri\xC5\x86\xC4\xB7is"
+    - dgv: 
+        name: Daugavpils
+    - jel: 
+        name: Jelgava
+    - jur: 
+        name: "J\xC5\xABrmala"
+    - lpx: 
+        name: "Liep\xC4\x81ja"
+    - rez: 
+        name: "R\xC4\x93zekne"
+    - rix: 
+        name: "R\xC4\xABga"
+    - ven: 
+        name: Ventspils

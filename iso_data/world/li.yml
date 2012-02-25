@@ -1,34 +1,23 @@
 --- 
 - code: "01"
-  name: Balzers
   type: commune
 - code: "02"
-  name: Eschen
   type: commune
 - code: "03"
-  name: Gamprin
   type: commune
 - code: "04"
-  name: Mauren
   type: commune
 - code: "05"
-  name: Planken
   type: commune
 - code: "06"
-  name: Ruggell
   type: commune
 - code: "07"
-  name: Schaan
   type: commune
 - code: 08
-  name: Schellenberg
   type: commune
 - code: 09
-  name: Triesen
   type: commune
 - code: "10"
-  name: Triesenberg
   type: commune
 - code: "11"
-  name: Vaduz
   type: commune

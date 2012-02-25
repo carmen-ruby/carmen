@@ -1,0 +1,17 @@
+--- 
+en: 
+  world: 
+    id: 
+      sl: 
+      - go: 
+          name: Gorontalo
+      - sr: 
+          name: Sulawesi Barat
+      - sn: 
+          name: Sulawesi Selatan
+      - st: 
+          name: Sulawesi Tengah
+      - sg: 
+          name: Sulawesi Tenggara
+      - sa: 
+          name: Sulawesi Utara

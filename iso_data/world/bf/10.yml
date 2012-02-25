@@ -1,13 +1,9 @@
 --- 
 - code: LOR
-  name: Loroum
   type: province
 - code: PAS
-  name: "Passor\xC3\xA9"
   type: province
 - code: YAT
-  name: Yatenga
   type: province
 - code: ZON
-  name: Zondoma
   type: province

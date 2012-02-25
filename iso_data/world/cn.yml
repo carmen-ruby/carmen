@@ -1,103 +1,69 @@
 --- 
 - code: "11"
-  name: Beijing
   type: municipality
 - code: "50"
-  name: Chongqing
   type: municipality
 - code: "31"
-  name: Shanghai
   type: municipality
 - code: "12"
-  name: Tianjin
   type: municipality
 - code: "34"
-  name: Anhui
   type: province
 - code: "35"
-  name: Fujian
   type: province
 - code: "62"
-  name: Gansu
   type: province
 - code: "44"
-  name: Guangdong
   type: province
 - code: "52"
-  name: Guizhou
   type: province
 - code: "46"
-  name: Hainan
   type: province
 - code: "13"
-  name: Hebei
   type: province
 - code: "23"
-  name: Heilongjiang
   type: province
 - code: "41"
-  name: Henan
   type: province
 - code: "42"
-  name: Hubei
   type: province
 - code: "43"
-  name: Hunan
   type: province
 - code: "32"
-  name: Jiangsu
   type: province
 - code: "36"
-  name: Jiangxi
   type: province
 - code: "22"
-  name: Jilin
   type: province
 - code: "21"
-  name: Liaoning
   type: province
 - code: "63"
-  name: Qinghai
   type: province
 - code: "61"
-  name: Shaanxi
   type: province
 - code: "37"
-  name: Shandong
   type: province
 - code: "14"
-  name: Shanxi
   type: province
 - code: "51"
-  name: Sichuan
   type: province
 - code: "71"
-  name: Taiwan
   type: province
 - code: "53"
-  name: Yunnan
   type: province
 - code: "33"
-  name: Zhejiang
   type: province
 - code: "45"
-  name: Guangxi
   type: autonomous region
 - code: "15"
-  name: Nei Mongol
   type: autonomous region
 - code: "64"
-  name: Ningxia
   type: autonomous region
 - code: "65"
-  name: Xinjiang
   type: autonomous region
 - code: "54"
-  name: Xizang
   type: autonomous region
 - code: "91"
-  name: Xianggang (Hong-Kong)
   type: special administrative region
 - code: "92"
-  name: Aomen (Macau)
   type: special administrative region

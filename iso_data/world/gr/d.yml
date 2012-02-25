@@ -1,10 +1,7 @@
 --- 
 - code: "33"
-  name: Ioannina
   type: department
 - code: "34"
-  name: Preveza
   type: department
 - code: "32"
-  name: Thesprotia
   type: department

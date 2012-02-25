@@ -1,0 +1,14 @@
+--- 
+en: 
+  world: 
+    rw: 
+    - "01": 
+        name: Ville de Kigali
+    - "02": 
+        name: Est
+    - "03": 
+        name: Nord
+    - "04": 
+        name: Ouest
+    - "05": 
+        name: Sud

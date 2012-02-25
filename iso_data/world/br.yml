@@ -1,85 +1,57 @@
 --- 
 - code: AC
-  name: Acre
   type: state
 - code: AL
-  name: Alagoas
   type: state
 - code: AM
-  name: Amazonas
   type: state
 - code: AP
-  name: "Amap\xC3\xA1"
   type: state
 - code: BA
-  name: Bahia
   type: state
 - code: CE
-  name: "Cear\xC3\xA1"
   type: state
 - code: ES
-  name: "Esp\xC3\xADrito Santo"
   type: state
 - code: FN
-  name: Fernando de Noronha
   type: state
 - code: GO
-  name: "Goi\xC3\xA1s"
   type: state
 - code: MA
-  name: "Maranh\xC3\xA3o"
   type: state
 - code: MG
-  name: Minas Gerais
   type: state
 - code: MS
-  name: Mato Grosso do Sul
   type: state
 - code: MT
-  name: Mato Grosso
   type: state
 - code: PA
-  name: "Par\xC3\xA1"
   type: state
 - code: PB
-  name: "Para\xC3\xADba"
   type: state
 - code: PE
-  name: Pernambuco
   type: state
 - code: PI
-  name: "Piau\xC3\xAD"
   type: state
 - code: PR
-  name: "Paran\xC3\xA1"
   type: state
 - code: RJ
-  name: Rio de Janeiro
   type: state
 - code: RN
-  name: Rio Grande do Norte
   type: state
 - code: RO
-  name: "Rond\xC3\xB4nia"
   type: state
 - code: RR
-  name: Roraima
   type: state
 - code: RS
-  name: Rio Grande do Sul
   type: state
 - code: SC
-  name: Santa Catarina
   type: state
 - code: SE
-  name: Sergipe
   type: state
 - code: SP
-  name: "S\xC3\xA3o Paulo"
   type: state
 - code: TO
-  name: Tocantins
   type: state
 - code: DF
-  name: Distrito Federal
   type: federal district

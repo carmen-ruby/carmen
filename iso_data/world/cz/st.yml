@@ -1,37 +1,25 @@
 --- 
 - code: "201"
-  name: "Bene\xC5\xA1ov"
   type: district
 - code: "202"
-  name: Beroun
   type: district
 - code: "203"
-  name: Kladno
   type: district
 - code: "204"
-  name: "Kol\xC3\xADn"
   type: district
 - code: "205"
-  name: "Kutn\xC3\xA1 Hora"
   type: district
 - code: "206"
-  name: "M\xC4\x9Bln\xC3\xADk"
   type: district
 - code: "207"
-  name: "Mlad\xC3\xA1 Boleslav"
   type: district
 - code: "208"
-  name: Nymburk
   type: district
 - code: "209"
-  name: "Praha v\xC3\xBDchod"
   type: district
 - code: 20A
-  name: "Praha z\xC3\xA1pad"
   type: district
 - code: 20B
-  name: "P\xC5\x99\xC3\xADbram"
   type: district
 - code: 20C
-  name: "Rakovn\xC3\xADk"
   type: district

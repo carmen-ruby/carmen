@@ -1,0 +1,13 @@
+--- 
+en: 
+  world: 
+    ph: 
+      "01": 
+      - iln: 
+          name: Ilocos Norte
+      - ils: 
+          name: Ilocos Sur
+      - lun: 
+          name: La Union
+      - pan: 
+          name: Pangasinan

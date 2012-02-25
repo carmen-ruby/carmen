@@ -1,19 +1,13 @@
 --- 
 - code: "01"
-  name: Charlotte
   type: parish
 - code: "06"
-  name: Grenadines
   type: parish
 - code: "02"
-  name: Saint Andrew
   type: parish
 - code: "03"
-  name: Saint David
   type: parish
 - code: "04"
-  name: Saint George
   type: parish
 - code: "05"
-  name: Saint Patrick
   type: parish

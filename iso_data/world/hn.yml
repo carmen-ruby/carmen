@@ -1,55 +1,37 @@
 --- 
 - code: AT
-  name: "Atl\xC3\xA1ntida"
   type: department
 - code: CL
-  name: "Col\xC3\xB3n"
   type: department
 - code: CM
-  name: Comayagua
   type: department
 - code: CP
-  name: "Cop\xC3\xA1n"
   type: department
 - code: CR
-  name: "Cort\xC3\xA9s"
   type: department
 - code: CH
-  name: Choluteca
   type: department
 - code: EP
-  name: "El Para\xC3\xADso"
   type: department
 - code: FM
-  name: "Francisco Moraz\xC3\xA1n"
   type: department
 - code: GD
-  name: Gracias a Dios
   type: department
 - code: IN
-  name: "Intibuc\xC3\xA1"
   type: department
 - code: IB
-  name: "Islas de la Bah\xC3\xADa"
   type: department
 - code: LP
-  name: La Paz
   type: department
 - code: LE
-  name: Lempira
   type: department
 - code: OC
-  name: Ocotepeque
   type: department
 - code: OL
-  name: Olancho
   type: department
 - code: SB
-  name: "Santa B\xC3\xA1rbara"
   type: department
 - code: VA
-  name: Valle
   type: department
 - code: YO
-  name: Yoro
   type: department

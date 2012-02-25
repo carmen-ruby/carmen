@@ -1,0 +1,52 @@
+--- 
+en: 
+  world: 
+    kh: 
+    - "23": 
+        name: Krong Kaeb
+    - "24": 
+        name: Krong Pailin
+    - "18": 
+        name: Krong Preah Sihanouk
+    - "12": 
+        name: Phnom Penh
+    - "2": 
+        name: Battambang
+    - "1": 
+        name: Banteay Mean Chey
+    - "3": 
+        name: Kampong Cham
+    - "4": 
+        name: Kampong Chhnang
+    - "5": 
+        name: Kampong Speu
+    - "6": 
+        name: Kampong Thom
+    - "7": 
+        name: Kampot
+    - "8": 
+        name: Kandal
+    - "9": 
+        name: Kach Kong
+    - "10": 
+        name: Krachoh
+    - "11": 
+        name: Mondol Kiri
+    - "22": 
+        name: Otdar Mean Chey
+    - "15": 
+        name: Pousaat
+    - "13": 
+        name: Preah Vihear
+    - "14": 
+        name: Prey Veaeng
+    - "16": 
+        name: Rotanak Kiri
+    - "17": 
+        name: Siem Reab
+    - "19": 
+        name: Stueng Traeng
+    - "20": 
+        name: Svaay Rieng
+    - "21": 
+        name: Taakaev

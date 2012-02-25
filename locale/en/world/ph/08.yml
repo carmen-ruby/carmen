@@ -1,0 +1,17 @@
+--- 
+en: 
+  world: 
+    ph: 
+      08: 
+      - bil: 
+          name: Biliran
+      - eas: 
+          name: Eastern Samar
+      - ley: 
+          name: Leyte
+      - nsa: 
+          name: Northern Samar
+      - sle: 
+          name: Southern Leyte
+      - wsa: 
+          name: Western Samar

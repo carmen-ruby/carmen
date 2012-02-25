@@ -1,0 +1,50 @@
+--- 
+en: 
+  world: 
+    tw: 
+    - cha: 
+        name: Changhua
+    - cyq: 
+        name: Chiayi
+    - hsq: 
+        name: Hsinchu
+    - hua: 
+        name: Hualien
+    - ila: 
+        name: Ilan
+    - khq: 
+        name: Kaohsiung
+    - mia: 
+        name: Miaoli
+    - nan: 
+        name: Nantou
+    - pen: 
+        name: Penghu
+    - pif: 
+        name: Pingtung
+    - txq: 
+        name: Taichung
+    - tnq: 
+        name: Tainan
+    - tpq: 
+        name: Taipei
+    - ttt: 
+        name: Taitung
+    - tao: 
+        name: Taoyuan
+    - yun: 
+        name: Yunlin
+    - cyi: 
+        name: Chiay City
+    - hsz: 
+        name: Hsinchui City
+    - kee: 
+        name: Keelung City
+    - txg: 
+        name: Taichung City
+    - tnn: 
+        name: Tainan City
+    - khh: 
+        name: Kaohsiung City
+    - tpe: 
+        name: Taipei City

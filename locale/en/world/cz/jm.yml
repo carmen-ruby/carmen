@@ -1,0 +1,19 @@
+--- 
+en: 
+  world: 
+    cz: 
+      jm: 
+      - "621": 
+          name: Blansko
+      - "622": 
+          name: "Brno-m\xC4\x9Bsto"
+      - "623": 
+          name: Brno-venkov
+      - "624": 
+          name: "B\xC5\x99eclav"
+      - "625": 
+          name: "Hodon\xC3\xADn"
+      - "626": 
+          name: "Vy\xC5\xA1kov"
+      - "627": 
+          name: Znojmo

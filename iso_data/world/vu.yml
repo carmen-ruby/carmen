@@ -1,19 +1,13 @@
 --- 
 - code: MAP
-  name: Malampa
   type: province
 - code: PAM
-  name: "P\xC3\xA9nama"
   type: province
 - code: SAM
-  name: Sanma
   type: province
 - code: SEE
-  name: "Sh\xC3\xA9fa"
   type: province
 - code: TAE
-  name: "Taf\xC3\xA9a"
   type: province
 - code: TOB
-  name: Torba
   type: province

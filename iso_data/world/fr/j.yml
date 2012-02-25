@@ -1,25 +1,17 @@
 --- 
 - code: "91"
-  name: Essonne
   type: metropolitan department
 - code: "92"
-  name: Hauts-de-Seine
   type: metropolitan department
 - code: "75"
-  name: Paris
   type: metropolitan department
 - code: "77"
-  name: Seine-et-Marne
   type: metropolitan department
 - code: "93"
-  name: Seine-Saint-Denis
   type: metropolitan department
 - code: "94"
-  name: Val-de-Marne
   type: metropolitan department
 - code: "95"
-  name: Val d'Oise
   type: metropolitan department
 - code: "78"
-  name: Yvelines
   type: metropolitan department

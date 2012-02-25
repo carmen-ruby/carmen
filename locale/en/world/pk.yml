@@ -1,0 +1,20 @@
+--- 
+en: 
+  world: 
+    pk: 
+    - is: 
+        name: Islamabad
+    - ba: 
+        name: Balochistan
+    - nw: 
+        name: North-West Frontier
+    - pb: 
+        name: Punjab
+    - sd: 
+        name: Sindh
+    - ta: 
+        name: Federally Administered Tribal Areas
+    - jk: 
+        name: Azad Kashmir
+    - na: 
+        name: Northern Areas

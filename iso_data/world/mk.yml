@@ -1,253 +1,169 @@
 --- 
 - code: "01"
-  name: Aerodrom
   type: municipality
 - code: "02"
-  name: "Ara\xC4\x8Dinovo"
   type: municipality
 - code: "03"
-  name: Berovo
   type: municipality
 - code: "04"
-  name: Bitola
   type: municipality
 - code: "05"
-  name: Bogdanci
   type: municipality
 - code: "06"
-  name: Bogovinje
   type: municipality
 - code: "07"
-  name: Bosilovo
   type: municipality
 - code: 08
-  name: Brvenica
   type: municipality
 - code: 09
-  name: Butel
   type: municipality
 - code: "77"
-  name: Centar
   type: municipality
 - code: "78"
-  name: "Centar \xC5\xBDupa"
   type: municipality
 - code: "79"
-  name: "\xC4\x8Cair"
   type: municipality
 - code: "80"
-  name: "\xC4\x8Ca\xC5\xA1ka"
   type: municipality
 - code: "81"
-  name: "\xC4\x8Ce\xC5\xA1inovo-Oble\xC5\xA1evo"
   type: municipality
 - code: "82"
-  name: "\xC4\x8Cu\xC4\x8Der Sandevo"
   type: municipality
 - code: "21"
-  name: Debar
   type: municipality
 - code: "22"
-  name: Debarca
   type: municipality
 - code: "23"
-  name: "Del\xC4\x8Devo"
   type: municipality
 - code: "25"
-  name: Demir Hisar
   type: municipality
 - code: "24"
-  name: Demir Kapija
   type: municipality
 - code: "26"
-  name: Dojran
   type: municipality
 - code: "27"
-  name: Dolneni
   type: municipality
 - code: "28"
-  name: Drugovo
   type: municipality
 - code: "17"
-  name: Gazi Baba
   type: municipality
 - code: "18"
-  name: Gevgelija
   type: municipality
 - code: "29"
-  name: "Gjor\xC4\x8De Petrov"
   type: municipality
 - code: "19"
-  name: Gostivar
   type: municipality
 - code: "20"
-  name: Gradsko
   type: municipality
 - code: "34"
-  name: Ilinden
   type: municipality
 - code: "35"
-  name: Jegunovce
   type: municipality
 - code: "37"
-  name: Karbinci
   type: municipality
 - code: "38"
-  name: "Karpo\xC5\xA1"
   type: municipality
 - code: "36"
-  name: Kavadarci
   type: municipality
 - code: "40"
-  name: "Ki\xC4\x8Devo"
   type: municipality
 - code: "39"
-  name: Kisela Voda
   type: municipality
 - code: "42"
-  name: "Ko\xC4\x8Dani"
   type: municipality
 - code: "41"
-  name: "Kon\xC4\x8De"
   type: municipality
 - code: "43"
-  name: Kratovo
   type: municipality
 - code: "44"
-  name: Kriva Palanka
   type: municipality
 - code: "45"
-  name: "Krivoga\xC5\xA1tani"
   type: municipality
 - code: "46"
-  name: "Kru\xC5\xA1evo"
   type: municipality
 - code: "47"
-  name: Kumanovo
   type: municipality
 - code: "48"
-  name: Lipkovo
   type: municipality
 - code: "49"
-  name: Lozovo
   type: municipality
 - code: "51"
-  name: Makedonska Kamenica
   type: municipality
 - code: "52"
-  name: Makedonski Brod
   type: municipality
 - code: "50"
-  name: "Mavrovo-i-Rostu\xC5\xA1a"
   type: municipality
 - code: "53"
-  name: Mogila
   type: municipality
 - code: "54"
-  name: Negotino
   type: municipality
 - code: "55"
-  name: Novaci
   type: municipality
 - code: "56"
-  name: Novo Selo
   type: municipality
 - code: "58"
-  name: Ohrid
   type: municipality
 - code: "57"
-  name: Oslomej
   type: municipality
 - code: "60"
-  name: "Peh\xC4\x8Devo"
   type: municipality
 - code: "59"
-  name: Petrovec
   type: municipality
 - code: "61"
-  name: Plasnica
   type: municipality
 - code: "62"
-  name: Prilep
   type: municipality
 - code: "63"
-  name: "Probi\xC5\xA1tip"
   type: municipality
 - code: "64"
-  name: "Radovi\xC5\xA1"
   type: municipality
 - code: "65"
-  name: Rankovce
   type: municipality
 - code: "66"
-  name: Resen
   type: municipality
 - code: "67"
-  name: Rosoman
   type: municipality
 - code: "68"
-  name: Saraj
   type: municipality
 - code: "83"
-  name: "\xC5\xA0tip"
   type: municipality
 - code: "84"
-  name: "\xC5\xA0uto Orizari"
   type: municipality
 - code: "70"
-  name: "Sopi\xC5\xA1te"
   type: municipality
 - code: "71"
-  name: "Staro Nagori\xC4\x8Dane"
   type: municipality
 - code: "72"
-  name: Struga
   type: municipality
 - code: "73"
-  name: Strumica
   type: municipality
 - code: "74"
-  name: "Studeni\xC4\x8Dani"
   type: municipality
 - code: "69"
-  name: Sveti Nikole
   type: municipality
 - code: "75"
-  name: Tearce
   type: municipality
 - code: "76"
-  name: Tetovo
   type: municipality
 - code: "10"
-  name: Valandovo
   type: municipality
 - code: "11"
-  name: Vasilevo
   type: municipality
 - code: "13"
-  name: Veles
   type: municipality
 - code: "12"
-  name: "Vev\xC4\x8Dani"
   type: municipality
 - code: "14"
-  name: Vinica
   type: municipality
 - code: "15"
-  name: "Vrane\xC5\xA1tica"
   type: municipality
 - code: "16"
-  name: "Vrap\xC4\x8Di\xC5\xA1te"
   type: municipality
 - code: "31"
-  name: Zajas
   type: municipality
 - code: "32"
-  name: Zelenikovo
   type: municipality
 - code: "30"
-  name: "\xC5\xBDelino"
   type: municipality
 - code: "33"
-  name: Zrnovci
   type: municipality

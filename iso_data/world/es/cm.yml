@@ -1,16 +1,11 @@
 --- 
 - code: AB
-  name: Albacete
   type: province
 - code: CR
-  name: Ciudad Real
   type: province
 - code: CU
-  name: Cuenca
   type: province
 - code: GU
-  name: Guadalajara
   type: province
 - code: TO
-  name: Toledo
   type: province

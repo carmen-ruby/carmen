@@ -1,100 +1,67 @@
 --- 
 - code: DC
-  name: "Distrito Capital de Bogot\xC3\xA1"
   type: capital district
 - code: AMA
-  name: Amazonas
   type: department
 - code: ANT
-  name: Antioquia
   type: department
 - code: ARA
-  name: Arauca
   type: department
 - code: ATL
-  name: "Atl\xC3\xA1ntico"
   type: department
 - code: BOL
-  name: "Bol\xC3\xADvar"
   type: department
 - code: BOY
-  name: "Boyac\xC3\xA1"
   type: department
 - code: CAL
-  name: Caldas
   type: department
 - code: CAQ
-  name: "Caquet\xC3\xA1"
   type: department
 - code: CAS
-  name: Casanare
   type: department
 - code: CAU
-  name: Cauca
   type: department
 - code: CES
-  name: Cesar
   type: department
 - code: CHO
-  name: "Choc\xC3\xB3"
   type: department
 - code: COR
-  name: "C\xC3\xB3rdoba"
   type: department
 - code: CUN
-  name: Cundinamarca
   type: department
 - code: GUA
-  name: "Guain\xC3\xADa"
   type: department
 - code: GUV
-  name: Guaviare
   type: department
 - code: HUI
-  name: Huila
   type: department
 - code: LAG
-  name: La Guajira
   type: department
 - code: MAG
-  name: Magdalena
   type: department
 - code: MET
-  name: Meta
   type: department
 - code: NAR
-  name: "Nari\xC3\xB1o"
   type: department
 - code: NSA
-  name: Norte de Santander
   type: department
 - code: PUT
-  name: Putumayo
   type: department
 - code: QUI
-  name: "Quind\xC3\xADo"
   type: department
 - code: RIS
-  name: Risaralda
   type: department
 - code: SAP
-  name: "San Andr\xC3\xA9s, Providencia y Santa Catalina"
   type: department
 - code: SAN
-  name: Santander
   type: department
 - code: SUC
-  name: Sucre
   type: department
 - code: TOL
-  name: Tolima
   type: department
 - code: VAC
-  name: Valle del Cauca
   type: department
 - code: VAU
-  name: "Vaup\xC3\xA9s"
   type: department
 - code: VID
-  name: Vichada
   type: department

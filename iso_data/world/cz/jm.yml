@@ -1,22 +1,15 @@
 --- 
 - code: "621"
-  name: Blansko
   type: district
 - code: "622"
-  name: "Brno-m\xC4\x9Bsto"
   type: district
 - code: "623"
-  name: Brno-venkov
   type: district
 - code: "624"
-  name: "B\xC5\x99eclav"
   type: district
 - code: "625"
-  name: "Hodon\xC3\xADn"
   type: district
 - code: "626"
-  name: "Vy\xC5\xA1kov"
   type: district
 - code: "627"
-  name: Znojmo
   type: district

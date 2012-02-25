@@ -1,16 +1,11 @@
 --- 
 - code: KB
-  name: Koubia
   type: prefecture
 - code: LA
-  name: "Lab\xC3\xA9"
   type: prefecture
 - code: LE
-  name: "L\xC3\xA9louma"
   type: prefecture
 - code: ML
-  name: Mali
   type: prefecture
 - code: TO
-  name: "Tougu\xC3\xA9"
   type: prefecture

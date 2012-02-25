@@ -1,0 +1,22 @@
+--- 
+en: 
+  world: 
+    sm: 
+    - "01": 
+        name: Acquaviva
+    - "06": 
+        name: Borgo Maggiore
+    - "02": 
+        name: Chiesanuova
+    - "03": 
+        name: Domagnano
+    - "04": 
+        name: Faetano
+    - "05": 
+        name: Fiorentino
+    - 08: 
+        name: Montegiardino
+    - "07": 
+        name: San Marino
+    - 09: 
+        name: Serravalle

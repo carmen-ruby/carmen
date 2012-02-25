@@ -1,13 +1,9 @@
 --- 
 - code: CH
-  name: Chieti
   type: province
 - code: AQ
-  name: L'Aquila
   type: province
 - code: PE
-  name: Pescara
   type: province
 - code: TE
-  name: Teramo
   type: province

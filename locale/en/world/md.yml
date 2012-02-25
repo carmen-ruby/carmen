@@ -1,0 +1,78 @@
+--- 
+en: 
+  world: 
+    md: 
+    - ga: 
+        name: "G\xC4\x83g\xC4\x83uzia, Unitatea teritorial\xC4\x83 autonom\xC4\x83"
+    - ba: 
+        name: "B\xC4\x83l\xC8\x9Bi"
+    - bd: 
+        name: Tighina
+    - cu: 
+        name: "Chi\xC8\x99in\xC4\x83u"
+    - an: 
+        name: Anenii Noi
+    - bs: 
+        name: Basarabeasca
+    - br: 
+        name: Briceni
+    - ca: 
+        name: Cahul
+    - ct: 
+        name: Cantemir
+    - cl: 
+        name: "C\xC4\x83l\xC4\x83ra\xC8\x99i"
+    - cs: 
+        name: "C\xC4\x83u\xC8\x99eni"
+    - cm: 
+        name: "Cimi\xC8\x99lia"
+    - cr: 
+        name: Criuleni
+    - do: 
+        name: "Dondu\xC8\x99eni"
+    - dr: 
+        name: Drochia
+    - du: 
+        name: "Dub\xC4\x83sari"
+    - ed: 
+        name: "Edine\xC8\x9B"
+    - fa: 
+        name: "F\xC4\x83le\xC8\x99ti"
+    - fl: 
+        name: "Flore\xC8\x99ti"
+    - gl: 
+        name: Glodeni
+    - hi: 
+        name: "H\xC3\xAEnce\xC8\x99ti"
+    - ia: 
+        name: Ialoveni
+    - le: 
+        name: Leova
+    - ni: 
+        name: Nisporeni
+    - oc: 
+        name: "Ocni\xC8\x9Ba"
+    - or: 
+        name: Orhei
+    - re: 
+        name: Rezina
+    - ri: 
+        name: "R\xC3\xAE\xC8\x99cani"
+    - si: 
+        name: "S\xC3\xAEngerei"
+    - so: 
+        name: Soroca
+    - st: 
+        name: "Str\xC4\x83\xC8\x99eni"
+    - sd: 
+        name: "\xC8\x98old\xC4\x83ne\xC8\x99ti"
+    - sv: 
+        name: "\xC8\x98tefan Vod\xC4\x83"
+    - ta: 
+        name: Taraclia
+    - te: 
+        name: "Telene\xC8\x99ti"
+    - un: 
+        name: Ungheni
+    - sn: 
+        name: "St\xC3\xAEnga Nistrului, unitatea teritorial\xC4\x83 din"

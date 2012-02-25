@@ -1,79 +1,53 @@
 --- 
 - code: CAL
-  name: El Callao
   type: constitutional province
 - code: LMA
-  name: Municipalidad Metropolitana de Lima
   type: municipality
 - code: AMA
-  name: Amazonas
   type: region
 - code: ANC
-  name: Ancash
   type: region
 - code: APU
-  name: "Apur\xC3\xADmac"
   type: region
 - code: ARE
-  name: Arequipa
   type: region
 - code: AYA
-  name: Ayacucho
   type: region
 - code: CAJ
-  name: Cajamarca
   type: region
 - code: CUS
-  name: Cusco [Cuzco]
   type: region
 - code: HUV
-  name: Huancavelica
   type: region
 - code: HUC
-  name: "Hu\xC3\xA1nuco"
   type: region
 - code: ICA
-  name: Ica
   type: region
 - code: JUN
-  name: "Jun\xC3\xADn"
   type: region
 - code: LAL
-  name: La Libertad
   type: region
 - code: LAM
-  name: Lambayeque
   type: region
 - code: LIM
-  name: Lima
   type: region
 - code: LOR
-  name: Loreto
   type: region
 - code: MDD
-  name: Madre de Dios
   type: region
 - code: MOQ
-  name: Moquegua
   type: region
 - code: PAS
-  name: Pasco
   type: region
 - code: PIU
-  name: Piura
   type: region
 - code: PUN
-  name: Puno
   type: region
 - code: SAM
-  name: "San Mart\xC3\xADn"
   type: region
 - code: TAC
-  name: Tacna
   type: region
 - code: TUM
-  name: Tumbes
   type: region
 - code: UCA
-  name: Ucayali
   type: region

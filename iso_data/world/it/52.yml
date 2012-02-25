@@ -1,31 +1,21 @@
 --- 
 - code: AR
-  name: Arezzo
   type: province
 - code: FI
-  name: Firenze
   type: province
 - code: GR
-  name: Grosseto
   type: province
 - code: LI
-  name: Livorno
   type: province
 - code: LU
-  name: Lucca
   type: province
 - code: MS
-  name: Massa-Carrara
   type: province
 - code: PI
-  name: Pisa
   type: province
 - code: PT
-  name: Pistoia
   type: province
 - code: PO
-  name: Prato
   type: province
 - code: SI
-  name: Siena
   type: province

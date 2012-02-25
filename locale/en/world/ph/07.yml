@@ -1,0 +1,13 @@
+--- 
+en: 
+  world: 
+    ph: 
+      "07": 
+      - boh: 
+          name: Bohol
+      - ceb: 
+          name: Cebu
+      - ner: 
+          name: Negros Oriental
+      - sig: 
+          name: Siquijor

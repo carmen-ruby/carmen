@@ -1,13 +1,9 @@
 --- 
 - code: B
-  name: Barcelona
   type: province
 - code: GI
-  name: Girona
   type: province
 - code: L
-  name: Lleida
   type: province
 - code: T
-  name: Tarragona
   type: province

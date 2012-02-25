@@ -1,16 +1,11 @@
 --- 
 - code: C
-  name: Central
   type: division
 - code: E
-  name: Eastern
   type: division
 - code: N
-  name: Northern
   type: division
 - code: W
-  name: Western
   type: division
 - code: R
-  name: Rotuma
   type: dependency

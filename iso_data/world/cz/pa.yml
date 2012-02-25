@@ -1,13 +1,9 @@
 --- 
 - code: "531"
-  name: Chrudim
   type: district
 - code: "532"
-  name: Pardubice
   type: district
 - code: "533"
-  name: Svitavy
   type: district
 - code: "534"
-  name: "\xC3\x9Ast\xC3\xAD nad Orlic\xC3\xAD"
   type: district

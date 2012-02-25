@@ -1,0 +1,15 @@
+--- 
+en: 
+  world: 
+    ma: 
+      "06": 
+      - haj: 
+          name: El Hajeb
+      - err: 
+          name: Errachidia
+      - ifr: 
+          name: Ifrane
+      - khn: 
+          name: Khenifra
+      - mek: 
+          name: "Mekn\xC3\xA8s"

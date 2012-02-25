@@ -1,13 +1,9 @@
 --- 
 - code: BGR
-  name: Bougouriba
   type: province
 - code: IOB
-  name: Ioba
   type: province
 - code: NOU
-  name: Noumbiel
   type: province
 - code: PON
-  name: Poni
   type: province

@@ -1,10 +1,7 @@
 --- 
 - code: BIH
-  name: Federacija Bosne i Hercegovine
   type: entity
 - code: SRP
-  name: Republika Srpska
   type: entity
 - code: BRC
-  name: "Br\xC4\x8Dko distrikt"
   type: district

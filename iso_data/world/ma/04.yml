@@ -1,19 +1,13 @@
 --- 
 - code: BER
-  name: Berkane
   type: province
 - code: FIG
-  name: Figuig
   type: province
 - code: JRA
-  name: Jrada
   type: province
 - code: NAD
-  name: Nador
   type: province
 - code: TAI
-  name: Taourirt
   type: province
 - code: OUJ
-  name: Oujda-Angad
   type: prefecture

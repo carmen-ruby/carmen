@@ -1,0 +1,23 @@
+--- 
+en: 
+  world: 
+    nz: 
+      n: 
+      - auk: 
+          name: Auckland
+      - bop: 
+          name: Bay of Plenty
+      - hkb: 
+          name: Hawke's Bay
+      - mwt: 
+          name: Manawatu-Wanganui
+      - ntl: 
+          name: Northland
+      - tki: 
+          name: Taranaki
+      - wko: 
+          name: Waikato
+      - wgn: 
+          name: Wellington
+      - gis: 
+          name: Gisborne District

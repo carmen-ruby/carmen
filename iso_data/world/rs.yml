@@ -1,61 +1,41 @@
 --- 
 - code: "00"
-  name: Beograd
   type: city
 - code: KM
-  name: Kosovo-Metohija
   type: autonomous province
 - code: VO
-  name: Vojvodina
   type: autonomous province
 - code: "14"
-  name: Borski okrug
   type: district
 - code: "11"
-  name: "Brani\xC4\x8Devski okrug"
   type: district
 - code: "23"
-  name: "Jablani\xC4\x8Dki okrug"
   type: district
 - code: 09
-  name: Kolubarski okrug
   type: district
 - code: 08
-  name: "Ma\xC4\x8Dvanski okrug"
   type: district
 - code: "17"
-  name: "Moravi\xC4\x8Dki okrug"
   type: district
 - code: "20"
-  name: "Ni\xC5\xA1avski okrug"
   type: district
 - code: "24"
-  name: "P\xC4\x8Dinjski okrug"
   type: district
 - code: "22"
-  name: Pirotski okrug
   type: district
 - code: "10"
-  name: Podunavski okrug
   type: district
 - code: "13"
-  name: Pomoravski okrug
   type: district
 - code: "19"
-  name: Rasinski okrug
   type: district
 - code: "18"
-  name: "Ra\xC5\xA1ki okrug"
   type: district
 - code: "12"
-  name: "\xC5\xA0umadijski okrug"
   type: district
 - code: "21"
-  name: "Topli\xC4\x8Dki okrug"
   type: district
 - code: "15"
-  name: "Zaje\xC4\x8Darski okrug"
   type: district
 - code: "16"
-  name: Zlatiborski okrug
   type: district

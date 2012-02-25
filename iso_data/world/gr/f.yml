@@ -1,16 +1,11 @@
 --- 
 - code: "31"
-  name: Arta
   type: department
 - code: "23"
-  name: Kefallonia
   type: department
 - code: "22"
-  name: Kerkyra
   type: department
 - code: "24"
-  name: Lefkada
   type: department
 - code: "21"
-  name: Zakynthos
   type: department

@@ -1,0 +1,30 @@
+--- 
+en: 
+  world: 
+    lr: 
+    - bm: 
+        name: Bomi
+    - bg: 
+        name: Bong
+    - gb: 
+        name: Grand Bassa
+    - cm: 
+        name: Grand Cape Mount
+    - gg: 
+        name: Grand Gedeh
+    - gk: 
+        name: Grand Kru
+    - lo: 
+        name: Lofa
+    - mg: 
+        name: Margibi
+    - my: 
+        name: Maryland
+    - mo: 
+        name: Montserrado
+    - ni: 
+        name: Nimba
+    - ri: 
+        name: Rivercess
+    - si: 
+        name: Sinoe

@@ -1,0 +1,17 @@
+--- 
+en: 
+  world: 
+    ph: 
+      "06": 
+      - akl: 
+          name: Aklan
+      - ant: 
+          name: Antique
+      - cap: 
+          name: Capiz
+      - gui: 
+          name: Guimaras
+      - ili: 
+          name: Iloilo
+      - nec: 
+          name: Negroe Occidental

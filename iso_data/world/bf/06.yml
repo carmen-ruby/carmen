@@ -1,13 +1,9 @@
 --- 
 - code: BLK
-  name: "Boulkiemd\xC3\xA9"
   type: province
 - code: SNG
-  name: "Sangui\xC3\xA9"
   type: province
 - code: SIS
-  name: Sissili
   type: province
 - code: ZIR
-  name: Ziro
   type: province

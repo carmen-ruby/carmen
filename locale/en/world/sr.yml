@@ -1,0 +1,24 @@
+--- 
+en: 
+  world: 
+    sr: 
+    - br: 
+        name: Brokopondo
+    - cm: 
+        name: Commewijne
+    - cr: 
+        name: Coronie
+    - ma: 
+        name: Marowijne
+    - ni: 
+        name: Nickerie
+    - pr: 
+        name: Para
+    - pm: 
+        name: Paramaribo
+    - sa: 
+        name: Saramacca
+    - si: 
+        name: Sipaliwini
+    - wa: 
+        name: Wanica

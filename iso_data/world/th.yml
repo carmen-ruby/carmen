@@ -1,232 +1,155 @@
 --- 
 - code: "10"
-  name: Krung Thep Maha Nakhon Bangkok
   type: municipality
 - code: S
-  name: Phatthaya
   type: province
 - code: "37"
-  name: Amnat Charoen
   type: province
 - code: "15"
-  name: Ang Thong
   type: province
 - code: "31"
-  name: Buri Ram
   type: province
 - code: "24"
-  name: Chachoengsao
   type: province
 - code: "18"
-  name: Chai Nat
   type: province
 - code: "36"
-  name: Chaiyaphum
   type: province
 - code: "22"
-  name: Chanthaburi
   type: province
 - code: "50"
-  name: Chiang Mai
   type: province
 - code: "57"
-  name: Chiang Rai
   type: province
 - code: "20"
-  name: Chon Buri
   type: province
 - code: "86"
-  name: Chumphon
   type: province
 - code: "46"
-  name: Kalasin
   type: province
 - code: "62"
-  name: Kamphaeng Phet
   type: province
 - code: "71"
-  name: Kanchanaburi
   type: province
 - code: "40"
-  name: Khon Kaen
   type: province
 - code: "81"
-  name: Krabi
   type: province
 - code: "52"
-  name: Lampang
   type: province
 - code: "51"
-  name: Lamphun
   type: province
 - code: "42"
-  name: Loei
   type: province
 - code: "16"
-  name: Lop Buri
   type: province
 - code: "58"
-  name: Mae Hong Son
   type: province
 - code: "44"
-  name: Maha Sarakham
   type: province
 - code: "49"
-  name: Mukdahan
   type: province
 - code: "26"
-  name: Nakhon Nayok
   type: province
 - code: "73"
-  name: Nakhon Pathom
   type: province
 - code: "48"
-  name: Nakhon Phanom
   type: province
 - code: "30"
-  name: Nakhon Ratchasima
   type: province
 - code: "60"
-  name: Nakhon Sawan
   type: province
 - code: "80"
-  name: Nakhon Si Thammarat
   type: province
 - code: "55"
-  name: Nan
   type: province
 - code: "96"
-  name: Narathiwat
   type: province
 - code: "39"
-  name: Nong Bua Lam Phu
   type: province
 - code: "43"
-  name: Nong Khai
   type: province
 - code: "12"
-  name: Nonthaburi
   type: province
 - code: "13"
-  name: Pathum Thani
   type: province
 - code: "94"
-  name: Pattani
   type: province
 - code: "82"
-  name: Phangnga
   type: province
 - code: "93"
-  name: Phatthalung
   type: province
 - code: "56"
-  name: Phayao
   type: province
 - code: "67"
-  name: Phetchabun
   type: province
 - code: "76"
-  name: Phetchaburi
   type: province
 - code: "66"
-  name: Phichit
   type: province
 - code: "65"
-  name: Phitsanulok
   type: province
 - code: "54"
-  name: Phrae
   type: province
 - code: "14"
-  name: Phra Nakhon Si Ayutthaya
   type: province
 - code: "83"
-  name: Phuket
   type: province
 - code: "25"
-  name: Prachin Buri
   type: province
 - code: "77"
-  name: Prachuap Khiri Khan
   type: province
 - code: "85"
-  name: Ranong
   type: province
 - code: "70"
-  name: Ratchaburi
   type: province
 - code: "21"
-  name: Rayong
   type: province
 - code: "45"
-  name: Roi Et
   type: province
 - code: "27"
-  name: Sa Kaeo
   type: province
 - code: "47"
-  name: Sakon Nakhon
   type: province
 - code: "11"
-  name: Samut Prakan
   type: province
 - code: "74"
-  name: Samut Sakhon
   type: province
 - code: "75"
-  name: Samut Songkhram
   type: province
 - code: "19"
-  name: Saraburi
   type: province
 - code: "91"
-  name: Satun
   type: province
 - code: "17"
-  name: Sing Buri
   type: province
 - code: "33"
-  name: Si Sa Ket
   type: province
 - code: "90"
-  name: Songkhla
   type: province
 - code: "64"
-  name: Sukhothai
   type: province
 - code: "72"
-  name: Suphan Buri
   type: province
 - code: "84"
-  name: Surat Thani
   type: province
 - code: "32"
-  name: Surin
   type: province
 - code: "63"
-  name: Tak
   type: province
 - code: "92"
-  name: Trang
   type: province
 - code: "23"
-  name: Trat
   type: province
 - code: "34"
-  name: Ubon Ratchathani
   type: province
 - code: "41"
-  name: Udon Thani
   type: province
 - code: "61"
-  name: Uthai Thani
   type: province
 - code: "53"
-  name: Uttaradit
   type: province
 - code: "95"
-  name: Yala
   type: province
 - code: "35"
-  name: Yasothon
   type: province

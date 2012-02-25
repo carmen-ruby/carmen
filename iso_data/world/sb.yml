@@ -1,31 +1,21 @@
 --- 
 - code: CT
-  name: Capital Territory (Honiara)
   type: capital territory
 - code: CE
-  name: Central
   type: province
 - code: CH
-  name: Choiseul
   type: province
 - code: GU
-  name: Guadalcanal
   type: province
 - code: IS
-  name: Isabel
   type: province
 - code: MK
-  name: Makira
   type: province
 - code: ML
-  name: Malaita
   type: province
 - code: RB
-  name: Rennell and Bellona
   type: province
 - code: TE
-  name: Temotu
   type: province
 - code: WE
-  name: Western
   type: province

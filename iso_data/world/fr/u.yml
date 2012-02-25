@@ -1,19 +1,13 @@
 --- 
 - code: "04"
-  name: Alpes-de-Haute-Provence
   type: metropolitan department
 - code: "06"
-  name: Alpes-Maritimes
   type: metropolitan department
 - code: "13"
-  name: "Bouches-du-Rh\xC3\xB4ne"
   type: metropolitan department
 - code: "05"
-  name: Hautes-Alpes
   type: metropolitan department
 - code: "83"
-  name: Var
   type: metropolitan department
 - code: "84"
-  name: Vaucluse
   type: metropolitan department

@@ -1,0 +1,170 @@
+--- 
+en: 
+  world: 
+    ru: 
+    - ad: 
+        name: Adygeya, Respublika
+    - al: 
+        name: Altay, Respublika
+    - ba: 
+        name: Bashkortostan, Respublika
+    - bu: 
+        name: Buryatiya, Respublika
+    - ce: 
+        name: Chechenskaya Respublika
+    - cu: 
+        name: Chuvashskaya Respublika
+    - da: 
+        name: Dagestan, Respublika
+    - in: 
+        name: Respublika Ingushetiya
+    - kb: 
+        name: Kabardino-Balkarskaya Respublika
+    - kl: 
+        name: Kalmykiya, Respublika
+    - kc: 
+        name: Karachayevo-Cherkesskaya Respublika
+    - kr: 
+        name: Kareliya, Respublika
+    - kk: 
+        name: Khakasiya, Respublika
+    - ko: 
+        name: Komi, Respublika
+    - me: 
+        name: Mariy El, Respublika
+    - mo: 
+        name: Mordoviya, Respublika
+    - sa: 
+        name: Sakha, Respublika [Yakutiya]
+    - se: 
+        name: Severnaya Osetiya-Alaniya, Respublika
+    - ta: 
+        name: Tatarstan, Respublika
+    - ty: 
+        name: Tyva, Respublika [Tuva]
+    - ud: 
+        name: Udmurtskaya Respublika
+    - alt: 
+        name: Altayskiy kray
+    - kam: 
+        name: Kamchatskiy kray
+    - kha: 
+        name: Khabarovskiy kray
+    - kda: 
+        name: Krasnodarskiy kray
+    - kya: 
+        name: Krasnoyarskiy kray
+    - per: 
+        name: Permskiy kray
+    - pri: 
+        name: Primorskiy kray
+    - sta: 
+        name: Stavropol'skiy kray
+    - zab: 
+        name: Zabajkal'skij kraj
+    - amu: 
+        name: Amurskaya oblast'
+    - ark: 
+        name: Arkhangel'skaya oblast'
+    - ast: 
+        name: Astrakhanskaya oblast'
+    - bel: 
+        name: Belgorodskaya oblast'
+    - bry: 
+        name: Bryanskaya oblast'
+    - che: 
+        name: Chelyabinskaya oblast'
+    - irk: 
+        name: Irkutiskaya oblast'
+    - iva: 
+        name: Ivanovskaya oblast'
+    - kgd: 
+        name: Kaliningradskaya oblast'
+    - klu: 
+        name: Kaluzhskaya oblast'
+    - kem: 
+        name: Kemerovskaya oblast'
+    - kir: 
+        name: Kirovskaya oblast'
+    - kos: 
+        name: Kostromskaya oblast'
+    - kgn: 
+        name: Kurganskaya oblast'
+    - krs: 
+        name: Kurskaya oblast'
+    - len: 
+        name: Leningradskaya oblast'
+    - lip: 
+        name: Lipetskaya oblast'
+    - mag: 
+        name: Magadanskaya oblast'
+    - mos: 
+        name: Moskovskaya oblast'
+    - mur: 
+        name: Murmanskaya oblast'
+    - niz: 
+        name: Nizhegorodskaya oblast'
+    - ngr: 
+        name: Novgorodskaya oblast'
+    - nvs: 
+        name: Novosibirskaya oblast'
+    - oms: 
+        name: Omskaya oblast'
+    - ore: 
+        name: Orenburgskaya oblast'
+    - orl: 
+        name: Orlovskaya oblast'
+    - pnz: 
+        name: Penzenskaya oblast'
+    - psk: 
+        name: Pskovskaya oblast'
+    - ros: 
+        name: Rostovskaya oblast'
+    - rya: 
+        name: Ryazanskaya oblast'
+    - sak: 
+        name: Sakhalinskaya oblast'
+    - sam: 
+        name: Samaraskaya oblast'
+    - sar: 
+        name: Saratovskaya oblast'
+    - smo: 
+        name: Smolenskaya oblast'
+    - sve: 
+        name: Sverdlovskaya oblast'
+    - tam: 
+        name: Tambovskaya oblast'
+    - tom: 
+        name: Tomskaya oblast'
+    - tul: 
+        name: Tul'skaya oblast'
+    - tve: 
+        name: Tverskaya oblast'
+    - tyu: 
+        name: Tyumenskaya oblast'
+    - uly: 
+        name: Ul'yanovskaya oblast'
+    - vla: 
+        name: Vladimirskaya oblast'
+    - vgg: 
+        name: Volgogradskaya oblast'
+    - vlg: 
+        name: Vologodskaya oblast'
+    - vor: 
+        name: Voronezhskaya oblast'
+    - yar: 
+        name: Yaroslavskaya oblast'
+    - mow: 
+        name: Moskva
+    - spe: 
+        name: Sankt-Peterburg
+    - yev: 
+        name: Yevreyskaya avtonomnaya oblast'
+    - chu: 
+        name: Chukotskiy avtonomnyy okrug
+    - khm: 
+        name: Khanty-Mansiysky avtonomnyy okrug-Yugra
+    - nen: 
+        name: Nenetskiy avtonomnyy okrug
+    - yan: 
+        name: Yamalo-Nenetskiy avtonomnyy okrug

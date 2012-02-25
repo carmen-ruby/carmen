@@ -1,76 +1,51 @@
 --- 
 - code: W
-  name: Dependencias Federales
   type: federal dependency
 - code: A
-  name: Distrito Federal
   type: federal district
 - code: Z
-  name: Amazonas
   type: state
 - code: B
-  name: "Anzo\xC3\xA1tegui"
   type: state
 - code: C
-  name: Apure
   type: state
 - code: D
-  name: Aragua
   type: state
 - code: E
-  name: Barinas
   type: state
 - code: F
-  name: "Bol\xC3\xADvar"
   type: state
 - code: G
-  name: Carabobo
   type: state
 - code: H
-  name: Cojedes
   type: state
 - code: Y
-  name: Delta Amacuro
   type: state
 - code: I
-  name: "Falc\xC3\xB3n"
   type: state
 - code: J
-  name: "Gu\xC3\xA1rico"
   type: state
 - code: K
-  name: Lara
   type: state
 - code: L
-  name: "M\xC3\xA9rida"
   type: state
 - code: M
-  name: Miranda
   type: state
 - code: N
-  name: Monagas
   type: state
 - code: O
-  name: Nueva Esparta
   type: state
 - code: P
-  name: Portuguesa
   type: state
 - code: R
-  name: Sucre
   type: state
 - code: S
-  name: "T\xC3\xA1chira"
   type: state
 - code: T
-  name: Trujillo
   type: state
 - code: X
-  name: Vargas
   type: state
 - code: U
-  name: Yaracuy
   type: state
 - code: V
-  name: Zulia
   type: state

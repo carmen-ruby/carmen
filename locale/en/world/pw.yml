@@ -1,0 +1,36 @@
+--- 
+en: 
+  world: 
+    pw: 
+    - "002": 
+        name: Aimeliik
+    - "004": 
+        name: Airai
+    - "010": 
+        name: Angaur
+    - "050": 
+        name: Hatobohei
+    - "100": 
+        name: Kayangel
+    - "150": 
+        name: Koror
+    - "212": 
+        name: Melekeok
+    - "214": 
+        name: Ngaraard
+    - "218": 
+        name: Ngarchelong
+    - "222": 
+        name: Ngardmau
+    - "224": 
+        name: Ngatpang
+    - "226": 
+        name: Ngchesar
+    - "227": 
+        name: Ngeremlengui
+    - "228": 
+        name: Ngiwal
+    - "350": 
+        name: Peleliu
+    - "370": 
+        name: Sonsorol

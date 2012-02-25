@@ -1,58 +1,39 @@
 --- 
 - code: AN
-  name: "Andaluc\xC3\xADa"
   type: autonomous community
 - code: AR
-  name: "Arag\xC3\xB3n"
   type: autonomous community
 - code: AS
-  name: Asturias, Principado de
   type: autonomous community
 - code: CN
-  name: Canarias
   type: autonomous community
 - code: CB
-  name: Cantabria
   type: autonomous community
 - code: CM
-  name: Castilla-La Mancha
   type: autonomous community
 - code: CL
-  name: "Castilla y Le\xC3\xB3n"
   type: autonomous community
 - code: CT
-  name: Catalunya
   type: autonomous community
 - code: EX
-  name: Extremadura
   type: autonomous community
 - code: GA
-  name: Galicia
   type: autonomous community
 - code: IB
-  name: Illes Balears
   type: autonomous community
 - code: RI
-  name: La Rioja
   type: autonomous community
 - code: MD
-  name: Madrid, Comunidad de
   type: autonomous community
 - code: MC
-  name: "Murcia, Regi\xC3\xB3n de"
   type: autonomous community
 - code: NC
-  name: Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea
   type: autonomous community
 - code: PV
-  name: "Pa\xC3\xADs Vasco / Euskal Herria"
   type: autonomous community
 - code: VC
-  name: "Valenciana, Comunidad / Valenciana, Comunitat "
   type: autonomous community
 - code: CE
-  name: Ceuta
   type: autonomous city
 - code: ML
-  name: Melilla
   type: autonomous city

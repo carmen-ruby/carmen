@@ -1,16 +1,11 @@
 --- 
 - code: KA
-  name: Kankan
   type: prefecture
 - code: KE
-  name: "K\xC3\xA9rouan\xC3\xA9"
   type: prefecture
 - code: KO
-  name: Kouroussa
   type: prefecture
 - code: MD
-  name: Mandiana
   type: prefecture
 - code: SI
-  name: Siguiri
   type: prefecture

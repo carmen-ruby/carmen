@@ -1,0 +1,40 @@
+--- 
+en: 
+  world: 
+    py: 
+    - asu: 
+        name: "Asunci\xC3\xB3n"
+    - "16": 
+        name: Alto Paraguay
+    - "10": 
+        name: "Alto Paran\xC3\xA1"
+    - "13": 
+        name: Amambay
+    - "19": 
+        name: "Boquer\xC3\xB3n"
+    - "5": 
+        name: "Caaguaz\xC3\xBA"
+    - "6": 
+        name: "Caazap\xC3\xA1"
+    - "14": 
+        name: "Canindey\xC3\xBA"
+    - "11": 
+        name: Central
+    - "1": 
+        name: "Concepci\xC3\xB3n"
+    - "3": 
+        name: Cordillera
+    - "4": 
+        name: "Guair\xC3\xA1"
+    - "7": 
+        name: "Itap\xC3\xBAa"
+    - "8": 
+        name: Misiones
+    - "12": 
+        name: "\xC3\x91eembuc\xC3\xBA"
+    - "9": 
+        name: "Paraguar\xC3\xAD"
+    - "15": 
+        name: Presidente Hayes
+    - "2": 
+        name: San Pedro

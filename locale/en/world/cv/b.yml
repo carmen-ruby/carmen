@@ -1,0 +1,19 @@
+--- 
+en: 
+  world: 
+    cv: 
+      b: 
+      - bv: 
+          name: Boa Vista
+      - pa: 
+          name: Paul
+      - pn: 
+          name: Porto Novo
+      - rb: 
+          name: Ribeira Brava
+      - rg: 
+          name: Ribeira Grande
+      - sl: 
+          name: Sal
+      - sv: 
+          name: "S\xC3\xA3o Vicente"

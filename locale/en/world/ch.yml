@@ -1,0 +1,56 @@
+--- 
+en: 
+  world: 
+    ch: 
+    - ag: 
+        name: Aargau
+    - ai: 
+        name: Appenzell Innerrhoden
+    - ar: 
+        name: Appenzell Ausserrhoden
+    - be: 
+        name: Bern
+    - bl: 
+        name: Basel-Landschaft
+    - bs: 
+        name: Basel-Stadt
+    - fr: 
+        name: Fribourg
+    - ge: 
+        name: "Gen\xC3\xA8ve"
+    - gl: 
+        name: Glarus
+    - gr: 
+        name: "Graub\xC3\xBCnden"
+    - ju: 
+        name: Jura
+    - lu: 
+        name: Luzern
+    - ne: 
+        name: "Neuch\xC3\xA2tel"
+    - nw: 
+        name: Nidwalden
+    - ow: 
+        name: Obwalden
+    - sg: 
+        name: Sankt Gallen
+    - sh: 
+        name: Schaffhausen
+    - so: 
+        name: Solothurn
+    - sz: 
+        name: Schwyz
+    - tg: 
+        name: Thurgau
+    - ti: 
+        name: Ticino
+    - ur: 
+        name: Uri
+    - vd: 
+        name: Vaud
+    - vs: 
+        name: Valais
+    - zg: 
+        name: Zug
+    - zh: 
+        name: "Z\xC3\xBCrich"

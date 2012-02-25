@@ -1,0 +1,74 @@
+--- 
+en: 
+  world: 
+    in: 
+    - ap: 
+        name: Andhra Pradesh
+    - ar: 
+        name: "Arun\xC4\x81chal Pradesh"
+    - as: 
+        name: Assam
+    - br: 
+        name: "Bih\xC4\x81r"
+    - ct: 
+        name: "Chhatt\xC4\xABsgarh"
+    - ga: 
+        name: Goa
+    - gj: 
+        name: "Gujar\xC4\x81t"
+    - hr: 
+        name: "Hary\xC4\x81na"
+    - hp: 
+        name: "Him\xC4\x81chal Pradesh"
+    - jk: 
+        name: "Jammu and Kashm\xC4\xABr"
+    - jh: 
+        name: Jharkhand
+    - ka: 
+        name: "Karn\xC4\x81taka"
+    - kl: 
+        name: Kerala
+    - mp: 
+        name: Madhya Pradesh
+    - mh: 
+        name: "Mah\xC4\x81r\xC4\x81shtra"
+    - mn: 
+        name: Manipur
+    - ml: 
+        name: "Megh\xC4\x81laya"
+    - mz: 
+        name: Mizoram
+    - nl: 
+        name: "N\xC4\x81g\xC4\x81land"
+    - or: 
+        name: Orissa
+    - pb: 
+        name: Punjab
+    - rj: 
+        name: "R\xC4\x81jasth\xC4\x81n"
+    - sk: 
+        name: Sikkim
+    - tn: 
+        name: "Tamil N\xC4\x81du"
+    - tr: 
+        name: Tripura
+    - ul: 
+        name: Uttaranchal
+    - up: 
+        name: Uttar Pradesh
+    - wb: 
+        name: West Bengal
+    - an: 
+        name: Andaman and Nicobar Islands
+    - ch: 
+        name: "Chand\xC4\xABgarh"
+    - dn: 
+        name: "D\xC4\x81dra and Nagar Haveli"
+    - dd: 
+        name: "Dam\xC4\x81n and Diu"
+    - dl: 
+        name: Delhi
+    - ld: 
+        name: Lakshadweep
+    - py: 
+        name: Pondicherry

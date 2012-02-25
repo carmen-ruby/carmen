@@ -1,73 +1,49 @@
 --- 
 - code: "31"
-  name: "B\xC3\xA9ja"
   type: governorate
 - code: "13"
-  name: Ben Arous
   type: governorate
 - code: "23"
-  name: Bizerte
   type: governorate
 - code: "81"
-  name: "Gab\xC3\xA8s"
   type: governorate
 - code: "71"
-  name: Gafsa
   type: governorate
 - code: "32"
-  name: Jendouba
   type: governorate
 - code: "41"
-  name: Kairouan
   type: governorate
 - code: "42"
-  name: Kasserine
   type: governorate
 - code: "73"
-  name: Kebili
   type: governorate
 - code: "12"
-  name: L'Ariana
   type: governorate
 - code: "33"
-  name: Le Kef
   type: governorate
 - code: "53"
-  name: Mahdia
   type: governorate
 - code: "14"
-  name: La Manouba
   type: governorate
 - code: "82"
-  name: Medenine
   type: governorate
 - code: "52"
-  name: Monastir
   type: governorate
 - code: "21"
-  name: Nabeul
   type: governorate
 - code: "61"
-  name: Sfax
   type: governorate
 - code: "43"
-  name: Sidi Bouzid
   type: governorate
 - code: "34"
-  name: Siliana
   type: governorate
 - code: "51"
-  name: Sousse
   type: governorate
 - code: "83"
-  name: Tataouine
   type: governorate
 - code: "72"
-  name: Tozeur
   type: governorate
 - code: "11"
-  name: Tunis
   type: governorate
 - code: "22"
-  name: Zaghouan
   type: governorate

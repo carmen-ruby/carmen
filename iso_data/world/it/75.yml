@@ -1,19 +1,13 @@
 --- 
 - code: BA
-  name: Bari
   type: province
 - code: BT
-  name: Barletta-Andria-Trani
   type: province
 - code: BR
-  name: Brindisi
   type: province
 - code: FG
-  name: Foggia
   type: province
 - code: LE
-  name: Lecce
   type: province
 - code: TA
-  name: Taranto
   type: province

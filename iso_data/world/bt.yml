@@ -1,61 +1,41 @@
 --- 
 - code: "33"
-  name: Bumthang
   type: district
 - code: "12"
-  name: Chhukha
   type: district
 - code: "22"
-  name: Dagana
   type: district
 - code: GA
-  name: Gasa
   type: district
 - code: "13"
-  name: Ha
   type: district
 - code: "44"
-  name: Lhuentse
   type: district
 - code: "42"
-  name: Monggar
   type: district
 - code: "11"
-  name: Paro
   type: district
 - code: "43"
-  name: Pemagatshel
   type: district
 - code: "23"
-  name: Punakha
   type: district
 - code: "45"
-  name: Samdrup Jongkha
   type: district
 - code: "14"
-  name: Samtee
   type: district
 - code: "31"
-  name: Sarpang
   type: district
 - code: "15"
-  name: Thimphu
   type: district
 - code: "41"
-  name: Trashigang
   type: district
 - code: TY
-  name: Trashi Yangtse
   type: district
 - code: "32"
-  name: Trongsa
   type: district
 - code: "21"
-  name: Tsirang
   type: district
 - code: "24"
-  name: Wangdue Phodrang
   type: district
 - code: "34"
-  name: Zhemgang
   type: district

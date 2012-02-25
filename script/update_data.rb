@@ -8,16 +8,41 @@ rescue LoadError
   require 'fileutils' # ftools is now fileutils in Ruby 1.9
 end
 
-def write_data_to_path_as_yaml(data, path)
+def write_file(data, path)
   FileUtils.mkdir_p(File.dirname(path))
-  File.open(path, 'w') { |f| f.write data.to_yaml }
+  File.open(path + '.yml', 'w') { |f| f.write data.to_yaml }
+end
+
+def write_data_to_path_as_yaml(data, path)
+  data_keys = %w{alpha_2_code alpha_3_code numeric_code type}
+  locale_keys = %w{common_name name official_name}
+
+  locale_data = []
+  data.each do |element|
+    locale = {}
+    locale_keys.each do |key|
+      locale[key] = element.delete(key) if element.key?(key)
+    end
+    parent_key = element['alpha_2_code'] || element['code']
+    locale_data << {
+       parent_key.downcase => locale
+    }
+  end
+
+  path_segments = "en/#{path}".split('/').reverse
+  wrapped_locale_data = path_segments.inject(locale_data) { |hash, path|
+    { path => hash }
+  }
+
+  write_file(data, 'iso_data/' + path)
+  write_file(wrapped_locale_data, 'locale/en/' + path)
 end
 
 def write_regions_to_path_as_yaml(regions_data, path)
   regions_data.each do |subregion_data|
     subregions = subregion_data.delete('subregions')
     if subregions
-      subregion_path = path.sub('.yml', "/#{subregion_data['code'].downcase}.yml")
+      subregion_path = path + "/#{subregion_data['code'].downcase}"
       write_regions_to_path_as_yaml(subregions, subregion_path)
     end
   end
@@ -64,7 +89,7 @@ end
 
 puts
 
-write_data_to_path_as_yaml(countries, data_path + 'world.yml')
+write_data_to_path_as_yaml(countries, 'world')
 
 # regions
 puts "Importing regions"
@@ -111,7 +136,7 @@ doc.css('iso_3166_country').each do |country|
 
   end
 
-  write_regions_to_path_as_yaml(regions, data_path + "world/#{code}.yml")
+  write_regions_to_path_as_yaml(regions, "world/#{code}")
   print '.'
 end
 

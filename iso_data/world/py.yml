@@ -1,55 +1,37 @@
 --- 
 - code: ASU
-  name: "Asunci\xC3\xB3n"
   type: capital district
 - code: "16"
-  name: Alto Paraguay
   type: department
 - code: "10"
-  name: "Alto Paran\xC3\xA1"
   type: department
 - code: "13"
-  name: Amambay
   type: department
 - code: "19"
-  name: "Boquer\xC3\xB3n"
   type: department
 - code: "5"
-  name: "Caaguaz\xC3\xBA"
   type: department
 - code: "6"
-  name: "Caazap\xC3\xA1"
   type: department
 - code: "14"
-  name: "Canindey\xC3\xBA"
   type: department
 - code: "11"
-  name: Central
   type: department
 - code: "1"
-  name: "Concepci\xC3\xB3n"
   type: department
 - code: "3"
-  name: Cordillera
   type: department
 - code: "4"
-  name: "Guair\xC3\xA1"
   type: department
 - code: "7"
-  name: "Itap\xC3\xBAa"
   type: department
 - code: "8"
-  name: Misiones
   type: department
 - code: "12"
-  name: "\xC3\x91eembuc\xC3\xBA"
   type: department
 - code: "9"
-  name: "Paraguar\xC3\xAD"
   type: department
 - code: "15"
-  name: Presidente Hayes
   type: department
 - code: "2"
-  name: San Pedro
   type: department

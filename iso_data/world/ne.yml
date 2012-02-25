@@ -1,25 +1,17 @@
 --- 
 - code: "8"
-  name: Niamey
   type: capital district
 - code: "1"
-  name: Agadez
   type: department
 - code: "2"
-  name: Diffa
   type: department
 - code: "3"
-  name: Dosso
   type: department
 - code: "4"
-  name: Maradi
   type: department
 - code: "5"
-  name: Tahoua
   type: department
 - code: "6"
-  name: "Tillab\xC3\xA9ri"
   type: department
 - code: "7"
-  name: Zinder
   type: department

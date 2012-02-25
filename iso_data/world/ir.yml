@@ -1,91 +1,61 @@
 --- 
 - code: "03"
-  name: "Ardab\xC4\xABl"
   type: province
 - code: "02"
-  name: "\xC4\x80zarb\xC4\x81yj\xC4\x81n-e Gharb\xC4\xAB"
   type: province
 - code: "01"
-  name: "\xC4\x80zarb\xC4\x81yj\xC4\x81n-e Sharq\xC4\xAB"
   type: province
 - code: "06"
-  name: "B\xC5\xABshehr"
   type: province
 - code: 08
-  name: "Chah\xC4\x81r Mah\xC4\x81ll va Bakht\xC4\xAB\xC4\x81r\xC4\xAB"
   type: province
 - code: "04"
-  name: "E\xC5\x9Ffah\xC4\x81n"
   type: province
 - code: "14"
-  name: "F\xC4\x81rs"
   type: province
 - code: "19"
-  name: "G\xC4\xABl\xC4\x81n"
   type: province
 - code: "27"
-  name: "Golest\xC4\x81n"
   type: province
 - code: "24"
-  name: "Hamad\xC4\x81n"
   type: province
 - code: "23"
-  name: "Hormozg\xC4\x81n"
   type: province
 - code: "05"
-  name: "\xC4\xAAl\xC4\x81m"
   type: province
 - code: "15"
-  name: "Kerm\xC4\x81n"
   type: province
 - code: "17"
-  name: "Kerm\xC4\x81nsh\xC4\x81h"
   type: province
 - code: "29"
-  name: "Khor\xC4\x81s\xC4\x81n-e Jan\xC5\xABb\xC4\xAB"
   type: province
 - code: "30"
-  name: "Khor\xC4\x81s\xC4\x81n-e Razav\xC4\xAB"
   type: province
 - code: "31"
-  name: "Khor\xC4\x81s\xC4\x81n-e Shem\xC4\x81l\xC4\xAB"
   type: province
 - code: "10"
-  name: "Kh\xC5\xABzest\xC4\x81n"
   type: province
 - code: "18"
-  name: "Kohg\xC4\xABl\xC5\xAByeh va B\xC5\xAByer Ahmad"
   type: province
 - code: "16"
-  name: "Kordest\xC4\x81n"
   type: province
 - code: "20"
-  name: "Lorest\xC4\x81n"
   type: province
 - code: "22"
-  name: "Markaz\xC4\xAB"
   type: province
 - code: "21"
-  name: "M\xC4\x81zandar\xC4\x81n"
   type: province
 - code: "28"
-  name: "Qazv\xC4\xABn"
   type: province
 - code: "26"
-  name: Qom
   type: province
 - code: "12"
-  name: "Semn\xC4\x81n"
   type: province
 - code: "13"
-  name: "S\xC4\xABst\xC4\x81n va Bal\xC5\xABchest\xC4\x81n"
   type: province
 - code: "07"
-  name: "Tehr\xC4\x81n"
   type: province
 - code: "25"
-  name: Yazd
   type: province
 - code: "11"
-  name: "Zanj\xC4\x81n"
   type: province

@@ -1,37 +1,25 @@
 --- 
 - code: DR
-  name: Drenthe
   type: province
 - code: FL
-  name: Flevoland
   type: province
 - code: FR
-  name: Friesland
   type: province
 - code: GE
-  name: Gelderland
   type: province
 - code: GR
-  name: Groningen
   type: province
 - code: LI
-  name: Limburg
   type: province
 - code: NB
-  name: Noord-Brabant
   type: province
 - code: NH
-  name: Noord-Holland
   type: province
 - code: OV
-  name: Overijssel
   type: province
 - code: UT
-  name: Utrecht
   type: province
 - code: ZE
-  name: Zeeland
   type: province
 - code: ZH
-  name: Zuid-Holland
   type: province

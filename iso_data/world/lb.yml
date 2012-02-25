@@ -1,25 +1,17 @@
 --- 
 - code: AK
-  name: "Aakk\xC3\xA2r"
   type: governorate
 - code: BH
-  name: Baalbek-Hermel
   type: governorate
 - code: BI
-  name: "B\xC3\xA9qaa"
   type: governorate
 - code: BA
-  name: Beyrouth
   type: governorate
 - code: AS
-  name: Liban-Nord
   type: governorate
 - code: JA
-  name: Liban-Sud
   type: governorate
 - code: JL
-  name: Mont-Liban
   type: governorate
 - code: NA
-  name: "Nabat\xC3\xAEy\xC3\xA9"
   type: governorate

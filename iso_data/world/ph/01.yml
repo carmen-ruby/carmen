@@ -1,13 +1,9 @@
 --- 
 - code: ILN
-  name: Ilocos Norte
   type: province
 - code: ILS
-  name: Ilocos Sur
   type: province
 - code: LUN
-  name: La Union
   type: province
 - code: PAN
-  name: Pangasinan
   type: province

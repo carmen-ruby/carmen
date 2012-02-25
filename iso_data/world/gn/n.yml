@@ -1,19 +1,13 @@
 --- 
 - code: BE
-  name: Beyla
   type: prefecture
 - code: GU
-  name: "Gu\xC3\xA9k\xC3\xA9dou"
   type: prefecture
 - code: LO
-  name: Lola
   type: prefecture
 - code: MC
-  name: Macenta
   type: prefecture
 - code: NZ
-  name: "Nz\xC3\xA9r\xC3\xA9kor\xC3\xA9"
   type: prefecture
 - code: YO
-  name: Yomou
   type: prefecture

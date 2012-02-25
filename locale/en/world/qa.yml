@@ -1,0 +1,22 @@
+--- 
+en: 
+  world: 
+    qa: 
+    - da: 
+        name: Ad Dawhah
+    - gh: 
+        name: Al Ghuwayriyah
+    - ju: 
+        name: Al Jumayliyah
+    - kh: 
+        name: Al Khawr
+    - wa: 
+        name: Al Wakrah
+    - ra: 
+        name: Ar Rayyan
+    - jb: 
+        name: Jariyan al Batnah
+    - ms: 
+        name: Madinat ash Shamal
+    - us: 
+        name: Umm Salal

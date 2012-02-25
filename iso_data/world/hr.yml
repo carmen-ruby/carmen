@@ -1,64 +1,43 @@
 --- 
 - code: "21"
-  name: Grad Zagreb
   type: city
 - code: "07"
-  name: "Bjelovarsko-bilogorska \xC5\xBEupanija"
   type: county
 - code: "12"
-  name: "Brodsko-posavska \xC5\xBEupanija"
   type: county
 - code: "19"
-  name: "Dubrova\xC4\x8Dko-neretvanska \xC5\xBEupanija"
   type: county
 - code: "18"
-  name: "Istarska \xC5\xBEupanija"
   type: county
 - code: "04"
-  name: "Karlova\xC4\x8Dka \xC5\xBEupanija"
   type: county
 - code: "06"
-  name: "Koprivni\xC4\x8Dko-kri\xC5\xBEeva\xC4\x8Dka \xC5\xBEupanija"
   type: county
 - code: "02"
-  name: "Krapinsko-zagorska \xC5\xBEupanija"
   type: county
 - code: 09
-  name: "Li\xC4\x8Dko-senjska \xC5\xBEupanija"
   type: county
 - code: "20"
-  name: "Me\xC4\x91imurska \xC5\xBEupanija"
   type: county
 - code: "14"
-  name: "Osje\xC4\x8Dko-baranjska \xC5\xBEupanija"
   type: county
 - code: "11"
-  name: "Po\xC5\xBEe\xC5\xA1ko-slavonska \xC5\xBEupanija"
   type: county
 - code: 08
-  name: "Primorsko-goranska \xC5\xBEupanija"
   type: county
 - code: "03"
-  name: "Sisa\xC4\x8Dko-moslava\xC4\x8Dka \xC5\xBEupanija"
   type: county
 - code: "17"
-  name: "Splitsko-dalmatinska \xC5\xBEupanija"
   type: county
 - code: "15"
-  name: "\xC5\xA0ibensko-kninska \xC5\xBEupanija"
   type: county
 - code: "05"
-  name: "Vara\xC5\xBEdinska \xC5\xBEupanija"
   type: county
 - code: "10"
-  name: "Viroviti\xC4\x8Dko-podravska \xC5\xBEupanija"
   type: county
 - code: "16"
-  name: "Vukovarsko-srijemska \xC5\xBEupanija"
   type: county
 - code: "13"
-  name: "Zadarska \xC5\xBEupanija"
   type: county
 - code: "01"
-  name: "Zagreba\xC4\x8Dka \xC5\xBEupanija"
   type: county

@@ -1,0 +1,15 @@
+--- 
+en: 
+  world: 
+    es: 
+      cm: 
+      - ab: 
+          name: Albacete
+      - cr: 
+          name: Ciudad Real
+      - cu: 
+          name: Cuenca
+      - gu: 
+          name: Guadalajara
+      - to: 
+          name: Toledo

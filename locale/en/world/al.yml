@@ -1,0 +1,28 @@
+--- 
+en: 
+  world: 
+    al: 
+    - "01": 
+        name: Berat
+    - 09: 
+        name: "Dib\xC3\xABr"
+    - "02": 
+        name: "Durr\xC3\xABs"
+    - "03": 
+        name: Elbasan
+    - "04": 
+        name: Fier
+    - "05": 
+        name: "Gjirokast\xC3\xABr"
+    - "06": 
+        name: "Kor\xC3\xA7\xC3\xAB"
+    - "07": 
+        name: "Kuk\xC3\xABs"
+    - 08: 
+        name: "Lezh\xC3\xAB"
+    - "10": 
+        name: "Shkod\xC3\xABr"
+    - "11": 
+        name: "Tiran\xC3\xAB"
+    - "12": 
+        name: "Vlor\xC3\xAB"

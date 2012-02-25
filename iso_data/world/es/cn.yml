@@ -1,7 +1,5 @@
 --- 
 - code: GC
-  name: Las Palmas
   type: province
 - code: TF
-  name: Santa Cruz de Tenerife
   type: province

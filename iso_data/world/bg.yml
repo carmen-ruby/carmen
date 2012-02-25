@@ -1,85 +1,57 @@
 --- 
 - code: "01"
-  name: Blagoevgrad
   type: region
 - code: "02"
-  name: Burgas
   type: region
 - code: 08
-  name: Dobrich
   type: region
 - code: "07"
-  name: Gabrovo
   type: region
 - code: "26"
-  name: Haskovo
   type: region
 - code: 09
-  name: Kardzhali
   type: region
 - code: "10"
-  name: Kyustendil
   type: region
 - code: "11"
-  name: Lovech
   type: region
 - code: "12"
-  name: Montana
   type: region
 - code: "13"
-  name: Pazardzhik
   type: region
 - code: "14"
-  name: Pernik
   type: region
 - code: "15"
-  name: Pleven
   type: region
 - code: "16"
-  name: Plovdiv
   type: region
 - code: "17"
-  name: Razgrad
   type: region
 - code: "18"
-  name: Ruse
   type: region
 - code: "27"
-  name: Shumen
   type: region
 - code: "19"
-  name: Silistra
   type: region
 - code: "20"
-  name: Sliven
   type: region
 - code: "21"
-  name: Smolyan
   type: region
 - code: "23"
-  name: Sofia
   type: region
 - code: "22"
-  name: Sofia-Grad
   type: region
 - code: "24"
-  name: Stara Zagora
   type: region
 - code: "25"
-  name: Targovishte
   type: region
 - code: "03"
-  name: Varna
   type: region
 - code: "04"
-  name: Veliko Tarnovo
   type: region
 - code: "05"
-  name: Vidin
   type: region
 - code: "06"
-  name: Vratsa
   type: region
 - code: "28"
-  name: Yambol
   type: region

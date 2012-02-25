@@ -1,7 +1,5 @@
 --- 
 - code: BZ
-  name: Bolzano
   type: province
 - code: TN
-  name: Trento
   type: province

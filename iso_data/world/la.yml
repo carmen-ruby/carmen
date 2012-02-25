@@ -1,55 +1,37 @@
 --- 
 - code: VT
-  name: Vientiane
   type: prefecture
 - code: AT
-  name: Attapu
   type: province
 - code: BK
-  name: "Bok\xC3\xA8o"
   type: province
 - code: BL
-  name: Bolikhamxai
   type: province
 - code: CH
-  name: Champasak
   type: province
 - code: HO
-  name: Houaphan
   type: province
 - code: KH
-  name: Khammouan
   type: province
 - code: LM
-  name: Louang Namtha
   type: province
 - code: LP
-  name: Louangphabang
   type: province
 - code: OU
-  name: "Oud\xC3\xB4mxai"
   type: province
 - code: PH
-  name: "Ph\xC3\xB4ngsali"
   type: province
 - code: SL
-  name: Salavan
   type: province
 - code: SV
-  name: "Savannakh\xC3\xA9t"
   type: province
 - code: VI
-  name: Vientiane
   type: province
 - code: XA
-  name: Xaignabouli
   type: province
 - code: XE
-  name: "X\xC3\xA9kong"
   type: province
 - code: XI
-  name: Xiangkhoang
   type: province
 - code: XN
-  name: "Xias\xC3\xB4mboun"
   type: special zone

@@ -1,0 +1,36 @@
+--- 
+en: 
+  world: 
+    kr: 
+    - "11": 
+        name: Seoul Teugbyeolsi
+    - "26": 
+        name: Busan Gwang'yeogsi
+    - "27": 
+        name: Daegu Gwang'yeogsi
+    - "30": 
+        name: Daejeon Gwang'yeogsi
+    - "29": 
+        name: Gwangju Gwang'yeogsi
+    - "28": 
+        name: Incheon Gwang'yeogsi
+    - "31": 
+        name: Ulsan Gwang'yeogsi
+    - "43": 
+        name: Chungcheongbukdo
+    - "44": 
+        name: Chungcheongnamdo
+    - "42": 
+        name: Gang'weondo
+    - "41": 
+        name: Gyeonggido
+    - "47": 
+        name: Gyeongsangbukdo
+    - "48": 
+        name: Gyeongsangnamdo
+    - "49": 
+        name: Jejudo
+    - "45": 
+        name: Jeonrabukdo
+    - "46": 
+        name: Jeonranamdo

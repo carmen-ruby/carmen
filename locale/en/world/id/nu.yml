@@ -1,0 +1,11 @@
+--- 
+en: 
+  world: 
+    id: 
+      nu: 
+      - ba: 
+          name: Bali
+      - nb: 
+          name: Nusa Tenggara Barat
+      - nt: 
+          name: Nusa Tenggara Timur

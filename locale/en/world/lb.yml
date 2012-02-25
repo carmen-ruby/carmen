@@ -1,0 +1,20 @@
+--- 
+en: 
+  world: 
+    lb: 
+    - ak: 
+        name: "Aakk\xC3\xA2r"
+    - bh: 
+        name: Baalbek-Hermel
+    - bi: 
+        name: "B\xC3\xA9qaa"
+    - ba: 
+        name: Beyrouth
+    - as: 
+        name: Liban-Nord
+    - ja: 
+        name: Liban-Sud
+    - jl: 
+        name: Mont-Liban
+    - na: 
+        name: "Nabat\xC3\xAEy\xC3\xA9"

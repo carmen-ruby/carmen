@@ -1,0 +1,20 @@
+--- 
+en: 
+  world: 
+    tv: 
+    - fun: 
+        name: Funafuti
+    - nmg: 
+        name: Nanumanga
+    - nma: 
+        name: Nanumea
+    - nit: 
+        name: Niutao
+    - niu: 
+        name: Nui
+    - nkf: 
+        name: Nukufetau
+    - nkl: 
+        name: Nukulaelae
+    - vai: 
+        name: Vaitupu

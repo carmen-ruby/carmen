@@ -1,0 +1,20 @@
+--- 
+en: 
+  world: 
+    ag: 
+    - "03": 
+        name: Saint George
+    - "04": 
+        name: Saint John
+    - "05": 
+        name: Saint Mary
+    - "06": 
+        name: Saint Paul
+    - "07": 
+        name: Saint Peter
+    - 08: 
+        name: Saint Philip
+    - "10": 
+        name: Barbuda
+    - "11": 
+        name: Redonda

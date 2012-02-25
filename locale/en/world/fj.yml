@@ -1,0 +1,14 @@
+--- 
+en: 
+  world: 
+    fj: 
+    - c: 
+        name: Central
+    - e: 
+        name: Eastern
+    - n: 
+        name: Northern
+    - w: 
+        name: Western
+    - r: 
+        name: Rotuma

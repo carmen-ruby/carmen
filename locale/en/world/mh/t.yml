@@ -1,0 +1,25 @@
+--- 
+en: 
+  world: 
+    mh: 
+      t: 
+      - alk: 
+          name: Ailuk
+      - arn: 
+          name: Arno
+      - aur: 
+          name: Aur
+      - lik: 
+          name: Likiep
+      - maj: 
+          name: Majuro
+      - mal: 
+          name: Maloelap
+      - mej: 
+          name: Mejit
+      - mil: 
+          name: Mili
+      - uti: 
+          name: Utirik
+      - wtj: 
+          name: Wotje

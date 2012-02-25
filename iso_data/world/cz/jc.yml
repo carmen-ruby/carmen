@@ -1,22 +1,15 @@
 --- 
 - code: "311"
-  name: "\xC4\x8Cesk\xC3\xA9 Bud\xC4\x9Bjovice"
   type: district
 - code: "312"
-  name: "\xC4\x8Cesk\xC3\xBD Krumlov"
   type: district
 - code: "313"
-  name: "Jind\xC5\x99ich\xC5\xAFv Hradec"
   type: district
 - code: "314"
-  name: "P\xC3\xADsek"
   type: district
 - code: "315"
-  name: Prachatice
   type: district
 - code: "316"
-  name: Strakonice
   type: district
 - code: "317"
-  name: "T\xC3\xA1bor"
   type: district

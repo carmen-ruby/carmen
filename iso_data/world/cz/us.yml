@@ -1,22 +1,15 @@
 --- 
 - code: "421"
-  name: "D\xC4\x9B\xC4\x8D\xC3\xADn"
   type: district
 - code: "422"
-  name: Chomutov
   type: district
 - code: "423"
-  name: "Litom\xC4\x9B\xC5\x99ice"
   type: district
 - code: "424"
-  name: Louny
   type: district
 - code: "425"
-  name: Most
   type: district
 - code: "426"
-  name: Teplice
   type: district
 - code: "427"
-  name: "\xC3\x9Ast\xC3\xAD nad Labem"
   type: district

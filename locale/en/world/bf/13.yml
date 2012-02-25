@@ -1,0 +1,13 @@
+--- 
+en: 
+  world: 
+    bf: 
+      "13": 
+      - bgr: 
+          name: Bougouriba
+      - iob: 
+          name: Ioba
+      - nou: 
+          name: Noumbiel
+      - pon: 
+          name: Poni

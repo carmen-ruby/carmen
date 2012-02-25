@@ -1,10 +1,7 @@
 --- 
 - code: GB
-  name: Gorno-Badakhshan
   type: autonomous region
 - code: KT
-  name: Khatlon
   type: region
 - code: SU
-  name: Sughd
   type: region

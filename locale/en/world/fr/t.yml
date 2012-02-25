@@ -1,0 +1,13 @@
+--- 
+en: 
+  world: 
+    fr: 
+      t: 
+      - "16": 
+          name: Charente
+      - "17": 
+          name: Charente-Maritime
+      - "79": 
+          name: "Deux-S\xC3\xA8vres"
+      - "86": 
+          name: Vienne

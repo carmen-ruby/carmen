@@ -1,22 +1,15 @@
 --- 
 - code: A
-  name: Alajuela
   type: province
 - code: C
-  name: Cartago
   type: province
 - code: G
-  name: Guanacaste
   type: province
 - code: H
-  name: Heredia
   type: province
 - code: L
-  name: "Lim\xC3\xB3n"
   type: province
 - code: P
-  name: Puntarenas
   type: province
 - code: SJ
-  name: "San Jos\xC3\xA9"
   type: province

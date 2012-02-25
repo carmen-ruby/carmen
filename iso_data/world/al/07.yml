@@ -1,10 +1,7 @@
 --- 
 - code: HA
-  name: Has
   type: district
 - code: KU
-  name: "Kuk\xC3\xABs"
   type: district
 - code: TP
-  name: "Tropoj\xC3\xAB"
   type: district

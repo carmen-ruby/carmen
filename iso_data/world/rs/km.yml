@@ -1,16 +1,11 @@
 --- 
 - code: "25"
-  name: Kosovski okrug
   type: district
 - code: "28"
-  name: "Kosovsko-Mitrova\xC4\x8Dki okrug"
   type: district
 - code: "29"
-  name: Kosovsko-Pomoravski okrug
   type: district
 - code: "26"
-  name: "Pe\xC4\x87ki okrug"
   type: district
 - code: "27"
-  name: Prizrenski okrug
   type: district

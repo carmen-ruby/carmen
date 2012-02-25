@@ -1,34 +1,23 @@
 --- 
 - code: MPM
-  name: Maputo (city)
   type: city
 - code: P
-  name: Cabo Delgado
   type: province
 - code: G
-  name: Gaza
   type: province
 - code: I
-  name: Inhambane
   type: province
 - code: B
-  name: Manica
   type: province
 - code: L
-  name: Maputo
   type: province
 - code: N
-  name: Numpula
   type: province
 - code: A
-  name: Niassa
   type: province
 - code: S
-  name: Sofala
   type: province
 - code: T
-  name: Tete
   type: province
 - code: Q
-  name: Zambezia
   type: province

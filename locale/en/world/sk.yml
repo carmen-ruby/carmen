@@ -1,0 +1,20 @@
+--- 
+en: 
+  world: 
+    sk: 
+    - bc: 
+        name: "Banskobystrick\xC3\xBD kraj"
+    - bl: 
+        name: "Bratislavsk\xC3\xBD kraj"
+    - ki: 
+        name: "Ko\xC5\xA1ick\xC3\xBD kraj"
+    - ni: 
+        name: Nitriansky kraj
+    - pv: 
+        name: "Pre\xC5\xA1ovsk\xC3\xBD kraj"
+    - tc: 
+        name: "Tren\xC4\x8Diansky kraj"
+    - ta: 
+        name: "Trnavsk\xC3\xBD kraj"
+    - zi: 
+        name: "\xC5\xBDilinsk\xC3\xBD kraj"

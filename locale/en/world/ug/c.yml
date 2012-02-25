@@ -1,0 +1,37 @@
+--- 
+en: 
+  world: 
+    ug: 
+      c: 
+      - "101": 
+          name: Kalangala
+      - "102": 
+          name: Kampala
+      - "112": 
+          name: Kayunga
+      - "103": 
+          name: Kiboga
+      - "104": 
+          name: Luwero
+      - "116": 
+          name: Lyantonde
+      - "105": 
+          name: Masaka
+      - "114": 
+          name: Mityana
+      - "106": 
+          name: Mpigi
+      - "107": 
+          name: Mubende
+      - "108": 
+          name: Mukono
+      - "115": 
+          name: Nakaseke
+      - "109": 
+          name: Nakasongola
+      - "110": 
+          name: Rakai
+      - "111": 
+          name: Sembabule
+      - "113": 
+          name: Wakiso

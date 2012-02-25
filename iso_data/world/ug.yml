@@ -1,13 +1,9 @@
 --- 
 - code: C
-  name: Central
   type: geographical region
 - code: E
-  name: Eastern
   type: geographical region
 - code: N
-  name: Northern
   type: geographical region
 - code: W
-  name: Western
   type: geographical region

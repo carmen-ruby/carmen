@@ -1,16 +1,11 @@
 --- 
 - code: G
-  name: Galway
   type: county
 - code: LM
-  name: Leitrim
   type: county
 - code: MO
-  name: Mayo
   type: county
 - code: RN
-  name: Roscommon
   type: county
 - code: SO
-  name: Sligo
   type: county

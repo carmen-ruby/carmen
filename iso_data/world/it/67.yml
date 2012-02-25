@@ -1,7 +1,5 @@
 --- 
 - code: CB
-  name: Campobasso
   type: province
 - code: IS
-  name: Isernia
   type: province

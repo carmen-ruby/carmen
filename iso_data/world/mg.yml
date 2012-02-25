@@ -1,19 +1,13 @@
 --- 
 - code: T
-  name: Antananarivo
   type: autonomous province
 - code: D
-  name: Antsiranana
   type: autonomous province
 - code: F
-  name: Fianarantsoa
   type: autonomous province
 - code: M
-  name: Mahajanga
   type: autonomous province
 - code: A
-  name: Toamasina
   type: autonomous province
 - code: U
-  name: Toliara
   type: autonomous province

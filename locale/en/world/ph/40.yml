@@ -1,0 +1,15 @@
+--- 
+en: 
+  world: 
+    ph: 
+      "40": 
+      - btg: 
+          name: Batangas
+      - cav: 
+          name: Cavite
+      - lag: 
+          name: Laguna
+      - que: 
+          name: Quezon
+      - riz: 
+          name: Rizal

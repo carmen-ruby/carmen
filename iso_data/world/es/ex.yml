@@ -1,7 +1,5 @@
 --- 
 - code: BA
-  name: Badajoz
   type: province
 - code: CC
-  name: "C\xC3\xA1ceres"
   type: province

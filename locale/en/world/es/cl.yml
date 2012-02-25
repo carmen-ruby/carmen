@@ -1,0 +1,23 @@
+--- 
+en: 
+  world: 
+    es: 
+      cl: 
+      - av: 
+          name: "\xC3\x81vila"
+      - bu: 
+          name: Burgos
+      - le: 
+          name: "Le\xC3\xB3n"
+      - p: 
+          name: Palencia
+      - sa: 
+          name: Salamanca
+      - sg: 
+          name: Segovia
+      - so: 
+          name: Soria
+      - va: 
+          name: Valladolid
+      - za: 
+          name: Zamora

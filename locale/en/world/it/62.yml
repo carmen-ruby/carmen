@@ -1,0 +1,15 @@
+--- 
+en: 
+  world: 
+    it: 
+      "62": 
+      - fr: 
+          name: Frosinone
+      - lt: 
+          name: Latina
+      - ri: 
+          name: Rieti
+      - rm: 
+          name: Roma
+      - vt: 
+          name: Viterbo

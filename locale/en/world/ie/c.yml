@@ -1,0 +1,15 @@
+--- 
+en: 
+  world: 
+    ie: 
+      c: 
+      - g: 
+          name: Galway
+      - lm: 
+          name: Leitrim
+      - mo: 
+          name: Mayo
+      - rn: 
+          name: Roscommon
+      - so: 
+          name: Sligo

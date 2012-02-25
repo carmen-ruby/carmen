@@ -1,10 +1,7 @@
 --- 
 - code: GAN
-  name: Ganzourgou
   type: province
 - code: KOW
-  name: "Kourw\xC3\xA9ogo"
   type: province
 - code: OUB
-  name: Oubritenga
   type: province

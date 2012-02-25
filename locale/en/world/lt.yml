@@ -1,0 +1,24 @@
+--- 
+en: 
+  world: 
+    lt: 
+    - al: 
+        name: Alytaus Apskritis
+    - ku: 
+        name: Kauno Apskritis
+    - kl: 
+        name: "Klaip\xC4\x97dos Apskritis"
+    - mr: 
+        name: "Marijampol\xC4\x97s Apskritis"
+    - pn: 
+        name: "Panev\xC4\x97\xC5\xBEio Apskritis"
+    - sa: 
+        name: "\xC5\xA0iauli\xC5\xB3 Apskritis"
+    - ta: 
+        name: "Taurag\xC3\xA9s Apskritis"
+    - te: 
+        name: "Tel\xC5\xA1i\xC5\xB3 Apskritis"
+    - ut: 
+        name: Utenos Apskritis
+    - vl: 
+        name: Vilniaus Apskritis

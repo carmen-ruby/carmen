@@ -1,97 +1,65 @@
 --- 
 - code: DIF
-  name: Distrito Federal
   type: federal district
 - code: AGU
-  name: Aguascalientes
   type: state
 - code: BCN
-  name: Baja California
   type: state
 - code: BCS
-  name: Baja California Sur
   type: state
 - code: CAM
-  name: Campeche
   type: state
 - code: COA
-  name: Coahuila
   type: state
 - code: COL
-  name: Colima
   type: state
 - code: CHP
-  name: Chiapas
   type: state
 - code: CHH
-  name: Chihuahua
   type: state
 - code: DUR
-  name: Durango
   type: state
 - code: GUA
-  name: Guanajuato
   type: state
 - code: GRO
-  name: Guerrero
   type: state
 - code: HID
-  name: Hidalgo
   type: state
 - code: JAL
-  name: Jalisco
   type: state
 - code: MEX
-  name: "M\xC3\xA9xico"
   type: state
 - code: MIC
-  name: "Michoac\xC3\xA1n"
   type: state
 - code: MOR
-  name: Morelos
   type: state
 - code: NAY
-  name: Nayarit
   type: state
 - code: NLE
-  name: "Nuevo Le\xC3\xB3n"
   type: state
 - code: OAX
-  name: Oaxaca
   type: state
 - code: PUE
-  name: Puebla
   type: state
 - code: QUE
-  name: "Quer\xC3\xA9taro"
   type: state
 - code: ROO
-  name: Quintana Roo
   type: state
 - code: SLP
-  name: "San Luis Potos\xC3\xAD"
   type: state
 - code: SIN
-  name: Sinaloa
   type: state
 - code: SON
-  name: Sonora
   type: state
 - code: TAB
-  name: Tabasco
   type: state
 - code: TAM
-  name: Tamaulipas
   type: state
 - code: TLA
-  name: Tlaxcala
   type: state
 - code: VER
-  name: Veracruz
   type: state
 - code: YUC
-  name: "Yucat\xC3\xA1n"
   type: state
 - code: ZAC
-  name: Zacatecas
   type: state

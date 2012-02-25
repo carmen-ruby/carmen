@@ -1,145 +1,97 @@
 --- 
 - code: "01"
-  name: Adrar
   type: province
 - code: "44"
-  name: "A\xC3\xAFn Defla"
   type: province
 - code: "46"
-  name: "A\xC3\xAFn T\xC3\xA9mouchent"
   type: province
 - code: "16"
-  name: Alger
   type: province
 - code: "23"
-  name: Annaba
   type: province
 - code: "05"
-  name: Batna
   type: province
 - code: 08
-  name: "B\xC3\xA9char"
   type: province
 - code: "06"
-  name: "B\xC3\xA9ja\xC3\xAFa"
   type: province
 - code: "07"
-  name: Biskra
   type: province
 - code: 09
-  name: Blida
   type: province
 - code: "34"
-  name: "Bordj Bou Arr\xC3\xA9ridj"
   type: province
 - code: "10"
-  name: Bouira
   type: province
 - code: "35"
-  name: "Boumerd\xC3\xA8s"
   type: province
 - code: "02"
-  name: Chlef
   type: province
 - code: "25"
-  name: Constantine
   type: province
 - code: "17"
-  name: Djelfa
   type: province
 - code: "32"
-  name: El Bayadh
   type: province
 - code: "39"
-  name: El Oued
   type: province
 - code: "36"
-  name: El Tarf
   type: province
 - code: "47"
-  name: "Gharda\xC3\xAFa"
   type: province
 - code: "24"
-  name: Guelma
   type: province
 - code: "33"
-  name: Illizi
   type: province
 - code: "18"
-  name: Jijel
   type: province
 - code: "40"
-  name: Khenchela
   type: province
 - code: "03"
-  name: Laghouat
   type: province
 - code: "29"
-  name: Mascara
   type: province
 - code: "26"
-  name: "M\xC3\xA9d\xC3\xA9a"
   type: province
 - code: "43"
-  name: Mila
   type: province
 - code: "27"
-  name: Mostaganem
   type: province
 - code: "28"
-  name: Msila
   type: province
 - code: "45"
-  name: Naama
   type: province
 - code: "31"
-  name: Oran
   type: province
 - code: "30"
-  name: Ouargla
   type: province
 - code: "04"
-  name: Oum el Bouaghi
   type: province
 - code: "48"
-  name: Relizane
   type: province
 - code: "20"
-  name: "Sa\xC3\xAFda"
   type: province
 - code: "19"
-  name: "S\xC3\xA9tif"
   type: province
 - code: "22"
-  name: "Sidi Bel Abb\xC3\xA8s"
   type: province
 - code: "21"
-  name: Skikda
   type: province
 - code: "41"
-  name: Souk Ahras
   type: province
 - code: "11"
-  name: Tamanghasset
   type: province
 - code: "12"
-  name: "T\xC3\xA9bessa"
   type: province
 - code: "14"
-  name: Tiaret
   type: province
 - code: "37"
-  name: Tindouf
   type: province
 - code: "42"
-  name: Tipaza
   type: province
 - code: "38"
-  name: Tissemsilt
   type: province
 - code: "15"
-  name: Tizi Ouzou
   type: province
 - code: "13"
-  name: Tlemcen
   type: province

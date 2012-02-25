@@ -1,22 +1,15 @@
 --- 
 - code: BV
-  name: Boa Vista
   type: municipality
 - code: PA
-  name: Paul
   type: municipality
 - code: PN
-  name: Porto Novo
   type: municipality
 - code: RB
-  name: Ribeira Brava
   type: municipality
 - code: RG
-  name: Ribeira Grande
   type: municipality
 - code: SL
-  name: Sal
   type: municipality
 - code: SV
-  name: "S\xC3\xA3o Vicente"
   type: municipality

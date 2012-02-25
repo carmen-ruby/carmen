@@ -1,0 +1,48 @@
+--- 
+en: 
+  world: 
+    gt: 
+    - av: 
+        name: Alta Verapaz
+    - bv: 
+        name: Baja Verapaz
+    - cm: 
+        name: Chimaltenango
+    - cq: 
+        name: Chiquimula
+    - pr: 
+        name: El Progreso
+    - es: 
+        name: Escuintla
+    - gu: 
+        name: Guatemala
+    - hu: 
+        name: Huehuetenango
+    - iz: 
+        name: Izabal
+    - ja: 
+        name: Jalapa
+    - ju: 
+        name: Jutiapa
+    - pe: 
+        name: "Pet\xC3\xA9n"
+    - qz: 
+        name: Quetzaltenango
+    - qc: 
+        name: "Quich\xC3\xA9"
+    - re: 
+        name: Retalhuleu
+    - sa: 
+        name: "Sacatep\xC3\xA9quez"
+    - sm: 
+        name: San Marcos
+    - sr: 
+        name: Santa Rosa
+    - so: 
+        name: "Solol\xC3\xA1"
+    - su: 
+        name: "Suchitep\xC3\xA9quez"
+    - to: 
+        name: "Totonicap\xC3\xA1n"
+    - za: 
+        name: Zacapa

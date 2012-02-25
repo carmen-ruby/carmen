@@ -1,0 +1,56 @@
+--- 
+en: 
+  world: 
+    pe: 
+    - cal: 
+        name: El Callao
+    - lma: 
+        name: Municipalidad Metropolitana de Lima
+    - ama: 
+        name: Amazonas
+    - anc: 
+        name: Ancash
+    - apu: 
+        name: "Apur\xC3\xADmac"
+    - are: 
+        name: Arequipa
+    - aya: 
+        name: Ayacucho
+    - caj: 
+        name: Cajamarca
+    - cus: 
+        name: Cusco [Cuzco]
+    - huv: 
+        name: Huancavelica
+    - huc: 
+        name: "Hu\xC3\xA1nuco"
+    - ica: 
+        name: Ica
+    - jun: 
+        name: "Jun\xC3\xADn"
+    - lal: 
+        name: La Libertad
+    - lam: 
+        name: Lambayeque
+    - lim: 
+        name: Lima
+    - lor: 
+        name: Loreto
+    - mdd: 
+        name: Madre de Dios
+    - moq: 
+        name: Moquegua
+    - pas: 
+        name: Pasco
+    - piu: 
+        name: Piura
+    - pun: 
+        name: Puno
+    - sam: 
+        name: "San Mart\xC3\xADn"
+    - tac: 
+        name: Tacna
+    - tum: 
+        name: Tumbes
+    - uca: 
+        name: Ucayali

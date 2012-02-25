@@ -1,0 +1,26 @@
+--- 
+en: 
+  world: 
+    be: 
+    - van: 
+        name: Antwerpen
+    - wbr: 
+        name: Brabant Wallon
+    - bru: 
+        name: Brussels-Capital Region
+    - wht: 
+        name: Hainaut
+    - wlg: 
+        name: Liege
+    - vli: 
+        name: Limburg
+    - wlx: 
+        name: Luxembourg
+    - wna: 
+        name: Namur
+    - vov: 
+        name: Oost-Vlaanderen
+    - vbr: 
+        name: Vlaams-Brabant
+    - vwv: 
+        name: West-Vlaanderen

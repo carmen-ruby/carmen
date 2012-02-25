@@ -1,0 +1,424 @@
+--- 
+en: 
+  world: 
+    si: 
+    - "001": 
+        name: "Ajdov\xC5\xA1\xC4\x8Dina"
+    - "195": 
+        name: "Apa\xC4\x8De"
+    - "002": 
+        name: Beltinci
+    - "148": 
+        name: Benedikt
+    - "149": 
+        name: Bistrica ob Sotli
+    - "003": 
+        name: Bled
+    - "150": 
+        name: Bloke
+    - "004": 
+        name: Bohinj
+    - "005": 
+        name: Borovnica
+    - "006": 
+        name: Bovec
+    - "151": 
+        name: "Braslov\xC4\x8De"
+    - "007": 
+        name: Brda
+    - 008: 
+        name: Brezovica
+    - 009: 
+        name: "Bre\xC5\xBEice"
+    - "152": 
+        name: Cankova
+    - "011": 
+        name: Celje
+    - "012": 
+        name: Cerklje na Gorenjskem
+    - "013": 
+        name: Cerknica
+    - "014": 
+        name: Cerkno
+    - "153": 
+        name: Cerkvenjak
+    - "196": 
+        name: Cirkulane
+    - "015": 
+        name: "\xC4\x8Cren\xC5\xA1ovci"
+    - "016": 
+        name: "\xC4\x8Crna na Koro\xC5\xA1kem"
+    - "017": 
+        name: "\xC4\x8Crnomelj"
+    - 018: 
+        name: Destrnik
+    - 019: 
+        name: "Diva\xC4\x8Da"
+    - "154": 
+        name: Dobje
+    - "020": 
+        name: Dobrepolje
+    - "155": 
+        name: Dobrna
+    - "021": 
+        name: Dobrova-Polhov Gradec
+    - "156": 
+        name: Dobrovnik/Dobronak
+    - "022": 
+        name: Dol pri Ljubljani
+    - "157": 
+        name: Dolenjske Toplice
+    - "023": 
+        name: "Dom\xC5\xBEale"
+    - "024": 
+        name: Dornava
+    - "025": 
+        name: Dravograd
+    - "026": 
+        name: Duplek
+    - "027": 
+        name: Gorenja vas-Poljane
+    - 028: 
+        name: "Gori\xC5\xA1nica"
+    - "207": 
+        name: Gorje
+    - 029: 
+        name: Gornja Radgona
+    - "030": 
+        name: Gornji Grad
+    - "031": 
+        name: Gornji Petrovci
+    - "158": 
+        name: Grad
+    - "032": 
+        name: Grosuplje
+    - "159": 
+        name: Hajdina
+    - "160": 
+        name: "Ho\xC4\x8De-Slivnica"
+    - "161": 
+        name: "Hodo\xC5\xA1/Hodos"
+    - "162": 
+        name: Horjul
+    - "034": 
+        name: Hrastnik
+    - "035": 
+        name: Hrpelje-Kozina
+    - "036": 
+        name: Idrija
+    - "037": 
+        name: Ig
+    - 038: 
+        name: Ilirska Bistrica
+    - 039: 
+        name: "Ivan\xC4\x8Dna Gorica"
+    - "040": 
+        name: Izola/Isola
+    - "041": 
+        name: Jesenice
+    - "163": 
+        name: Jezersko
+    - "042": 
+        name: "Jur\xC5\xA1inci"
+    - "043": 
+        name: Kamnik
+    - "044": 
+        name: Kanal
+    - "045": 
+        name: "Kidri\xC4\x8Devo"
+    - "046": 
+        name: Kobarid
+    - "047": 
+        name: Kobilje
+    - 048: 
+        name: "Ko\xC4\x8Devje"
+    - 049: 
+        name: Komen
+    - "164": 
+        name: Komenda
+    - "050": 
+        name: Koper/Capodistria
+    - "197": 
+        name: Kosanjevica na Krki
+    - "165": 
+        name: Kostel
+    - "051": 
+        name: Kozje
+    - "052": 
+        name: Kranj
+    - "053": 
+        name: Kranjska Gora
+    - "166": 
+        name: "Kri\xC5\xBEevci"
+    - "054": 
+        name: "Kr\xC5\xA1ko"
+    - "055": 
+        name: Kungota
+    - "056": 
+        name: Kuzma
+    - "057": 
+        name: "La\xC5\xA1ko"
+    - 058: 
+        name: Lenart
+    - 059: 
+        name: Lendava/Lendva
+    - "060": 
+        name: Litija
+    - "061": 
+        name: Ljubljana
+    - "062": 
+        name: Ljubno
+    - "063": 
+        name: Ljutomer
+    - "208": 
+        name: Log-Dragomer
+    - "064": 
+        name: Logatec
+    - "065": 
+        name: "Lo\xC5\xA1ka dolina"
+    - "066": 
+        name: "Lo\xC5\xA1ki Potok"
+    - "167": 
+        name: Lovrenc na Pohorju
+    - "067": 
+        name: "Lu\xC4\x8De"
+    - 068: 
+        name: Lukovica
+    - 069: 
+        name: "Maj\xC5\xA1perk"
+    - "198": 
+        name: Makole
+    - "070": 
+        name: Maribor
+    - "168": 
+        name: Markovci
+    - "071": 
+        name: Medvode
+    - "072": 
+        name: "Menge\xC5\xA1"
+    - "073": 
+        name: Metlika
+    - "074": 
+        name: "Me\xC5\xBEica"
+    - "169": 
+        name: "Miklav\xC5\xBE na Dravskem polju"
+    - "075": 
+        name: Miren-Kostanjevica
+    - "170": 
+        name: "Mirna Pe\xC4\x8D"
+    - "076": 
+        name: Mislinja
+    - "199": 
+        name: Mokronog-Trebelno
+    - "077": 
+        name: "Morav\xC4\x8De"
+    - 078: 
+        name: Moravske Toplice
+    - 079: 
+        name: Mozirje
+    - 080: 
+        name: Murska Sobota
+    - 081: 
+        name: Muta
+    - 082: 
+        name: Naklo
+    - 083: 
+        name: Nazarje
+    - 084: 
+        name: Nova Gorica
+    - 085: 
+        name: Novo mesto
+    - 086: 
+        name: Odranci
+    - "171": 
+        name: Oplotnica
+    - 087: 
+        name: "Ormo\xC5\xBE"
+    - 088: 
+        name: Osilnica
+    - 089: 
+        name: Pesnica
+    - 090: 
+        name: Piran/Pirano
+    - 091: 
+        name: Pivka
+    - 092: 
+        name: "Pod\xC4\x8Detrtek"
+    - "172": 
+        name: Podlehnik
+    - 093: 
+        name: Podvelka
+    - "200": 
+        name: "Polj\xC4\x8Dane"
+    - "173": 
+        name: Polzela
+    - 094: 
+        name: Postojna
+    - "174": 
+        name: Prebold
+    - 095: 
+        name: Preddvor
+    - "175": 
+        name: Prevalje
+    - 096: 
+        name: Ptuj
+    - 097: 
+        name: Puconci
+    - 098: 
+        name: "Ra\xC4\x8De-Fram"
+    - 099: 
+        name: "Rade\xC4\x8De"
+    - "100": 
+        name: Radenci
+    - "101": 
+        name: Radlje ob Dravi
+    - "102": 
+        name: Radovljica
+    - "103": 
+        name: "Ravne na Koro\xC5\xA1kem"
+    - "176": 
+        name: "Razkri\xC5\xBEje"
+    - "209": 
+        name: "Re\xC4\x8Dica ob Savinji"
+    - "201": 
+        name: "Ren\xC4\x8De-Vogrsko"
+    - "104": 
+        name: Ribnica
+    - "177": 
+        name: Ribnica na Pohorju
+    - "106": 
+        name: "Roga\xC5\xA1ka Slatina"
+    - "105": 
+        name: "Roga\xC5\xA1ovci"
+    - "107": 
+        name: Rogatec
+    - "108": 
+        name: "Ru\xC5\xA1e"
+    - "178": 
+        name: Selnica ob Dravi
+    - "109": 
+        name: "Semi\xC4\x8D"
+    - "110": 
+        name: Sevnica
+    - "111": 
+        name: "Se\xC5\xBEana"
+    - "112": 
+        name: Slovenj Gradec
+    - "113": 
+        name: Slovenska Bistrica
+    - "114": 
+        name: Slovenske Konjice
+    - "179": 
+        name: "Sodra\xC5\xBEica"
+    - "180": 
+        name: "Sol\xC4\x8Dava"
+    - "202": 
+        name: "Sredi\xC5\xA1\xC4\x8De ob Dravi"
+    - "115": 
+        name: "Star\xC4\x8De"
+    - "203": 
+        name: "Stra\xC5\xBEa"
+    - "181": 
+        name: Sveta Ana
+    - "204": 
+        name: Sveta Trojica v Slovenskih Goricah
+    - "182": 
+        name: "Sveta Andra\xC5\xBE v Slovenskih Goricah"
+    - "116": 
+        name: Sveti Jurij
+    - "210": 
+        name: Sveti Jurij v Slovenskih Goricah
+    - "205": 
+        name: "Sveti Toma\xC5\xBE"
+    - "033": 
+        name: "\xC5\xA0alovci"
+    - "183": 
+        name: "\xC5\xA0empeter-Vrtojba"
+    - "117": 
+        name: "\xC5\xA0en\xC4\x8Dur"
+    - "118": 
+        name: "\xC5\xA0entilj"
+    - "119": 
+        name: "\xC5\xA0entjernej"
+    - "120": 
+        name: "\xC5\xA0entjur"
+    - "211": 
+        name: "\xC5\xA0entrupert"
+    - "121": 
+        name: "\xC5\xA0kocjan"
+    - "122": 
+        name: "\xC5\xA0kofja Loka"
+    - "123": 
+        name: "\xC5\xA0kofljica"
+    - "124": 
+        name: "\xC5\xA0marje pri Jel\xC5\xA1ah"
+    - "206": 
+        name: "\xC5\xA0marjeske Topli\xC4\x8De"
+    - "125": 
+        name: "\xC5\xA0martno ob Paki"
+    - "194": 
+        name: "\xC5\xA0martno pri Litiji"
+    - "126": 
+        name: "\xC5\xA0o\xC5\xA1tanj"
+    - "127": 
+        name: "\xC5\xA0tore"
+    - "184": 
+        name: Tabor
+    - "010": 
+        name: "Ti\xC5\xA1ina"
+    - "128": 
+        name: Tolmin
+    - "129": 
+        name: Trbovlje
+    - "130": 
+        name: Trebnje
+    - "185": 
+        name: Trnovska vas
+    - "186": 
+        name: Trzin
+    - "131": 
+        name: "Tr\xC5\xBEi\xC4\x8D"
+    - "132": 
+        name: "Turni\xC5\xA1\xC4\x8De"
+    - "133": 
+        name: Velenje
+    - "187": 
+        name: Velika Polana
+    - "134": 
+        name: "Velike La\xC5\xA1\xC4\x8De"
+    - "188": 
+        name: "Ver\xC5\xBEej"
+    - "135": 
+        name: Videm
+    - "136": 
+        name: Vipava
+    - "137": 
+        name: Vitanje
+    - "138": 
+        name: Vodice
+    - "139": 
+        name: Vojnik
+    - "189": 
+        name: Vransko
+    - "140": 
+        name: Vrhnika
+    - "141": 
+        name: Vuzenica
+    - "142": 
+        name: Zagorje ob Savi
+    - "143": 
+        name: "Zavr\xC4\x8D"
+    - "144": 
+        name: "Zre\xC4\x8De"
+    - "190": 
+        name: "\xC5\xBDalec"
+    - "146": 
+        name: "\xC5\xBDelezniki"
+    - "191": 
+        name: "\xC5\xBDetale"
+    - "147": 
+        name: "\xC5\xBDiri"
+    - "192": 
+        name: "\xC5\xBDirovnica"
+    - "193": 
+        name: "\xC5\xBDu\xC5\xBEemberk"

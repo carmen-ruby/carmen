@@ -1,0 +1,24 @@
+--- 
+en: 
+  world: 
+    zw: 
+    - bu: 
+        name: Bulawayo
+    - ha: 
+        name: Harare
+    - ma: 
+        name: Manicaland
+    - mc: 
+        name: Mashonaland Central
+    - me: 
+        name: Mashonaland East
+    - mw: 
+        name: Mashonaland West
+    - mv: 
+        name: Masvingo
+    - mn: 
+        name: Matabeleland North
+    - ms: 
+        name: Matabeleland South
+    - mi: 
+        name: Midlands

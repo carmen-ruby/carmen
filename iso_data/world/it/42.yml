@@ -1,13 +1,9 @@
 --- 
 - code: GE
-  name: Genova
   type: province
 - code: IM
-  name: Imperia
   type: province
 - code: SP
-  name: La Spezia
   type: province
 - code: SV
-  name: Savona
   type: province

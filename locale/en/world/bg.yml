@@ -1,0 +1,60 @@
+--- 
+en: 
+  world: 
+    bg: 
+    - "01": 
+        name: Blagoevgrad
+    - "02": 
+        name: Burgas
+    - 08: 
+        name: Dobrich
+    - "07": 
+        name: Gabrovo
+    - "26": 
+        name: Haskovo
+    - 09: 
+        name: Kardzhali
+    - "10": 
+        name: Kyustendil
+    - "11": 
+        name: Lovech
+    - "12": 
+        name: Montana
+    - "13": 
+        name: Pazardzhik
+    - "14": 
+        name: Pernik
+    - "15": 
+        name: Pleven
+    - "16": 
+        name: Plovdiv
+    - "17": 
+        name: Razgrad
+    - "18": 
+        name: Ruse
+    - "27": 
+        name: Shumen
+    - "19": 
+        name: Silistra
+    - "20": 
+        name: Sliven
+    - "21": 
+        name: Smolyan
+    - "23": 
+        name: Sofia
+    - "22": 
+        name: Sofia-Grad
+    - "24": 
+        name: Stara Zagora
+    - "25": 
+        name: Targovishte
+    - "03": 
+        name: Varna
+    - "04": 
+        name: Veliko Tarnovo
+    - "05": 
+        name: Vidin
+    - "06": 
+        name: Vratsa
+    - "28": 
+        name: Yambol

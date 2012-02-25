@@ -1,0 +1,50 @@
+--- 
+en: 
+  world: 
+    ly: 
+    - bu: 
+        name: "Al Bu\xC5\xA3n\xC4\x81n"
+    - ja: 
+        name: "Al Jabal al Akh\xE1\xB8\x91ar"
+    - jg: 
+        name: "Al Jabal al Gharb\xC4\xAB"
+    - ji: 
+        name: "Al Jif\xC4\x81rah"
+    - ju: 
+        name: Al Jufrah
+    - kf: 
+        name: Al Kufrah
+    - mj: 
+        name: Al Marj
+    - mb: 
+        name: Al Marqab
+    - wa: 
+        name: "Al W\xC4\x81h\xCC\xA7\xC4\x81t"
+    - nq: 
+        name: "An Nuqa\xC5\xA3 al Khams"
+    - za: 
+        name: "Az Z\xC4\x81wiyah"
+    - ba: 
+        name: "Bangh\xC4\x81z\xC4\xAB"
+    - dr: 
+        name: Darnah
+    - gt: 
+        name: "Gh\xC4\x81t"
+    - jb: 
+        name: "Jaghb\xC5\xABb"
+    - mi: 
+        name: "Mi\xC5\x9Fr\xC4\x81tah"
+    - mq: 
+        name: Murzuq
+    - nl: 
+        name: "N\xC4\x81l\xC5\xABt"
+    - sb: 
+        name: "Sabh\xC4\x81"
+    - sr: 
+        name: Surt
+    - tb: 
+        name: "\xC5\xA2ar\xC4\x81bulus"
+    - wd: 
+        name: "W\xC4\x81d\xC4\xAB al \xE1\xB8\xA8ay\xC4\x81t"
+    - ws: 
+        name: "W\xC4\x81d\xC4\xAB ash Sh\xC4\x81\xC5\xA3i\xCA\xBE"

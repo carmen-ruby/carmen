@@ -1,37 +1,25 @@
 --- 
 - code: "1"
-  name: Bocas del Toro
   type: province
 - code: "4"
-  name: "Chiriqu\xC3\xAD"
   type: province
 - code: "2"
-  name: "Cocl\xC3\xA9"
   type: province
 - code: "3"
-  name: "Col\xC3\xB3n"
   type: province
 - code: "5"
-  name: "Dari\xC3\xA9n"
   type: province
 - code: "6"
-  name: Herrera
   type: province
 - code: "7"
-  name: Los Santos
   type: province
 - code: "8"
-  name: "Panam\xC3\xA1"
   type: province
 - code: "9"
-  name: Veraguas
   type: province
 - code: EM
-  name: "Ember\xC3\xA1"
   type: indigenous region
 - code: KY
-  name: Kuna Yala
   type: indigenous region
 - code: NB
-  name: "Ng\xC3\xB6be-Bugl\xC3\xA9"
   type: indigenous region

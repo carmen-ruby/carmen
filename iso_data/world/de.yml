@@ -1,49 +1,33 @@
 --- 
 - code: BW
-  name: "Baden-W\xC3\xBCrttemberg"
   type: state
 - code: BY
-  name: Bayern
   type: state
 - code: HB
-  name: Bremen
   type: state
 - code: HH
-  name: Hamburg
   type: state
 - code: HE
-  name: Hessen
   type: state
 - code: NI
-  name: Niedersachsen
   type: state
 - code: NW
-  name: Nordrhein-Westfalen
   type: state
 - code: RP
-  name: Rheinland-Pfalz
   type: state
 - code: SL
-  name: Saarland
   type: state
 - code: SH
-  name: Schleswig-Holstein
   type: state
 - code: BE
-  name: Berlin
   type: state
 - code: BB
-  name: Brandenburg
   type: state
 - code: MV
-  name: Mecklenburg-Vorpommern
   type: state
 - code: SN
-  name: Sachsen
   type: state
 - code: ST
-  name: Sachsen-Anhalt
   type: state
 - code: TH
-  name: "Th\xC3\xBCringen"
   type: state

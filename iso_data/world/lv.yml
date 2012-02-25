@@ -1,100 +1,67 @@
 --- 
 - code: AI
-  name: "Aizkraukle Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: AL
-  name: "Al\xC5\xABksne Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: BL
-  name: "Balvi Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: BU
-  name: "Bauska Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: CE
-  name: "C\xC4\x93sis Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: DA
-  name: "Daugavpils Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: DO
-  name: "Dobele Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: GU
-  name: "Gulbene Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: JK
-  name: "J\xC4\x93kabpils Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: JL
-  name: "Jelgava Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: KR
-  name: "Kr\xC4\x81slava Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: KU
-  name: "Kuld\xC4\xABga Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: LE
-  name: "Liep\xC4\x81ja Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: LM
-  name: "Limba\xC5\xBEi Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: LU
-  name: "Ludza Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: MA
-  name: "Madona Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: OG
-  name: "Ogre Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: PR
-  name: "Prei\xC4\xBCi Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: RE
-  name: "R\xC4\x93zekne Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: RI
-  name: "R\xC4\xABga Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: SA
-  name: "Saldus Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: TA
-  name: "Talsi Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: TU
-  name: "Tukums Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: VK
-  name: "Valka Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: VM
-  name: "Valmiera Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: VE
-  name: "Ventspils Apri\xC5\x86\xC4\xB7is"
   type: district
 - code: DGV
-  name: Daugavpils
   type: city
 - code: JEL
-  name: Jelgava
   type: city
 - code: JUR
-  name: "J\xC5\xABrmala"
   type: city
 - code: LPX
-  name: "Liep\xC4\x81ja"
   type: city
 - code: REZ
-  name: "R\xC4\x93zekne"
   type: city
 - code: RIX
-  name: "R\xC4\xABga"
   type: city
 - code: VEN
-  name: Ventspils
   type: city

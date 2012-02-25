@@ -1,52 +1,35 @@
 --- 
 - code: BR
-  name: Beau Bassin-Rose Hill
   type: city
 - code: CU
-  name: Curepipe
   type: city
 - code: PU
-  name: Port Louis
   type: city
 - code: QB
-  name: Quatre Bornes
   type: city
 - code: VP
-  name: Vacoas-Phoenix
   type: city
 - code: AG
-  name: Agalega Islands
   type: dependency
 - code: CC
-  name: Cargados Carajos Shoals
   type: dependency
 - code: RO
-  name: Rodrigues Island
   type: dependency
 - code: BL
-  name: Black River
   type: district
 - code: FL
-  name: Flacq
   type: district
 - code: GP
-  name: Grand Port
   type: district
 - code: MO
-  name: Moka
   type: district
 - code: PA
-  name: Pamplemousses
   type: district
 - code: PW
-  name: Plaines Wilhems
   type: district
 - code: PL
-  name: Port Louis
   type: district
 - code: RP
-  name: "Rivi\xC3\xA8re du Rempart"
   type: district
 - code: SA
-  name: Savanne
   type: district

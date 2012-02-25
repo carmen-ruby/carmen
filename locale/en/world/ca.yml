@@ -1,0 +1,30 @@
+--- 
+en: 
+  world: 
+    ca: 
+    - ab: 
+        name: Alberta
+    - bc: 
+        name: British Columbia
+    - mb: 
+        name: Manitoba
+    - nb: 
+        name: New Brunswick
+    - nl: 
+        name: Newfoundland and Labrador
+    - ns: 
+        name: Nova Scotia
+    - "on": 
+        name: Ontario
+    - pe: 
+        name: Prince Edward Island
+    - qc: 
+        name: Quebec
+    - sk: 
+        name: Saskatchewan
+    - nt: 
+        name: Northwest Territories
+    - nu: 
+        name: Nunavut
+    - yt: 
+        name: Yukon Territory

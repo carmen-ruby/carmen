@@ -1,0 +1,10 @@
+--- 
+en: 
+  world: 
+    nz: 
+    - n: 
+        name: North Island
+    - s: 
+        name: South Island
+    - cit: 
+        name: Chatham Islands Territory

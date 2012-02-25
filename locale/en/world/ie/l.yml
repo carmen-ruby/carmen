@@ -1,0 +1,29 @@
+--- 
+en: 
+  world: 
+    ie: 
+      l: 
+      - cw: 
+          name: Carlow
+      - d: 
+          name: Dublin
+      - ke: 
+          name: Kildare
+      - kk: 
+          name: Kilkenny
+      - ls: 
+          name: Laois
+      - ld: 
+          name: Longford
+      - lh: 
+          name: Louth
+      - mh: 
+          name: Meath
+      - oy: 
+          name: Offaly
+      - wh: 
+          name: Westmeath
+      - wx: 
+          name: Wexford
+      - ww: 
+          name: Wicklow

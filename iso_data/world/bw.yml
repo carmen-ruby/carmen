@@ -1,31 +1,21 @@
 --- 
 - code: CE
-  name: Central
   type: district
 - code: GH
-  name: Ghanzi
   type: district
 - code: KG
-  name: Kgalagadi
   type: district
 - code: KL
-  name: Kgatleng
   type: district
 - code: KW
-  name: Kweneng
   type: district
 - code: NG
-  name: Ngamiland
   type: district
 - code: NE
-  name: North-East
   type: district
 - code: NW
-  name: North-West (Botswana)
   type: district
 - code: SE
-  name: South-East
   type: district
 - code: SO
-  name: Southern (Botswana)
   type: district

@@ -1,55 +1,37 @@
 --- 
 - code: BGO
-  name: Bengo
   type: province
 - code: BGU
-  name: Benguela
   type: province
 - code: BIE
-  name: "Bi\xC3\xA9"
   type: province
 - code: CAB
-  name: Cabinda
   type: province
 - code: CCU
-  name: Cuando-Cubango
   type: province
 - code: CNO
-  name: Cuanza Norte
   type: province
 - code: CUS
-  name: Cuanza Sul
   type: province
 - code: CNN
-  name: Cunene
   type: province
 - code: HUA
-  name: Huambo
   type: province
 - code: HUI
-  name: "Hu\xC3\xADla"
   type: province
 - code: LUA
-  name: Luanda
   type: province
 - code: LNO
-  name: Lunda Norte
   type: province
 - code: LSU
-  name: Lunda Sul
   type: province
 - code: MAL
-  name: Malange
   type: province
 - code: MOX
-  name: Moxico
   type: province
 - code: NAM
-  name: Namibe
   type: province
 - code: UIG
-  name: "U\xC3\xADge"
   type: province
 - code: ZAI
-  name: Zaire
   type: province

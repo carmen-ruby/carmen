@@ -1,13 +1,9 @@
 --- 
 - code: BE
-  name: Belait
   type: district
 - code: BM
-  name: Brunei-Muara
   type: district
 - code: TE
-  name: Temburong
   type: district
 - code: TU
-  name: Tutong
   type: district

@@ -1,40 +1,27 @@
 --- 
 - code: AL
-  name: Aileu
   type: district
 - code: AN
-  name: Ainaro
   type: district
 - code: BA
-  name: Baucau
   type: district
 - code: BO
-  name: Bobonaro
   type: district
 - code: CO
-  name: Cova Lima
   type: district
 - code: DI
-  name: Dili
   type: district
 - code: ER
-  name: Ermera
   type: district
 - code: LA
-  name: Lautem
   type: district
 - code: LI
-  name: "Liqui\xC3\xA7a"
   type: district
 - code: MT
-  name: Manatuto
   type: district
 - code: MF
-  name: Manufahi
   type: district
 - code: OE
-  name: Oecussi
   type: district
 - code: VI
-  name: Viqueque
   type: district

@@ -1,0 +1,38 @@
+--- 
+en: 
+  world: 
+    ni: 
+    - bo: 
+        name: Boaco
+    - ca: 
+        name: Carazo
+    - ci: 
+        name: Chinandega
+    - co: 
+        name: Chontales
+    - es: 
+        name: "Estel\xC3\xAD"
+    - gr: 
+        name: Granada
+    - ji: 
+        name: Jinotega
+    - le: 
+        name: "Le\xC3\xB3n"
+    - md: 
+        name: Madriz
+    - mn: 
+        name: Managua
+    - ms: 
+        name: Masaya
+    - mt: 
+        name: Matagalpa
+    - ns: 
+        name: Nueva Segovia
+    - sj: 
+        name: "R\xC3\xADo San Juan"
+    - ri: 
+        name: Rivas
+    - an: 
+        name: "Atl\xC3\xA1ntico Norte"
+    - as: 
+        name: "Atl\xC3\xA1ntico Sur"

@@ -1,0 +1,74 @@
+--- 
+en: 
+  world: 
+    fr: 
+    - a: 
+        name: Alsace
+    - b: 
+        name: Aquitaine
+    - c: 
+        name: Auvergne
+    - p: 
+        name: Basse-Normandie
+    - d: 
+        name: Bourgogne
+    - e: 
+        name: Bretagne
+    - f: 
+        name: Centre
+    - g: 
+        name: Champagne-Ardenne
+    - h: 
+        name: Corse
+    - i: 
+        name: "Franche-Comt\xC3\xA9"
+    - q: 
+        name: Haute-Normandie
+    - j: 
+        name: "\xC3\x8Ele-de-France"
+    - k: 
+        name: Languedoc-Roussillon
+    - l: 
+        name: Limousin
+    - m: 
+        name: Lorraine
+    - n: 
+        name: "Midi-Pyr\xC3\xA9n\xC3\xA9es"
+    - o: 
+        name: Nord - Pas-de-Calais
+    - r: 
+        name: Pays de la Loire
+    - s: 
+        name: Picardie
+    - t: 
+        name: Poitou-Charentes
+    - u: 
+        name: "Provence-Alpes-C\xC3\xB4te d'Azur"
+    - v: 
+        name: "Rh\xC3\xB4ne-Alpes"
+    - gp: 
+        name: Guadeloupe
+    - gf: 
+        name: Guyane
+    - mq: 
+        name: Martinique
+    - re: 
+        name: "R\xC3\xA9union"
+    - cp: 
+        name: Clipperton
+    - yt: 
+        name: Mayotte
+    - nc: 
+        name: "Nouvelle-Cal\xC3\xA9donie"
+    - pf: 
+        name: "Polyn\xC3\xA9sie fran\xC3\xA7aise"
+    - bl: 
+        name: "Saint-Barth\xC3\xA9lemy"
+    - mf: 
+        name: Saint-Martin
+    - pm: 
+        name: Saint-Pierre-et-Miquelon
+    - tf: 
+        name: "Terres australes fran\xC3\xA7aises"
+    - wf: 
+        name: Wallis-et-Futuna

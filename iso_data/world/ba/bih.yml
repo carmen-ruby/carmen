@@ -1,31 +1,21 @@
 --- 
 - code: "05"
-  name: Bosansko-podrinjski kanton
   type: canton
 - code: "07"
-  name: "Hercegova\xC4\x8Dko-neretvanski kanton"
   type: canton
 - code: "10"
-  name: Kanton br. 10 (Livanjski kanton)
   type: canton
 - code: 09
-  name: Kanton Sarajevo
   type: canton
 - code: "02"
-  name: Posavski kanton
   type: canton
 - code: "06"
-  name: Srednjobosanski kanton
   type: canton
 - code: "03"
-  name: Tuzlanski kanton
   type: canton
 - code: "01"
-  name: Unsko-sanski kanton
   type: canton
 - code: 08
-  name: "Zapadnohercegova\xC4\x8Dki kanton"
   type: canton
 - code: "04"
-  name: "Zeni\xC4\x8Dko-dobojski kanton"
   type: canton

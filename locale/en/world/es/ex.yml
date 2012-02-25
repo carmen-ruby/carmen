@@ -1,0 +1,9 @@
+--- 
+en: 
+  world: 
+    es: 
+      ex: 
+      - ba: 
+          name: Badajoz
+      - cc: 
+          name: "C\xC3\xA1ceres"

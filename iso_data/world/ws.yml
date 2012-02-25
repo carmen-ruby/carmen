@@ -1,34 +1,23 @@
 --- 
 - code: AA
-  name: A'ana
   type: district
 - code: AL
-  name: Aiga-i-le-Tai
   type: district
 - code: AT
-  name: Atua
   type: district
 - code: FA
-  name: Fa'asaleleaga
   type: district
 - code: GE
-  name: Gaga'emauga
   type: district
 - code: GI
-  name: Gagaifomauga
   type: district
 - code: PA
-  name: Palauli
   type: district
 - code: SA
-  name: Satupa'itea
   type: district
 - code: TU
-  name: Tuamasaga
   type: district
 - code: VF
-  name: Va'a-o-Fonoti
   type: district
 - code: VS
-  name: Vaisigano
   type: district

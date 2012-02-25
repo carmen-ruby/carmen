@@ -1,25 +1,17 @@
 --- 
 - code: AL
-  name: "Almer\xC3\xADa"
   type: province
 - code: CA
-  name: "C\xC3\xA1diz"
   type: province
 - code: CO
-  name: "C\xC3\xB3rdoba"
   type: province
 - code: GR
-  name: Granada
   type: province
 - code: H
-  name: Huelva
   type: province
 - code: J
-  name: "Ja\xC3\xA9n"
   type: province
 - code: MA
-  name: "M\xC3\xA1laga"
   type: province
 - code: SE
-  name: Sevilla
   type: province

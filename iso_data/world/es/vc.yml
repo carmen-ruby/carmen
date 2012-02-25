@@ -1,10 +1,7 @@
 --- 
 - code: A
-  name: Alicante
   type: province
 - code: CS
-  name: "Castell\xC3\xB3n"
   type: province
 - code: V
-  name: "Valencia / Val\xC3\xA8ncia"
   type: province

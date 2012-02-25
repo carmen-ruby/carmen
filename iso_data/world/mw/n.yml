@@ -1,22 +1,15 @@
 --- 
 - code: CT
-  name: Chitipa
   type: district
 - code: KR
-  name: Karonga
   type: district
 - code: LK
-  name: Likoma
   type: district
 - code: MZ
-  name: Mzimba
   type: district
 - code: NE
-  name: Neno
   type: district
 - code: NB
-  name: Nkhata Bay
   type: district
 - code: RU
-  name: Rumphi
   type: district

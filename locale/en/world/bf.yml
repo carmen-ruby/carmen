@@ -1,0 +1,30 @@
+--- 
+en: 
+  world: 
+    bf: 
+    - "01": 
+        name: Boucle du Mouhoun
+    - "02": 
+        name: Cascades
+    - "03": 
+        name: Centre
+    - "04": 
+        name: Centre-Est
+    - "05": 
+        name: Centre-Nord
+    - "06": 
+        name: Centre-Ouest
+    - "07": 
+        name: Centre-Sud
+    - 08: 
+        name: Est
+    - 09: 
+        name: Hauts-Bassins
+    - "10": 
+        name: Nord
+    - "11": 
+        name: Plateau-Central
+    - "12": 
+        name: Sahel
+    - "13": 
+        name: Sud-Ouest

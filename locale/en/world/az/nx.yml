@@ -1,0 +1,17 @@
+--- 
+en: 
+  world: 
+    az: 
+      nx: 
+      - bab: 
+          name: "Bab\xC9\x99k"
+      - cul: 
+          name: Culfa
+      - ord: 
+          name: Ordubad
+      - sad: 
+          name: "S\xC9\x99d\xC9\x99r\xC9\x99k"
+      - sah: 
+          name: "\xC5\x9Eahbuz"
+      - sar: 
+          name: "\xC5\x9E\xC9\x99rur"

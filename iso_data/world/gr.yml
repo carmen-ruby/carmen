@@ -1,43 +1,29 @@
 --- 
 - code: A
-  name: Anatoliki Makedonia kai Thraki
   type: administrative region
 - code: I
-  name: Attiki
   type: administrative region
 - code: G
-  name: Dytiki Ellada
   type: administrative region
 - code: C
-  name: Dytiki Makedonia
   type: administrative region
 - code: F
-  name: Ionia Nisia
   type: administrative region
 - code: D
-  name: Ipeiros
   type: administrative region
 - code: B
-  name: Kentriki Makedonia
   type: administrative region
 - code: M
-  name: Kriti
   type: administrative region
 - code: L
-  name: Notio Aigaio
   type: administrative region
 - code: J
-  name: Peloponnisos
   type: administrative region
 - code: H
-  name: Sterea Ellada
   type: administrative region
 - code: E
-  name: Thessalia
   type: administrative region
 - code: K
-  name: Voreio Aigaio
   type: administrative region
 - code: "69"
-  name: Agio Oros
   type: self-governed part

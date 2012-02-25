@@ -1,0 +1,50 @@
+--- 
+en: 
+  world: 
+    ar: 
+    - c: 
+        name: "Ciudad Aut\xC3\xB3noma de Buenos Aires"
+    - b: 
+        name: Buenos Aires
+    - k: 
+        name: Catamarca
+    - x: 
+        name: Cordoba
+    - w: 
+        name: Corrientes
+    - h: 
+        name: Chaco
+    - u: 
+        name: Chubut
+    - e: 
+        name: Entre Rios
+    - p: 
+        name: Formosa
+    - y: 
+        name: Jujuy
+    - l: 
+        name: La Pampa
+    - m: 
+        name: Mendoza
+    - n: 
+        name: Misiones
+    - q: 
+        name: Neuquen
+    - r: 
+        name: Rio Negro
+    - a: 
+        name: Salta
+    - j: 
+        name: San Juan
+    - d: 
+        name: San Luis
+    - z: 
+        name: Santa Cruz
+    - s: 
+        name: Santa Fe
+    - g: 
+        name: Santiago del Estero
+    - v: 
+        name: Tierra del Fuego
+    - t: 
+        name: Tucuman

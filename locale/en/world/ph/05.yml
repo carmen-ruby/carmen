@@ -1,0 +1,17 @@
+--- 
+en: 
+  world: 
+    ph: 
+      "05": 
+      - alb: 
+          name: Albay
+      - can: 
+          name: Camarines Norte
+      - cas: 
+          name: Camarines Sur
+      - cat: 
+          name: Catanduanes
+      - mas: 
+          name: Masbate
+      - sor: 
+          name: Sorsogon

@@ -1,10 +1,7 @@
 --- 
 - code: D
-  name: Diekirch
   type: district
 - code: G
-  name: Grevenmacher
   type: district
 - code: L
-  name: Luxembourg
   type: district

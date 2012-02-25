@@ -1,0 +1,26 @@
+--- 
+en: 
+  world: 
+    li: 
+    - "01": 
+        name: Balzers
+    - "02": 
+        name: Eschen
+    - "03": 
+        name: Gamprin
+    - "04": 
+        name: Mauren
+    - "05": 
+        name: Planken
+    - "06": 
+        name: Ruggell
+    - "07": 
+        name: Schaan
+    - 08: 
+        name: Schellenberg
+    - 09: 
+        name: Triesen
+    - "10": 
+        name: Triesenberg
+    - "11": 
+        name: Vaduz

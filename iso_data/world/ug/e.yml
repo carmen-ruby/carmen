@@ -1,73 +1,49 @@
 --- 
 - code: "216"
-  name: Amuria
   type: district
 - code: "217"
-  name: Budaka
   type: district
 - code: "223"
-  name: Bududa
   type: district
 - code: "201"
-  name: Bugiri
   type: district
 - code: "224"
-  name: Bukedea
   type: district
 - code: "218"
-  name: Bukwa
   type: district
 - code: "202"
-  name: Busia
   type: district
 - code: "219"
-  name: Butaleja
   type: district
 - code: "203"
-  name: Iganga
   type: district
 - code: "204"
-  name: Jinja
   type: district
 - code: "213"
-  name: Kaberamaido
   type: district
 - code: "220"
-  name: Kaliro
   type: district
 - code: "205"
-  name: Kamuli
   type: district
 - code: "206"
-  name: Kapchorwa
   type: district
 - code: "207"
-  name: Katakwi
   type: district
 - code: "208"
-  name: Kumi
   type: district
 - code: "221"
-  name: Manafwa
   type: district
 - code: "214"
-  name: Mayuge
   type: district
 - code: "209"
-  name: Mbale
   type: district
 - code: "222"
-  name: Namutumba
   type: district
 - code: "210"
-  name: Pallisa
   type: district
 - code: "215"
-  name: Sironko
   type: district
 - code: "211"
-  name: Soroti
   type: district
 - code: "212"
-  name: Tororo
   type: district

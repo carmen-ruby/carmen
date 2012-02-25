@@ -1,10 +1,7 @@
 --- 
 - code: "411"
-  name: Cheb
   type: district
 - code: "412"
-  name: Karlovy Vary
   type: district
 - code: "413"
-  name: Sokolov
   type: district

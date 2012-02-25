@@ -1,0 +1,15 @@
+--- 
+en: 
+  world: 
+    it: 
+      "57": 
+      - an: 
+          name: Ancona
+      - ap: 
+          name: Ascoli Piceno
+      - fm: 
+          name: Fermo
+      - mc: 
+          name: Macerata
+      - pu: 
+          name: Pesaro e Urbino

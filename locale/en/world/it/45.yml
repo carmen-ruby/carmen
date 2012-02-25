@@ -1,0 +1,23 @@
+--- 
+en: 
+  world: 
+    it: 
+      "45": 
+      - bo: 
+          name: Bologna
+      - fe: 
+          name: Ferrara
+      - fc: 
+          name: "Forl\xC3\xAC-Cesena"
+      - mo: 
+          name: Modena
+      - pr: 
+          name: Parma
+      - pc: 
+          name: Piacenza
+      - ra: 
+          name: Ravenna
+      - re: 
+          name: Reggio Emilia
+      - rn: 
+          name: Rimini

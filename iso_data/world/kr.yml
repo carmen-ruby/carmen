@@ -1,49 +1,33 @@
 --- 
 - code: "11"
-  name: Seoul Teugbyeolsi
   type: capital metropolitan city
 - code: "26"
-  name: Busan Gwang'yeogsi
   type: metropolitan cities
 - code: "27"
-  name: Daegu Gwang'yeogsi
   type: metropolitan cities
 - code: "30"
-  name: Daejeon Gwang'yeogsi
   type: metropolitan cities
 - code: "29"
-  name: Gwangju Gwang'yeogsi
   type: metropolitan cities
 - code: "28"
-  name: Incheon Gwang'yeogsi
   type: metropolitan cities
 - code: "31"
-  name: Ulsan Gwang'yeogsi
   type: metropolitan cities
 - code: "43"
-  name: Chungcheongbukdo
   type: province
 - code: "44"
-  name: Chungcheongnamdo
   type: province
 - code: "42"
-  name: Gang'weondo
   type: province
 - code: "41"
-  name: Gyeonggido
   type: province
 - code: "47"
-  name: Gyeongsangbukdo
   type: province
 - code: "48"
-  name: Gyeongsangnamdo
   type: province
 - code: "49"
-  name: Jejudo
   type: province
 - code: "45"
-  name: Jeonrabukdo
   type: province
 - code: "46"
-  name: Jeonranamdo
   type: province

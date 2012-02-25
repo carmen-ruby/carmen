@@ -1,0 +1,32 @@
+--- 
+en: 
+  world: 
+    sy: 
+    - ha: 
+        name: Al Hasakah
+    - la: 
+        name: Al Ladhiqiyah
+    - qu: 
+        name: Al Qunaytirah
+    - ra: 
+        name: Ar Raqqah
+    - su: 
+        name: As Suwayda'
+    - dr: 
+        name: Dar'a
+    - dy: 
+        name: Dayr az Zawr
+    - di: 
+        name: Dimashq
+    - hl: 
+        name: Halab
+    - hm: 
+        name: Hamah
+    - hi: 
+        name: Homs
+    - id: 
+        name: Idlib
+    - rd: 
+        name: Rif Dimashq
+    - ta: 
+        name: Tartus
