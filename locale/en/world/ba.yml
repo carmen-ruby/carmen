@@ -2,9 +2,9 @@
 en: 
   world: 
     ba: 
-    - bih: 
+      bih: 
         name: Federacija Bosne i Hercegovine
-    - srp: 
+      srp: 
         name: Republika Srpska
-    - brc: 
+      brc: 
         name: "Br\xC4\x8Dko distrikt"

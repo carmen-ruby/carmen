@@ -2,45 +2,45 @@
 en: 
   world: 
     se: 
-    - k: 
+      k: 
         name: "Blekinge l\xC3\xA4n"
-    - w: 
+      w: 
         name: "Dalarnas l\xC3\xA4n"
-    - i: 
+      i: 
         name: "Gotlands l\xC3\xA4n"
-    - x: 
+      x: 
         name: "G\xC3\xA4vleborgs l\xC3\xA4n"
-    - n: 
+      n: 
         name: "Hallands l\xC3\xA4n"
-    - z: 
+      z: 
         name: "J\xC3\xA4mtlande l\xC3\xA4n"
-    - f: 
+      f: 
         name: "J\xC3\xB6nk\xC3\xB6pings l\xC3\xA4n"
-    - h: 
+      h: 
         name: "Kalmar l\xC3\xA4n"
-    - g: 
+      g: 
         name: "Kronobergs l\xC3\xA4n"
-    - bd: 
+      bd: 
         name: "Norrbottens l\xC3\xA4n"
-    - m: 
+      m: 
         name: "Sk\xC3\xA5ne l\xC3\xA4n"
-    - ab: 
+      ab: 
         name: "Stockholms l\xC3\xA4n"
-    - d: 
+      d: 
         name: "S\xC3\xB6dermanlands l\xC3\xA4n"
-    - c: 
+      c: 
         name: "Uppsala l\xC3\xA4n"
-    - s: 
+      s: 
         name: "V\xC3\xA4rmlands l\xC3\xA4n"
-    - ac: 
+      ac: 
         name: "V\xC3\xA4sterbottens l\xC3\xA4n"
-    - y: 
+      y: 
         name: "V\xC3\xA4sternorrlands l\xC3\xA4n"
-    - u: 
+      u: 
         name: "V\xC3\xA4stmanlands l\xC3\xA4n"
-    - o: 
+      o: 
         name: "V\xC3\xA4stra G\xC3\xB6talands l\xC3\xA4n"
-    - t: 
+      t: 
         name: "\xC3\x96rebro l\xC3\xA4n"
-    - e: 
+      e: 
         name: "\xC3\x96sterg\xC3\xB6tlands l\xC3\xA4n"

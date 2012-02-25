@@ -3,9 +3,9 @@ en:
   world: 
     ma: 
       "03": 
-      - hoc: 
+        hoc: 
           name: "Al Hoce\xC3\xAFma"
-      - tao: 
+        tao: 
           name: Taounate
-      - taz: 
+        taz: 
           name: Taza

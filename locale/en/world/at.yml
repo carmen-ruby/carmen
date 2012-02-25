@@ -2,21 +2,21 @@
 en: 
   world: 
     at: 
-    - "1": 
+      "1": 
         name: Burgenland
-    - "2": 
+      "2": 
         name: "K\xC3\xA4rnten"
-    - "3": 
+      "3": 
         name: "Nieder\xC3\xB6sterreich"
-    - "4": 
+      "4": 
         name: "Ober\xC3\xB6sterreich"
-    - "5": 
+      "5": 
         name: Salzburg
-    - "6": 
+      "6": 
         name: Steiermark
-    - "7": 
+      "7": 
         name: Tirol
-    - "8": 
+      "8": 
         name: Vorarlberg
-    - "9": 
+      "9": 
         name: Wien

@@ -3,15 +3,15 @@ en:
   world: 
     ph: 
       "11": 
-      - com: 
+        com: 
           name: Compostela Valley
-      - dav: 
+        dav: 
           name: Davao del Norte
-      - das: 
+        das: 
           name: Davao del Sur
-      - dao: 
+        dao: 
           name: Davao Oriental
-      - sar: 
+        sar: 
           name: Sarangani
-      - sco: 
+        sco: 
           name: South Cotabato

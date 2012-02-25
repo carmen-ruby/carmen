@@ -2,11 +2,11 @@
 en: 
   world: 
     sl: 
-    - w: 
+      w: 
         name: Western Area (Freetown)
-    - e: 
+      e: 
         name: Eastern
-    - n: 
+      n: 
         name: Northern
-    - s: 
+      s: 
         name: Southern (Sierra Leone)

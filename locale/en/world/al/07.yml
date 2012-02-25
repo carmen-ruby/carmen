@@ -3,9 +3,9 @@ en:
   world: 
     al: 
       "07": 
-      - ha: 
+        ha: 
           name: Has
-      - ku: 
+        ku: 
           name: "Kuk\xC3\xABs"
-      - tp: 
+        tp: 
           name: "Tropoj\xC3\xAB"

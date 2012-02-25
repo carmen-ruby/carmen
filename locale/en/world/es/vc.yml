@@ -3,9 +3,9 @@ en:
   world: 
     es: 
       vc: 
-      - a: 
+        a: 
           name: Alicante
-      - cs: 
+        cs: 
           name: "Castell\xC3\xB3n"
-      - v: 
+        v: 
           name: "Valencia / Val\xC3\xA8ncia"

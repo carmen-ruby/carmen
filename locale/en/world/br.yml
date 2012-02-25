@@ -2,59 +2,59 @@
 en: 
   world: 
     br: 
-    - ac: 
+      ac: 
         name: Acre
-    - al: 
+      al: 
         name: Alagoas
-    - am: 
+      am: 
         name: Amazonas
-    - ap: 
+      ap: 
         name: "Amap\xC3\xA1"
-    - ba: 
+      ba: 
         name: Bahia
-    - ce: 
+      ce: 
         name: "Cear\xC3\xA1"
-    - es: 
+      es: 
         name: "Esp\xC3\xADrito Santo"
-    - fn: 
+      fn: 
         name: Fernando de Noronha
-    - go: 
+      go: 
         name: "Goi\xC3\xA1s"
-    - ma: 
+      ma: 
         name: "Maranh\xC3\xA3o"
-    - mg: 
+      mg: 
         name: Minas Gerais
-    - ms: 
+      ms: 
         name: Mato Grosso do Sul
-    - mt: 
+      mt: 
         name: Mato Grosso
-    - pa: 
+      pa: 
         name: "Par\xC3\xA1"
-    - pb: 
+      pb: 
         name: "Para\xC3\xADba"
-    - pe: 
+      pe: 
         name: Pernambuco
-    - pi: 
+      pi: 
         name: "Piau\xC3\xAD"
-    - pr: 
+      pr: 
         name: "Paran\xC3\xA1"
-    - rj: 
+      rj: 
         name: Rio de Janeiro
-    - rn: 
+      rn: 
         name: Rio Grande do Norte
-    - ro: 
+      ro: 
         name: "Rond\xC3\xB4nia"
-    - rr: 
+      rr: 
         name: Roraima
-    - rs: 
+      rs: 
         name: Rio Grande do Sul
-    - sc: 
+      sc: 
         name: Santa Catarina
-    - se: 
+      se: 
         name: Sergipe
-    - sp: 
+      sp: 
         name: "S\xC3\xA3o Paulo"
-    - to: 
+      to: 
         name: Tocantins
-    - df: 
+      df: 
         name: Distrito Federal

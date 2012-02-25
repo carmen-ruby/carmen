@@ -3,13 +3,13 @@ en:
   world: 
     gn: 
       d: 
-      - co: 
+        co: 
           name: Coyah
-      - du: 
+        du: 
           name: "Dubr\xC3\xA9ka"
-      - fo: 
+        fo: 
           name: "For\xC3\xA9cariah"
-      - kd: 
+        kd: 
           name: Kindia
-      - te: 
+        te: 
           name: "T\xC3\xA9lim\xC3\xA9l\xC3\xA9"

@@ -3,11 +3,11 @@ en:
   world: 
     ma: 
       "07": 
-      - khe: 
+        khe: 
           name: Khemisaet
-      - rab: 
+        rab: 
           name: Rabat
-      - sal: 
+        sal: 
           name: "Sal\xC3\xA9"
-      - skh: 
+        skh: 
           name: "Skhirate-T\xC3\xA9mara"

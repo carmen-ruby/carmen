@@ -3,9 +3,9 @@ en:
   world: 
     np: 
       "3": 
-      - dh: 
+        dh: 
           name: Dhawalagiri
-      - ga: 
+        ga: 
           name: Gandaki
-      - lu: 
+        lu: 
           name: Lumbini

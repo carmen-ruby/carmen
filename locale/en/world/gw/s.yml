@@ -3,9 +3,9 @@ en:
   world: 
     gw: 
       s: 
-      - bl: 
+        bl: 
           name: Bolama
-      - qu: 
+        qu: 
           name: Quinara
-      - to: 
+        to: 
           name: Tombali

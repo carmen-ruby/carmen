@@ -2,9 +2,9 @@
 en: 
   world: 
     mw: 
-    - c: 
+      c: 
         name: Central Region
-    - n: 
+      n: 
         name: Northern Region
-    - s: 
+      s: 
         name: Southern Region

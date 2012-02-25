@@ -2,27 +2,27 @@
 en: 
   world: 
     ge: 
-    - ab: 
+      ab: 
         name: Abkhazia
-    - aj: 
+      aj: 
         name: Ajaria
-    - tb: 
+      tb: 
         name: "T\xE2\x80\x99bilisi"
-    - gu: 
+      gu: 
         name: Guria
-    - im: 
+      im: 
         name: "Imeret\xE2\x80\x99i"
-    - ka: 
+      ka: 
         name: "Kakhet\xE2\x80\x99i"
-    - kk: 
+      kk: 
         name: "K\xE2\x80\x99vemo K\xE2\x80\x99art\xE2\x80\x99li"
-    - mm: 
+      mm: 
         name: "Mts\xE2\x80\x99khet\xE2\x80\x99a-Mt\xE2\x80\x99ianet\xE2\x80\x99i"
-    - rl: 
+      rl: 
         name: "Racha-Lech\xE2\x80\x99khumi-K\xE2\x80\x99vemo Svanet\xE2\x80\x99i"
-    - sz: 
+      sz: 
         name: "Samegrelo-Zemo Svanet\xE2\x80\x99i"
-    - sj: 
+      sj: 
         name: "Samts\xE2\x80\x99khe-Javakhet\xE2\x80\x99i"
-    - sk: 
+      sk: 
         name: "Shida K\xE2\x80\x99art\xE2\x80\x99li"

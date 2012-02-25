@@ -2,15 +2,15 @@
 en: 
   world: 
     vu: 
-    - map: 
+      map: 
         name: Malampa
-    - pam: 
+      pam: 
         name: "P\xC3\xA9nama"
-    - sam: 
+      sam: 
         name: Sanma
-    - see: 
+      see: 
         name: "Sh\xC3\xA9fa"
-    - tae: 
+      tae: 
         name: "Taf\xC3\xA9a"
-    - tob: 
+      tob: 
         name: Torba

@@ -3,9 +3,9 @@ en:
   world: 
     al: 
       "01": 
-      - br: 
+        br: 
           name: Berat
-      - kc: 
+        kc: 
           name: "Ku\xC3\xA7ov\xC3\xAB"
-      - sk: 
+        sk: 
           name: Skrapar

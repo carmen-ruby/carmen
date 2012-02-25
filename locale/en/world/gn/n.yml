@@ -3,15 +3,15 @@ en:
   world: 
     gn: 
       n: 
-      - be: 
+        be: 
           name: Beyla
-      - gu: 
+        gu: 
           name: "Gu\xC3\xA9k\xC3\xA9dou"
-      - lo: 
+        lo: 
           name: Lola
-      - mc: 
+        mc: 
           name: Macenta
-      - nz: 
+        nz: 
           name: "Nz\xC3\xA9r\xC3\xA9kor\xC3\xA9"
-      - yo: 
+        yo: 
           name: Yomou

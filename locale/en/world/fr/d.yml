@@ -3,11 +3,11 @@ en:
   world: 
     fr: 
       d: 
-      - "21": 
+        "21": 
           name: "C\xC3\xB4te-d'Or"
-      - "58": 
+        "58": 
           name: "Ni\xC3\xA8vre"
-      - "71": 
+        "71": 
           name: "Sa\xC3\xB4ne-et-Loire"
-      - "89": 
+        "89": 
           name: Yonne

@@ -2,43 +2,43 @@
 en: 
   world: 
     rs: 
-    - "00": 
+      "00": 
         name: Beograd
-    - km: 
+      km: 
         name: Kosovo-Metohija
-    - vo: 
+      vo: 
         name: Vojvodina
-    - "14": 
+      "14": 
         name: Borski okrug
-    - "11": 
+      "11": 
         name: "Brani\xC4\x8Devski okrug"
-    - "23": 
+      "23": 
         name: "Jablani\xC4\x8Dki okrug"
-    - 09: 
+      09: 
         name: Kolubarski okrug
-    - 08: 
+      08: 
         name: "Ma\xC4\x8Dvanski okrug"
-    - "17": 
+      "17": 
         name: "Moravi\xC4\x8Dki okrug"
-    - "20": 
+      "20": 
         name: "Ni\xC5\xA1avski okrug"
-    - "24": 
+      "24": 
         name: "P\xC4\x8Dinjski okrug"
-    - "22": 
+      "22": 
         name: Pirotski okrug
-    - "10": 
+      "10": 
         name: Podunavski okrug
-    - "13": 
+      "13": 
         name: Pomoravski okrug
-    - "19": 
+      "19": 
         name: Rasinski okrug
-    - "18": 
+      "18": 
         name: "Ra\xC5\xA1ki okrug"
-    - "12": 
+      "12": 
         name: "\xC5\xA0umadijski okrug"
-    - "21": 
+      "21": 
         name: "Topli\xC4\x8Dki okrug"
-    - "15": 
+      "15": 
         name: "Zaje\xC4\x8Darski okrug"
-    - "16": 
+      "16": 
         name: Zlatiborski okrug

@@ -2,17 +2,17 @@
 en: 
   world: 
     ae: 
-    - az: 
+      az: 
         name: "Ab\xC5\xAB \xC8\xA4aby [Abu Dhabi]"
-    - aj: 
+      aj: 
         name: "'Ajm\xC4\x81n"
-    - fu: 
+      fu: 
         name: Al Fujayrah
-    - sh: 
+      sh: 
         name: "Ash Sh\xC4\x81riqah"
-    - du: 
+      du: 
         name: Dubayy
-    - rk: 
+      rk: 
         name: "Ra\xE2\x80\x99s al Khaymah"
-    - uq: 
+      uq: 
         name: Umm al Qaywayn

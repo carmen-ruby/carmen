@@ -3,13 +3,13 @@ en:
   world: 
     it: 
       "78": 
-      - cz: 
+        cz: 
           name: Catanzaro
-      - cs: 
+        cs: 
           name: Cosenza
-      - kr: 
+        kr: 
           name: Crotone
-      - rc: 
+        rc: 
           name: Reggio Calabria
-      - vv: 
+        vv: 
           name: Vibo Valentia

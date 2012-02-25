@@ -3,9 +3,9 @@ en:
   world: 
     al: 
       "04": 
-      - fr: 
+        fr: 
           name: Fier
-      - lu: 
+        lu: 
           name: "Lushnj\xC3\xAB"
-      - mk: 
+        mk: 
           name: "Mallakast\xC3\xABr"

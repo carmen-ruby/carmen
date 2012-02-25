@@ -2,77 +2,77 @@
 en: 
   world: 
     ng: 
-    - fc: 
+      fc: 
         name: Abuja Capital Territory
-    - ab: 
+      ab: 
         name: Abia
-    - ad: 
+      ad: 
         name: Adamawa
-    - ak: 
+      ak: 
         name: Akwa Ibom
-    - an: 
+      an: 
         name: Anambra
-    - ba: 
+      ba: 
         name: Bauchi
-    - by: 
+      by: 
         name: Bayelsa
-    - be: 
+      be: 
         name: Benue
-    - bo: 
+      bo: 
         name: Borno
-    - cr: 
+      cr: 
         name: Cross River
-    - de: 
+      de: 
         name: Delta
-    - eb: 
+      eb: 
         name: Ebonyi
-    - ed: 
+      ed: 
         name: Edo
-    - ek: 
+      ek: 
         name: Ekiti
-    - en: 
+      en: 
         name: Enugu
-    - go: 
+      go: 
         name: Gombe
-    - im: 
+      im: 
         name: Imo
-    - ji: 
+      ji: 
         name: Jigawa
-    - kd: 
+      kd: 
         name: Kaduna
-    - kn: 
+      kn: 
         name: Kano
-    - kt: 
+      kt: 
         name: Katsina
-    - ke: 
+      ke: 
         name: Kebbi
-    - ko: 
+      ko: 
         name: Kogi
-    - kw: 
+      kw: 
         name: Kwara
-    - la: 
+      la: 
         name: Lagos
-    - na: 
+      na: 
         name: Nassarawa
-    - ni: 
+      ni: 
         name: Niger
-    - og: 
+      og: 
         name: Ogun
-    - "on": 
+      "on": 
         name: Ondo
-    - os: 
+      os: 
         name: Osun
-    - oy: 
+      oy: 
         name: Oyo
-    - pl: 
+      pl: 
         name: Plateau
-    - ri: 
+      ri: 
         name: Rivers
-    - so: 
+      so: 
         name: Sokoto
-    - ta: 
+      ta: 
         name: Taraba
-    - yo: 
+      yo: 
         name: Yobe
-    - za: 
+      za: 
         name: Zamfara

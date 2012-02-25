@@ -2,53 +2,53 @@
 en: 
   world: 
     sc: 
-    - "01": 
+      "01": 
         name: Anse aux Pins
-    - "02": 
+      "02": 
         name: Anse Boileau
-    - "03": 
+      "03": 
         name: Anse Etoile
-    - "04": 
+      "04": 
         name: Anse Louis
-    - "05": 
+      "05": 
         name: Anse Royale
-    - "06": 
+      "06": 
         name: Baie Lazare
-    - "07": 
+      "07": 
         name: Baie Sainte Anne
-    - 08: 
+      08: 
         name: Beau Vallon
-    - 09: 
+      09: 
         name: Bel Air
-    - "10": 
+      "10": 
         name: Bel Ombre
-    - "11": 
+      "11": 
         name: Cascade
-    - "12": 
+      "12": 
         name: Glacis
-    - "13": 
+      "13": 
         name: Grand Anse Mahe
-    - "14": 
+      "14": 
         name: Grand Anse Praslin
-    - "15": 
+      "15": 
         name: La Digue
-    - "16": 
+      "16": 
         name: English River
-    - "24": 
+      "24": 
         name: Les Mamelles
-    - "17": 
+      "17": 
         name: Mont Buxton
-    - "18": 
+      "18": 
         name: Mont Fleuri
-    - "19": 
+      "19": 
         name: Plaisance
-    - "20": 
+      "20": 
         name: Pointe Larue
-    - "21": 
+      "21": 
         name: Port Glaud
-    - "25": 
+      "25": 
         name: Roche Caiman
-    - "22": 
+      "22": 
         name: Saint Louis
-    - "23": 
+      "23": 
         name: Takamaka

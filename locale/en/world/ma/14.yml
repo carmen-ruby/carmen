@@ -3,13 +3,13 @@ en:
   world: 
     ma: 
       "14": 
-      - asz: 
+        asz: 
           name: Assa-Zag
-      - esm: 
+        esm: 
           name: Es Smara (EH)
-      - gue: 
+        gue: 
           name: Guelmim
-      - tnt: 
+        tnt: 
           name: Tan-Tan
-      - tat: 
+        tat: 
           name: Tata

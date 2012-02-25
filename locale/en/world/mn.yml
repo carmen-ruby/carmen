@@ -2,47 +2,47 @@
 en: 
   world: 
     mn: 
-    - "073": 
+      "073": 
         name: Arhangay
-    - 069: 
+      069: 
         name: Bayanhongor
-    - "071": 
+      "071": 
         name: "Bayan-\xC3\x96lgiy"
-    - "067": 
+      "067": 
         name: Bulgan
-    - "061": 
+      "061": 
         name: Dornod
-    - "063": 
+      "063": 
         name: Dornogovi
-    - 059: 
+      059: 
         name: Dundgovi
-    - "057": 
+      "057": 
         name: Dzavhan
-    - "065": 
+      "065": 
         name: Govi-Altay
-    - 039: 
+      039: 
         name: Hentiy
-    - "043": 
+      "043": 
         name: Hovd
-    - "041": 
+      "041": 
         name: "H\xC3\xB6vsg\xC3\xB6l"
-    - "053": 
+      "053": 
         name: "\xC3\x96mn\xC3\xB6govi"
-    - "055": 
+      "055": 
         name: "\xC3\x96v\xC3\xB6rhangay"
-    - 049: 
+      049: 
         name: Selenge
-    - "051": 
+      "051": 
         name: "S\xC3\xBChbaatar"
-    - "047": 
+      "047": 
         name: "T\xC3\xB6v"
-    - "046": 
+      "046": 
         name: Uvs
-    - "1": 
+      "1": 
         name: Ulanbaatar
-    - "037": 
+      "037": 
         name: Darhan uul
-    - "064": 
+      "064": 
         name: Govi-Sumber
-    - "035": 
+      "035": 
         name: Orhon

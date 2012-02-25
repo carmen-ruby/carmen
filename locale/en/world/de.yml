@@ -2,35 +2,35 @@
 en: 
   world: 
     de: 
-    - bw: 
+      bw: 
         name: "Baden-W\xC3\xBCrttemberg"
-    - by: 
+      by: 
         name: Bayern
-    - hb: 
+      hb: 
         name: Bremen
-    - hh: 
+      hh: 
         name: Hamburg
-    - he: 
+      he: 
         name: Hessen
-    - ni: 
+      ni: 
         name: Niedersachsen
-    - nw: 
+      nw: 
         name: Nordrhein-Westfalen
-    - rp: 
+      rp: 
         name: Rheinland-Pfalz
-    - sl: 
+      sl: 
         name: Saarland
-    - sh: 
+      sh: 
         name: Schleswig-Holstein
-    - be: 
+      be: 
         name: Berlin
-    - bb: 
+      bb: 
         name: Brandenburg
-    - mv: 
+      mv: 
         name: Mecklenburg-Vorpommern
-    - sn: 
+      sn: 
         name: Sachsen
-    - st: 
+      st: 
         name: Sachsen-Anhalt
-    - th: 
+      th: 
         name: "Th\xC3\xBCringen"

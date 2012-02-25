@@ -3,11 +3,11 @@ en:
   world: 
     al: 
       "06": 
-      - dv: 
+        dv: 
           name: Devoll
-      - er: 
+        er: 
           name: "Kolonj\xC3\xAB"
-      - ko: 
+        ko: 
           name: "Kor\xC3\xA7\xC3\xAB"
-      - pg: 
+        pg: 
           name: Pogradec

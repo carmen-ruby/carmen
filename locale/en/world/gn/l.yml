@@ -3,13 +3,13 @@ en:
   world: 
     gn: 
       l: 
-      - kb: 
+        kb: 
           name: Koubia
-      - la: 
+        la: 
           name: "Lab\xC3\xA9"
-      - le: 
+        le: 
           name: "L\xC3\xA9louma"
-      - ml: 
+        ml: 
           name: Mali
-      - to: 
+        to: 
           name: "Tougu\xC3\xA9"

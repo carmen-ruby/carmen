@@ -3,9 +3,9 @@ en:
   world: 
     gr: 
       k: 
-      - "85": 
+        "85": 
           name: Chios
-      - "83": 
+        "83": 
           name: Lesvos
-      - "84": 
+        "84": 
           name: Samos

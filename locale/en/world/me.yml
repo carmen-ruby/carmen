@@ -2,45 +2,45 @@
 en: 
   world: 
     me: 
-    - "01": 
+      "01": 
         name: Andrijevica
-    - "02": 
+      "02": 
         name: Bar
-    - "03": 
+      "03": 
         name: Berane
-    - "04": 
+      "04": 
         name: Bijelo Polje
-    - "05": 
+      "05": 
         name: Budva
-    - "06": 
+      "06": 
         name: Cetinje
-    - "07": 
+      "07": 
         name: Danilovgrad
-    - 08: 
+      08: 
         name: Herceg-Novi
-    - 09: 
+      09: 
         name: "Kola\xC5\xA1in"
-    - "10": 
+      "10": 
         name: Kotor
-    - "11": 
+      "11": 
         name: Mojkovac
-    - "12": 
+      "12": 
         name: "Nik\xC5\xA1i\xC4\x87"
-    - "13": 
+      "13": 
         name: Plav
-    - "14": 
+      "14": 
         name: Pljevlja
-    - "15": 
+      "15": 
         name: "Plu\xC5\xBEine"
-    - "16": 
+      "16": 
         name: Podgorica
-    - "17": 
+      "17": 
         name: "Ro\xC5\xBEaje"
-    - "18": 
+      "18": 
         name: "\xC5\xA0avnik"
-    - "19": 
+      "19": 
         name: Tivat
-    - "20": 
+      "20": 
         name: Ulcinj
-    - "21": 
+      "21": 
         name: "\xC5\xBDabljak"

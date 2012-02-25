@@ -3,11 +3,11 @@ en:
   world: 
     es: 
       ct: 
-      - b: 
+        b: 
           name: Barcelona
-      - gi: 
+        gi: 
           name: Girona
-      - l: 
+        l: 
           name: Lleida
-      - t: 
+        t: 
           name: Tarragona

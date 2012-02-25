@@ -3,9 +3,9 @@ en:
   world: 
     gw: 
       n: 
-      - bm: 
+        bm: 
           name: Biombo
-      - ca: 
+        ca: 
           name: Cacheu
-      - oi: 
+        oi: 
           name: Oio

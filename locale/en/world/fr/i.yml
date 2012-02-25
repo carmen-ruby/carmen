@@ -3,11 +3,11 @@ en:
   world: 
     fr: 
       i: 
-      - "25": 
+        "25": 
           name: Doubs
-      - "70": 
+        "70": 
           name: "Haute-Sa\xC3\xB4ne"
-      - "39": 
+        "39": 
           name: Jura
-      - "90": 
+        "90": 
           name: Territoire de Belfort

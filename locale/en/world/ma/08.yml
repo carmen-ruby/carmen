@@ -3,11 +3,11 @@ en:
   world: 
     ma: 
       08: 
-      - med: 
+        med: 
           name: "M\xC3\xA9diouna"
-      - nou: 
+        nou: 
           name: Nouaceur
-      - cas: 
+        cas: 
           name: "Casablanca [Dar el Be\xC3\xAFda]"
-      - moh: 
+        moh: 
           name: Mohammadia

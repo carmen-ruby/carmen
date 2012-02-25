@@ -3,9 +3,9 @@ en:
   world: 
     al: 
       "10": 
-      - mm: 
+        mm: 
           name: "Mal\xC3\xABsi e Madhe"
-      - pu: 
+        pu: 
           name: "Puk\xC3\xAB"
-      - sh: 
+        sh: 
           name: "Shkod\xC3\xABr"

@@ -2,25 +2,25 @@
 en: 
   world: 
     et: 
-    - aa: 
+      aa: 
         name: "\xC4\x80d\xC4\xABs \xC4\x80beba"
-    - dd: 
+      dd: 
         name: "Dir\xC4\x93 Dawa"
-    - af: 
+      af: 
         name: "\xC4\x80far"
-    - am: 
+      am: 
         name: "\xC4\x80mara"
-    - be: 
+      be: 
         name: "B\xC4\xABnshangul Gumuz"
-    - ga: 
+      ga: 
         name: "Gamb\xC4\x93la Hizboch"
-    - ha: 
+      ha: 
         name: "H\xC4\x81rer\xC4\xAB Hizb"
-    - or: 
+      or: 
         name: "Orom\xC4\xABya"
-    - so: 
+      so: 
         name: "Sumal\xC4\x93"
-    - ti: 
+      ti: 
         name: Tigray
-    - sn: 
+      sn: 
         name: "YeDebub Bih\xC4\x93roch Bih\xC4\x93reseboch na Hizboch"

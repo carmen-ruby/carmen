@@ -2,17 +2,17 @@
 en: 
   world: 
     by: 
-    - hm: 
+      hm: 
         name: Horad Minsk
-    - br: 
+      br: 
         name: "Br\xC3\xA8sckaja voblasc'"
-    - ho: 
+      ho: 
         name: Homel'skaja voblasc'
-    - hr: 
+      hr: 
         name: Hrodzenskaja voblasc'
-    - ma: 
+      ma: 
         name: "Mahil\xC3\xABuskaja voblasc'"
-    - mi: 
+      mi: 
         name: Minskaja voblasc'
-    - vi: 
+      vi: 
         name: Vicebskaja voblasc'

@@ -3,27 +3,27 @@ en:
   world: 
     it: 
       "25": 
-      - bg: 
+        bg: 
           name: Bergamo
-      - bs: 
+        bs: 
           name: Brescia
-      - co: 
+        co: 
           name: Como
-      - cr: 
+        cr: 
           name: Cremona
-      - lc: 
+        lc: 
           name: Lecco
-      - lo: 
+        lo: 
           name: Lodi
-      - mn: 
+        mn: 
           name: Mantova
-      - mi: 
+        mi: 
           name: Milano
-      - mb: 
+        mb: 
           name: Monza e Brianza
-      - pv: 
+        pv: 
           name: Pavia
-      - so: 
+        so: 
           name: Sondrio
-      - va: 
+        va: 
           name: Varese

@@ -2,139 +2,139 @@
 en: 
   world: 
     mt: 
-    - "01": 
+      "01": 
         name: Attard
-    - "02": 
+      "02": 
         name: Balzan
-    - "03": 
+      "03": 
         name: Birgu
-    - "04": 
+      "04": 
         name: Birkirkara
-    - "05": 
+      "05": 
         name: "Bir\xC5\xBCebbu\xC4\xA1a"
-    - "06": 
+      "06": 
         name: Bormla
-    - "07": 
+      "07": 
         name: Dingli
-    - 08: 
+      08: 
         name: Fgura
-    - 09: 
+      09: 
         name: Floriana
-    - "10": 
+      "10": 
         name: Fontana
-    - "11": 
+      "11": 
         name: Gudja
-    - "12": 
+      "12": 
         name: "G\xC5\xBCira"
-    - "13": 
+      "13": 
         name: "G\xC4\xA7ajnsielem"
-    - "14": 
+      "14": 
         name: "G\xC4\xA7arb"
-    - "15": 
+      "15": 
         name: "G\xC4\xA7arg\xC4\xA7ur"
-    - "16": 
+      "16": 
         name: "G\xC4\xA7asri"
-    - "17": 
+      "17": 
         name: "G\xC4\xA7axaq"
-    - "18": 
+      "18": 
         name: "\xC4\xA6amrun"
-    - "19": 
+      "19": 
         name: Iklin
-    - "20": 
+      "20": 
         name: Isla
-    - "21": 
+      "21": 
         name: Kalkara
-    - "22": 
+      "22": 
         name: "Ker\xC4\x8Bem"
-    - "23": 
+      "23": 
         name: Kirkop
-    - "24": 
+      "24": 
         name: Lija
-    - "25": 
+      "25": 
         name: Luqa
-    - "26": 
+      "26": 
         name: Marsa
-    - "27": 
+      "27": 
         name: Marsaskala
-    - "28": 
+      "28": 
         name: Marsaxlokk
-    - "29": 
+      "29": 
         name: Mdina
-    - "30": 
+      "30": 
         name: "Mellie\xC4\xA7a"
-    - "31": 
+      "31": 
         name: "M\xC4\xA1arr"
-    - "32": 
+      "32": 
         name: Mosta
-    - "33": 
+      "33": 
         name: Mqabba
-    - "34": 
+      "34": 
         name: Msida
-    - "35": 
+      "35": 
         name: Mtarfa
-    - "36": 
+      "36": 
         name: Munxar
-    - "37": 
+      "37": 
         name: Nadur
-    - "38": 
+      "38": 
         name: Naxxar
-    - "39": 
+      "39": 
         name: Paola
-    - "40": 
+      "40": 
         name: Pembroke
-    - "41": 
+      "41": 
         name: "Piet\xC3\xA0"
-    - "42": 
+      "42": 
         name: Qala
-    - "43": 
+      "43": 
         name: Qormi
-    - "44": 
+      "44": 
         name: Qrendi
-    - "45": 
+      "45": 
         name: "Rabat G\xC4\xA7awdex"
-    - "46": 
+      "46": 
         name: Rabat Malta
-    - "47": 
+      "47": 
         name: Safi
-    - "48": 
+      "48": 
         name: "San \xC4\xA0iljan"
-    - "49": 
+      "49": 
         name: "San \xC4\xA0wann"
-    - "50": 
+      "50": 
         name: San Lawrenz
-    - "51": 
+      "51": 
         name: "San Pawl il-Ba\xC4\xA7ar"
-    - "52": 
+      "52": 
         name: Sannat
-    - "53": 
+      "53": 
         name: "Santa Lu\xC4\x8Bija"
-    - "54": 
+      "54": 
         name: Santa Venera
-    - "55": 
+      "55": 
         name: "Si\xC4\xA1\xC4\xA1iewi"
-    - "56": 
+      "56": 
         name: Sliema
-    - "57": 
+      "57": 
         name: Swieqi
-    - "58": 
+      "58": 
         name: "Ta\xE2\x80\x99 Xbiex"
-    - "59": 
+      "59": 
         name: Tarxien
-    - "60": 
+      "60": 
         name: Valletta
-    - "61": 
+      "61": 
         name: "Xag\xC4\xA7ra"
-    - "62": 
+      "62": 
         name: Xewkija
-    - "63": 
+      "63": 
         name: "Xg\xC4\xA7ajra"
-    - "64": 
+      "64": 
         name: "\xC5\xBBabbar"
-    - "65": 
+      "65": 
         name: "\xC5\xBBebbu\xC4\xA1 G\xC4\xA7awdex"
-    - "66": 
+      "66": 
         name: "\xC5\xBBebbu\xC4\xA1 Malta"
-    - "67": 
+      "67": 
         name: "\xC5\xBBejtun"
-    - "68": 
+      "68": 
         name: "\xC5\xBBurrieq"

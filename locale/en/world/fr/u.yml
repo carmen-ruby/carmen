@@ -3,15 +3,15 @@ en:
   world: 
     fr: 
       u: 
-      - "04": 
+        "04": 
           name: Alpes-de-Haute-Provence
-      - "06": 
+        "06": 
           name: Alpes-Maritimes
-      - "13": 
+        "13": 
           name: "Bouches-du-Rh\xC3\xB4ne"
-      - "05": 
+        "05": 
           name: Hautes-Alpes
-      - "83": 
+        "83": 
           name: Var
-      - "84": 
+        "84": 
           name: Vaucluse

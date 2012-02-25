@@ -2,87 +2,87 @@
 en: 
   world: 
     ro: 
-    - ab: 
+      ab: 
         name: Alba
-    - ar: 
+      ar: 
         name: Arad
-    - ag: 
+      ag: 
         name: "Arge\xC8\x99"
-    - bc: 
+      bc: 
         name: "Bac\xC4\x83u"
-    - bh: 
+      bh: 
         name: Bihor
-    - bn: 
+      bn: 
         name: "Bistri\xC8\x9Ba-N\xC4\x83s\xC4\x83ud"
-    - bt: 
+      bt: 
         name: "Boto\xC8\x99ani"
-    - bv: 
+      bv: 
         name: "Bra\xC8\x99ov"
-    - br: 
+      br: 
         name: "Br\xC4\x83ila"
-    - bz: 
+      bz: 
         name: "Buz\xC4\x83u"
-    - cs: 
+      cs: 
         name: "Cara\xC8\x99-Severin"
-    - cl: 
+      cl: 
         name: "C\xC4\x83l\xC4\x83ra\xC8\x99i"
-    - cj: 
+      cj: 
         name: Cluj
-    - ct: 
+      ct: 
         name: "Constan\xC8\x9Ba"
-    - cv: 
+      cv: 
         name: Covasna
-    - db: 
+      db: 
         name: "D\xC3\xA2mbovi\xC8\x9Ba"
-    - dj: 
+      dj: 
         name: Dolj
-    - gl: 
+      gl: 
         name: "Gala\xC8\x9Bi"
-    - gr: 
+      gr: 
         name: Giurgiu
-    - gj: 
+      gj: 
         name: Gorj
-    - hr: 
+      hr: 
         name: Harghita
-    - hd: 
+      hd: 
         name: Hunedoara
-    - il: 
+      il: 
         name: "Ialomi\xC8\x9Ba"
-    - is: 
+      is: 
         name: "Ia\xC8\x99i"
-    - if: 
+      if: 
         name: Ilfov
-    - mm: 
+      mm: 
         name: "Maramure\xC8\x99"
-    - mh: 
+      mh: 
         name: "Mehedin\xC8\x9Bi"
-    - ms: 
+      ms: 
         name: "Mure\xC8\x99"
-    - nt: 
+      nt: 
         name: "Neam\xC8\x9B"
-    - ot: 
+      ot: 
         name: Olt
-    - ph: 
+      ph: 
         name: Prahova
-    - sm: 
+      sm: 
         name: Satu Mare
-    - sj: 
+      sj: 
         name: "S\xC4\x83laj"
-    - sb: 
+      sb: 
         name: Sibiu
-    - sv: 
+      sv: 
         name: Suceava
-    - tr: 
+      tr: 
         name: Teleorman
-    - tm: 
+      tm: 
         name: "Timi\xC8\x99"
-    - tl: 
+      tl: 
         name: Tulcea
-    - vs: 
+      vs: 
         name: Vaslui
-    - vl: 
+      vl: 
         name: "V\xC3\xA2lcea"
-    - vn: 
+      vn: 
         name: Vrancea
-    - b: 
+      b: 
         name: "Bucure\xC8\x99ti"

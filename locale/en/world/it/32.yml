@@ -3,7 +3,7 @@ en:
   world: 
     it: 
       "32": 
-      - bz: 
+        bz: 
           name: Bolzano
-      - tn: 
+        tn: 
           name: Trento

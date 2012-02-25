@@ -3,9 +3,9 @@ en:
   world: 
     al: 
       "12": 
-      - dl: 
+        dl: 
           name: "Delvin\xC3\xAB"
-      - sr: 
+        sr: 
           name: "Sarand\xC3\xAB"
-      - vl: 
+        vl: 
           name: "Vlor\xC3\xAB"

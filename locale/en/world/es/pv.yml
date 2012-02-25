@@ -3,9 +3,9 @@ en:
   world: 
     es: 
       pv: 
-      - vi: 
+        vi: 
           name: "\xC3\x81lava"
-      - ss: 
+        ss: 
           name: "Guip\xC3\xBAzcoa / Gipuzkoa"
-      - bi: 
+        bi: 
           name: Vizcayaa / Bizkaia

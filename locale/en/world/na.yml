@@ -2,29 +2,29 @@
 en: 
   world: 
     na: 
-    - ca: 
+      ca: 
         name: Caprivi
-    - er: 
+      er: 
         name: Erongo
-    - ha: 
+      ha: 
         name: Hardap
-    - ka: 
+      ka: 
         name: Karas
-    - kh: 
+      kh: 
         name: Khomas
-    - ku: 
+      ku: 
         name: Kunene
-    - ow: 
+      ow: 
         name: Ohangwena
-    - ok: 
+      ok: 
         name: Okavango
-    - oh: 
+      oh: 
         name: Omaheke
-    - os: 
+      os: 
         name: Omusati
-    - "on": 
+      "on": 
         name: Oshana
-    - ot: 
+      ot: 
         name: Oshikoto
-    - od: 
+      od: 
         name: Otjozondjupa

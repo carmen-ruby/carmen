@@ -3,11 +3,11 @@ en:
   world: 
     ma: 
       "05": 
-      - bom: 
+        bom: 
           name: Boulemane
-      - mou: 
+        mou: 
           name: Moulay Yacoub
-      - sef: 
+        sef: 
           name: Sefrou
-      - fes: 
+        fes: 
           name: "F\xC3\xA8s-Dar-Dbibegh"

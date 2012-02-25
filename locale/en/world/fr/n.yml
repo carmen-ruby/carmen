@@ -3,19 +3,19 @@ en:
   world: 
     fr: 
       n: 
-      - 09: 
+        09: 
           name: "Ari\xC3\xA8ge"
-      - "12": 
+        "12": 
           name: Aveyron
-      - "32": 
+        "32": 
           name: Gers
-      - "31": 
+        "31": 
           name: Haute-Garonne
-      - "65": 
+        "65": 
           name: "Hautes-Pyr\xC3\xA9n\xC3\xA9es"
-      - "46": 
+        "46": 
           name: Lot
-      - "81": 
+        "81": 
           name: Tarn
-      - "82": 
+        "82": 
           name: Tarn-et-Garonne

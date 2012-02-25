@@ -2,51 +2,51 @@
 en: 
   world: 
     ec: 
-    - a: 
+      a: 
         name: Azuay
-    - b: 
+      b: 
         name: "Bol\xC3\xADvar"
-    - f: 
+      f: 
         name: "Ca\xC3\xB1ar"
-    - c: 
+      c: 
         name: Carchi
-    - x: 
+      x: 
         name: Cotopaxi
-    - h: 
+      h: 
         name: Chimborazo
-    - o: 
+      o: 
         name: El Oro
-    - e: 
+      e: 
         name: Esmeraldas
-    - w: 
+      w: 
         name: "Gal\xC3\xA1pagos"
-    - g: 
+      g: 
         name: Guayas
-    - i: 
+      i: 
         name: Imbabura
-    - l: 
+      l: 
         name: Loja
-    - r: 
+      r: 
         name: "Los R\xC3\xADos"
-    - m: 
+      m: 
         name: "Manab\xC3\xAD"
-    - s: 
+      s: 
         name: Morona-Santiago
-    - n: 
+      n: 
         name: Napo
-    - d: 
+      d: 
         name: Orellana
-    - y: 
+      y: 
         name: Pastaza
-    - p: 
+      p: 
         name: Pichincha
-    - se: 
+      se: 
         name: Santa Elena
-    - sd: 
+      sd: 
         name: "Santo Domingo de los Ts\xC3\xA1chilas"
-    - u: 
+      u: 
         name: "Sucumb\xC3\xADos"
-    - t: 
+      t: 
         name: Tungurahua
-    - z: 
+      z: 
         name: Zamora-Chinchipe

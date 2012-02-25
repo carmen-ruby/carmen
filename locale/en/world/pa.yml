@@ -2,27 +2,27 @@
 en: 
   world: 
     pa: 
-    - "1": 
+      "1": 
         name: Bocas del Toro
-    - "4": 
+      "4": 
         name: "Chiriqu\xC3\xAD"
-    - "2": 
+      "2": 
         name: "Cocl\xC3\xA9"
-    - "3": 
+      "3": 
         name: "Col\xC3\xB3n"
-    - "5": 
+      "5": 
         name: "Dari\xC3\xA9n"
-    - "6": 
+      "6": 
         name: Herrera
-    - "7": 
+      "7": 
         name: Los Santos
-    - "8": 
+      "8": 
         name: "Panam\xC3\xA1"
-    - "9": 
+      "9": 
         name: Veraguas
-    - em: 
+      em: 
         name: "Ember\xC3\xA1"
-    - ky: 
+      ky: 
         name: Kuna Yala
-    - nb: 
+      nb: 
         name: "Ng\xC3\xB6be-Bugl\xC3\xA9"

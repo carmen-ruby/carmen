@@ -2,55 +2,55 @@
 en: 
   world: 
     tz: 
-    - "01": 
+      "01": 
         name: Arusha
-    - "02": 
+      "02": 
         name: Dar-es-Salaam
-    - "03": 
+      "03": 
         name: Dodoma
-    - "04": 
+      "04": 
         name: Iringa
-    - "05": 
+      "05": 
         name: Kagera
-    - "06": 
+      "06": 
         name: Kaskazini Pemba
-    - "07": 
+      "07": 
         name: Kaskazini Unguja
-    - 08: 
+      08: 
         name: Kigoma
-    - 09: 
+      09: 
         name: Kilimanjaro
-    - "10": 
+      "10": 
         name: Kusini Pemba
-    - "11": 
+      "11": 
         name: Kusini Unguja
-    - "12": 
+      "12": 
         name: Lindi
-    - "26": 
+      "26": 
         name: Manyara
-    - "13": 
+      "13": 
         name: Mara
-    - "14": 
+      "14": 
         name: Mbeya
-    - "15": 
+      "15": 
         name: Mjini Magharibi
-    - "16": 
+      "16": 
         name: Morogoro
-    - "17": 
+      "17": 
         name: Mtwara
-    - "18": 
+      "18": 
         name: Mwanza
-    - "19": 
+      "19": 
         name: Pwani
-    - "20": 
+      "20": 
         name: Rukwa
-    - "21": 
+      "21": 
         name: Ruvuma
-    - "22": 
+      "22": 
         name: Shinyanga
-    - "23": 
+      "23": 
         name: Singida
-    - "24": 
+      "24": 
         name: Tabora
-    - "25": 
+      "25": 
         name: Tanga

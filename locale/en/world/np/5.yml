@@ -3,7 +3,7 @@ en:
   world: 
     np: 
       "5": 
-      - ma: 
+        ma: 
           name: Mahakali
-      - se: 
+        se: 
           name: Seti

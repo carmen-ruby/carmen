@@ -2,15 +2,15 @@
 en: 
   world: 
     fi: 
-    - al: 
+      al: 
         name: "Ahvenanmaan l\xC3\xA4\xC3\xA4ni"
-    - es: 
+      es: 
         name: "Etel\xC3\xA4-Suomen l\xC3\xA4\xC3\xA4ni"
-    - is: 
+      is: 
         name: "It\xC3\xA4-Suomen l\xC3\xA4\xC3\xA4ni"
-    - ll: 
+      ll: 
         name: "Lapin l\xC3\xA4\xC3\xA4ni"
-    - ls: 
+      ls: 
         name: "L\xC3\xA4nsi-Suomen l\xC3\xA4\xC3\xA4ni"
-    - ol: 
+      ol: 
         name: "Oulun l\xC3\xA4\xC3\xA4ni"

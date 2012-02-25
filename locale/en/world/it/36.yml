@@ -3,11 +3,11 @@ en:
   world: 
     it: 
       "36": 
-      - go: 
+        go: 
           name: Gorizia
-      - pn: 
+        pn: 
           name: Pordenone
-      - ts: 
+        ts: 
           name: Trieste
-      - ud: 
+        ud: 
           name: Udine

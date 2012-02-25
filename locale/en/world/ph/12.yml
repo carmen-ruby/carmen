@@ -3,9 +3,9 @@ en:
   world: 
     ph: 
       "12": 
-      - lan: 
+        lan: 
           name: Lanao del Norte
-      - nco: 
+        nco: 
           name: North Cotabato
-      - suk: 
+        suk: 
           name: Sultan Kudarat

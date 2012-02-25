@@ -2,69 +2,69 @@
 en: 
   world: 
     lv: 
-    - ai: 
+      ai: 
         name: "Aizkraukle Apri\xC5\x86\xC4\xB7is"
-    - al: 
+      al: 
         name: "Al\xC5\xABksne Apri\xC5\x86\xC4\xB7is"
-    - bl: 
+      bl: 
         name: "Balvi Apri\xC5\x86\xC4\xB7is"
-    - bu: 
+      bu: 
         name: "Bauska Apri\xC5\x86\xC4\xB7is"
-    - ce: 
+      ce: 
         name: "C\xC4\x93sis Apri\xC5\x86\xC4\xB7is"
-    - da: 
+      da: 
         name: "Daugavpils Apri\xC5\x86\xC4\xB7is"
-    - do: 
+      do: 
         name: "Dobele Apri\xC5\x86\xC4\xB7is"
-    - gu: 
+      gu: 
         name: "Gulbene Apri\xC5\x86\xC4\xB7is"
-    - jk: 
+      jk: 
         name: "J\xC4\x93kabpils Apri\xC5\x86\xC4\xB7is"
-    - jl: 
+      jl: 
         name: "Jelgava Apri\xC5\x86\xC4\xB7is"
-    - kr: 
+      kr: 
         name: "Kr\xC4\x81slava Apri\xC5\x86\xC4\xB7is"
-    - ku: 
+      ku: 
         name: "Kuld\xC4\xABga Apri\xC5\x86\xC4\xB7is"
-    - le: 
+      le: 
         name: "Liep\xC4\x81ja Apri\xC5\x86\xC4\xB7is"
-    - lm: 
+      lm: 
         name: "Limba\xC5\xBEi Apri\xC5\x86\xC4\xB7is"
-    - lu: 
+      lu: 
         name: "Ludza Apri\xC5\x86\xC4\xB7is"
-    - ma: 
+      ma: 
         name: "Madona Apri\xC5\x86\xC4\xB7is"
-    - og: 
+      og: 
         name: "Ogre Apri\xC5\x86\xC4\xB7is"
-    - pr: 
+      pr: 
         name: "Prei\xC4\xBCi Apri\xC5\x86\xC4\xB7is"
-    - re: 
+      re: 
         name: "R\xC4\x93zekne Apri\xC5\x86\xC4\xB7is"
-    - ri: 
+      ri: 
         name: "R\xC4\xABga Apri\xC5\x86\xC4\xB7is"
-    - sa: 
+      sa: 
         name: "Saldus Apri\xC5\x86\xC4\xB7is"
-    - ta: 
+      ta: 
         name: "Talsi Apri\xC5\x86\xC4\xB7is"
-    - tu: 
+      tu: 
         name: "Tukums Apri\xC5\x86\xC4\xB7is"
-    - vk: 
+      vk: 
         name: "Valka Apri\xC5\x86\xC4\xB7is"
-    - vm: 
+      vm: 
         name: "Valmiera Apri\xC5\x86\xC4\xB7is"
-    - ve: 
+      ve: 
         name: "Ventspils Apri\xC5\x86\xC4\xB7is"
-    - dgv: 
+      dgv: 
         name: Daugavpils
-    - jel: 
+      jel: 
         name: Jelgava
-    - jur: 
+      jur: 
         name: "J\xC5\xABrmala"
-    - lpx: 
+      lpx: 
         name: "Liep\xC4\x81ja"
-    - rez: 
+      rez: 
         name: "R\xC4\x93zekne"
-    - rix: 
+      rix: 
         name: "R\xC4\xABga"
-    - ven: 
+      ven: 
         name: Ventspils

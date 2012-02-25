@@ -3,9 +3,9 @@ en:
   world: 
     al: 
       "05": 
-      - gj: 
+        gj: 
           name: "Gjirokast\xC3\xABr"
-      - pr: 
+        pr: 
           name: "P\xC3\xABrmet"
-      - te: 
+        te: 
           name: "Tepelen\xC3\xAB"

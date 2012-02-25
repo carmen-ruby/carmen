@@ -2,15 +2,15 @@
 en: 
   world: 
     tm: 
-    - a: 
+      a: 
         name: Ahal
-    - b: 
+      b: 
         name: Balkan
-    - d: 
+      d: 
         name: "Da\xC5\x9Foguz"
-    - l: 
+      l: 
         name: Lebap
-    - m: 
+      m: 
         name: Mary
-    - s: 
+      s: 
         name: "A\xC5\x9Fgabat"

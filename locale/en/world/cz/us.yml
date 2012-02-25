@@ -3,17 +3,17 @@ en:
   world: 
     cz: 
       us: 
-      - "421": 
+        "421": 
           name: "D\xC4\x9B\xC4\x8D\xC3\xADn"
-      - "422": 
+        "422": 
           name: Chomutov
-      - "423": 
+        "423": 
           name: "Litom\xC4\x9B\xC5\x99ice"
-      - "424": 
+        "424": 
           name: Louny
-      - "425": 
+        "425": 
           name: Most
-      - "426": 
+        "426": 
           name: Teplice
-      - "427": 
+        "427": 
           name: "\xC3\x9Ast\xC3\xAD nad Labem"

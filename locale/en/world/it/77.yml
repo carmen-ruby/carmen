@@ -3,7 +3,7 @@ en:
   world: 
     it: 
       "77": 
-      - mt: 
+        mt: 
           name: Matera
-      - pz: 
+        pz: 
           name: Potenza

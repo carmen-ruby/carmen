@@ -3,9 +3,9 @@ en:
   world: 
     bf: 
       "11": 
-      - gan: 
+        gan: 
           name: Ganzourgou
-      - kow: 
+        kow: 
           name: "Kourw\xC3\xA9ogo"
-      - oub: 
+        oub: 
           name: Oubritenga

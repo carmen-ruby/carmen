@@ -3,9 +3,9 @@ en:
   world: 
     bf: 
       09: 
-      - hou: 
+        hou: 
           name: Houet
-      - ken: 
+        ken: 
           name: "K\xC3\xA9n\xC3\xA9dougou"
-      - tui: 
+        tui: 
           name: Tui

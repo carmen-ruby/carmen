@@ -2,29 +2,29 @@
 en: 
   world: 
     mr: 
-    - nkc: 
+      nkc: 
         name: Nouakchott
-    - "07": 
+      "07": 
         name: Adrar
-    - "03": 
+      "03": 
         name: Assaba
-    - "05": 
+      "05": 
         name: Brakna
-    - 08: 
+      08: 
         name: Dakhlet Nouadhibou
-    - "04": 
+      "04": 
         name: Gorgol
-    - "10": 
+      "10": 
         name: Guidimaka
-    - "01": 
+      "01": 
         name: Hodh ech Chargui
-    - "02": 
+      "02": 
         name: Hodh el Charbi
-    - "12": 
+      "12": 
         name: Inchiri
-    - 09: 
+      09: 
         name: Tagant
-    - "11": 
+      "11": 
         name: Tiris Zemmour
-    - "06": 
+      "06": 
         name: Trarza

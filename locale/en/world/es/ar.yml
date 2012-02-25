@@ -3,9 +3,9 @@ en:
   world: 
     es: 
       ar: 
-      - hu: 
+        hu: 
           name: Huesca
-      - te: 
+        te: 
           name: Teruel
-      - z: 
+        z: 
           name: Zaragoza

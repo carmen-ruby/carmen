@@ -3,13 +3,13 @@ en:
   world: 
     gn: 
       b: 
-      - bf: 
+        bf: 
           name: Boffa
-      - bk: 
+        bk: 
           name: "Bok\xC3\xA9"
-      - fr: 
+        fr: 
           name: Fria
-      - ga: 
+        ga: 
           name: Gaoual
-      - kn: 
+        kn: 
           name: Koundara

@@ -3,35 +3,35 @@ en:
   world: 
     bd: 
       "5": 
-      - "03": 
+        "03": 
           name: Bogra zila
-      - "14": 
+        "14": 
           name: Dinajpur zila
-      - "19": 
+        "19": 
           name: Gaibandha zila
-      - "24": 
+        "24": 
           name: Jaipurhat zila
-      - "28": 
+        "28": 
           name: Kurigram zila
-      - "32": 
+        "32": 
           name: Lalmonirhat zila
-      - "48": 
+        "48": 
           name: Naogaon zila
-      - "44": 
+        "44": 
           name: Natore zila
-      - "45": 
+        "45": 
           name: Nawabganj zila
-      - "46": 
+        "46": 
           name: Nilphamari zila
-      - "49": 
+        "49": 
           name: Pabna zila
-      - "52": 
+        "52": 
           name: Panchagarh zila
-      - "54": 
+        "54": 
           name: Rajshahi zila
-      - "55": 
+        "55": 
           name: Rangpur zila
-      - "59": 
+        "59": 
           name: Sirajganj zila
-      - "64": 
+        "64": 
           name: Thakurgaon zila

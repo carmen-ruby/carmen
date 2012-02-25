@@ -2,43 +2,43 @@
 en: 
   world: 
     bt: 
-    - "33": 
+      "33": 
         name: Bumthang
-    - "12": 
+      "12": 
         name: Chhukha
-    - "22": 
+      "22": 
         name: Dagana
-    - ga: 
+      ga: 
         name: Gasa
-    - "13": 
+      "13": 
         name: Ha
-    - "44": 
+      "44": 
         name: Lhuentse
-    - "42": 
+      "42": 
         name: Monggar
-    - "11": 
+      "11": 
         name: Paro
-    - "43": 
+      "43": 
         name: Pemagatshel
-    - "23": 
+      "23": 
         name: Punakha
-    - "45": 
+      "45": 
         name: Samdrup Jongkha
-    - "14": 
+      "14": 
         name: Samtee
-    - "31": 
+      "31": 
         name: Sarpang
-    - "15": 
+      "15": 
         name: Thimphu
-    - "41": 
+      "41": 
         name: Trashigang
-    - ty: 
+      ty: 
         name: Trashi Yangtse
-    - "32": 
+      "32": 
         name: Trongsa
-    - "21": 
+      "21": 
         name: Tsirang
-    - "24": 
+      "24": 
         name: Wangdue Phodrang
-    - "34": 
+      "34": 
         name: Zhemgang

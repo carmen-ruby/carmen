@@ -3,9 +3,9 @@ en:
   world: 
     al: 
       08: 
-      - kb: 
+        kb: 
           name: Kurbin
-      - le: 
+        le: 
           name: "Lezh\xC3\xAB"
-      - mr: 
+        mr: 
           name: "Mirdit\xC3\xAB"

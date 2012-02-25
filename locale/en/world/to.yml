@@ -2,13 +2,13 @@
 en: 
   world: 
     to: 
-    - "01": 
+      "01": 
         name: "'Eua"
-    - "02": 
+      "02": 
         name: Ha'apai
-    - "03": 
+      "03": 
         name: Niuas
-    - "04": 
+      "04": 
         name: Tongatapu
-    - "05": 
+      "05": 
         name: Vava'u

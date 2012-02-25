@@ -3,11 +3,11 @@ en:
   world: 
     bf: 
       "12": 
-      - oud: 
+        oud: 
           name: Oudalan
-      - sen: 
+        sen: 
           name: "S\xC3\xA9no"
-      - som: 
+        som: 
           name: Soum
-      - yag: 
+        yag: 
           name: Yagha

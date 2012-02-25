@@ -3,19 +3,19 @@ en:
   world: 
     fr: 
       j: 
-      - "91": 
+        "91": 
           name: Essonne
-      - "92": 
+        "92": 
           name: Hauts-de-Seine
-      - "75": 
+        "75": 
           name: Paris
-      - "77": 
+        "77": 
           name: Seine-et-Marne
-      - "93": 
+        "93": 
           name: Seine-Saint-Denis
-      - "94": 
+        "94": 
           name: Val-de-Marne
-      - "95": 
+        "95": 
           name: Val d'Oise
-      - "78": 
+        "78": 
           name: Yvelines

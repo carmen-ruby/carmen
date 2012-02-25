@@ -3,9 +3,9 @@ en:
   world: 
     id: 
       nu: 
-      - ba: 
+        ba: 
           name: Bali
-      - nb: 
+        nb: 
           name: Nusa Tenggara Barat
-      - nt: 
+        nt: 
           name: Nusa Tenggara Timur

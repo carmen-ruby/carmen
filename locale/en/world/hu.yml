@@ -2,89 +2,89 @@
 en: 
   world: 
     hu: 
-    - bk: 
+      bk: 
         name: "B\xC3\xA1cs-Kiskun"
-    - ba: 
+      ba: 
         name: Baranya
-    - be: 
+      be: 
         name: "B\xC3\xA9k\xC3\xA9s"
-    - bz: 
+      bz: 
         name: "Borsod-Aba\xC3\xBAj-Zempl\xC3\xA9n"
-    - cs: 
+      cs: 
         name: "Csongr\xC3\xA1d"
-    - fe: 
+      fe: 
         name: "Fej\xC3\xA9r"
-    - gs: 
+      gs: 
         name: "Gy\xC5\x91r-Moson-Sopron"
-    - hb: 
+      hb: 
         name: "Hajd\xC3\xBA-Bihar"
-    - he: 
+      he: 
         name: Heves
-    - jn: 
+      jn: 
         name: "J\xC3\xA1sz-Nagykun-Szolnok"
-    - ke: 
+      ke: 
         name: "Kom\xC3\xA1rom-Esztergom"
-    - "no": 
+      "no": 
         name: "N\xC3\xB3gr\xC3\xA1d"
-    - pe: 
+      pe: 
         name: Pest
-    - so: 
+      so: 
         name: Somogy
-    - sz: 
+      sz: 
         name: "Szabolcs-Szatm\xC3\xA1r-Bereg"
-    - to: 
+      to: 
         name: Tolna
-    - va: 
+      va: 
         name: Vas
-    - ve: 
+      ve: 
         name: "Veszpr\xC3\xA9m (county)"
-    - za: 
+      za: 
         name: Zala
-    - bc: 
+      bc: 
         name: "B\xC3\xA9k\xC3\xA9scsaba"
-    - de: 
+      de: 
         name: Debrecen
-    - du: 
+      du: 
         name: "Duna\xC3\xBAjv\xC3\xA1ros"
-    - eg: 
+      eg: 
         name: Eger
-    - er: 
+      er: 
         name: "\xC3\x89rd"
-    - gy: 
+      gy: 
         name: "Gy\xC5\x91r"
-    - hv: 
+      hv: 
         name: "H\xC3\xB3dmez\xC5\x91v\xC3\xA1s\xC3\xA1rhely"
-    - kv: 
+      kv: 
         name: "Kaposv\xC3\xA1r"
-    - km: 
+      km: 
         name: "Kecskem\xC3\xA9t"
-    - mi: 
+      mi: 
         name: Miskolc
-    - nk: 
+      nk: 
         name: Nagykanizsa
-    - ny: 
+      ny: 
         name: "Ny\xC3\xADregyh\xC3\xA1za"
-    - ps: 
+      ps: 
         name: "P\xC3\xA9cs"
-    - st: 
+      st: 
         name: "Salg\xC3\xB3tarj\xC3\xA1n"
-    - sn: 
+      sn: 
         name: Sopron
-    - sd: 
+      sd: 
         name: Szeged
-    - sf: 
+      sf: 
         name: "Sz\xC3\xA9kesfeh\xC3\xA9rv\xC3\xA1r"
-    - ss: 
+      ss: 
         name: "Szeksz\xC3\xA1rd"
-    - sk: 
+      sk: 
         name: Szolnok
-    - sh: 
+      sh: 
         name: Szombathely
-    - tb: 
+      tb: 
         name: "Tatab\xC3\xA1nya"
-    - vm: 
+      vm: 
         name: "Veszpr\xC3\xA9m"
-    - ze: 
+      ze: 
         name: Zalaegerszeg
-    - bu: 
+      bu: 
         name: Budapest

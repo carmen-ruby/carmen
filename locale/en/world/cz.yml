@@ -2,31 +2,31 @@
 en: 
   world: 
     cz: 
-    - jc: 
+      jc: 
         name: "Jiho\xC4\x8Desk\xC3\xBD kraj"
-    - jm: 
+      jm: 
         name: "Jihomoravsk\xC3\xBD kraj"
-    - ka: 
+      ka: 
         name: "Karlovarsk\xC3\xBD kraj"
-    - kr: 
+      kr: 
         name: "Kr\xC3\xA1lov\xC3\xA9hradeck\xC3\xBD kraj"
-    - li: 
+      li: 
         name: "Libereck\xC3\xBD kraj"
-    - mo: 
+      mo: 
         name: "Moravskoslezsk\xC3\xBD kraj"
-    - ol: 
+      ol: 
         name: "Olomouck\xC3\xBD kraj"
-    - pa: 
+      pa: 
         name: "Pardubick\xC3\xBD kraj"
-    - pl: 
+      pl: 
         name: "Plze\xC5\x88sk\xC3\xBD kraj"
-    - pr: 
+      pr: 
         name: "Praha, hlavn\xC3\xAD m\xC4\x9Bsto"
-    - st: 
+      st: 
         name: "St\xC5\x99edo\xC4\x8Desk\xC3\xBD kraj"
-    - us: 
+      us: 
         name: "\xC3\x9Asteck\xC3\xBD kraj"
-    - vy: 
+      vy: 
         name: "Vyso\xC4\x8Dina"
-    - zl: 
+      zl: 
         name: "Zl\xC3\xADnsk\xC3\xBD kraj"

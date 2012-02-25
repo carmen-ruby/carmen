@@ -3,7 +3,7 @@ en:
   world: 
     fr: 
       o: 
-      - "59": 
+        "59": 
           name: Nord
-      - "62": 
+        "62": 
           name: Pas-de-Calais

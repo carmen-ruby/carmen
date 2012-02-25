@@ -2,21 +2,21 @@
 en: 
   world: 
     za: 
-    - ec: 
+      ec: 
         name: Eastern Cape
-    - fs: 
+      fs: 
         name: Free State
-    - gt: 
+      gt: 
         name: Gauteng
-    - nl: 
+      nl: 
         name: Kwazulu-Natal
-    - lp: 
+      lp: 
         name: Limpopo
-    - mp: 
+      mp: 
         name: Mpumalanga
-    - nc: 
+      nc: 
         name: Northern Cape
-    - nw: 
+      nw: 
         name: North-West (South Africa)
-    - wc: 
+      wc: 
         name: Western Cape

@@ -2,73 +2,73 @@
 en: 
   world: 
     in: 
-    - ap: 
+      ap: 
         name: Andhra Pradesh
-    - ar: 
+      ar: 
         name: "Arun\xC4\x81chal Pradesh"
-    - as: 
+      as: 
         name: Assam
-    - br: 
+      br: 
         name: "Bih\xC4\x81r"
-    - ct: 
+      ct: 
         name: "Chhatt\xC4\xABsgarh"
-    - ga: 
+      ga: 
         name: Goa
-    - gj: 
+      gj: 
         name: "Gujar\xC4\x81t"
-    - hr: 
+      hr: 
         name: "Hary\xC4\x81na"
-    - hp: 
+      hp: 
         name: "Him\xC4\x81chal Pradesh"
-    - jk: 
+      jk: 
         name: "Jammu and Kashm\xC4\xABr"
-    - jh: 
+      jh: 
         name: Jharkhand
-    - ka: 
+      ka: 
         name: "Karn\xC4\x81taka"
-    - kl: 
+      kl: 
         name: Kerala
-    - mp: 
+      mp: 
         name: Madhya Pradesh
-    - mh: 
+      mh: 
         name: "Mah\xC4\x81r\xC4\x81shtra"
-    - mn: 
+      mn: 
         name: Manipur
-    - ml: 
+      ml: 
         name: "Megh\xC4\x81laya"
-    - mz: 
+      mz: 
         name: Mizoram
-    - nl: 
+      nl: 
         name: "N\xC4\x81g\xC4\x81land"
-    - or: 
+      or: 
         name: Orissa
-    - pb: 
+      pb: 
         name: Punjab
-    - rj: 
+      rj: 
         name: "R\xC4\x81jasth\xC4\x81n"
-    - sk: 
+      sk: 
         name: Sikkim
-    - tn: 
+      tn: 
         name: "Tamil N\xC4\x81du"
-    - tr: 
+      tr: 
         name: Tripura
-    - ul: 
+      ul: 
         name: Uttaranchal
-    - up: 
+      up: 
         name: Uttar Pradesh
-    - wb: 
+      wb: 
         name: West Bengal
-    - an: 
+      an: 
         name: Andaman and Nicobar Islands
-    - ch: 
+      ch: 
         name: "Chand\xC4\xABgarh"
-    - dn: 
+      dn: 
         name: "D\xC4\x81dra and Nagar Haveli"
-    - dd: 
+      dd: 
         name: "Dam\xC4\x81n and Diu"
-    - dl: 
+      dl: 
         name: Delhi
-    - ld: 
+      ld: 
         name: Lakshadweep
-    - py: 
+      py: 
         name: Pondicherry

@@ -2,43 +2,43 @@
 en: 
   world: 
     mv: 
-    - mle: 
+      mle: 
         name: Male
-    - "02": 
+      "02": 
         name: Alif
-    - "20": 
+      "20": 
         name: Baa
-    - "17": 
+      "17": 
         name: Dhaalu
-    - "14": 
+      "14": 
         name: Faafu
-    - "27": 
+      "27": 
         name: Gaafu Aliff
-    - "28": 
+      "28": 
         name: Gaafu Daalu
-    - "29": 
+      "29": 
         name: Gnaviyani
-    - "07": 
+      "07": 
         name: Haa Alif
-    - "23": 
+      "23": 
         name: Haa Dhaalu
-    - "26": 
+      "26": 
         name: Kaafu
-    - "05": 
+      "05": 
         name: Laamu
-    - "03": 
+      "03": 
         name: Lhaviyani
-    - "12": 
+      "12": 
         name: Meemu
-    - "25": 
+      "25": 
         name: Noonu
-    - "13": 
+      "13": 
         name: Raa
-    - "01": 
+      "01": 
         name: Seenu
-    - "24": 
+      "24": 
         name: Shaviyani
-    - 08: 
+      08: 
         name: Thaa
-    - "04": 
+      "04": 
         name: Vaavu

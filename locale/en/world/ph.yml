@@ -2,37 +2,37 @@
 en: 
   world: 
     ph: 
-    - "14": 
+      "14": 
         name: Autonomous Region in Muslim Mindanao (ARMM)
-    - "05": 
+      "05": 
         name: Bicol (Region V)
-    - "02": 
+      "02": 
         name: Cagayan Valley (Region II)
-    - "40": 
+      "40": 
         name: CALABARZON (Region IV-A)
-    - "13": 
+      "13": 
         name: Caraga (Region XIII)
-    - "03": 
+      "03": 
         name: Central Luzon (Region III)
-    - "07": 
+      "07": 
         name: Central Visayas (Region VII)
-    - "15": 
+      "15": 
         name: Cordillera Administrative Region (CAR)
-    - 08: 
+      08: 
         name: Eastern Visayas (Region VIII)
-    - "01": 
+      "01": 
         name: Ilocos (Region I)
-    - "41": 
+      "41": 
         name: MIMAROPA (Region IV-B)
-    - "00": 
+      "00": 
         name: National Capital Region
-    - "10": 
+      "10": 
         name: Northern Mindanao (Region X)
-    - "11": 
+      "11": 
         name: Davao (Region XI)
-    - "12": 
+      "12": 
         name: Soccsksargen (Region XII)
-    - "06": 
+      "06": 
         name: Western Visayas (Region VI)
-    - 09: 
+      09: 
         name: Zamboanga Peninsula (Region IX)

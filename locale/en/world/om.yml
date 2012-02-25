@@ -2,21 +2,21 @@
 en: 
   world: 
     om: 
-    - da: 
+      da: 
         name: "Ad D\xC4\x81khil\xC4\xABya"
-    - ba: 
+      ba: 
         name: "Al B\xC4\x81\xC5\xA3inah"
-    - wu: 
+      wu: 
         name: "Al Wus\xC5\xA3\xC3\xA1"
-    - sh: 
+      sh: 
         name: "Ash Sharq\xC4\xAByah"
-    - za: 
+      za: 
         name: "Az\xCC\xA7 Z\xCC\xA7\xC4\x81hirah"
-    - bu: 
+      bu: 
         name: "Al Buraym\xC4\xAB"
-    - ma: 
+      ma: 
         name: "Masqa\xC5\xA3"
-    - mu: 
+      mu: 
         name: Musandam
-    - zu: 
+      zu: 
         name: "Z\xCC\xA7uf\xC4\x81r"

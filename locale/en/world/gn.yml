@@ -2,19 +2,19 @@
 en: 
   world: 
     gn: 
-    - b: 
+      b: 
         name: "Bok\xC3\xA9"
-    - f: 
+      f: 
         name: Faranah
-    - k: 
+      k: 
         name: Kankan
-    - d: 
+      d: 
         name: Kindia
-    - l: 
+      l: 
         name: "Lab\xC3\xA9"
-    - m: 
+      m: 
         name: Mamou
-    - n: 
+      n: 
         name: "Nz\xC3\xA9r\xC3\xA9kor\xC3\xA9"
-    - c: 
+      c: 
         name: Conakry

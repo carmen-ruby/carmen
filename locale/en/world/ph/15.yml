@@ -3,15 +3,15 @@ en:
   world: 
     ph: 
       "15": 
-      - abr: 
+        abr: 
           name: Abra
-      - apa: 
+        apa: 
           name: Apayao
-      - ben: 
+        ben: 
           name: Benguet
-      - ifu: 
+        ifu: 
           name: Ifugao
-      - kal: 
+        kal: 
           name: Kalinga-Apayso
-      - mou: 
+        mou: 
           name: Mountain Province

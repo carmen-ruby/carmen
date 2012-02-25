@@ -2,33 +2,33 @@
 en: 
   world: 
     cu: 
-    - 09: 
+      09: 
         name: "Camag\xC3\xBCey"
-    - 08: 
+      08: 
         name: "Ciego de \xC3\x81vila"
-    - "06": 
+      "06": 
         name: Cienfuegos
-    - "03": 
+      "03": 
         name: Ciudad de La Habana
-    - "12": 
+      "12": 
         name: Granma
-    - "14": 
+      "14": 
         name: "Guant\xC3\xA1namo"
-    - "11": 
+      "11": 
         name: "Holgu\xC3\xADn"
-    - "02": 
+      "02": 
         name: La Habana
-    - "10": 
+      "10": 
         name: Las Tunas
-    - "04": 
+      "04": 
         name: Matanzas
-    - "01": 
+      "01": 
         name: Pinar del Rio
-    - "07": 
+      "07": 
         name: "Sancti Sp\xC3\xADritus"
-    - "13": 
+      "13": 
         name: Santiago de Cuba
-    - "05": 
+      "05": 
         name: Villa Clara
-    - "99": 
+      "99": 
         name: Isla de la Juventud

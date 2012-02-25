@@ -3,13 +3,13 @@ en:
   world: 
     rs: 
       km: 
-      - "25": 
+        "25": 
           name: Kosovski okrug
-      - "28": 
+        "28": 
           name: "Kosovsko-Mitrova\xC4\x8Dki okrug"
-      - "29": 
+        "29": 
           name: Kosovsko-Pomoravski okrug
-      - "26": 
+        "26": 
           name: "Pe\xC4\x87ki okrug"
-      - "27": 
+        "27": 
           name: Prizrenski okrug

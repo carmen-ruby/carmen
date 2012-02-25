@@ -2,43 +2,43 @@
 en: 
   world: 
     pg: 
-    - ncd: 
+      ncd: 
         name: National Capital District (Port Moresby)
-    - cpm: 
+      cpm: 
         name: Central
-    - cpk: 
+      cpk: 
         name: Chimbu
-    - ehg: 
+      ehg: 
         name: Eastern Highlands
-    - ebr: 
+      ebr: 
         name: East New Britain
-    - esw: 
+      esw: 
         name: East Sepik
-    - epw: 
+      epw: 
         name: Enga
-    - gpk: 
+      gpk: 
         name: Gulf
-    - mpm: 
+      mpm: 
         name: Madang
-    - mrl: 
+      mrl: 
         name: Manus
-    - mba: 
+      mba: 
         name: Milne Bay
-    - mpl: 
+      mpl: 
         name: Morobe
-    - nik: 
+      nik: 
         name: New Ireland
-    - npp: 
+      npp: 
         name: Northern
-    - nsa: 
+      nsa: 
         name: North Solomons
-    - san: 
+      san: 
         name: Sandaun
-    - shm: 
+      shm: 
         name: Southern Highlands
-    - wpd: 
+      wpd: 
         name: Western
-    - whm: 
+      whm: 
         name: Western Highlands
-    - wbk: 
+      wbk: 
         name: West New Britain

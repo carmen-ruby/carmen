@@ -2,25 +2,25 @@
 en: 
   world: 
     ws: 
-    - aa: 
+      aa: 
         name: A'ana
-    - al: 
+      al: 
         name: Aiga-i-le-Tai
-    - at: 
+      at: 
         name: Atua
-    - fa: 
+      fa: 
         name: Fa'asaleleaga
-    - ge: 
+      ge: 
         name: Gaga'emauga
-    - gi: 
+      gi: 
         name: Gagaifomauga
-    - pa: 
+      pa: 
         name: Palauli
-    - sa: 
+      sa: 
         name: Satupa'itea
-    - tu: 
+      tu: 
         name: Tuamasaga
-    - vf: 
+      vf: 
         name: Va'a-o-Fonoti
-    - vs: 
+      vs: 
         name: Vaisigano

@@ -2,53 +2,53 @@
 en: 
   world: 
     sd: 
-    - "26": 
+      "26": 
         name: "Al Ba\xE1\xB8\xA9r al A\xE1\xB8\xA9mar"
-    - "18": 
+      "18": 
         name: "Al Bu\xE1\xB8\xA9ayr\xC4\x81t"
-    - "07": 
+      "07": 
         name: "Al Jaz\xC4\xABrah"
-    - "03": 
+      "03": 
         name: "Al Khar\xC5\xA3\xC5\xABm"
-    - "06": 
+      "06": 
         name: "Al Qa\xE1\xB8\x91\xC4\x81rif"
-    - "22": 
+      "22": 
         name: "Al Wa\xE1\xB8\xA9dah"
-    - "04": 
+      "04": 
         name: "An N\xC4\xABl"
-    - 08: 
+      08: 
         name: "An N\xC4\xABl al Abya\xE1\xB8\x91"
-    - "24": 
+      "24": 
         name: "An N\xC4\xABl al Azraq"
-    - "01": 
+      "01": 
         name: "Ash Sham\xC4\x81l\xC4\xAByah"
-    - "23": 
+      "23": 
         name: "A\xE2\x80\x98\xC4\x81l\xC4\xAB an N\xC4\xABl"
-    - "17": 
+      "17": 
         name: "Ba\xE1\xB8\xA9r al Jabal"
-    - "16": 
+      "16": 
         name: "Gharb al Istiw\xC4\x81'\xC4\xAByah"
-    - "14": 
+      "14": 
         name: "Gharb Ba\xE1\xB8\xA9r al Ghaz\xC4\x81l"
-    - "12": 
+      "12": 
         name: "Gharb D\xC4\x81rf\xC5\xABr"
-    - "11": 
+      "11": 
         name: "Jan\xC5\xABb D\xC4\x81rf\xC5\xABr"
-    - "13": 
+      "13": 
         name: "Jan\xC5\xABb Kurduf\xC4\x81n"
-    - "20": 
+      "20": 
         name: "J\xC5\xABnqal\xC4\xAB"
-    - "05": 
+      "05": 
         name: "Kassal\xC4\x81"
-    - "15": 
+      "15": 
         name: "Sham\xC4\x81l Ba\xE1\xB8\xA9r al Ghaz\xC4\x81l"
-    - "02": 
+      "02": 
         name: "Sham\xC4\x81l D\xC4\x81rf\xC5\xABr"
-    - 09: 
+      09: 
         name: "Sham\xC4\x81l Kurduf\xC4\x81n"
-    - "19": 
+      "19": 
         name: "Sharq al Istiw\xC4\x81'\xC4\xAByah"
-    - "25": 
+      "25": 
         name: "Sinn\xC4\x81r"
-    - "21": 
+      "21": 
         name: "W\xC4\x81r\xC4\x81b"

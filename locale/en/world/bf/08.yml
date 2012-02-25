@@ -3,13 +3,13 @@ en:
   world: 
     bf: 
       08: 
-      - gna: 
+        gna: 
           name: Gnagna
-      - gou: 
+        gou: 
           name: Gourma
-      - kmd: 
+        kmd: 
           name: Komondjari
-      - kmp: 
+        kmp: 
           name: Kompienga
-      - tap: 
+        tap: 
           name: Tapoa

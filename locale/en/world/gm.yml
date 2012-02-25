@@ -2,15 +2,15 @@
 en: 
   world: 
     gm: 
-    - l: 
+      l: 
         name: Lower River
-    - m: 
+      m: 
         name: Central River
-    - n: 
+      n: 
         name: North Bank
-    - u: 
+      u: 
         name: Upper River
-    - w: 
+      w: 
         name: Western
-    - b: 
+      b: 
         name: Banjul

@@ -2,33 +2,33 @@
 en: 
   world: 
     ee: 
-    - "37": 
+      "37": 
         name: Harjumaa
-    - "39": 
+      "39": 
         name: Hiiumaa
-    - "44": 
+      "44": 
         name: Ida-Virumaa
-    - "49": 
+      "49": 
         name: "J\xC3\xB5gevamaa"
-    - "51": 
+      "51": 
         name: "J\xC3\xA4rvamaa"
-    - "57": 
+      "57": 
         name: "L\xC3\xA4\xC3\xA4nemaa"
-    - "59": 
+      "59": 
         name: "L\xC3\xA4\xC3\xA4ne-Virumaa"
-    - "65": 
+      "65": 
         name: "P\xC3\xB5lvamaa"
-    - "67": 
+      "67": 
         name: "P\xC3\xA4rnumaa"
-    - "70": 
+      "70": 
         name: Raplamaa
-    - "74": 
+      "74": 
         name: Saaremaa
-    - "78": 
+      "78": 
         name: Tartumaa
-    - "82": 
+      "82": 
         name: Valgamaa
-    - "84": 
+      "84": 
         name: Viljandimaa
-    - "86": 
+      "86": 
         name: "V\xC3\xB5rumaa"

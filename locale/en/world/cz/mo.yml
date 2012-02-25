@@ -3,15 +3,15 @@ en:
   world: 
     cz: 
       mo: 
-      - "801": 
+        "801": 
           name: "Brunt\xC3\xA1l"
-      - "802": 
+        "802": 
           name: "Fr\xC3\xBDdek M\xC3\xADstek"
-      - "803": 
+        "803": 
           name: "Karvin\xC3\xA1"
-      - "804": 
+        "804": 
           name: "Nov\xC3\xBD Ji\xC4\x8D\xC3\xADn"
-      - "805": 
+        "805": 
           name: Opava
-      - "806": 
+        "806": 
           name: "Ostrava m\xC4\x9Bsto"

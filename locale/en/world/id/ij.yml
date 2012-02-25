@@ -3,7 +3,7 @@ en:
   world: 
     id: 
       ij: 
-      - pa: 
+        pa: 
           name: Papua
-      - pb: 
+        pb: 
           name: Papua Barat

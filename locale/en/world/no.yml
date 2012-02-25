@@ -2,45 +2,45 @@
 en: 
   world: 
     "no": 
-    - "02": 
+      "02": 
         name: Akershus
-    - 09: 
+      09: 
         name: Aust-Agder
-    - "06": 
+      "06": 
         name: Buskerud
-    - "20": 
+      "20": 
         name: Finnmark
-    - "04": 
+      "04": 
         name: Hedmark
-    - "12": 
+      "12": 
         name: Hordaland
-    - "15": 
+      "15": 
         name: "M\xC3\xB8re og Romsdal"
-    - "18": 
+      "18": 
         name: Nordland
-    - "17": 
+      "17": 
         name: "Nord-Tr\xC3\xB8ndelag"
-    - "05": 
+      "05": 
         name: Oppland
-    - "03": 
+      "03": 
         name: Oslo
-    - "11": 
+      "11": 
         name: Rogaland
-    - "14": 
+      "14": 
         name: Sogn og Fjordane
-    - "16": 
+      "16": 
         name: "S\xC3\xB8r-Tr\xC3\xB8ndelag"
-    - 08: 
+      08: 
         name: Telemark
-    - "19": 
+      "19": 
         name: Troms
-    - "10": 
+      "10": 
         name: Vest-Agder
-    - "07": 
+      "07": 
         name: Vestfold
-    - "01": 
+      "01": 
         name: "\xC3\x98stfold"
-    - "22": 
+      "22": 
         name: Jan Mayen
-    - "21": 
+      "21": 
         name: Svalbard

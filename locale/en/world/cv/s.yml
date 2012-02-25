@@ -3,33 +3,33 @@ en:
   world: 
     cv: 
       s: 
-      - br: 
+        br: 
           name: Brava
-      - ma: 
+        ma: 
           name: Maio
-      - mo: 
+        mo: 
           name: Mosteiros
-      - pr: 
+        pr: 
           name: Praia
-      - rs: 
+        rs: 
           name: Ribeira Grande de Santiago
-      - ca: 
+        ca: 
           name: Santa Catarina
-      - cf: 
+        cf: 
           name: Santa Catarina de Fogo
-      - cr: 
+        cr: 
           name: Santa Cruz
-      - sd: 
+        sd: 
           name: "S\xC3\xA3o Domingos"
-      - sf: 
+        sf: 
           name: "S\xC3\xA3o Filipe"
-      - sl: 
+        sl: 
           name: "S\xC3\xA3o Louren\xC3\xA7o dos \xC3\x93rg\xC3\xA3os"
-      - sm: 
+        sm: 
           name: "S\xC3\xA3o Miguel"
-      - ss: 
+        ss: 
           name: "S\xC3\xA3o Salvador do Mundo"
-      - ta: 
+        ta: 
           name: Tarrafal
-      - ts: 
+        ts: 
           name: "Tarrafal de S\xC3\xA3o Nicolau"

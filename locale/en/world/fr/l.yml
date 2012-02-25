@@ -3,9 +3,9 @@ en:
   world: 
     fr: 
       l: 
-      - "19": 
+        "19": 
           name: "Corr\xC3\xA8ze"
-      - "23": 
+        "23": 
           name: Creuse
-      - "87": 
+        "87": 
           name: Haute-Vienne

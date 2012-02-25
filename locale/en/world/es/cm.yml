@@ -3,13 +3,13 @@ en:
   world: 
     es: 
       cm: 
-      - ab: 
+        ab: 
           name: Albacete
-      - cr: 
+        cr: 
           name: Ciudad Real
-      - cu: 
+        cu: 
           name: Cuenca
-      - gu: 
+        gu: 
           name: Guadalajara
-      - to: 
+        to: 
           name: Toledo

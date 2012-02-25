@@ -2,29 +2,29 @@
 en: 
   world: 
     sa: 
-    - "11": 
+      "11": 
         name: "Al B\xC4\x81hah"
-    - 08: 
+      08: 
         name: "Al \xE1\xB8\xA4ud\xC5\xABd ash Sham\xC4\x81liyah"
-    - "12": 
+      "12": 
         name: Al Jawf
-    - "03": 
+      "03": 
         name: "Al Mad\xC4\xABnah"
-    - "05": 
+      "05": 
         name: "Al Qa\xC5\x9F\xC4\xABm"
-    - "01": 
+      "01": 
         name: "Ar Riy\xC4\x81\xE1\xB8\x8D"
-    - "04": 
+      "04": 
         name: "Ash Sharq\xC4\xAByah"
-    - "14": 
+      "14": 
         name: "`As\xC4\xABr"
-    - "06": 
+      "06": 
         name: "\xE1\xB8\xA4\xC4\x81'il"
-    - 09: 
+      09: 
         name: "J\xC4\xABzan"
-    - "02": 
+      "02": 
         name: Makkah
-    - "10": 
+      "10": 
         name: "Najr\xC4\x81n"
-    - "07": 
+      "07": 
         name: "Tab\xC5\xABk"

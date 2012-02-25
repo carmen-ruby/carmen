@@ -3,17 +3,17 @@ en:
   world: 
     ma: 
       "13": 
-      - cht: 
+        cht: 
           name: Chtouka-Ait Baha
-      - oua: 
+        oua: 
           name: Ouarzazate
-      - tar: 
+        tar: 
           name: Taroudant
-      - tiz: 
+        tiz: 
           name: Tiznit
-      - zag: 
+        zag: 
           name: Zagora
-      - agd: 
+        agd: 
           name: Agadir-Ida-Outanane
-      - ine: 
+        ine: 
           name: Inezgane-Ait Melloul

@@ -2,477 +2,477 @@
 en: 
   world: 
     gb: 
-    - eng: 
+      eng: 
         name: England
-    - sct: 
+      sct: 
         name: Scotland
-    - nir: 
+      nir: 
         name: Northern Ireland
-    - wls: 
+      wls: 
         name: Wales
-    - eaw: 
+      eaw: 
         name: England and Wales
-    - gbn: 
+      gbn: 
         name: Great Britain
-    - ukm: 
+      ukm: 
         name: United Kingdom
-    - bkm: 
+      bkm: 
         name: Buckinghamshire
-    - cam: 
+      cam: 
         name: Cambridgeshire
-    - cma: 
+      cma: 
         name: Cumbria
-    - dby: 
+      dby: 
         name: Derbyshire
-    - dev: 
+      dev: 
         name: Devon
-    - dor: 
+      dor: 
         name: Dorset
-    - esx: 
+      esx: 
         name: East Sussex
-    - ess: 
+      ess: 
         name: Essex
-    - gls: 
+      gls: 
         name: Gloucestershire
-    - ham: 
+      ham: 
         name: Hampshire
-    - hrt: 
+      hrt: 
         name: Hertfordshire
-    - ken: 
+      ken: 
         name: Kent
-    - lan: 
+      lan: 
         name: Lancashire
-    - lec: 
+      lec: 
         name: Leicestershire
-    - lin: 
+      lin: 
         name: Lincolnshire
-    - nfk: 
+      nfk: 
         name: Norfolk
-    - nyk: 
+      nyk: 
         name: North Yorkshire
-    - nth: 
+      nth: 
         name: Northamptonshire
-    - ntt: 
+      ntt: 
         name: Nottinghamshire
-    - oxf: 
+      oxf: 
         name: Oxfordshire
-    - som: 
+      som: 
         name: Somerset
-    - sts: 
+      sts: 
         name: Staffordshire
-    - sfk: 
+      sfk: 
         name: Suffolk
-    - sry: 
+      sry: 
         name: Surrey
-    - war: 
+      war: 
         name: Warwickshire
-    - wsx: 
+      wsx: 
         name: West Sussex
-    - wor: 
+      wor: 
         name: Worcestershire
-    - bdg: 
+      bdg: 
         name: Barking and Dagenham
-    - bne: 
+      bne: 
         name: Barnet
-    - bex: 
+      bex: 
         name: Bexley
-    - ben: 
+      ben: 
         name: Brent
-    - bry: 
+      bry: 
         name: Bromley
-    - cmd: 
+      cmd: 
         name: Camden
-    - cry: 
+      cry: 
         name: Croydon
-    - eal: 
+      eal: 
         name: Ealing
-    - enf: 
+      enf: 
         name: Enfield
-    - gre: 
+      gre: 
         name: Greenwich
-    - hck: 
+      hck: 
         name: Hackney
-    - hmf: 
+      hmf: 
         name: Hammersmith and Fulham
-    - hry: 
+      hry: 
         name: Haringey
-    - hrw: 
+      hrw: 
         name: Harrow
-    - hav: 
+      hav: 
         name: Havering
-    - hil: 
+      hil: 
         name: Hillingdon
-    - hns: 
+      hns: 
         name: Hounslow
-    - isl: 
+      isl: 
         name: Islington
-    - kec: 
+      kec: 
         name: Kensington and Chelsea
-    - ktt: 
+      ktt: 
         name: Kingston upon Thames
-    - lbh: 
+      lbh: 
         name: Lambeth
-    - lew: 
+      lew: 
         name: Lewisham
-    - mrt: 
+      mrt: 
         name: Merton
-    - nwm: 
+      nwm: 
         name: Newham
-    - rdb: 
+      rdb: 
         name: Redbridge
-    - ric: 
+      ric: 
         name: Richmond upon Thames
-    - swk: 
+      swk: 
         name: Southwark
-    - stn: 
+      stn: 
         name: Sutton
-    - twh: 
+      twh: 
         name: Tower Hamlets
-    - wft: 
+      wft: 
         name: Waltham Forest
-    - wnd: 
+      wnd: 
         name: Wandsworth
-    - wsm: 
+      wsm: 
         name: Westminster
-    - bns: 
+      bns: 
         name: Barnsley
-    - bir: 
+      bir: 
         name: Birmingham
-    - bol: 
+      bol: 
         name: Bolton
-    - brd: 
+      brd: 
         name: Bradford
-    - bur: 
+      bur: 
         name: Bury
-    - cld: 
+      cld: 
         name: Calderdale
-    - cov: 
+      cov: 
         name: Coventry
-    - dnc: 
+      dnc: 
         name: Doncaster
-    - dud: 
+      dud: 
         name: Dudley
-    - gat: 
+      gat: 
         name: Gateshead
-    - kir: 
+      kir: 
         name: Kirklees
-    - kwl: 
+      kwl: 
         name: Knowsley
-    - lds: 
+      lds: 
         name: Leeds
-    - liv: 
+      liv: 
         name: Liverpool
-    - man: 
+      man: 
         name: Manchester
-    - net: 
+      net: 
         name: Newcastle upon Tyne
-    - nty: 
+      nty: 
         name: North Tyneside
-    - old: 
+      old: 
         name: Oldham
-    - rch: 
+      rch: 
         name: Rochdale
-    - rot: 
+      rot: 
         name: Rotherham
-    - shn: 
+      shn: 
         name: St. Helens
-    - slf: 
+      slf: 
         name: Salford
-    - saw: 
+      saw: 
         name: Sandwell
-    - sft: 
+      sft: 
         name: Sefton
-    - shf: 
+      shf: 
         name: Sheffield
-    - sol: 
+      sol: 
         name: Solihull
-    - sty: 
+      sty: 
         name: South Tyneside
-    - skp: 
+      skp: 
         name: Stockport
-    - snd: 
+      snd: 
         name: Sunderland
-    - tam: 
+      tam: 
         name: Tameside
-    - trf: 
+      trf: 
         name: Trafford
-    - wkf: 
+      wkf: 
         name: Wakefield
-    - wll: 
+      wll: 
         name: Walsall
-    - wgn: 
+      wgn: 
         name: Wigan
-    - wrl: 
+      wrl: 
         name: Wirral
-    - wlv: 
+      wlv: 
         name: Wolverhampton
-    - lnd: 
+      lnd: 
         name: London, City of
-    - abe: 
+      abe: 
         name: Aberdeen City
-    - abd: 
+      abd: 
         name: Aberdeenshire
-    - ans: 
+      ans: 
         name: Angus
-    - agb: 
+      agb: 
         name: Argyll and Bute
-    - clk: 
+      clk: 
         name: Clackmannanshire
-    - dgy: 
+      dgy: 
         name: Dumfries and Galloway
-    - dnd: 
+      dnd: 
         name: Dundee City
-    - eay: 
+      eay: 
         name: East Ayrshire
-    - edu: 
+      edu: 
         name: East Dunbartonshire
-    - eln: 
+      eln: 
         name: East Lothian
-    - erw: 
+      erw: 
         name: East Renfrewshire
-    - edh: 
+      edh: 
         name: Edinburgh, City of
-    - els: 
+      els: 
         name: Eilean Siar
-    - fal: 
+      fal: 
         name: Falkirk
-    - fif: 
+      fif: 
         name: Fife
-    - glg: 
+      glg: 
         name: Glasgow City
-    - hld: 
+      hld: 
         name: Highland
-    - ivc: 
+      ivc: 
         name: Inverclyde
-    - mln: 
+      mln: 
         name: Midlothian
-    - mry: 
+      mry: 
         name: Moray
-    - nay: 
+      nay: 
         name: North Ayrshire
-    - nlk: 
+      nlk: 
         name: North Lanarkshire
-    - ork: 
+      ork: 
         name: Orkney Islands
-    - pkn: 
+      pkn: 
         name: Perth and Kinross
-    - rfw: 
+      rfw: 
         name: Renfrewshire
-    - scb: 
+      scb: 
         name: Scottish Borders, The
-    - zet: 
+      zet: 
         name: Shetland Islands
-    - say: 
+      say: 
         name: South Ayrshire
-    - slk: 
+      slk: 
         name: South Lanarkshire
-    - stg: 
+      stg: 
         name: Stirling
-    - wdu: 
+      wdu: 
         name: West Dunbartonshire
-    - wln: 
+      wln: 
         name: West Lothian
-    - ant: 
+      ant: 
         name: Antrim
-    - ard: 
+      ard: 
         name: Ards
-    - arm: 
+      arm: 
         name: Armagh
-    - bla: 
+      bla: 
         name: Ballymena
-    - bly: 
+      bly: 
         name: Ballymoney
-    - bnb: 
+      bnb: 
         name: Banbridge
-    - bfs: 
+      bfs: 
         name: Belfast
-    - ckf: 
+      ckf: 
         name: Carrickfergus
-    - csr: 
+      csr: 
         name: Castlereagh
-    - clr: 
+      clr: 
         name: Coleraine
-    - ckt: 
+      ckt: 
         name: Cookstown
-    - cgv: 
+      cgv: 
         name: Craigavon
-    - dry: 
+      dry: 
         name: Derry
-    - dow: 
+      dow: 
         name: Down
-    - dgn: 
+      dgn: 
         name: Dungannon
-    - fer: 
+      fer: 
         name: Fermanagh
-    - lrn: 
+      lrn: 
         name: Larne
-    - lmv: 
+      lmv: 
         name: Limavady
-    - lsb: 
+      lsb: 
         name: Lisburn
-    - mft: 
+      mft: 
         name: Magherafelt
-    - myl: 
+      myl: 
         name: Moyle
-    - nym: 
+      nym: 
         name: Newry and Mourne
-    - nta: 
+      nta: 
         name: Newtownabbey
-    - ndn: 
+      ndn: 
         name: North Down
-    - omh: 
+      omh: 
         name: Omagh
-    - stb: 
+      stb: 
         name: Strabane
-    - bas: 
+      bas: 
         name: Bath and North East Somerset
-    - bbd: 
+      bbd: 
         name: Blackburn with Darwen
-    - bdf: 
+      bdf: 
         name: Bedford
-    - bpl: 
+      bpl: 
         name: Blackpool
-    - bmh: 
+      bmh: 
         name: Bournemouth
-    - brc: 
+      brc: 
         name: Bracknell Forest
-    - bnh: 
+      bnh: 
         name: Brighton and Hove
-    - bst: 
+      bst: 
         name: Bristol, City of
-    - cbf: 
+      cbf: 
         name: Central Bedfordshire
-    - che: 
+      che: 
         name: Cheshire East
-    - chw: 
+      chw: 
         name: Cheshire West and Chester
-    - con: 
+      con: 
         name: Cornwall
-    - dal: 
+      dal: 
         name: Darlington
-    - der: 
+      der: 
         name: Derby
-    - dur: 
+      dur: 
         name: Durham
-    - ery: 
+      ery: 
         name: East Riding of Yorkshire
-    - hal: 
+      hal: 
         name: Halton
-    - hpl: 
+      hpl: 
         name: Hartlepool
-    - hef: 
+      hef: 
         name: Herefordshire
-    - iow: 
+      iow: 
         name: Isle of Wight
-    - khl: 
+      khl: 
         name: Kingston upon Hull
-    - lce: 
+      lce: 
         name: Leicester
-    - lut: 
+      lut: 
         name: Luton
-    - mdw: 
+      mdw: 
         name: Medway
-    - mdb: 
+      mdb: 
         name: Middlesbrough
-    - mik: 
+      mik: 
         name: Milton Keynes
-    - nel: 
+      nel: 
         name: North East Lincolnshire
-    - nln: 
+      nln: 
         name: North Lincolnshire
-    - nsm: 
+      nsm: 
         name: North Somerset
-    - nbl: 
+      nbl: 
         name: Northumberland
-    - ngm: 
+      ngm: 
         name: Nottingham
-    - pte: 
+      pte: 
         name: Peterborough
-    - ply: 
+      ply: 
         name: Plymouth
-    - pol: 
+      pol: 
         name: Poole
-    - por: 
+      por: 
         name: Portsmouth
-    - rdg: 
+      rdg: 
         name: Reading
-    - rcc: 
+      rcc: 
         name: Redcar and Cleveland
-    - rut: 
+      rut: 
         name: Rutland
-    - shr: 
+      shr: 
         name: Shropshire
-    - slg: 
+      slg: 
         name: Slough
-    - sgc: 
+      sgc: 
         name: South Gloucestershire
-    - sth: 
+      sth: 
         name: Southampton
-    - sos: 
+      sos: 
         name: Southend-on-Sea
-    - stt: 
+      stt: 
         name: Stockton-on-Tees
-    - ste: 
+      ste: 
         name: Stoke-on-Trent
-    - swd: 
+      swd: 
         name: Swindon
-    - tfw: 
+      tfw: 
         name: Telford and Wrekin
-    - thr: 
+      thr: 
         name: Thurrock
-    - tob: 
+      tob: 
         name: Torbay
-    - wrt: 
+      wrt: 
         name: Warrington
-    - wbk: 
+      wbk: 
         name: West Berkshire
-    - wnm: 
+      wnm: 
         name: Windsor and Maidenhead
-    - wok: 
+      wok: 
         name: Wokingham
-    - yor: 
+      yor: 
         name: York
-    - bgw: 
+      bgw: 
         name: Blaenau Gwent
-    - bge: 
+      bge: 
         name: Bridgend;Pen-y-bont ar Ogwr
-    - cay: 
+      cay: 
         name: Caerphilly;Caerffili
-    - crf: 
+      crf: 
         name: Cardiff;Caerdydd
-    - cmn: 
+      cmn: 
         name: Carmarthenshire;Sir Gaerfyrddin
-    - cgn: 
+      cgn: 
         name: Ceredigion;Sir Ceredigion
-    - cwy: 
+      cwy: 
         name: Conwy
-    - den: 
+      den: 
         name: Denbighshire;Sir Ddinbych
-    - fln: 
+      fln: 
         name: Flintshire;Sir y Fflint
-    - gwn: 
+      gwn: 
         name: Gwynedd
-    - agy: 
+      agy: 
         name: "Isle of Anglesey;Sir Ynys M\xC3\xB4n"
-    - mty: 
+      mty: 
         name: Merthyr Tydfil;Merthyr Tudful
-    - mon: 
+      mon: 
         name: Monmouthshire;Sir Fynwy
-    - ntl: 
+      ntl: 
         name: Neath Port Talbot;Castell-nedd Port Talbot
-    - nwp: 
+      nwp: 
         name: Newport;Casnewydd
-    - pem: 
+      pem: 
         name: Pembrokeshire;Sir Benfro
-    - pow: 
+      pow: 
         name: Powys
-    - rct: 
+      rct: 
         name: Rhondda, Cynon, Taff;Rhondda, Cynon,Taf
-    - swa: 
+      swa: 
         name: Swansea;Abertawe
-    - tof: 
+      tof: 
         name: Torfaen;Tor-faen
-    - vgl: 
+      vgl: 
         name: Vale of Glamorgan, The;Bro Morgannwg
-    - wrx: 
+      wrx: 
         name: Wrexham;Wrecsam

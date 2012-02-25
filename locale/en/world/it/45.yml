@@ -3,21 +3,21 @@ en:
   world: 
     it: 
       "45": 
-      - bo: 
+        bo: 
           name: Bologna
-      - fe: 
+        fe: 
           name: Ferrara
-      - fc: 
+        fc: 
           name: "Forl\xC3\xAC-Cesena"
-      - mo: 
+        mo: 
           name: Modena
-      - pr: 
+        pr: 
           name: Parma
-      - pc: 
+        pc: 
           name: Piacenza
-      - ra: 
+        ra: 
           name: Ravenna
-      - re: 
+        re: 
           name: Reggio Emilia
-      - rn: 
+        rn: 
           name: Rimini

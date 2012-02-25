@@ -2,15 +2,15 @@
 en: 
   world: 
     il: 
-    - d: 
+      d: 
         name: HaDarom
-    - m: 
+      m: 
         name: HaMerkaz
-    - z: 
+      z: 
         name: HaZafon
-    - ha: 
+      ha: 
         name: Hefa
-    - ta: 
+      ta: 
         name: Tel-Aviv
-    - jm: 
+      jm: 
         name: Yerushalayim Al Quds

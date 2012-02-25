@@ -3,23 +3,23 @@ en:
   world: 
     it: 
       "52": 
-      - ar: 
+        ar: 
           name: Arezzo
-      - fi: 
+        fi: 
           name: Firenze
-      - gr: 
+        gr: 
           name: Grosseto
-      - li: 
+        li: 
           name: Livorno
-      - lu: 
+        lu: 
           name: Lucca
-      - ms: 
+        ms: 
           name: Massa-Carrara
-      - pi: 
+        pi: 
           name: Pisa
-      - pt: 
+        pt: 
           name: Pistoia
-      - po: 
+        po: 
           name: Prato
-      - si: 
+        si: 
           name: Siena

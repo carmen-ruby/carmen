@@ -2,59 +2,59 @@
 en: 
   world: 
     eg: 
-    - dk: 
+      dk: 
         name: "Ad Daqahl\xC4\xAByah"
-    - ba: 
+      ba: 
         name: Al Bahr al Ahmar
-    - bh: 
+      bh: 
         name: Al Buhayrah
-    - fym: 
+      fym: 
         name: "Al Fayy\xC5\xABm"
-    - gh: 
+      gh: 
         name: "Al Gharb\xC4\xAByah"
-    - alx: 
+      alx: 
         name: "Al Iskandar\xC4\xAByah"
-    - is: 
+      is: 
         name: "Al Ism\xC4\x81`\xC4\xABl\xC4\xAByah"
-    - gz: 
+      gz: 
         name: "Al J\xC4\xABzah"
-    - mnf: 
+      mnf: 
         name: "Al Min\xC5\xABf\xC4\xAByah"
-    - mn: 
+      mn: 
         name: "Al Miny\xC4\x81"
-    - c: 
+      c: 
         name: "Al Q\xC4\x81hirah"
-    - kb: 
+      kb: 
         name: "Al Qaly\xC5\xABb\xC4\xAByah"
-    - wad: 
+      wad: 
         name: "Al W\xC4\x81d\xC4\xAB al Jad\xC4\xABd"
-    - su: 
+      su: 
         name: "As S\xC4\x81dis min Ukt\xC5\xABbar"
-    - shr: 
+      shr: 
         name: "Ash Sharq\xC4\xAByah"
-    - suz: 
+      suz: 
         name: As Suways
-    - asn: 
+      asn: 
         name: "Asw\xC4\x81n"
-    - ast: 
+      ast: 
         name: "Asy\xC5\xABt"
-    - bns: 
+      bns: 
         name: "Ban\xC4\xAB Suwayf"
-    - pts: 
+      pts: 
         name: "B\xC5\xABr Sa`\xC4\xABd"
-    - dt: 
+      dt: 
         name: "Dumy\xC4\x81t"
-    - hu: 
+      hu: 
         name: "H\xCC\xA7ulw\xC4\x81n"
-    - js: 
+      js: 
         name: "Jan\xC5\xABb S\xC4\xABn\xC4\x81'"
-    - kfs: 
+      kfs: 
         name: Kafr ash Shaykh
-    - mt: 
+      mt: 
         name: "Matr\xC5\xABh"
-    - kn: 
+      kn: 
         name: "Qin\xC4\x81"
-    - sin: 
+      sin: 
         name: "Shamal S\xC4\xABn\xC4\x81'"
-    - shg: 
+      shg: 
         name: "S\xC5\xABh\xC4\x81j"

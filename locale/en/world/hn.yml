@@ -2,39 +2,39 @@
 en: 
   world: 
     hn: 
-    - at: 
+      at: 
         name: "Atl\xC3\xA1ntida"
-    - cl: 
+      cl: 
         name: "Col\xC3\xB3n"
-    - cm: 
+      cm: 
         name: Comayagua
-    - cp: 
+      cp: 
         name: "Cop\xC3\xA1n"
-    - cr: 
+      cr: 
         name: "Cort\xC3\xA9s"
-    - ch: 
+      ch: 
         name: Choluteca
-    - ep: 
+      ep: 
         name: "El Para\xC3\xADso"
-    - fm: 
+      fm: 
         name: "Francisco Moraz\xC3\xA1n"
-    - gd: 
+      gd: 
         name: Gracias a Dios
-    - in: 
+      in: 
         name: "Intibuc\xC3\xA1"
-    - ib: 
+      ib: 
         name: "Islas de la Bah\xC3\xADa"
-    - lp: 
+      lp: 
         name: La Paz
-    - le: 
+      le: 
         name: Lempira
-    - oc: 
+      oc: 
         name: Ocotepeque
-    - ol: 
+      ol: 
         name: Olancho
-    - sb: 
+      sb: 
         name: "Santa B\xC3\xA1rbara"
-    - va: 
+      va: 
         name: Valle
-    - yo: 
+      yo: 
         name: Yoro

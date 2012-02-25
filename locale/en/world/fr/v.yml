@@ -3,19 +3,19 @@ en:
   world: 
     fr: 
       v: 
-      - "01": 
+        "01": 
           name: Ain
-      - "07": 
+        "07": 
           name: "Ard\xC3\xA8che"
-      - "26": 
+        "26": 
           name: "Dr\xC3\xB4me"
-      - "74": 
+        "74": 
           name: Haute-Savoie
-      - "38": 
+        "38": 
           name: "Is\xC3\xA8re"
-      - "42": 
+        "42": 
           name: Loire
-      - "69": 
+        "69": 
           name: "Rh\xC3\xB4ne"
-      - "73": 
+        "73": 
           name: Savoie

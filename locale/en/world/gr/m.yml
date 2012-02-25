@@ -3,11 +3,11 @@ en:
   world: 
     gr: 
       m: 
-      - "94": 
+        "94": 
           name: Chania
-      - "91": 
+        "91": 
           name: Irakleio
-      - "92": 
+        "92": 
           name: Lasithi
-      - "93": 
+        "93": 
           name: Rethymno

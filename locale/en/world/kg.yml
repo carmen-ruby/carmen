@@ -2,19 +2,19 @@
 en: 
   world: 
     kg: 
-    - gb: 
+      gb: 
         name: Bishkek
-    - b: 
+      b: 
         name: Batken
-    - c: 
+      c: 
         name: "Ch\xC3\xBC"
-    - j: 
+      j: 
         name: Jalal-Abad
-    - n: 
+      n: 
         name: Naryn
-    - o: 
+      o: 
         name: Osh
-    - t: 
+      t: 
         name: Talas
-    - y: 
+      y: 
         name: "Ysyk-K\xC3\xB6l"

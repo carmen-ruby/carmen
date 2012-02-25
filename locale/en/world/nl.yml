@@ -2,27 +2,27 @@
 en: 
   world: 
     nl: 
-    - dr: 
+      dr: 
         name: Drenthe
-    - fl: 
+      fl: 
         name: Flevoland
-    - fr: 
+      fr: 
         name: Friesland
-    - ge: 
+      ge: 
         name: Gelderland
-    - gr: 
+      gr: 
         name: Groningen
-    - li: 
+      li: 
         name: Limburg
-    - nb: 
+      nb: 
         name: Noord-Brabant
-    - nh: 
+      nh: 
         name: Noord-Holland
-    - ov: 
+      ov: 
         name: Overijssel
-    - ut: 
+      ut: 
         name: Utrecht
-    - ze: 
+      ze: 
         name: Zeeland
-    - zh: 
+      zh: 
         name: Zuid-Holland

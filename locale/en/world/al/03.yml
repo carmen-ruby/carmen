@@ -3,11 +3,11 @@ en:
   world: 
     al: 
       "03": 
-      - el: 
+        el: 
           name: Elbasan
-      - gr: 
+        gr: 
           name: Gramsh
-      - lb: 
+        lb: 
           name: Librazhd
-      - pq: 
+        pq: 
           name: Peqin

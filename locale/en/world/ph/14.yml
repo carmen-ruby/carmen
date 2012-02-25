@@ -3,11 +3,11 @@ en:
   world: 
     ph: 
       "14": 
-      - las: 
+        las: 
           name: Lanao del Sur
-      - mag: 
+        mag: 
           name: Maguindanao
-      - slu: 
+        slu: 
           name: Sulu
-      - taw: 
+        taw: 
           name: Tawi-Tawi

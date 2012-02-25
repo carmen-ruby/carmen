@@ -3,9 +3,9 @@ en:
   world: 
     np: 
       "2": 
-      - bh: 
+        bh: 
           name: Bheri
-      - ka: 
+        ka: 
           name: Karnali
-      - ra: 
+        ra: 
           name: Rapti

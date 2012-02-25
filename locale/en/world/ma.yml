@@ -2,35 +2,35 @@
 en: 
   world: 
     ma: 
-    - 09: 
+      09: 
         name: Chaouia-Ouardigha
-    - "10": 
+      "10": 
         name: Doukhala-Abda
-    - "05": 
+      "05": 
         name: "F\xC3\xA8s-Boulemane"
-    - "02": 
+      "02": 
         name: Gharb-Chrarda-Beni Hssen
-    - 08: 
+      08: 
         name: Grand Casablanca
-    - "14": 
+      "14": 
         name: Guelmim-Es Smara
-    - "15": 
+      "15": 
         name: "La\xC3\xA2youne-Boujdour-Sakia el Hamra"
-    - "04": 
+      "04": 
         name: L'Oriental
-    - "11": 
+      "11": 
         name: Marrakech-Tensift-Al Haouz
-    - "06": 
+      "06": 
         name: "Mekn\xC3\xA8s-Tafilalet"
-    - "16": 
+      "16": 
         name: Oued ed Dahab-Lagouira
-    - "07": 
+      "07": 
         name: "Rabat-Sal\xC3\xA9-Zemmour-Zaer"
-    - "13": 
+      "13": 
         name: Sous-Massa-Draa
-    - "12": 
+      "12": 
         name: Tadla-Azilal
-    - "01": 
+      "01": 
         name: "Tanger-T\xC3\xA9touan"
-    - "03": 
+      "03": 
         name: Taza-Al Hoceima-Taounate

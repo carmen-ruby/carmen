@@ -3,21 +3,21 @@ en:
   world: 
     it: 
       "82": 
-      - ag: 
+        ag: 
           name: Agrigento
-      - cl: 
+        cl: 
           name: Caltanissetta
-      - ct: 
+        ct: 
           name: Catania
-      - en: 
+        en: 
           name: Enna
-      - me: 
+        me: 
           name: Messina
-      - pa: 
+        pa: 
           name: Palermo
-      - rg: 
+        rg: 
           name: Ragusa
-      - sr: 
+        sr: 
           name: Siracusa
-      - tp: 
+        tp: 
           name: Trapani

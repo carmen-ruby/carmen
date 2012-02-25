@@ -2,19 +2,19 @@
 en: 
   world: 
     sk: 
-    - bc: 
+      bc: 
         name: "Banskobystrick\xC3\xBD kraj"
-    - bl: 
+      bl: 
         name: "Bratislavsk\xC3\xBD kraj"
-    - ki: 
+      ki: 
         name: "Ko\xC5\xA1ick\xC3\xBD kraj"
-    - ni: 
+      ni: 
         name: Nitriansky kraj
-    - pv: 
+      pv: 
         name: "Pre\xC5\xA1ovsk\xC3\xBD kraj"
-    - tc: 
+      tc: 
         name: "Tren\xC4\x8Diansky kraj"
-    - ta: 
+      ta: 
         name: "Trnavsk\xC3\xBD kraj"
-    - zi: 
+      zi: 
         name: "\xC5\xBDilinsk\xC3\xBD kraj"

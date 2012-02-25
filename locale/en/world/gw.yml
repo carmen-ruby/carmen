@@ -2,11 +2,11 @@
 en: 
   world: 
     gw: 
-    - bs: 
+      bs: 
         name: Bissau
-    - l: 
+      l: 
         name: Leste
-    - n: 
+      n: 
         name: Norte
-    - s: 
+      s: 
         name: Sul

@@ -3,9 +3,9 @@ en:
   world: 
     gn: 
       m: 
-      - dl: 
+        dl: 
           name: Dalaba
-      - mm: 
+        mm: 
           name: Mamou
-      - pi: 
+        pi: 
           name: Pita

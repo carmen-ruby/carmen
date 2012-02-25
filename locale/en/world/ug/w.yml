@@ -3,41 +3,41 @@ en:
   world: 
     ug: 
       w: 
-      - "419": 
+        "419": 
           name: Buliisa
-      - "401": 
+        "401": 
           name: Bundibugyo
-      - "402": 
+        "402": 
           name: Bushenyi
-      - "403": 
+        "403": 
           name: Hoima
-      - "416": 
+        "416": 
           name: Ibanda
-      - "417": 
+        "417": 
           name: Isingiro
-      - "404": 
+        "404": 
           name: Kabale
-      - "405": 
+        "405": 
           name: Kabarole
-      - "413": 
+        "413": 
           name: Kamwenge
-      - "414": 
+        "414": 
           name: Kanungu
-      - "406": 
+        "406": 
           name: Kasese
-      - "407": 
+        "407": 
           name: Kibaale
-      - "418": 
+        "418": 
           name: Kiruhura
-      - "408": 
+        "408": 
           name: Kisoro
-      - "415": 
+        "415": 
           name: Kyenjojo
-      - "409": 
+        "409": 
           name: Masindi
-      - "410": 
+        "410": 
           name: Mbarara
-      - "411": 
+        "411": 
           name: Ntungamo
-      - "412": 
+        "412": 
           name: Rukungiri

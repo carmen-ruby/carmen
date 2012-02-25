@@ -2,49 +2,49 @@
 en: 
   world: 
     tw: 
-    - cha: 
+      cha: 
         name: Changhua
-    - cyq: 
+      cyq: 
         name: Chiayi
-    - hsq: 
+      hsq: 
         name: Hsinchu
-    - hua: 
+      hua: 
         name: Hualien
-    - ila: 
+      ila: 
         name: Ilan
-    - khq: 
+      khq: 
         name: Kaohsiung
-    - mia: 
+      mia: 
         name: Miaoli
-    - nan: 
+      nan: 
         name: Nantou
-    - pen: 
+      pen: 
         name: Penghu
-    - pif: 
+      pif: 
         name: Pingtung
-    - txq: 
+      txq: 
         name: Taichung
-    - tnq: 
+      tnq: 
         name: Tainan
-    - tpq: 
+      tpq: 
         name: Taipei
-    - ttt: 
+      ttt: 
         name: Taitung
-    - tao: 
+      tao: 
         name: Taoyuan
-    - yun: 
+      yun: 
         name: Yunlin
-    - cyi: 
+      cyi: 
         name: Chiay City
-    - hsz: 
+      hsz: 
         name: Hsinchui City
-    - kee: 
+      kee: 
         name: Keelung City
-    - txg: 
+      txg: 
         name: Taichung City
-    - tnn: 
+      tnn: 
         name: Tainan City
-    - khh: 
+      khh: 
         name: Kaohsiung City
-    - tpe: 
+      tpe: 
         name: Taipei City

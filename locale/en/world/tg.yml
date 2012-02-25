@@ -2,13 +2,13 @@
 en: 
   world: 
     tg: 
-    - c: 
+      c: 
         name: "R\xC3\xA9gion du Centre"
-    - k: 
+      k: 
         name: "R\xC3\xA9gion de la Kara"
-    - m: 
+      m: 
         name: "R\xC3\xA9gion Maritime"
-    - p: 
+      p: 
         name: "R\xC3\xA9gion des Plateaux"
-    - s: 
+      s: 
         name: "R\xC3\xA9gion des Savannes"

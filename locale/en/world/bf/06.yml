@@ -3,11 +3,11 @@ en:
   world: 
     bf: 
       "06": 
-      - blk: 
+        blk: 
           name: "Boulkiemd\xC3\xA9"
-      - sng: 
+        sng: 
           name: "Sangui\xC3\xA9"
-      - sis: 
+        sis: 
           name: Sissili
-      - zir: 
+        zir: 
           name: Ziro

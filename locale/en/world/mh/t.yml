@@ -3,23 +3,23 @@ en:
   world: 
     mh: 
       t: 
-      - alk: 
+        alk: 
           name: Ailuk
-      - arn: 
+        arn: 
           name: Arno
-      - aur: 
+        aur: 
           name: Aur
-      - lik: 
+        lik: 
           name: Likiep
-      - maj: 
+        maj: 
           name: Majuro
-      - mal: 
+        mal: 
           name: Maloelap
-      - mej: 
+        mej: 
           name: Mejit
-      - mil: 
+        mil: 
           name: Mili
-      - uti: 
+        uti: 
           name: Utirik
-      - wtj: 
+        wtj: 
           name: Wotje

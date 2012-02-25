@@ -2,171 +2,171 @@
 en: 
   world: 
     mk: 
-    - "01": 
+      "01": 
         name: Aerodrom
-    - "02": 
+      "02": 
         name: "Ara\xC4\x8Dinovo"
-    - "03": 
+      "03": 
         name: Berovo
-    - "04": 
+      "04": 
         name: Bitola
-    - "05": 
+      "05": 
         name: Bogdanci
-    - "06": 
+      "06": 
         name: Bogovinje
-    - "07": 
+      "07": 
         name: Bosilovo
-    - 08: 
+      08: 
         name: Brvenica
-    - 09: 
+      09: 
         name: Butel
-    - "77": 
+      "77": 
         name: Centar
-    - "78": 
+      "78": 
         name: "Centar \xC5\xBDupa"
-    - "79": 
+      "79": 
         name: "\xC4\x8Cair"
-    - "80": 
+      "80": 
         name: "\xC4\x8Ca\xC5\xA1ka"
-    - "81": 
+      "81": 
         name: "\xC4\x8Ce\xC5\xA1inovo-Oble\xC5\xA1evo"
-    - "82": 
+      "82": 
         name: "\xC4\x8Cu\xC4\x8Der Sandevo"
-    - "21": 
+      "21": 
         name: Debar
-    - "22": 
+      "22": 
         name: Debarca
-    - "23": 
+      "23": 
         name: "Del\xC4\x8Devo"
-    - "25": 
+      "25": 
         name: Demir Hisar
-    - "24": 
+      "24": 
         name: Demir Kapija
-    - "26": 
+      "26": 
         name: Dojran
-    - "27": 
+      "27": 
         name: Dolneni
-    - "28": 
+      "28": 
         name: Drugovo
-    - "17": 
+      "17": 
         name: Gazi Baba
-    - "18": 
+      "18": 
         name: Gevgelija
-    - "29": 
+      "29": 
         name: "Gjor\xC4\x8De Petrov"
-    - "19": 
+      "19": 
         name: Gostivar
-    - "20": 
+      "20": 
         name: Gradsko
-    - "34": 
+      "34": 
         name: Ilinden
-    - "35": 
+      "35": 
         name: Jegunovce
-    - "37": 
+      "37": 
         name: Karbinci
-    - "38": 
+      "38": 
         name: "Karpo\xC5\xA1"
-    - "36": 
+      "36": 
         name: Kavadarci
-    - "40": 
+      "40": 
         name: "Ki\xC4\x8Devo"
-    - "39": 
+      "39": 
         name: Kisela Voda
-    - "42": 
+      "42": 
         name: "Ko\xC4\x8Dani"
-    - "41": 
+      "41": 
         name: "Kon\xC4\x8De"
-    - "43": 
+      "43": 
         name: Kratovo
-    - "44": 
+      "44": 
         name: Kriva Palanka
-    - "45": 
+      "45": 
         name: "Krivoga\xC5\xA1tani"
-    - "46": 
+      "46": 
         name: "Kru\xC5\xA1evo"
-    - "47": 
+      "47": 
         name: Kumanovo
-    - "48": 
+      "48": 
         name: Lipkovo
-    - "49": 
+      "49": 
         name: Lozovo
-    - "51": 
+      "51": 
         name: Makedonska Kamenica
-    - "52": 
+      "52": 
         name: Makedonski Brod
-    - "50": 
+      "50": 
         name: "Mavrovo-i-Rostu\xC5\xA1a"
-    - "53": 
+      "53": 
         name: Mogila
-    - "54": 
+      "54": 
         name: Negotino
-    - "55": 
+      "55": 
         name: Novaci
-    - "56": 
+      "56": 
         name: Novo Selo
-    - "58": 
+      "58": 
         name: Ohrid
-    - "57": 
+      "57": 
         name: Oslomej
-    - "60": 
+      "60": 
         name: "Peh\xC4\x8Devo"
-    - "59": 
+      "59": 
         name: Petrovec
-    - "61": 
+      "61": 
         name: Plasnica
-    - "62": 
+      "62": 
         name: Prilep
-    - "63": 
+      "63": 
         name: "Probi\xC5\xA1tip"
-    - "64": 
+      "64": 
         name: "Radovi\xC5\xA1"
-    - "65": 
+      "65": 
         name: Rankovce
-    - "66": 
+      "66": 
         name: Resen
-    - "67": 
+      "67": 
         name: Rosoman
-    - "68": 
+      "68": 
         name: Saraj
-    - "83": 
+      "83": 
         name: "\xC5\xA0tip"
-    - "84": 
+      "84": 
         name: "\xC5\xA0uto Orizari"
-    - "70": 
+      "70": 
         name: "Sopi\xC5\xA1te"
-    - "71": 
+      "71": 
         name: "Staro Nagori\xC4\x8Dane"
-    - "72": 
+      "72": 
         name: Struga
-    - "73": 
+      "73": 
         name: Strumica
-    - "74": 
+      "74": 
         name: "Studeni\xC4\x8Dani"
-    - "69": 
+      "69": 
         name: Sveti Nikole
-    - "75": 
+      "75": 
         name: Tearce
-    - "76": 
+      "76": 
         name: Tetovo
-    - "10": 
+      "10": 
         name: Valandovo
-    - "11": 
+      "11": 
         name: Vasilevo
-    - "13": 
+      "13": 
         name: Veles
-    - "12": 
+      "12": 
         name: "Vev\xC4\x8Dani"
-    - "14": 
+      "14": 
         name: Vinica
-    - "15": 
+      "15": 
         name: "Vrane\xC5\xA1tica"
-    - "16": 
+      "16": 
         name: "Vrap\xC4\x8Di\xC5\xA1te"
-    - "31": 
+      "31": 
         name: Zajas
-    - "32": 
+      "32": 
         name: Zelenikovo
-    - "30": 
+      "30": 
         name: "\xC5\xBDelino"
-    - "33": 
+      "33": 
         name: Zrnovci

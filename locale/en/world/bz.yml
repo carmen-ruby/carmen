@@ -2,15 +2,15 @@
 en: 
   world: 
     bz: 
-    - bz: 
+      bz: 
         name: Belize
-    - cy: 
+      cy: 
         name: Cayo
-    - czl: 
+      czl: 
         name: Corozal
-    - ow: 
+      ow: 
         name: Orange Walk
-    - sc: 
+      sc: 
         name: Stann Creek
-    - tol: 
+      tol: 
         name: Toledo

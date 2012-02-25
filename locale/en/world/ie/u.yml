@@ -3,9 +3,9 @@ en:
   world: 
     ie: 
       u: 
-      - cn: 
+        cn: 
           name: Cavan
-      - dl: 
+        dl: 
           name: Donegal
-      - mn: 
+        mn: 
           name: Monaghan

@@ -2,11 +2,11 @@
 en: 
   world: 
     ug: 
-    - c: 
+      c: 
         name: Central
-    - e: 
+      e: 
         name: Eastern
-    - n: 
+      n: 
         name: Northern
-    - w: 
+      w: 
         name: Western

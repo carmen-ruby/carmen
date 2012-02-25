@@ -3,7 +3,7 @@ en:
   world: 
     ma: 
       "15": 
-      - bod: 
+        bod: 
           name: Boujdour (EH)
-      - laa: 
+        laa: 
           name: "La\xC3\xA2youne (EH)"

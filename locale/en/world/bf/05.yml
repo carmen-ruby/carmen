@@ -3,9 +3,9 @@ en:
   world: 
     bf: 
       "05": 
-      - bam: 
+        bam: 
           name: Bam
-      - nam: 
+        nam: 
           name: Namentenga
-      - smt: 
+        smt: 
           name: Sanmatenga

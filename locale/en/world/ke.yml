@@ -2,17 +2,17 @@
 en: 
   world: 
     ke: 
-    - "110": 
+      "110": 
         name: Nairobi Municipality
-    - "200": 
+      "200": 
         name: Central
-    - "300": 
+      "300": 
         name: Coast
-    - "400": 
+      "400": 
         name: Eastern
-    - "500": 
+      "500": 
         name: North-Eastern Kaskazini Mashariki
-    - "700": 
+      "700": 
         name: Rift Valley
-    - "900": 
+      "900": 
         name: Western Magharibi

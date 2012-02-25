@@ -3,13 +3,13 @@ en:
   world: 
     ph: 
       "40": 
-      - btg: 
+        btg: 
           name: Batangas
-      - cav: 
+        cav: 
           name: Cavite
-      - lag: 
+        lag: 
           name: Laguna
-      - que: 
+        que: 
           name: Quezon
-      - riz: 
+        riz: 
           name: Rizal

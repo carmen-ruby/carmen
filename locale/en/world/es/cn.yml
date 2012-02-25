@@ -3,7 +3,7 @@ en:
   world: 
     es: 
       cn: 
-      - gc: 
+        gc: 
           name: Las Palmas
-      - tf: 
+        tf: 
           name: Santa Cruz de Tenerife

@@ -3,7 +3,7 @@ en:
   world: 
     ma: 
       "10": 
-      - jdi: 
+        jdi: 
           name: El Jadida
-      - saf: 
+        saf: 
           name: Safi

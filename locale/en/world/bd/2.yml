@@ -3,25 +3,25 @@ en:
   world: 
     bd: 
       "2": 
-      - "01": 
+        "01": 
           name: Bandarban zila
-      - "04": 
+        "04": 
           name: Brahmanbaria zila
-      - 09: 
+        09: 
           name: Chandpur zila
-      - "10": 
+        "10": 
           name: Chittagong zila
-      - 08: 
+        08: 
           name: Comilla zila
-      - "11": 
+        "11": 
           name: Cox's Bazar zila
-      - "16": 
+        "16": 
           name: Feni zila
-      - "29": 
+        "29": 
           name: Khagrachari zila
-      - "31": 
+        "31": 
           name: Lakshmipur zila
-      - "47": 
+        "47": 
           name: Noakhali zila
-      - "56": 
+        "56": 
           name: Rangamati zila

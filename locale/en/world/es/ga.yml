@@ -3,11 +3,11 @@ en:
   world: 
     es: 
       ga: 
-      - c: 
+        c: 
           name: "A Coru\xC3\xB1a"
-      - lu: 
+        lu: 
           name: Lugo
-      - or: 
+        or: 
           name: Ourense
-      - po: 
+        po: 
           name: Pontevedra

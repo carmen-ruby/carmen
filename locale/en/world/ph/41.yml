@@ -3,13 +3,13 @@ en:
   world: 
     ph: 
       "41": 
-      - mad: 
+        mad: 
           name: Marinduque
-      - mdc: 
+        mdc: 
           name: Mindoro Occidental
-      - mdr: 
+        mdr: 
           name: Mindoro Oriental
-      - plw: 
+        plw: 
           name: Palawan
-      - rom: 
+        rom: 
           name: Romblon

@@ -3,9 +3,9 @@ en:
   world: 
     bf: 
       "07": 
-      - baz: 
+        baz: 
           name: "Baz\xC3\xA8ga"
-      - nao: 
+        nao: 
           name: Naouri
-      - zou: 
+        zou: 
           name: "Zoundw\xC3\xA9ogo"

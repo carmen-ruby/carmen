@@ -2,33 +2,33 @@
 en: 
   world: 
     cl: 
-    - ai: 
+      ai: 
         name: "Ais\xC3\xA9n del General Carlos Ib\xC3\xA1\xC3\xB1ez del Campo"
-    - an: 
+      an: 
         name: Antofagasta
-    - ar: 
+      ar: 
         name: "Araucan\xC3\xADa"
-    - ap: 
+      ap: 
         name: Arica y Parinacota
-    - at: 
+      at: 
         name: Atacama
-    - bi: 
+      bi: 
         name: "B\xC3\xADo-B\xC3\xADo"
-    - co: 
+      co: 
         name: Coquimbo
-    - li: 
+      li: 
         name: Libertador General Bernardo O'Higgins
-    - ll: 
+      ll: 
         name: Los Lagos
-    - lr: 
+      lr: 
         name: "Los R\xC3\xADos"
-    - ma: 
+      ma: 
         name: "Magallanes y Ant\xC3\xA1rtica Chilena"
-    - ml: 
+      ml: 
         name: Maule
-    - rm: 
+      rm: 
         name: "Regi\xC3\xB3n Metropolitana de Santiago"
-    - ta: 
+      ta: 
         name: "Tarapac\xC3\xA1"
-    - vs: 
+      vs: 
         name: "Valpara\xC3\xADso"

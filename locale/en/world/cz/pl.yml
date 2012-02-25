@@ -3,17 +3,17 @@ en:
   world: 
     cz: 
       pl: 
-      - "321": 
+        "321": 
           name: "Doma\xC5\xBElice"
-      - "322": 
+        "322": 
           name: Klatovy
-      - "324": 
+        "324": 
           name: "Plze\xC5\x88 jih"
-      - "323": 
+        "323": 
           name: "Plze\xC5\x88 m\xC4\x9Bsto"
-      - "325": 
+        "325": 
           name: "Plze\xC5\x88 sever"
-      - "326": 
+        "326": 
           name: Rokycany
-      - "327": 
+        "327": 
           name: Tachov

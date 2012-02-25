@@ -3,7 +3,7 @@ en:
   world: 
     al: 
       "02": 
-      - dr: 
+        dr: 
           name: "Durr\xC3\xABs"
-      - kr: 
+        kr: 
           name: "Kruj\xC3\xAB"

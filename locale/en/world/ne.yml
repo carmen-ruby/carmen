@@ -2,19 +2,19 @@
 en: 
   world: 
     ne: 
-    - "8": 
+      "8": 
         name: Niamey
-    - "1": 
+      "1": 
         name: Agadez
-    - "2": 
+      "2": 
         name: Diffa
-    - "3": 
+      "3": 
         name: Dosso
-    - "4": 
+      "4": 
         name: Maradi
-    - "5": 
+      "5": 
         name: Tahoua
-    - "6": 
+      "6": 
         name: "Tillab\xC3\xA9ri"
-    - "7": 
+      "7": 
         name: Zinder

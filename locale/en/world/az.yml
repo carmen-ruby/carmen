@@ -2,145 +2,145 @@
 en: 
   world: 
     az: 
-    - nx: 
+      nx: 
         name: "Nax\xC3\xA7\xC4\xB1van"
-    - ab: 
+      ab: 
         name: "\xC6\x8Fli Bayraml\xC4\xB1"
-    - ba: 
+      ba: 
         name: "Bak\xC4\xB1"
-    - ga: 
+      ga: 
         name: "G\xC9\x99nc\xC9\x99"
-    - la: 
+      la: 
         name: "L\xC9\x99nk\xC9\x99ran"
-    - mi: 
+      mi: 
         name: "Ming\xC9\x99\xC3\xA7evir"
-    - na: 
+      na: 
         name: Naftalan
-    - sa: 
+      sa: 
         name: "\xC5\x9E\xC9\x99ki"
-    - sm: 
+      sm: 
         name: "Sumqay\xC4\xB1t"
-    - ss: 
+      ss: 
         name: "\xC5\x9Eu\xC5\x9Fa"
-    - xa: 
+      xa: 
         name: "Xank\xC9\x99ndi"
-    - ye: 
+      ye: 
         name: Yevlax
-    - abs: 
+      abs: 
         name: "Ab\xC5\x9Feron"
-    - agc: 
+      agc: 
         name: "A\xC4\x9Fcab\xC9\x99di"
-    - agm: 
+      agm: 
         name: "A\xC4\x9Fdam"
-    - ags: 
+      ags: 
         name: "A\xC4\x9Fda\xC5\x9F"
-    - aga: 
+      aga: 
         name: "A\xC4\x9Fstafa"
-    - agu: 
+      agu: 
         name: "A\xC4\x9Fsu"
-    - ast: 
+      ast: 
         name: Astara
-    - bal: 
+      bal: 
         name: "Balak\xC9\x99n"
-    - bar: 
+      bar: 
         name: "B\xC9\x99rd\xC9\x99"
-    - bey: 
+      bey: 
         name: "Beyl\xC9\x99qan"
-    - bil: 
+      bil: 
         name: "Bil\xC9\x99suvar"
-    - cab: 
+      cab: 
         name: "C\xC9\x99bray\xC4\xB1l"
-    - cal: 
+      cal: 
         name: "C\xC9\x99lilabab"
-    - das: 
+      das: 
         name: "Da\xC5\x9Fk\xC9\x99s\xC9\x99n"
-    - dav: 
+      dav: 
         name: "D\xC9\x99v\xC9\x99\xC3\xA7i"
-    - fuz: 
+      fuz: 
         name: "F\xC3\xBCzuli"
-    - gad: 
+      gad: 
         name: "G\xC9\x99d\xC9\x99b\xC9\x99y"
-    - gor: 
+      gor: 
         name: Goranboy
-    - goy: 
+      goy: 
         name: "G\xC3\xB6y\xC3\xA7ay"
-    - hac: 
+      hac: 
         name: "Hac\xC4\xB1qabul"
-    - imi: 
+      imi: 
         name: "\xC4\xB0mi\xC5\x9Fli"
-    - ism: 
+      ism: 
         name: "\xC4\xB0smay\xC4\xB1ll\xC4\xB1"
-    - kal: 
+      kal: 
         name: "K\xC9\x99lb\xC9\x99c\xC9\x99r"
-    - kur: 
+      kur: 
         name: "K\xC3\xBCrd\xC9\x99mir"
-    - lac: 
+      lac: 
         name: "La\xC3\xA7\xC4\xB1n"
-    - lan: 
+      lan: 
         name: "L\xC9\x99nk\xC9\x99ran"
-    - ler: 
+      ler: 
         name: Lerik
-    - mas: 
+      mas: 
         name: "Masall\xC4\xB1"
-    - nef: 
+      nef: 
         name: "Neft\xC3\xA7ala"
-    - ogu: 
+      ogu: 
         name: "O\xC4\x9Fuz"
-    - qab: 
+      qab: 
         name: "Q\xC9\x99b\xC9\x99l\xC9\x99"
-    - qax: 
+      qax: 
         name: Qax
-    - qaz: 
+      qaz: 
         name: Qazax
-    - qob: 
+      qob: 
         name: Qobustan
-    - qba: 
+      qba: 
         name: Quba
-    - qbi: 
+      qbi: 
         name: "Qubadl\xC4\xB1"
-    - qus: 
+      qus: 
         name: Qusar
-    - sat: 
+      sat: 
         name: "Saatl\xC4\xB1"
-    - sab: 
+      sab: 
         name: Sabirabad
-    - sak: 
+      sak: 
         name: "\xC5\x9E\xC9\x99ki"
-    - sal: 
+      sal: 
         name: Salyan
-    - smi: 
+      smi: 
         name: "\xC5\x9Eamax\xC4\xB1"
-    - skr: 
+      skr: 
         name: "\xC5\x9E\xC9\x99mkir"
-    - smx: 
+      smx: 
         name: Samux
-    - siy: 
+      siy: 
         name: "Siy\xC9\x99z\xC9\x99n"
-    - sus: 
+      sus: 
         name: "\xC5\x9Eu\xC5\x9Fa"
-    - tar: 
+      tar: 
         name: "T\xC9\x99rt\xC9\x99r"
-    - tov: 
+      tov: 
         name: Tovuz
-    - uca: 
+      uca: 
         name: Ucar
-    - xac: 
+      xac: 
         name: "Xa\xC3\xA7maz"
-    - xan: 
+      xan: 
         name: Xanlar
-    - xiz: 
+      xiz: 
         name: "X\xC4\xB1z\xC4\xB1"
-    - xci: 
+      xci: 
         name: "Xocal\xC4\xB1"
-    - xvd: 
+      xvd: 
         name: "Xocav\xC9\x99nd"
-    - yar: 
+      yar: 
         name: "Yard\xC4\xB1ml\xC4\xB1"
-    - yev: 
+      yev: 
         name: Yevlax
-    - zan: 
+      zan: 
         name: "Z\xC9\x99ngilan"
-    - zaq: 
+      zaq: 
         name: Zaqatala
-    - zar: 
+      zar: 
         name: "Z\xC9\x99rdab"

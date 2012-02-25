@@ -2,73 +2,73 @@
 en: 
   world: 
     fr: 
-    - a: 
+      a: 
         name: Alsace
-    - b: 
+      b: 
         name: Aquitaine
-    - c: 
+      c: 
         name: Auvergne
-    - p: 
+      p: 
         name: Basse-Normandie
-    - d: 
+      d: 
         name: Bourgogne
-    - e: 
+      e: 
         name: Bretagne
-    - f: 
+      f: 
         name: Centre
-    - g: 
+      g: 
         name: Champagne-Ardenne
-    - h: 
+      h: 
         name: Corse
-    - i: 
+      i: 
         name: "Franche-Comt\xC3\xA9"
-    - q: 
+      q: 
         name: Haute-Normandie
-    - j: 
+      j: 
         name: "\xC3\x8Ele-de-France"
-    - k: 
+      k: 
         name: Languedoc-Roussillon
-    - l: 
+      l: 
         name: Limousin
-    - m: 
+      m: 
         name: Lorraine
-    - n: 
+      n: 
         name: "Midi-Pyr\xC3\xA9n\xC3\xA9es"
-    - o: 
+      o: 
         name: Nord - Pas-de-Calais
-    - r: 
+      r: 
         name: Pays de la Loire
-    - s: 
+      s: 
         name: Picardie
-    - t: 
+      t: 
         name: Poitou-Charentes
-    - u: 
+      u: 
         name: "Provence-Alpes-C\xC3\xB4te d'Azur"
-    - v: 
+      v: 
         name: "Rh\xC3\xB4ne-Alpes"
-    - gp: 
+      gp: 
         name: Guadeloupe
-    - gf: 
+      gf: 
         name: Guyane
-    - mq: 
+      mq: 
         name: Martinique
-    - re: 
+      re: 
         name: "R\xC3\xA9union"
-    - cp: 
+      cp: 
         name: Clipperton
-    - yt: 
+      yt: 
         name: Mayotte
-    - nc: 
+      nc: 
         name: "Nouvelle-Cal\xC3\xA9donie"
-    - pf: 
+      pf: 
         name: "Polyn\xC3\xA9sie fran\xC3\xA7aise"
-    - bl: 
+      bl: 
         name: "Saint-Barth\xC3\xA9lemy"
-    - mf: 
+      mf: 
         name: Saint-Martin
-    - pm: 
+      pm: 
         name: Saint-Pierre-et-Miquelon
-    - tf: 
+      tf: 
         name: "Terres australes fran\xC3\xA7aises"
-    - wf: 
+      wf: 
         name: Wallis-et-Futuna

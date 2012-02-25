@@ -3,9 +3,9 @@ en:
   world: 
     ma: 
       09: 
-      - bes: 
+        bes: 
           name: Ben Slimane
-      - kho: 
+        kho: 
           name: Khouribga
-      - set: 
+        set: 
           name: Settat

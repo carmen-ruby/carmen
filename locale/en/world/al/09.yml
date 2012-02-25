@@ -3,9 +3,9 @@ en:
   world: 
     al: 
       09: 
-      - bu: 
+        bu: 
           name: "Bulqiz\xC3\xAB"
-      - di: 
+        di: 
           name: "Dib\xC3\xABr"
-      - mt: 
+        mt: 
           name: Mat

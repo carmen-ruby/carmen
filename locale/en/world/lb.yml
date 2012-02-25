@@ -2,19 +2,19 @@
 en: 
   world: 
     lb: 
-    - ak: 
+      ak: 
         name: "Aakk\xC3\xA2r"
-    - bh: 
+      bh: 
         name: Baalbek-Hermel
-    - bi: 
+      bi: 
         name: "B\xC3\xA9qaa"
-    - ba: 
+      ba: 
         name: Beyrouth
-    - as: 
+      as: 
         name: Liban-Nord
-    - ja: 
+      ja: 
         name: Liban-Sud
-    - jl: 
+      jl: 
         name: Mont-Liban
-    - na: 
+      na: 
         name: "Nabat\xC3\xAEy\xC3\xA9"

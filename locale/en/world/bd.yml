@@ -2,15 +2,15 @@
 en: 
   world: 
     bd: 
-    - "1": 
+      "1": 
         name: Barisal bibhag
-    - "2": 
+      "2": 
         name: Chittagong bibhag
-    - "3": 
+      "3": 
         name: Dhaka bibhag
-    - "4": 
+      "4": 
         name: Khulna bibhag
-    - "5": 
+      "5": 
         name: Rajshahi bibhag
-    - "6": 
+      "6": 
         name: Sylhet bibhag

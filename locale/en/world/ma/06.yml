@@ -3,13 +3,13 @@ en:
   world: 
     ma: 
       "06": 
-      - haj: 
+        haj: 
           name: El Hajeb
-      - err: 
+        err: 
           name: Errachidia
-      - ifr: 
+        ifr: 
           name: Ifrane
-      - khn: 
+        khn: 
           name: Khenifra
-      - mek: 
+        mek: 
           name: "Mekn\xC3\xA8s"

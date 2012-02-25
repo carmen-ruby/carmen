@@ -2,77 +2,77 @@
 en: 
   world: 
     md: 
-    - ga: 
+      ga: 
         name: "G\xC4\x83g\xC4\x83uzia, Unitatea teritorial\xC4\x83 autonom\xC4\x83"
-    - ba: 
+      ba: 
         name: "B\xC4\x83l\xC8\x9Bi"
-    - bd: 
+      bd: 
         name: Tighina
-    - cu: 
+      cu: 
         name: "Chi\xC8\x99in\xC4\x83u"
-    - an: 
+      an: 
         name: Anenii Noi
-    - bs: 
+      bs: 
         name: Basarabeasca
-    - br: 
+      br: 
         name: Briceni
-    - ca: 
+      ca: 
         name: Cahul
-    - ct: 
+      ct: 
         name: Cantemir
-    - cl: 
+      cl: 
         name: "C\xC4\x83l\xC4\x83ra\xC8\x99i"
-    - cs: 
+      cs: 
         name: "C\xC4\x83u\xC8\x99eni"
-    - cm: 
+      cm: 
         name: "Cimi\xC8\x99lia"
-    - cr: 
+      cr: 
         name: Criuleni
-    - do: 
+      do: 
         name: "Dondu\xC8\x99eni"
-    - dr: 
+      dr: 
         name: Drochia
-    - du: 
+      du: 
         name: "Dub\xC4\x83sari"
-    - ed: 
+      ed: 
         name: "Edine\xC8\x9B"
-    - fa: 
+      fa: 
         name: "F\xC4\x83le\xC8\x99ti"
-    - fl: 
+      fl: 
         name: "Flore\xC8\x99ti"
-    - gl: 
+      gl: 
         name: Glodeni
-    - hi: 
+      hi: 
         name: "H\xC3\xAEnce\xC8\x99ti"
-    - ia: 
+      ia: 
         name: Ialoveni
-    - le: 
+      le: 
         name: Leova
-    - ni: 
+      ni: 
         name: Nisporeni
-    - oc: 
+      oc: 
         name: "Ocni\xC8\x9Ba"
-    - or: 
+      or: 
         name: Orhei
-    - re: 
+      re: 
         name: Rezina
-    - ri: 
+      ri: 
         name: "R\xC3\xAE\xC8\x99cani"
-    - si: 
+      si: 
         name: "S\xC3\xAEngerei"
-    - so: 
+      so: 
         name: Soroca
-    - st: 
+      st: 
         name: "Str\xC4\x83\xC8\x99eni"
-    - sd: 
+      sd: 
         name: "\xC8\x98old\xC4\x83ne\xC8\x99ti"
-    - sv: 
+      sv: 
         name: "\xC8\x98tefan Vod\xC4\x83"
-    - ta: 
+      ta: 
         name: Taraclia
-    - te: 
+      te: 
         name: "Telene\xC8\x99ti"
-    - un: 
+      un: 
         name: Ungheni
-    - sn: 
+      sn: 
         name: "St\xC3\xAEnga Nistrului, unitatea teritorial\xC4\x83 din"

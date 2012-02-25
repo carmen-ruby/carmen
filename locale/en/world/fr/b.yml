@@ -3,13 +3,13 @@ en:
   world: 
     fr: 
       b: 
-      - "24": 
+        "24": 
           name: Dordogne
-      - "33": 
+        "33": 
           name: Gironde
-      - "40": 
+        "40": 
           name: Landes
-      - "47": 
+        "47": 
           name: Lot-et-Garonne
-      - "64": 
+        "64": 
           name: "Pyr\xC3\xA9n\xC3\xA9es-Atlantiques"

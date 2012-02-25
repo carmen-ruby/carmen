@@ -3,9 +3,9 @@ en:
   world: 
     bf: 
       "04": 
-      - blg: 
+        blg: 
           name: Boulgou
-      - kop: 
+        kop: 
           name: "Koulp\xC3\xA9logo"
-      - kot: 
+        kot: 
           name: Kouritenga

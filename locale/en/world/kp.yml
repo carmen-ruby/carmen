@@ -2,25 +2,25 @@
 en: 
   world: 
     kp: 
-    - "01": 
+      "01": 
         name: "P\xE2\x80\x99y\xC5\x8Fngyang"
-    - "13": 
+      "13": 
         name: "Nas\xC5\x8Fn (Najin-S\xC5\x8Fnbong)"
-    - "02": 
+      "02": 
         name: "P\xE2\x80\x99y\xC5\x8Fngan-namdo"
-    - "03": 
+      "03": 
         name: "P\xE2\x80\x99y\xC5\x8Fngan-bukto"
-    - "04": 
+      "04": 
         name: Chagang-do
-    - "05": 
+      "05": 
         name: Hwanghae-namdo
-    - "06": 
+      "06": 
         name: Hwanghae-bukto
-    - "07": 
+      "07": 
         name: "Kangw\xC5\x8Fn-do"
-    - 08: 
+      08: 
         name: "Hamgy\xC5\x8Fng-namdo"
-    - 09: 
+      09: 
         name: "Hamgy\xC5\x8Fng-bukto"
-    - "10": 
+      "10": 
         name: Yanggang-do

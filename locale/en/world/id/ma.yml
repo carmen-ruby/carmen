@@ -3,7 +3,7 @@ en:
   world: 
     id: 
       ma: 
-      - ma: 
+        ma: 
           name: Maluku
-      - mu: 
+        mu: 
           name: Maluku Utara

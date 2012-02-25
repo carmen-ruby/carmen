@@ -3,19 +3,19 @@ en:
   world: 
     es: 
       an: 
-      - al: 
+        al: 
           name: "Almer\xC3\xADa"
-      - ca: 
+        ca: 
           name: "C\xC3\xA1diz"
-      - co: 
+        co: 
           name: "C\xC3\xB3rdoba"
-      - gr: 
+        gr: 
           name: Granada
-      - h: 
+        h: 
           name: Huelva
-      - j: 
+        j: 
           name: "Ja\xC3\xA9n"
-      - ma: 
+        ma: 
           name: "M\xC3\xA1laga"
-      - se: 
+        se: 
           name: Sevilla

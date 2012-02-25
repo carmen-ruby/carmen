@@ -3,17 +3,17 @@ en:
   world: 
     rs: 
       vo: 
-      - "06": 
+        "06": 
           name: "Ju\xC5\xBEnoba\xC4\x8Dki okrug"
-      - "04": 
+        "04": 
           name: "Ju\xC5\xBEnobanatski okrug"
-      - "01": 
+        "01": 
           name: "Severnoba\xC4\x8Dki okrug"
-      - "03": 
+        "03": 
           name: Severnobanatski okrug
-      - "02": 
+        "02": 
           name: Srednjebanatski okrug
-      - "07": 
+        "07": 
           name: Sremski okrug
-      - "05": 
+        "05": 
           name: "Zapadnoba\xC4\x8Dki okrug"

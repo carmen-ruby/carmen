@@ -2,27 +2,27 @@
 en: 
   world: 
     jo: 
-    - aj: 
+      aj: 
         name: `Ajlun
-    - aq: 
+      aq: 
         name: Al `Aqabah
-    - ba: 
+      ba: 
         name: "Al Balq\xC4\x81'"
-    - ka: 
+      ka: 
         name: Al Karak
-    - ma: 
+      ma: 
         name: Al Mafraq
-    - am: 
+      am: 
         name: Amman
-    - at: 
+      at: 
         name: "A\xC5\xA3 \xC5\xA2af\xC4\xABlah"
-    - az: 
+      az: 
         name: "Az Zarq\xC4\x81'"
-    - jr: 
+      jr: 
         name: Irbid
-    - ja: 
+      ja: 
         name: Jarash
-    - mn: 
+      mn: 
         name: "Ma`\xC4\x81n"
-    - md: 
+      md: 
         name: "M\xC4\x81dab\xC4\x81"

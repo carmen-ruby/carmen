@@ -3,11 +3,11 @@ en:
   world: 
     fr: 
       g: 
-      - 08: 
+        08: 
           name: Ardennes
-      - "10": 
+        "10": 
           name: Aube
-      - "52": 
+        "52": 
           name: Haute-Marne
-      - "51": 
+        "51": 
           name: Marne

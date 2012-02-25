@@ -3,13 +3,13 @@ en:
   world: 
     gn: 
       k: 
-      - ka: 
+        ka: 
           name: Kankan
-      - ke: 
+        ke: 
           name: "K\xC3\xA9rouan\xC3\xA9"
-      - ko: 
+        ko: 
           name: Kouroussa
-      - md: 
+        md: 
           name: Mandiana
-      - si: 
+        si: 
           name: Siguiri

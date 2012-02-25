@@ -3,13 +3,13 @@ en:
   world: 
     ph: 
       "13": 
-      - agn: 
+        agn: 
           name: Agusan del Norte
-      - ags: 
+        ags: 
           name: Agusan del Sur
-      - din: 
+        din: 
           name: Dinagat Islands
-      - sun: 
+        sun: 
           name: Surigao del Norte
-      - sur: 
+        sur: 
           name: Surigao del Sur

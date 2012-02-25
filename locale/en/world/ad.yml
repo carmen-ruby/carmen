@@ -2,17 +2,17 @@
 en: 
   world: 
     ad: 
-    - "07": 
+      "07": 
         name: Andorra la Vella
-    - "02": 
+      "02": 
         name: Canillo
-    - "03": 
+      "03": 
         name: Encamp
-    - 08: 
+      08: 
         name: Escaldes-Engordany
-    - "04": 
+      "04": 
         name: La Massana
-    - "05": 
+      "05": 
         name: Ordino
-    - "06": 
+      "06": 
         name: "Sant Juli\xC3\xA0 de L\xC3\xB2ria"

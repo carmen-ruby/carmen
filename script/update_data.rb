@@ -17,16 +17,14 @@ def write_data_to_path_as_yaml(data, path)
   data_keys = %w{alpha_2_code alpha_3_code numeric_code type}
   locale_keys = %w{common_name name official_name}
 
-  locale_data = []
+  locale_data = {}
   data.each do |element|
     locale = {}
     locale_keys.each do |key|
       locale[key] = element.delete(key) if element.key?(key)
     end
     parent_key = element['alpha_2_code'] || element['code']
-    locale_data << {
-       parent_key.downcase => locale
-    }
+    locale_data[parent_key.downcase] = locale
   end
 
   path_segments = "en/#{path}".split('/').reverse
