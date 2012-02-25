@@ -8,6 +8,7 @@ describe Carmen::Country do
   end
 
   it "provides an API for finding countries by name" do
+    skip
     eastasia = Carmen::Country.named('Eastasia')
     eastasia.instance_of?(Carmen::Country).must_equal true
   end
@@ -30,6 +31,13 @@ describe Carmen::Country do
       @oceania.name.must_equal 'Oceania'
     end
 
+    it "has an official name" do
+      @oceania.official_name.must_equal 'The Superstate of Oceania'
+    end
+    it "has a common name" do
+      @oceania.common_name.must_equal 'Oceania'
+    end
+
     it "has a 2 character code" do
       @oceania.alpha_2_code.must_equal 'OC'
     end
@@ -47,55 +55,5 @@ describe Carmen::Country do
     end
   end
 
-  describe "a country with subregions" do
-    before do
-      @oceania = Carmen::Country.coded('OC')
-    end
-
-    it 'has a subregion data path' do
-      @oceania.subregion_data_path.must_equal 'world/oc.yml'
-    end
-
-    it "has subregions" do
-      @oceania.subregions?.must_equal true
-    end
-
-    it "has subregions" do
-      @oceania.subregions.instance_of?(Carmen::RegionCollection).must_equal true
-      @oceania.subregions.size.must_equal 1
-    end
-
-    it "can use Querying methods on the subregions collection" do
-      airstrip_one = @oceania.subregions.coded('AO')
-      airstrip_one.instance_of?(Carmen::Region).must_equal true
-    end
-
-    it "loads all attributes for subregions" do
-      airstrip_one = @oceania.subregions.first
-
-      airstrip_one.name.must_equal "Airstrip One"
-      airstrip_one.type.must_equal "providence"
-      airstrip_one.code.must_equal "AO"
-    end
-
-    it "sets itself as the parent of a subregions" do
-      airstrip_one = @oceania.subregions.first
-      airstrip_one.parent.must_equal @oceania
-    end
-  end
-
-  describe "a country without subregions" do
-    before do
-      @eastasia = Carmen::Country.coded('ES')
-    end
-
-    it "has no subregions" do
-      @eastasia.subregions?.must_equal false
-    end
-
-    it "has an empty subregions collection" do
-      @eastasia.subregions.must_equal []
-    end
-  end
 
 end

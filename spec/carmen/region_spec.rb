@@ -17,6 +17,10 @@ describe Carmen::Region do
     @airstrip_one.subregions?.must_equal true
   end
 
+  it "has a path" do
+    @airstrip_one.path.must_equal 'world.oc.ao'
+  end
+
   describe "subregions" do
     before do
       @london = @airstrip_one.subregions.first

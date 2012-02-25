@@ -3,7 +3,7 @@ require 'spec_helper'
 describe "Data overlaying" do
 
   before do
-    Carmen.overlay_path = File.expand_path('../../overlay', __FILE__)
+    Carmen.overlay_path = File.expand_path('../../overlay/data', __FILE__)
   end
 
   after do
@@ -11,7 +11,7 @@ describe "Data overlaying" do
   end
 
   it 'finds elements that exist only in overlay files' do
-    sealand = Carmen::Country.named('Sealand')
+    sealand = Carmen::Country.coded('SE')
     sealand.instance_of?(Carmen::Country).must_equal true
     sealand.type.must_equal('fort')
   end
@@ -21,9 +21,4 @@ describe "Data overlaying" do
     Carmen::Country.named('Eurasia').must_equal nil
   end
 
-
-  it 'merges overlay values into existing elements' do
-    eastasia = Carmen::Country.coded('ES')
-    eastasia.official_name.must_equal('The Wonderous Country of Eastasia')
-  end
 end

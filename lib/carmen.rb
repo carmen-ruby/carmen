@@ -5,6 +5,7 @@ lib_path = File.expand_path('../../lib', __FILE__)
 $LOAD_PATH.unshift(lib_path)
 
 require 'carmen/country'
+require 'carmen/i18n'
 
 module Carmen
   class << self
@@ -32,6 +33,14 @@ module Carmen
     # Defaults to nil (no overlay data).
     attr_reader :overlay_path
 
+    # Public: an object to use as the I18n backend.
+    #
+    # Ths suppiled object must respond to
+    # t(key).
+    #
+    # Defaults to an instance of Carmen::I18n::Simple.
+    attr_accessor :i18n_backend
+
     # Public: Set the data path.
     # path - The String path to the data directory.
     def data_path=(path)
@@ -50,4 +59,6 @@ module Carmen
   end
 
   self.data_path = File.expand_path('../../iso_data', __FILE__)
+  locale_path = File.expand_path('../locale', data_path)
+  self.i18n_backend = Carmen::I18n::Simple.new(locale_path)
 end

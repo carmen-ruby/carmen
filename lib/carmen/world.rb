@@ -17,6 +17,10 @@ module Carmen
       Country
     end
 
+    def path
+      'world'
+    end
+
     def inspect
       "<##{self.class}>"
     end

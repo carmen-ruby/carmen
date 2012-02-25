@@ -6,13 +6,11 @@ module Carmen
   class Region
 
     attr_reader :type
-    attr_reader :name
     attr_reader :code
     attr_reader :parent
 
     def initialize(data={}, parent=nil)
       @type = data['type']
-      @name = data['name']
       @code = data['code']
       @parent = parent
     end
@@ -29,8 +27,22 @@ module Carmen
       @parent.subregion_data_path.sub('.yml', "/#{subregion_directory}.yml")
     end
 
+    def name
+      Carmen::i18n_backend.t(path(:name))
+    end
+
     def subregion_class
       Region
+    end
+
+    # Return a path string for this region. Useful for use with I18n.
+    #
+    # Returns a string in the format "world.$PARENT_CODE.$REGION_CODE", such as
+    # "world.us.il". The number of segments is the depth of the region plus one.
+    def path(suffix=nil)
+      base = "#{parent.path}.#{subregion_directory}"
+      base << ".#{suffix.to_s}" if suffix
+      base
     end
 
     def inspect
@@ -71,7 +83,7 @@ module Carmen
     def load_data_at_path(path)
       default_data = YAML.load_file(Carmen.data_path + path)
       return default_data if Carmen.overlay_path.nil?
-      
+
       overlay_data = YAML.load_file(Carmen.overlay_path + path)
       flatten_data(default_data, overlay_data)
     end
