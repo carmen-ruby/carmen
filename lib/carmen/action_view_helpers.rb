@@ -34,7 +34,7 @@ module ActionView
           end
         end
 
-        return country_options + options_for_select(Carmen.countries, priority_country_codes.include?(selected) ? nil : selected)
+        (country_options + options_for_select(Carmen.countries, priority_country_codes.include?(selected) ? nil : selected)).html_safe
       end
     end
 
