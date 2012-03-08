@@ -8,7 +8,6 @@ describe Carmen::Country do
   end
 
   it "provides an API for finding countries by name" do
-    skip
     eastasia = Carmen::Country.named('Eastasia')
     eastasia.instance_of?(Carmen::Country).must_equal true
   end

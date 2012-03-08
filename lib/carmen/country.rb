@@ -11,23 +11,17 @@ module Carmen
 
     attr_reader :alpha_2_code
     attr_reader :alpha_3_code
+    attr_reader :official_name
+    attr_reader :common_name
 
     def initialize(data={}, parent)
+      @alpha_2_code  = data['alpha_2_code']
+      @alpha_3_code  = data['alpha_3_code']
       super
-      @alpha_2_code =  data['alpha_2_code']
-      @alpha_3_code =  data['alpha_3_code']
     end
 
     def self.all
       World.instance.subregions
-    end
-
-    def official_name
-      Carmen.i18n_backend.t(path(:official_name))
-    end
-
-    def common_name
-      Carmen.i18n_backend.t(path(:common_name))
     end
 
     def self.query_collection
@@ -39,6 +33,9 @@ module Carmen
     end
 
   private
+    def translated_keys
+      super + ['official_name', 'common_name']
+    end
 
     def self.attribute_to_search_for_code(code)
       code.to_s.size == 2 ? :alpha_2_code : :alpha_3_code
