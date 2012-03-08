@@ -17,8 +17,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = ">= 1.3.6"
   s.add_development_dependency('mocha')
-  s.add_development_dependency('rails')
-  s.add_development_dependency('hanna')
+  s.add_development_dependency('rails', '3.2.2')
 
   s.extra_rdoc_files = [
     "README.rdoc"
