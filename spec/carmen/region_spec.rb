@@ -43,4 +43,24 @@ describe Carmen::Region do
     end
   end
 
+  describe "Basic querying" do
+    before do
+      @world = Carmen::World.instance
+    end
+
+    it 'can find subregions by exact name' do
+      eastasia = @world.subregions.named('Eastasia')
+      eastasia.name.must_equal('Eastasia')
+    end
+
+    it 'can find subregions by name using a regex' do
+      eastasia = @world.subregions.named(/Eastasia/)
+      eastasia.name.must_equal('Eastasia')
+    end
+
+    it 'can find subregions by name using a case-insensitive regex' do
+      eastasia = @world.subregions.named(/eastasia/i)
+      eastasia.name.must_equal('Eastasia')
+    end
+  end
 end
