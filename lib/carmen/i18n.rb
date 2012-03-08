@@ -4,17 +4,19 @@ require 'pp'
 module Carmen
   module I18n
 
-    DEFAULT_LOCALE = 'en'
-
     # A simple object to handle I18n translation in simple situations.
     class Simple
 
+      DEFAULT_LOCALE = 'en'
+
       attr_accessor :cache
       attr_reader :locale
+      attr_reader :fallback_locale
       attr_reader :locale_paths
 
       def initialize(*locale_paths)
         @locale = DEFAULT_LOCALE
+        @fallback_locale = DEFAULT_LOCALE
         @locale_paths = locale_paths.flatten
         @cache = nil
       end
@@ -33,9 +35,14 @@ module Carmen
       end
 
       # Retrieve a translation for a key in the following format: 'a.b.c'
-      def t(key)
+      #
+      # This will attempt to find the key in the current locale, and if nothing
+      # is found, a value found in the fallback locale will be used instead.
+      def translate(key)
         read(key.to_s)
       end
+
+      alias :t :translate
 
       # Clear the cache. Should be called after appending a new locale path
       # manually (in case lookups have already occurred.)
@@ -50,8 +57,13 @@ module Carmen
 
       def read(key)
         load_cache_if_needed
-        source = @cache[@locale]
-        key.split('.').inject(source) { |hash, key|
+        translated = read_from_hash(key, @cache[@locale])
+        translated ||= read_from_hash(key, @cache[@fallback_locale]) if @locale != @fallback_locale
+        translated
+      end
+
+      def read_from_hash(key, source_hash)
+        key.split('.').inject(source_hash) { |hash, key|
           hash[key] unless hash.nil?
         }
       end
