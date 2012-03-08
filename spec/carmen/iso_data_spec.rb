@@ -21,8 +21,6 @@ describe "basic sanity check" do
   it "can retrieve a country" do
     us = Carmen::Country.coded('US')
     us.instance_of?(Carmen::Country).must_equal(true, "did not find USA")
-    require 'pp'
-    pp Carmen.i18n_backend.cache
     us.name.must_equal('United States')
   end
 
