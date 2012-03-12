@@ -77,12 +77,8 @@
   - CM
 - - Canadá
   - CA
-- - República Centroafricana
-  - CF
 - - Chad
   - TD
-- - República Checa
-  - CZ
 - - Chile
   - CL
 - - China
@@ -95,10 +91,6 @@
   - CO
 - - Comoras
   - KM
-- - República del Congo
-  - CG
-- - Rep. Dem. del Congo
-  - CD
 - - Islas Cook
   - CK
 - - Corea del Norte
@@ -117,8 +109,6 @@
   - DK
 - - Dominica
   - DM
-- - República Dominicana
-  - DO
 - - Egipto
   - EG
 - - El Salvador
@@ -233,10 +223,6 @@
   - LT
 - - Luxemburgo
   - LU
-- - Reino Unido
-  - GB
-- - República de Macedonia
-  - MK
 - - Madagascar
   - MG
 - - Malasia
@@ -331,6 +317,20 @@
   - PT
 - - Puerto Rico
   - PR
+- - Reino Unido
+  - GB
+- - República Checa
+  - CZ
+- - República Centroafricana
+  - CF
+- - República del Congo
+  - CG
+- - Rep. Dem. del Congo
+  - CD
+- - República Dominicana
+  - DO
+- - República de Macedonia
+  - MK
 - - Reunión
   - RE
 - - Ruanda
