@@ -6,6 +6,8 @@ If you'd like become a maintainer of the project, please let me know.
 
 # Carmen- A repository of geographic regions for Ruby
 
+[![Build Status](https://secure.travis-ci.org/jim/carmen.png?branch=master)](http://travis-ci.org/jim/carmen)
+
 ## A Little History
 
 Carmen began its life as a replacement for Rails' country_select and
