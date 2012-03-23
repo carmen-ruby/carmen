@@ -1,40 +1,40 @@
---- 
-en: 
-  world: 
-    so: 
-      aw: 
+---
+en:
+  world:
+    so:
+      aw:
         name: Awdal
-      bk: 
+      bk:
         name: Bakool
-      bn: 
+      bn:
         name: Banaadir
-      br: 
+      br:
         name: Bari
-      by: 
+      by:
         name: Bay
-      ga: 
+      ga:
         name: Galguduud
-      ge: 
+      ge:
         name: Gedo
-      hi: 
+      hi:
         name: Hiirsan
-      jd: 
+      jd:
         name: Jubbada Dhexe
-      jh: 
+      jh:
         name: Jubbada Hoose
-      mu: 
+      mu:
         name: Mudug
-      nu: 
+      nu:
         name: Nugaal
-      sa: 
+      sa:
         name: Saneag
-      sd: 
+      sd:
         name: Shabeellaha Dhexe
-      sh: 
+      sh:
         name: Shabeellaha Hoose
-      so: 
+      so:
         name: Sool
-      to: 
+      to:
         name: Togdheer
-      wo: 
+      wo:
         name: Woqooyi Galbeed

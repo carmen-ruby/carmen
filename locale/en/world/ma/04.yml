@@ -1,17 +1,17 @@
---- 
-en: 
-  world: 
-    ma: 
-      "04": 
-        ber: 
+---
+en:
+  world:
+    ma:
+      '04':
+        ber:
           name: Berkane
-        fig: 
+        fig:
           name: Figuig
-        jra: 
+        jra:
           name: Jrada
-        nad: 
+        nad:
           name: Nador
-        tai: 
+        tai:
           name: Taourirt
-        ouj: 
+        ouj:
           name: Oujda-Angad

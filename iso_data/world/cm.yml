@@ -1,4 +1,4 @@
---- 
+---
 - code: AD
   type: province
 - code: CE
@@ -9,7 +9,7 @@
   type: province
 - code: LT
   type: province
-- code: "NO"
+- code: 'NO'
   type: province
 - code: NW
   type: province

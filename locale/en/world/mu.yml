@@ -1,38 +1,38 @@
---- 
-en: 
-  world: 
-    mu: 
-      br: 
+---
+en:
+  world:
+    mu:
+      br:
         name: Beau Bassin-Rose Hill
-      cu: 
+      cu:
         name: Curepipe
-      pu: 
+      pu:
         name: Port Louis
-      qb: 
+      qb:
         name: Quatre Bornes
-      vp: 
+      vp:
         name: Vacoas-Phoenix
-      ag: 
+      ag:
         name: Agalega Islands
-      cc: 
+      cc:
         name: Cargados Carajos Shoals
-      ro: 
+      ro:
         name: Rodrigues Island
-      bl: 
+      bl:
         name: Black River
-      fl: 
+      fl:
         name: Flacq
-      gp: 
+      gp:
         name: Grand Port
-      mo: 
+      mo:
         name: Moka
-      pa: 
+      pa:
         name: Pamplemousses
-      pw: 
+      pw:
         name: Plaines Wilhems
-      pl: 
+      pl:
         name: Port Louis
-      rp: 
-        name: "Rivi\xC3\xA8re du Rempart"
-      sa: 
+      rp:
+        name: Rivière du Rempart
+      sa:
         name: Savanne

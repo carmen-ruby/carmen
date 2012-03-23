@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    ph: 
-      "12": 
-        lan: 
+---
+en:
+  world:
+    ph:
+      '12':
+        lan:
           name: Lanao del Norte
-        nco: 
+        nco:
           name: North Cotabato
-        suk: 
+        suk:
           name: Sultan Kudarat

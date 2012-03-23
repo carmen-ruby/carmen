@@ -1,4 +1,4 @@
---- 
+---
 - code: AR
   type: department
 - code: CE
@@ -9,7 +9,7 @@
   type: department
 - code: NE
   type: department
-- code: "NO"
+- code: 'NO'
   type: department
 - code: OU
   type: department

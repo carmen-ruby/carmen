@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    bf: 
-      "07": 
-        baz: 
-          name: "Baz\xC3\xA8ga"
-        nao: 
+---
+en:
+  world:
+    bf:
+      '07':
+        baz:
+          name: Bazèga
+        nao:
           name: Naouri
-        zou: 
-          name: "Zoundw\xC3\xA9ogo"
+        zou:
+          name: Zoundwéogo

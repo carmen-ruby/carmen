@@ -1,36 +1,36 @@
---- 
-en: 
-  world: 
-    kz: 
-      ala: 
+---
+en:
+  world:
+    kz:
+      ala:
         name: Almaty
-      ast: 
+      ast:
         name: Astana
-      alm: 
+      alm:
         name: Almaty oblysy
-      akm: 
+      akm:
         name: Aqmola oblysy
-      akt: 
-        name: "Aqt\xC3\xB6be oblysy"
-      aty: 
-        name: "Atyra\xC5\xAB oblysy"
-      zap: 
+      akt:
+        name: Aqtöbe oblysy
+      aty:
+        name: Atyraū oblysy
+      zap:
         name: Batys Quzaqstan oblysy
-      man: 
-        name: "Mangghysta\xC5\xAB oblysy"
-      yuz: 
-        name: "Ongt\xC3\xBCstik Qazaqstan oblysy"
-      pav: 
+      man:
+        name: Mangghystaū oblysy
+      yuz:
+        name: Ongtüstik Qazaqstan oblysy
+      pav:
         name: Pavlodar oblysy
-      kar: 
+      kar:
         name: Qaraghandy oblysy
-      kus: 
+      kus:
         name: Qostanay oblysy
-      kzy: 
+      kzy:
         name: Qyzylorda oblysy
-      vos: 
+      vos:
         name: Shyghys Qazaqstan oblysy
-      sev: 
-        name: "Solt\xC3\xBCstik Quzaqstan oblysy"
-      zha: 
+      sev:
+        name: Soltüstik Quzaqstan oblysy
+      zha:
         name: Zhambyl oblysy

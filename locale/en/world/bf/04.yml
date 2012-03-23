@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    bf: 
-      "04": 
-        blg: 
+---
+en:
+  world:
+    bf:
+      '04':
+        blg:
           name: Boulgou
-        kop: 
-          name: "Koulp\xC3\xA9logo"
-        kot: 
+        kop:
+          name: Koulpélogo
+        kot:
           name: Kouritenga

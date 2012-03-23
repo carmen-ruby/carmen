@@ -1,54 +1,54 @@
---- 
-en: 
-  world: 
-    ve: 
-      w: 
+---
+en:
+  world:
+    ve:
+      w:
         name: Dependencias Federales
-      a: 
+      a:
         name: Distrito Federal
-      z: 
+      z:
         name: Amazonas
-      b: 
-        name: "Anzo\xC3\xA1tegui"
-      c: 
+      b:
+        name: Anzoátegui
+      c:
         name: Apure
-      d: 
+      d:
         name: Aragua
-      e: 
+      e:
         name: Barinas
-      f: 
-        name: "Bol\xC3\xADvar"
-      g: 
+      f:
+        name: Bolívar
+      g:
         name: Carabobo
-      h: 
+      h:
         name: Cojedes
-      y: 
+      y:
         name: Delta Amacuro
-      i: 
-        name: "Falc\xC3\xB3n"
-      j: 
-        name: "Gu\xC3\xA1rico"
-      k: 
+      i:
+        name: Falcón
+      j:
+        name: Guárico
+      k:
         name: Lara
-      l: 
-        name: "M\xC3\xA9rida"
-      m: 
+      l:
+        name: Mérida
+      m:
         name: Miranda
-      n: 
+      n:
         name: Monagas
-      o: 
+      o:
         name: Nueva Esparta
-      p: 
+      p:
         name: Portuguesa
-      r: 
+      r:
         name: Sucre
-      s: 
-        name: "T\xC3\xA1chira"
-      t: 
+      s:
+        name: Táchira
+      t:
         name: Trujillo
-      x: 
+      x:
         name: Vargas
-      u: 
+      u:
         name: Yaracuy
-      v: 
+      v:
         name: Zulia

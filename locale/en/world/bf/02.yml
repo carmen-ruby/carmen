@@ -1,9 +1,9 @@
---- 
-en: 
-  world: 
-    bf: 
-      "02": 
-        com: 
-          name: "Como\xC3\xA9"
-        ler: 
-          name: "L\xC3\xA9raba"
+---
+en:
+  world:
+    bf:
+      '02':
+        com:
+          name: Comoé
+        ler:
+          name: Léraba

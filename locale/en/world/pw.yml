@@ -1,36 +1,36 @@
---- 
-en: 
-  world: 
-    pw: 
-      "002": 
+---
+en:
+  world:
+    pw:
+      '002':
         name: Aimeliik
-      "004": 
+      '004':
         name: Airai
-      "010": 
+      '010':
         name: Angaur
-      "050": 
+      '050':
         name: Hatobohei
-      "100": 
+      '100':
         name: Kayangel
-      "150": 
+      '150':
         name: Koror
-      "212": 
+      '212':
         name: Melekeok
-      "214": 
+      '214':
         name: Ngaraard
-      "218": 
+      '218':
         name: Ngarchelong
-      "222": 
+      '222':
         name: Ngardmau
-      "224": 
+      '224':
         name: Ngatpang
-      "226": 
+      '226':
         name: Ngchesar
-      "227": 
+      '227':
         name: Ngeremlengui
-      "228": 
+      '228':
         name: Ngiwal
-      "350": 
+      '350':
         name: Peleliu
-      "370": 
+      '370':
         name: Sonsorol

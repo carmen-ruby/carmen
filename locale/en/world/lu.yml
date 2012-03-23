@@ -1,10 +1,10 @@
---- 
-en: 
-  world: 
-    lu: 
-      d: 
+---
+en:
+  world:
+    lu:
+      d:
         name: Diekirch
-      g: 
+      g:
         name: Grevenmacher
-      l: 
+      l:
         name: Luxembourg

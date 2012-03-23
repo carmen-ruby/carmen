@@ -1,9 +1,9 @@
---- 
-en: 
-  world: 
-    np: 
-      "5": 
-        ma: 
+---
+en:
+  world:
+    np:
+      '5':
+        ma:
           name: Mahakali
-        se: 
+        se:
           name: Seti

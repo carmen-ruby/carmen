@@ -1,40 +1,40 @@
---- 
-en: 
-  world: 
-    hn: 
-      at: 
-        name: "Atl\xC3\xA1ntida"
-      cl: 
-        name: "Col\xC3\xB3n"
-      cm: 
+---
+en:
+  world:
+    hn:
+      at:
+        name: Atlántida
+      cl:
+        name: Colón
+      cm:
         name: Comayagua
-      cp: 
-        name: "Cop\xC3\xA1n"
-      cr: 
-        name: "Cort\xC3\xA9s"
-      ch: 
+      cp:
+        name: Copán
+      cr:
+        name: Cortés
+      ch:
         name: Choluteca
-      ep: 
-        name: "El Para\xC3\xADso"
-      fm: 
-        name: "Francisco Moraz\xC3\xA1n"
-      gd: 
+      ep:
+        name: El Paraíso
+      fm:
+        name: Francisco Morazán
+      gd:
         name: Gracias a Dios
-      in: 
-        name: "Intibuc\xC3\xA1"
-      ib: 
-        name: "Islas de la Bah\xC3\xADa"
-      lp: 
+      in:
+        name: Intibucá
+      ib:
+        name: Islas de la Bahía
+      lp:
         name: La Paz
-      le: 
+      le:
         name: Lempira
-      oc: 
+      oc:
         name: Ocotepeque
-      ol: 
+      ol:
         name: Olancho
-      sb: 
-        name: "Santa B\xC3\xA1rbara"
-      va: 
+      sb:
+        name: Santa Bárbara
+      va:
         name: Valle
-      yo: 
+      yo:
         name: Yoro

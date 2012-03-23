@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    ph: 
-      "02": 
-        btn: 
+---
+en:
+  world:
+    ph:
+      '02':
+        btn:
           name: Batanes
-        cag: 
+        cag:
           name: Cagayan
-        isa: 
+        isa:
           name: Isabela
-        nuv: 
+        nuv:
           name: Nueva Vizcaya
-        qui: 
+        qui:
           name: Quirino

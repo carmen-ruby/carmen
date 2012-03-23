@@ -1,21 +1,21 @@
---- 
-- code: "05"
+---
+- code: '05'
   type: district
-- code: "12"
+- code: '12'
   type: district
-- code: "22"
+- code: '22'
   type: district
-- code: "23"
+- code: '23'
   type: district
-- code: "27"
+- code: '27'
   type: district
-- code: "30"
+- code: '30'
   type: district
-- code: "37"
+- code: '37'
   type: district
-- code: "39"
+- code: '39'
   type: district
-- code: "43"
+- code: '43'
   type: district
-- code: "58"
+- code: '58'
   type: district

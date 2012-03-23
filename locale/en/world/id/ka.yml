@@ -1,13 +1,13 @@
---- 
-en: 
-  world: 
-    id: 
-      ka: 
-        kb: 
+---
+en:
+  world:
+    id:
+      ka:
+        kb:
           name: Kalimantan Barat
-        kt: 
+        kt:
           name: Kalimantan Tengah
-        ks: 
+        ks:
           name: Kalimantan Selatan
-        ki: 
+        ki:
           name: Kalimantan Timur

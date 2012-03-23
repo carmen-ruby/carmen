@@ -1,11 +1,11 @@
---- 
-- code: "01"
+---
+- code: '01'
   type: division
-- code: "02"
+- code: '02'
   type: division
-- code: "03"
+- code: '03'
   type: division
-- code: "04"
+- code: '04'
   type: division
-- code: "05"
+- code: '05'
   type: division

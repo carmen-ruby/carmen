@@ -1,13 +1,13 @@
---- 
-en: 
-  world: 
-    cz: 
-      li: 
-        "511": 
-          name: "\xC4\x8Cesk\xC3\xA1 L\xC3\xADpa"
-        "512": 
+---
+en:
+  world:
+    cz:
+      li:
+        '511':
+          name: Česká Lípa
+        '512':
           name: Jablonec nad Nisou
-        "513": 
+        '513':
           name: Liberec
-        "514": 
+        '514':
           name: Semily

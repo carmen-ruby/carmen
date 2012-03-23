@@ -1,118 +1,118 @@
---- 
-en: 
-  world: 
-    us: 
-      al: 
+---
+en:
+  world:
+    us:
+      al:
         name: Alabama
-      ak: 
+      ak:
         name: Alaska
-      az: 
+      az:
         name: Arizona
-      ar: 
+      ar:
         name: Arkansas
-      ca: 
+      ca:
         name: California
-      co: 
+      co:
         name: Colorado
-      ct: 
+      ct:
         name: Connecticut
-      de: 
+      de:
         name: Delaware
-      fl: 
+      fl:
         name: Florida
-      ga: 
+      ga:
         name: Georgia
-      hi: 
+      hi:
         name: Hawaii
-      id: 
+      id:
         name: Idaho
-      il: 
+      il:
         name: Illinois
-      in: 
+      in:
         name: Indiana
-      ia: 
+      ia:
         name: Iowa
-      ks: 
+      ks:
         name: Kansas
-      ky: 
+      ky:
         name: Kentucky
-      la: 
+      la:
         name: Louisiana
-      me: 
+      me:
         name: Maine
-      md: 
+      md:
         name: Maryland
-      ma: 
+      ma:
         name: Massachusetts
-      mi: 
+      mi:
         name: Michigan
-      mn: 
+      mn:
         name: Minnesota
-      ms: 
+      ms:
         name: Mississippi
-      mo: 
+      mo:
         name: Missouri
-      mt: 
+      mt:
         name: Montana
-      ne: 
+      ne:
         name: Nebraska
-      nv: 
+      nv:
         name: Nevada
-      nh: 
+      nh:
         name: New Hampshire
-      nj: 
+      nj:
         name: New Jersey
-      nm: 
+      nm:
         name: New Mexico
-      ny: 
+      ny:
         name: New York
-      nc: 
+      nc:
         name: North Carolina
-      nd: 
+      nd:
         name: North Dakota
-      oh: 
+      oh:
         name: Ohio
-      ok: 
+      ok:
         name: Oklahoma
-      or: 
+      or:
         name: Oregon
-      pa: 
+      pa:
         name: Pennsylvania
-      ri: 
+      ri:
         name: Rhode Island
-      sc: 
+      sc:
         name: South Carolina
-      sd: 
+      sd:
         name: South Dakota
-      tn: 
+      tn:
         name: Tennessee
-      tx: 
+      tx:
         name: Texas
-      ut: 
+      ut:
         name: Utah
-      vt: 
+      vt:
         name: Vermont
-      va: 
+      va:
         name: Virginia
-      wa: 
+      wa:
         name: Washington
-      wv: 
+      wv:
         name: West Virginia
-      wi: 
+      wi:
         name: Wisconsin
-      wy: 
+      wy:
         name: Wyoming
-      dc: 
+      dc:
         name: District of Columbia
-      as: 
+      as:
         name: American Samoa
-      gu: 
+      gu:
         name: Guam
-      mp: 
+      mp:
         name: Northern Mariana Islands
-      pr: 
+      pr:
         name: Puerto Rico
-      um: 
+      um:
         name: United States Minor Outlying Islands
-      vi: 
+      vi:
         name: Virgin Islands

@@ -1,22 +1,22 @@
---- 
-en: 
-  world: 
-    ml: 
-      bk0: 
+---
+en:
+  world:
+    ml:
+      bk0:
         name: Bamako
-      "7": 
+      '7':
         name: Gao
-      "1": 
+      '1':
         name: Kayes
-      "8": 
+      '8':
         name: Kidal
-      "2": 
+      '2':
         name: Koulikoro
-      "5": 
+      '5':
         name: Mopti
-      "4": 
-        name: "S\xC3\xA9gou"
-      "3": 
+      '4':
+        name: Ségou
+      '3':
         name: Sikasso
-      "6": 
+      '6':
         name: Tombouctou

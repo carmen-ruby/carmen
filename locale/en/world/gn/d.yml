@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    gn: 
-      d: 
-        co: 
+---
+en:
+  world:
+    gn:
+      d:
+        co:
           name: Coyah
-        du: 
-          name: "Dubr\xC3\xA9ka"
-        fo: 
-          name: "For\xC3\xA9cariah"
-        kd: 
+        du:
+          name: Dubréka
+        fo:
+          name: Forécariah
+        kd:
           name: Kindia
-        te: 
-          name: "T\xC3\xA9lim\xC3\xA9l\xC3\xA9"
+        te:
+          name: Télimélé

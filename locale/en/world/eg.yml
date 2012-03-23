@@ -1,60 +1,60 @@
---- 
-en: 
-  world: 
-    eg: 
-      dk: 
-        name: "Ad Daqahl\xC4\xAByah"
-      ba: 
+---
+en:
+  world:
+    eg:
+      dk:
+        name: Ad Daqahlīyah
+      ba:
         name: Al Bahr al Ahmar
-      bh: 
+      bh:
         name: Al Buhayrah
-      fym: 
-        name: "Al Fayy\xC5\xABm"
-      gh: 
-        name: "Al Gharb\xC4\xAByah"
-      alx: 
-        name: "Al Iskandar\xC4\xAByah"
-      is: 
-        name: "Al Ism\xC4\x81`\xC4\xABl\xC4\xAByah"
-      gz: 
-        name: "Al J\xC4\xABzah"
-      mnf: 
-        name: "Al Min\xC5\xABf\xC4\xAByah"
-      mn: 
-        name: "Al Miny\xC4\x81"
-      c: 
-        name: "Al Q\xC4\x81hirah"
-      kb: 
-        name: "Al Qaly\xC5\xABb\xC4\xAByah"
-      wad: 
-        name: "Al W\xC4\x81d\xC4\xAB al Jad\xC4\xABd"
-      su: 
-        name: "As S\xC4\x81dis min Ukt\xC5\xABbar"
-      shr: 
-        name: "Ash Sharq\xC4\xAByah"
-      suz: 
+      fym:
+        name: Al Fayyūm
+      gh:
+        name: Al Gharbīyah
+      alx:
+        name: Al Iskandarīyah
+      is:
+        name: Al Ismā`īlīyah
+      gz:
+        name: Al Jīzah
+      mnf:
+        name: Al Minūfīyah
+      mn:
+        name: Al Minyā
+      c:
+        name: Al Qāhirah
+      kb:
+        name: Al Qalyūbīyah
+      wad:
+        name: Al Wādī al Jadīd
+      su:
+        name: As Sādis min Uktūbar
+      shr:
+        name: Ash Sharqīyah
+      suz:
         name: As Suways
-      asn: 
-        name: "Asw\xC4\x81n"
-      ast: 
-        name: "Asy\xC5\xABt"
-      bns: 
-        name: "Ban\xC4\xAB Suwayf"
-      pts: 
-        name: "B\xC5\xABr Sa`\xC4\xABd"
-      dt: 
-        name: "Dumy\xC4\x81t"
-      hu: 
-        name: "H\xCC\xA7ulw\xC4\x81n"
-      js: 
-        name: "Jan\xC5\xABb S\xC4\xABn\xC4\x81'"
-      kfs: 
+      asn:
+        name: Aswān
+      ast:
+        name: Asyūt
+      bns:
+        name: Banī Suwayf
+      pts:
+        name: Būr Sa`īd
+      dt:
+        name: Dumyāt
+      hu:
+        name: Ḩulwān
+      js:
+        name: Janūb Sīnā'
+      kfs:
         name: Kafr ash Shaykh
-      mt: 
-        name: "Matr\xC5\xABh"
-      kn: 
-        name: "Qin\xC4\x81"
-      sin: 
-        name: "Shamal S\xC4\xABn\xC4\x81'"
-      shg: 
-        name: "S\xC5\xABh\xC4\x81j"
+      mt:
+        name: Matrūh
+      kn:
+        name: Qinā
+      sin:
+        name: Shamal Sīnā'
+      shg:
+        name: Sūhāj

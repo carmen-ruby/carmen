@@ -1,28 +1,28 @@
---- 
-en: 
-  world: 
-    ge: 
-      ab: 
+---
+en:
+  world:
+    ge:
+      ab:
         name: Abkhazia
-      aj: 
+      aj:
         name: Ajaria
-      tb: 
-        name: "T\xE2\x80\x99bilisi"
-      gu: 
+      tb:
+        name: T’bilisi
+      gu:
         name: Guria
-      im: 
-        name: "Imeret\xE2\x80\x99i"
-      ka: 
-        name: "Kakhet\xE2\x80\x99i"
-      kk: 
-        name: "K\xE2\x80\x99vemo K\xE2\x80\x99art\xE2\x80\x99li"
-      mm: 
-        name: "Mts\xE2\x80\x99khet\xE2\x80\x99a-Mt\xE2\x80\x99ianet\xE2\x80\x99i"
-      rl: 
-        name: "Racha-Lech\xE2\x80\x99khumi-K\xE2\x80\x99vemo Svanet\xE2\x80\x99i"
-      sz: 
-        name: "Samegrelo-Zemo Svanet\xE2\x80\x99i"
-      sj: 
-        name: "Samts\xE2\x80\x99khe-Javakhet\xE2\x80\x99i"
-      sk: 
-        name: "Shida K\xE2\x80\x99art\xE2\x80\x99li"
+      im:
+        name: Imeret’i
+      ka:
+        name: Kakhet’i
+      kk:
+        name: K’vemo K’art’li
+      mm:
+        name: Mts’khet’a-Mt’ianet’i
+      rl:
+        name: Racha-Lech’khumi-K’vemo Svanet’i
+      sz:
+        name: Samegrelo-Zemo Svanet’i
+      sj:
+        name: Samts’khe-Javakhet’i
+      sk:
+        name: Shida K’art’li

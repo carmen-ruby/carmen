@@ -1,28 +1,28 @@
---- 
-en: 
-  world: 
-    jo: 
-      aj: 
-        name: `Ajlun
-      aq: 
+---
+en:
+  world:
+    jo:
+      aj:
+        name: ! '`Ajlun'
+      aq:
         name: Al `Aqabah
-      ba: 
-        name: "Al Balq\xC4\x81'"
-      ka: 
+      ba:
+        name: Al Balqā'
+      ka:
         name: Al Karak
-      ma: 
+      ma:
         name: Al Mafraq
-      am: 
+      am:
         name: Amman
-      at: 
-        name: "A\xC5\xA3 \xC5\xA2af\xC4\xABlah"
-      az: 
-        name: "Az Zarq\xC4\x81'"
-      jr: 
+      at:
+        name: Aţ Ţafīlah
+      az:
+        name: Az Zarqā'
+      jr:
         name: Irbid
-      ja: 
+      ja:
         name: Jarash
-      mn: 
-        name: "Ma`\xC4\x81n"
-      md: 
-        name: "M\xC4\x81dab\xC4\x81"
+      mn:
+        name: Ma`ān
+      md:
+        name: Mādabā

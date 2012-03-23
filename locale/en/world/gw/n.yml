@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    gw: 
-      n: 
-        bm: 
+---
+en:
+  world:
+    gw:
+      n:
+        bm:
           name: Biombo
-        ca: 
+        ca:
           name: Cacheu
-        oi: 
+        oi:
           name: Oio

@@ -1,25 +1,25 @@
---- 
-en: 
-  world: 
-    ba: 
-      bih: 
-        "05": 
+---
+en:
+  world:
+    ba:
+      bih:
+        '05':
           name: Bosansko-podrinjski kanton
-        "07": 
-          name: "Hercegova\xC4\x8Dko-neretvanski kanton"
-        "10": 
+        '07':
+          name: Hercegovačko-neretvanski kanton
+        '10':
           name: Kanton br. 10 (Livanjski kanton)
-        09: 
+        '09':
           name: Kanton Sarajevo
-        "02": 
+        '02':
           name: Posavski kanton
-        "06": 
+        '06':
           name: Srednjobosanski kanton
-        "03": 
+        '03':
           name: Tuzlanski kanton
-        "01": 
+        '01':
           name: Unsko-sanski kanton
-        08: 
-          name: "Zapadnohercegova\xC4\x8Dki kanton"
-        "04": 
-          name: "Zeni\xC4\x8Dko-dobojski kanton"
+        '08':
+          name: Zapadnohercegovački kanton
+        '04':
+          name: Zeničko-dobojski kanton

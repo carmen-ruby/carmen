@@ -1,36 +1,36 @@
---- 
-en: 
-  world: 
-    bi: 
-      bb: 
+---
+en:
+  world:
+    bi:
+      bb:
         name: Bubanza
-      bm: 
+      bm:
         name: Bujumbura Mairie
-      bl: 
+      bl:
         name: Bujumbura Rural
-      br: 
+      br:
         name: Bururi
-      ca: 
+      ca:
         name: Cankuzo
-      ci: 
+      ci:
         name: Cibitoke
-      gi: 
+      gi:
         name: Gitega
-      kr: 
+      kr:
         name: Karuzi
-      ky: 
+      ky:
         name: Kayanza
-      ki: 
+      ki:
         name: Kirundo
-      ma: 
+      ma:
         name: Makamba
-      mu: 
+      mu:
         name: Muramvya
-      mw: 
+      mw:
         name: Mwaro
-      ng: 
+      ng:
         name: Ngozi
-      rt: 
+      rt:
         name: Rutana
-      ry: 
+      ry:
         name: Ruyigi

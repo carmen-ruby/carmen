@@ -1,20 +1,20 @@
---- 
-en: 
-  world: 
-    ag: 
-      "03": 
+---
+en:
+  world:
+    ag:
+      '03':
         name: Saint George
-      "04": 
+      '04':
         name: Saint John
-      "05": 
+      '05':
         name: Saint Mary
-      "06": 
+      '06':
         name: Saint Paul
-      "07": 
+      '07':
         name: Saint Peter
-      08: 
+      '08':
         name: Saint Philip
-      "10": 
+      '10':
         name: Barbuda
-      "11": 
+      '11':
         name: Redonda

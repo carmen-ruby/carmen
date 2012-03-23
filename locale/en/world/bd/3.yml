@@ -1,39 +1,39 @@
---- 
-en: 
-  world: 
-    bd: 
-      "3": 
-        "13": 
+---
+en:
+  world:
+    bd:
+      '3':
+        '13':
           name: Dhaka zila
-        "15": 
+        '15':
           name: Faridpur zila
-        "18": 
+        '18':
           name: Gazipur zila
-        "17": 
+        '17':
           name: Gopalganj zila
-        "21": 
+        '21':
           name: Jamalpur zila
-        "26": 
+        '26':
           name: Kishorganj zila
-        "36": 
+        '36':
           name: Madaripur zila
-        "33": 
+        '33':
           name: Manikganj zila
-        "35": 
+        '35':
           name: Munshiganj zila
-        "34": 
+        '34':
           name: Mymensingh zila
-        "40": 
+        '40':
           name: Narayanganj zila
-        "42": 
+        '42':
           name: Narsingdi zila
-        "41": 
+        '41':
           name: Netrakona zila
-        "53": 
+        '53':
           name: Rajbari zila
-        "62": 
+        '62':
           name: Shariatpur zila
-        "57": 
+        '57':
           name: Sherpur zila
-        "63": 
+        '63':
           name: Tangail zila

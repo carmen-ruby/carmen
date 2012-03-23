@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    gr: 
-      j: 
-        "11": 
+---
+en:
+  world:
+    gr:
+      j:
+        '11':
           name: Argolida
-        "12": 
+        '12':
           name: Arkadia
-        "15": 
+        '15':
           name: Korinthia
-        "16": 
+        '16':
           name: Lakonia
-        "17": 
+        '17':
           name: Messinia

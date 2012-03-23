@@ -1,33 +1,33 @@
---- 
-en: 
-  world: 
-    mh: 
-      l: 
-        all: 
+---
+en:
+  world:
+    mh:
+      l:
+        all:
           name: Ailinglaplap
-        ebo: 
+        ebo:
           name: Ebon
-        eni: 
+        eni:
           name: Enewetak
-        jab: 
+        jab:
           name: Jabat
-        jal: 
+        jal:
           name: Jaluit
-        kil: 
+        kil:
           name: Kili
-        kwa: 
+        kwa:
           name: Kwajalein
-        lae: 
+        lae:
           name: Lae
-        lib: 
+        lib:
           name: Lib
-        nmk: 
+        nmk:
           name: Namdrik
-        nmu: 
+        nmu:
           name: Namu
-        ron: 
+        ron:
           name: Rongelap
-        uja: 
+        uja:
           name: Ujae
-        wtn: 
+        wtn:
           name: Wotho

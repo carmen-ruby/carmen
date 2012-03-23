@@ -1,23 +1,23 @@
---- 
-en: 
-  world: 
-    mw: 
-      c: 
-        de: 
+---
+en:
+  world:
+    mw:
+      c:
+        de:
           name: Dedza
-        do: 
+        do:
           name: Dowa
-        ks: 
+        ks:
           name: Kasungu
-        li: 
+        li:
           name: Lilongwe
-        mc: 
+        mc:
           name: Mchinji
-        nk: 
+        nk:
           name: Nkhotakota
-        nu: 
+        nu:
           name: Ntcheu
-        ni: 
+        ni:
           name: Ntchisi
-        sa: 
+        sa:
           name: Salima

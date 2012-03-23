@@ -1,24 +1,24 @@
---- 
-en: 
-  world: 
-    bw: 
-      ce: 
+---
+en:
+  world:
+    bw:
+      ce:
         name: Central
-      gh: 
+      gh:
         name: Ghanzi
-      kg: 
+      kg:
         name: Kgalagadi
-      kl: 
+      kl:
         name: Kgatleng
-      kw: 
+      kw:
         name: Kweneng
-      ng: 
+      ng:
         name: Ngamiland
-      ne: 
+      ne:
         name: North-East
-      nw: 
+      nw:
         name: North-West (Botswana)
-      se: 
+      se:
         name: South-East
-      so: 
+      so:
         name: Southern (Botswana)

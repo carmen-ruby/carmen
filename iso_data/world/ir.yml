@@ -1,61 +1,61 @@
---- 
-- code: "03"
+---
+- code: '03'
   type: province
-- code: "02"
+- code: '02'
   type: province
-- code: "01"
+- code: '01'
   type: province
-- code: "06"
+- code: '06'
   type: province
-- code: 08
+- code: '08'
   type: province
-- code: "04"
+- code: '04'
   type: province
-- code: "14"
+- code: '14'
   type: province
-- code: "19"
+- code: '19'
   type: province
-- code: "27"
+- code: '27'
   type: province
-- code: "24"
+- code: '24'
   type: province
-- code: "23"
+- code: '23'
   type: province
-- code: "05"
+- code: '05'
   type: province
-- code: "15"
+- code: '15'
   type: province
-- code: "17"
+- code: '17'
   type: province
-- code: "29"
+- code: '29'
   type: province
-- code: "30"
+- code: '30'
   type: province
-- code: "31"
+- code: '31'
   type: province
-- code: "10"
+- code: '10'
   type: province
-- code: "18"
+- code: '18'
   type: province
-- code: "16"
+- code: '16'
   type: province
-- code: "20"
+- code: '20'
   type: province
-- code: "22"
+- code: '22'
   type: province
-- code: "21"
+- code: '21'
   type: province
-- code: "28"
+- code: '28'
   type: province
-- code: "26"
+- code: '26'
   type: province
-- code: "12"
+- code: '12'
   type: province
-- code: "13"
+- code: '13'
   type: province
-- code: "07"
+- code: '07'
   type: province
-- code: "25"
+- code: '25'
   type: province
-- code: "11"
+- code: '11'
   type: province

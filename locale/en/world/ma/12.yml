@@ -1,9 +1,9 @@
---- 
-en: 
-  world: 
-    ma: 
-      "12": 
-        azi: 
+---
+en:
+  world:
+    ma:
+      '12':
+        azi:
           name: Azilal
-        bem: 
+        bem:
           name: Beni Mellal

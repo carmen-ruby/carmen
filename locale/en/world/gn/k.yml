@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    gn: 
-      k: 
-        ka: 
+---
+en:
+  world:
+    gn:
+      k:
+        ka:
           name: Kankan
-        ke: 
-          name: "K\xC3\xA9rouan\xC3\xA9"
-        ko: 
+        ke:
+          name: Kérouané
+        ko:
           name: Kouroussa
-        md: 
+        md:
           name: Mandiana
-        si: 
+        si:
           name: Siguiri

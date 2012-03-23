@@ -1,12 +1,12 @@
---- 
-en: 
-  world: 
-    ie: 
-      c: 
+---
+en:
+  world:
+    ie:
+      c:
         name: Connacht
-      l: 
+      l:
         name: Leinster
-      m: 
+      m:
         name: Munster
-      u: 
+      u:
         name: Ulster

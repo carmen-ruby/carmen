@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    fr: 
-      p: 
-        "14": 
+---
+en:
+  world:
+    fr:
+      p:
+        '14':
           name: Calvados
-        "50": 
+        '50':
           name: Manche
-        "61": 
+        '61':
           name: Orne

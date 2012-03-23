@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    bf: 
-      "11": 
-        gan: 
+---
+en:
+  world:
+    bf:
+      '11':
+        gan:
           name: Ganzourgou
-        kow: 
-          name: "Kourw\xC3\xA9ogo"
-        oub: 
+        kow:
+          name: Kourwéogo
+        oub:
           name: Oubritenga

@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    np: 
-      "3": 
-        dh: 
+---
+en:
+  world:
+    np:
+      '3':
+        dh:
           name: Dhawalagiri
-        ga: 
+        ga:
           name: Gandaki
-        lu: 
+        lu:
           name: Lumbini

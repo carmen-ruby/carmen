@@ -1,15 +1,15 @@
---- 
-- code: "110"
+---
+- code: '110'
   type: province
-- code: "200"
+- code: '200'
   type: province
-- code: "300"
+- code: '300'
   type: province
-- code: "400"
+- code: '400'
   type: province
-- code: "500"
+- code: '500'
   type: province
-- code: "700"
+- code: '700'
   type: province
-- code: "900"
+- code: '900'
   type: province

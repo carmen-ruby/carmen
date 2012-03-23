@@ -1,17 +1,17 @@
---- 
-en: 
-  world: 
-    gn: 
-      n: 
-        be: 
+---
+en:
+  world:
+    gn:
+      n:
+        be:
           name: Beyla
-        gu: 
-          name: "Gu\xC3\xA9k\xC3\xA9dou"
-        lo: 
+        gu:
+          name: Guékédou
+        lo:
           name: Lola
-        mc: 
+        mc:
           name: Macenta
-        nz: 
-          name: "Nz\xC3\xA9r\xC3\xA9kor\xC3\xA9"
-        yo: 
+        nz:
+          name: Nzérékoré
+        yo:
           name: Yomou

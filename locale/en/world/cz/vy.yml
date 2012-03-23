@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    cz: 
-      vy: 
-        "611": 
-          name: "Havl\xC3\xAD\xC4\x8Dk\xC5\xAFv Brod"
-        "612": 
+---
+en:
+  world:
+    cz:
+      vy:
+        '611':
+          name: Havlíčkův Brod
+        '612':
           name: Jihlava
-        "613": 
-          name: "Pelh\xC5\x99imov"
-        "614": 
-          name: "T\xC5\x99eb\xC3\xAD\xC4\x8D"
-        "615": 
-          name: "\xC5\xBDd\xE2\x80\x99\xC3\xA1r nad S\xC3\xA1zavou"
+        '613':
+          name: Pelhřimov
+        '614':
+          name: Třebíč
+        '615':
+          name: Žd’ár nad Sázavou

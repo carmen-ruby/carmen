@@ -1,22 +1,22 @@
---- 
-en: 
-  world: 
-    ht: 
-      ar: 
+---
+en:
+  world:
+    ht:
+      ar:
         name: Artibonite
-      ce: 
+      ce:
         name: Centre
-      ga: 
+      ga:
         name: Grande-Anse
-      nd: 
+      nd:
         name: Nord
-      ne: 
+      ne:
         name: Nord-Est
-      "no": 
+      'no':
         name: Nord-Ouest
-      ou: 
+      ou:
         name: Ouest
-      sd: 
+      sd:
         name: Sud
-      se: 
+      se:
         name: Sud-Est

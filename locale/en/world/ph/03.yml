@@ -1,19 +1,19 @@
---- 
-en: 
-  world: 
-    ph: 
-      "03": 
-        aur: 
+---
+en:
+  world:
+    ph:
+      '03':
+        aur:
           name: Aurora
-        ban: 
+        ban:
           name: Batasn
-        bul: 
+        bul:
           name: Bulacan
-        nue: 
+        nue:
           name: Nueva Ecija
-        pam: 
+        pam:
           name: Pampanga
-        tar: 
+        tar:
           name: Tarlac
-        zmb: 
+        zmb:
           name: Zambales

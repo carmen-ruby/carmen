@@ -1,52 +1,52 @@
---- 
-en: 
-  world: 
-    tn: 
-      "31": 
-        name: "B\xC3\xA9ja"
-      "13": 
+---
+en:
+  world:
+    tn:
+      '31':
+        name: Béja
+      '13':
         name: Ben Arous
-      "23": 
+      '23':
         name: Bizerte
-      "81": 
-        name: "Gab\xC3\xA8s"
-      "71": 
+      '81':
+        name: Gabès
+      '71':
         name: Gafsa
-      "32": 
+      '32':
         name: Jendouba
-      "41": 
+      '41':
         name: Kairouan
-      "42": 
+      '42':
         name: Kasserine
-      "73": 
+      '73':
         name: Kebili
-      "12": 
+      '12':
         name: L'Ariana
-      "33": 
+      '33':
         name: Le Kef
-      "53": 
+      '53':
         name: Mahdia
-      "14": 
+      '14':
         name: La Manouba
-      "82": 
+      '82':
         name: Medenine
-      "52": 
+      '52':
         name: Monastir
-      "21": 
+      '21':
         name: Nabeul
-      "61": 
+      '61':
         name: Sfax
-      "43": 
+      '43':
         name: Sidi Bouzid
-      "34": 
+      '34':
         name: Siliana
-      "51": 
+      '51':
         name: Sousse
-      "83": 
+      '83':
         name: Tataouine
-      "72": 
+      '72':
         name: Tozeur
-      "11": 
+      '11':
         name: Tunis
-      "22": 
+      '22':
         name: Zaghouan

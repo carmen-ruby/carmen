@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    al: 
-      "01": 
-        br: 
+---
+en:
+  world:
+    al:
+      '01':
+        br:
           name: Berat
-        kc: 
-          name: "Ku\xC3\xA7ov\xC3\xAB"
-        sk: 
+        kc:
+          name: Kuçovë
+        sk:
           name: Skrapar

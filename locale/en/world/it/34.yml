@@ -1,19 +1,19 @@
---- 
-en: 
-  world: 
-    it: 
-      "34": 
-        bl: 
+---
+en:
+  world:
+    it:
+      '34':
+        bl:
           name: Belluno
-        pd: 
+        pd:
           name: Padova
-        ro: 
+        ro:
           name: Rovigo
-        tv: 
+        tv:
           name: Treviso
-        ve: 
+        ve:
           name: Venezia
-        vr: 
+        vr:
           name: Verona
-        vi: 
+        vi:
           name: Vicenza

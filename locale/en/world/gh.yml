@@ -1,24 +1,24 @@
---- 
-en: 
-  world: 
-    gh: 
-      ah: 
+---
+en:
+  world:
+    gh:
+      ah:
         name: Ashanti
-      ba: 
+      ba:
         name: Brong-Ahafo
-      cp: 
+      cp:
         name: Central
-      ep: 
+      ep:
         name: Eastern
-      aa: 
+      aa:
         name: Greater Accra
-      np: 
+      np:
         name: Northern
-      ue: 
+      ue:
         name: Upper East
-      uw: 
+      uw:
         name: Upper West
-      tv: 
+      tv:
         name: Volta
-      wp: 
+      wp:
         name: Western

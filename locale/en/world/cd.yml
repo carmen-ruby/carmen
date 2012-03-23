@@ -1,28 +1,28 @@
---- 
-en: 
-  world: 
-    cd: 
-      kn: 
+---
+en:
+  world:
+    cd:
+      kn:
         name: Kinshasa
-      bn: 
+      bn:
         name: Bandundu
-      bc: 
+      bc:
         name: Bas-Congo
-      eq: 
-        name: "\xC3\x89quateur"
-      hc: 
+      eq:
+        name: Équateur
+      hc:
         name: Haut-Congo
-      kw: 
+      kw:
         name: Kasai-Occidental
-      ke: 
+      ke:
         name: Kasai-Oriental
-      ka: 
+      ka:
         name: Katanga
-      ma: 
+      ma:
         name: Maniema
-      nk: 
+      nk:
         name: Nord-Kivu
-      or: 
+      or:
         name: Orientale
-      sk: 
+      sk:
         name: Sud-Kivu

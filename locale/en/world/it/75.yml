@@ -1,17 +1,17 @@
---- 
-en: 
-  world: 
-    it: 
-      "75": 
-        ba: 
+---
+en:
+  world:
+    it:
+      '75':
+        ba:
           name: Bari
-        bt: 
+        bt:
           name: Barletta-Andria-Trani
-        br: 
+        br:
           name: Brindisi
-        fg: 
+        fg:
           name: Foggia
-        le: 
+        le:
           name: Lecce
-        ta: 
+        ta:
           name: Taranto

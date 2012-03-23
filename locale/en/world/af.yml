@@ -1,72 +1,72 @@
---- 
-en: 
-  world: 
-    af: 
-      bds: 
-        name: "Badakhsh\xC4\x81n"
-      bdg: 
-        name: "B\xC4\x81dgh\xC4\xABs"
-      bgl: 
-        name: "Baghl\xC4\x81n"
-      bal: 
+---
+en:
+  world:
+    af:
+      bds:
+        name: Badakhshān
+      bdg:
+        name: Bādghīs
+      bgl:
+        name: Baghlān
+      bal:
         name: Balkh
-      bam: 
-        name: "B\xC4\x81m\xC4\xAB\xC4\x81n"
-      day: 
-        name: "D\xC4\x81ykond\xC4\xAB"
-      fra: 
-        name: "Far\xC4\x81h"
-      fyb: 
-        name: "F\xC4\x81ry\xC4\x81b"
-      gha: 
-        name: "Ghazn\xC4\xAB"
-      gho: 
+      bam:
+        name: Bāmīān
+      day:
+        name: Dāykondī
+      fra:
+        name: Farāh
+      fyb:
+        name: Fāryāb
+      gha:
+        name: Ghaznī
+      gho:
         name: Ghowr
-      hel: 
+      hel:
         name: Helmand
-      her: 
-        name: "Her\xC4\x81t"
-      jow: 
-        name: "Jowzj\xC4\x81n"
-      kab: 
-        name: "K\xC4\x81bul [K\xC4\x81bol]"
-      kan: 
-        name: "Kandah\xC4\x81r"
-      kap: 
-        name: "K\xC4\x81p\xC4\xABs\xC4\x81"
-      kho: 
+      her:
+        name: Herāt
+      jow:
+        name: Jowzjān
+      kab:
+        name: Kābul [Kābol]
+      kan:
+        name: Kandahār
+      kap:
+        name: Kāpīsā
+      kho:
         name: Khowst
-      knr: 
+      knr:
         name: Konar [Kunar]
-      kdz: 
+      kdz:
         name: Kondoz [Kunduz]
-      lag: 
-        name: "Laghm\xC4\x81n"
-      low: 
+      lag:
+        name: Laghmān
+      low:
         name: Lowgar
-      nan: 
-        name: "Nangrah\xC4\x81r [Nangarh\xC4\x81r]"
-      nim: 
-        name: "N\xC4\xABmr\xC5\xABz"
-      nur: 
-        name: "N\xC5\xABrest\xC4\x81n"
-      oru: 
-        name: "Or\xC5\xABzg\xC4\x81n [Ur\xC5\xABzg\xC4\x81n]"
-      pan: 
-        name: "Panjsh\xC4\xABr"
-      pia: 
-        name: "Pakt\xC4\xAB\xC4\x81"
-      pka: 
-        name: "Pakt\xC4\xABk\xC4\x81"
-      par: 
-        name: "Parw\xC4\x81n"
-      sam: 
-        name: "Samang\xC4\x81n"
-      sar: 
+      nan:
+        name: Nangrahār [Nangarhār]
+      nim:
+        name: Nīmrūz
+      nur:
+        name: Nūrestān
+      oru:
+        name: Orūzgān [Urūzgān]
+      pan:
+        name: Panjshīr
+      pia:
+        name: Paktīā
+      pka:
+        name: Paktīkā
+      par:
+        name: Parwān
+      sam:
+        name: Samangān
+      sar:
         name: Sar-e Pol
-      tak: 
-        name: "Takh\xC4\x81r"
-      war: 
+      tak:
+        name: Takhār
+      war:
         name: Wardak [Wardag]
-      zab: 
-        name: "Z\xC4\x81bol [Z\xC4\x81bul]"
+      zab:
+        name: Zābol [Zābul]

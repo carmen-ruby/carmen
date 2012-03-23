@@ -1,9 +1,9 @@
---- 
-en: 
-  world: 
-    ma: 
-      "10": 
-        jdi: 
+---
+en:
+  world:
+    ma:
+      '10':
+        jdi:
           name: El Jadida
-        saf: 
+        saf:
           name: Safi

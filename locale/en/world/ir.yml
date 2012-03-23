@@ -1,64 +1,64 @@
---- 
-en: 
-  world: 
-    ir: 
-      "03": 
-        name: "Ardab\xC4\xABl"
-      "02": 
-        name: "\xC4\x80zarb\xC4\x81yj\xC4\x81n-e Gharb\xC4\xAB"
-      "01": 
-        name: "\xC4\x80zarb\xC4\x81yj\xC4\x81n-e Sharq\xC4\xAB"
-      "06": 
-        name: "B\xC5\xABshehr"
-      08: 
-        name: "Chah\xC4\x81r Mah\xC4\x81ll va Bakht\xC4\xAB\xC4\x81r\xC4\xAB"
-      "04": 
-        name: "E\xC5\x9Ffah\xC4\x81n"
-      "14": 
-        name: "F\xC4\x81rs"
-      "19": 
-        name: "G\xC4\xABl\xC4\x81n"
-      "27": 
-        name: "Golest\xC4\x81n"
-      "24": 
-        name: "Hamad\xC4\x81n"
-      "23": 
-        name: "Hormozg\xC4\x81n"
-      "05": 
-        name: "\xC4\xAAl\xC4\x81m"
-      "15": 
-        name: "Kerm\xC4\x81n"
-      "17": 
-        name: "Kerm\xC4\x81nsh\xC4\x81h"
-      "29": 
-        name: "Khor\xC4\x81s\xC4\x81n-e Jan\xC5\xABb\xC4\xAB"
-      "30": 
-        name: "Khor\xC4\x81s\xC4\x81n-e Razav\xC4\xAB"
-      "31": 
-        name: "Khor\xC4\x81s\xC4\x81n-e Shem\xC4\x81l\xC4\xAB"
-      "10": 
-        name: "Kh\xC5\xABzest\xC4\x81n"
-      "18": 
-        name: "Kohg\xC4\xABl\xC5\xAByeh va B\xC5\xAByer Ahmad"
-      "16": 
-        name: "Kordest\xC4\x81n"
-      "20": 
-        name: "Lorest\xC4\x81n"
-      "22": 
-        name: "Markaz\xC4\xAB"
-      "21": 
-        name: "M\xC4\x81zandar\xC4\x81n"
-      "28": 
-        name: "Qazv\xC4\xABn"
-      "26": 
+---
+en:
+  world:
+    ir:
+      '03':
+        name: Ardabīl
+      '02':
+        name: Āzarbāyjān-e Gharbī
+      '01':
+        name: Āzarbāyjān-e Sharqī
+      '06':
+        name: Būshehr
+      '08':
+        name: Chahār Mahāll va Bakhtīārī
+      '04':
+        name: Eşfahān
+      '14':
+        name: Fārs
+      '19':
+        name: Gīlān
+      '27':
+        name: Golestān
+      '24':
+        name: Hamadān
+      '23':
+        name: Hormozgān
+      '05':
+        name: Īlām
+      '15':
+        name: Kermān
+      '17':
+        name: Kermānshāh
+      '29':
+        name: Khorāsān-e Janūbī
+      '30':
+        name: Khorāsān-e Razavī
+      '31':
+        name: Khorāsān-e Shemālī
+      '10':
+        name: Khūzestān
+      '18':
+        name: Kohgīlūyeh va Būyer Ahmad
+      '16':
+        name: Kordestān
+      '20':
+        name: Lorestān
+      '22':
+        name: Markazī
+      '21':
+        name: Māzandarān
+      '28':
+        name: Qazvīn
+      '26':
         name: Qom
-      "12": 
-        name: "Semn\xC4\x81n"
-      "13": 
-        name: "S\xC4\xABst\xC4\x81n va Bal\xC5\xABchest\xC4\x81n"
-      "07": 
-        name: "Tehr\xC4\x81n"
-      "25": 
+      '12':
+        name: Semnān
+      '13':
+        name: Sīstān va Balūchestān
+      '07':
+        name: Tehrān
+      '25':
         name: Yazd
-      "11": 
-        name: "Zanj\xC4\x81n"
+      '11':
+        name: Zanjān

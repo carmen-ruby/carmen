@@ -1,32 +1,32 @@
---- 
-en: 
-  world: 
-    uz: 
-      tk: 
+---
+en:
+  world:
+    uz:
+      tk:
         name: Toshkent
-      an: 
+      an:
         name: Andijon
-      bu: 
+      bu:
         name: Buxoro
-      fa: 
+      fa:
         name: Farg'ona
-      ji: 
+      ji:
         name: Jizzax
-      ng: 
+      ng:
         name: Namangan
-      nw: 
+      nw:
         name: Navoiy
-      qa: 
+      qa:
         name: Qashqadaryo
-      sa: 
+      sa:
         name: Samarqand
-      si: 
+      si:
         name: Sirdaryo
-      su: 
+      su:
         name: Surxondaryo
-      to: 
+      to:
         name: Toshkent
-      xo: 
+      xo:
         name: Xorazm
-      qr: 
+      qr:
         name: Qoraqalpog'iston Respublikasi

@@ -1,32 +1,32 @@
---- 
-en: 
-  world: 
-    sv: 
-      ah: 
-        name: "Ahuachap\xC3\xA1n"
-      ca: 
-        name: "Caba\xC3\xB1as"
-      cu: 
-        name: "Cuscatl\xC3\xA1n"
-      ch: 
+---
+en:
+  world:
+    sv:
+      ah:
+        name: Ahuachapán
+      ca:
+        name: Cabañas
+      cu:
+        name: Cuscatlán
+      ch:
         name: Chalatenango
-      li: 
+      li:
         name: La Libertad
-      pa: 
+      pa:
         name: La Paz
-      un: 
-        name: "La Uni\xC3\xB3n"
-      mo: 
-        name: "Moraz\xC3\xA1n"
-      sm: 
+      un:
+        name: La Unión
+      mo:
+        name: Morazán
+      sm:
         name: San Miguel
-      ss: 
+      ss:
         name: San Salvador
-      sa: 
+      sa:
         name: Santa Ana
-      sv: 
+      sv:
         name: San Vicente
-      so: 
+      so:
         name: Sonsonate
-      us: 
-        name: "Usulut\xC3\xA1n"
+      us:
+        name: Usulután

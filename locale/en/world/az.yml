@@ -1,146 +1,146 @@
---- 
-en: 
-  world: 
-    az: 
-      nx: 
-        name: "Nax\xC3\xA7\xC4\xB1van"
-      ab: 
-        name: "\xC6\x8Fli Bayraml\xC4\xB1"
-      ba: 
-        name: "Bak\xC4\xB1"
-      ga: 
-        name: "G\xC9\x99nc\xC9\x99"
-      la: 
-        name: "L\xC9\x99nk\xC9\x99ran"
-      mi: 
-        name: "Ming\xC9\x99\xC3\xA7evir"
-      na: 
+---
+en:
+  world:
+    az:
+      nx:
+        name: Naxçıvan
+      ab:
+        name: Əli Bayramlı
+      ba:
+        name: Bakı
+      ga:
+        name: Gəncə
+      la:
+        name: Lənkəran
+      mi:
+        name: Mingəçevir
+      na:
         name: Naftalan
-      sa: 
-        name: "\xC5\x9E\xC9\x99ki"
-      sm: 
-        name: "Sumqay\xC4\xB1t"
-      ss: 
-        name: "\xC5\x9Eu\xC5\x9Fa"
-      xa: 
-        name: "Xank\xC9\x99ndi"
-      ye: 
+      sa:
+        name: Şəki
+      sm:
+        name: Sumqayıt
+      ss:
+        name: Şuşa
+      xa:
+        name: Xankəndi
+      ye:
         name: Yevlax
-      abs: 
-        name: "Ab\xC5\x9Feron"
-      agc: 
-        name: "A\xC4\x9Fcab\xC9\x99di"
-      agm: 
-        name: "A\xC4\x9Fdam"
-      ags: 
-        name: "A\xC4\x9Fda\xC5\x9F"
-      aga: 
-        name: "A\xC4\x9Fstafa"
-      agu: 
-        name: "A\xC4\x9Fsu"
-      ast: 
+      abs:
+        name: Abşeron
+      agc:
+        name: Ağcabədi
+      agm:
+        name: Ağdam
+      ags:
+        name: Ağdaş
+      aga:
+        name: Ağstafa
+      agu:
+        name: Ağsu
+      ast:
         name: Astara
-      bal: 
-        name: "Balak\xC9\x99n"
-      bar: 
-        name: "B\xC9\x99rd\xC9\x99"
-      bey: 
-        name: "Beyl\xC9\x99qan"
-      bil: 
-        name: "Bil\xC9\x99suvar"
-      cab: 
-        name: "C\xC9\x99bray\xC4\xB1l"
-      cal: 
-        name: "C\xC9\x99lilabab"
-      das: 
-        name: "Da\xC5\x9Fk\xC9\x99s\xC9\x99n"
-      dav: 
-        name: "D\xC9\x99v\xC9\x99\xC3\xA7i"
-      fuz: 
-        name: "F\xC3\xBCzuli"
-      gad: 
-        name: "G\xC9\x99d\xC9\x99b\xC9\x99y"
-      gor: 
+      bal:
+        name: Balakən
+      bar:
+        name: Bərdə
+      bey:
+        name: Beyləqan
+      bil:
+        name: Biləsuvar
+      cab:
+        name: Cəbrayıl
+      cal:
+        name: Cəlilabab
+      das:
+        name: Daşkəsən
+      dav:
+        name: Dəvəçi
+      fuz:
+        name: Füzuli
+      gad:
+        name: Gədəbəy
+      gor:
         name: Goranboy
-      goy: 
-        name: "G\xC3\xB6y\xC3\xA7ay"
-      hac: 
-        name: "Hac\xC4\xB1qabul"
-      imi: 
-        name: "\xC4\xB0mi\xC5\x9Fli"
-      ism: 
-        name: "\xC4\xB0smay\xC4\xB1ll\xC4\xB1"
-      kal: 
-        name: "K\xC9\x99lb\xC9\x99c\xC9\x99r"
-      kur: 
-        name: "K\xC3\xBCrd\xC9\x99mir"
-      lac: 
-        name: "La\xC3\xA7\xC4\xB1n"
-      lan: 
-        name: "L\xC9\x99nk\xC9\x99ran"
-      ler: 
+      goy:
+        name: Göyçay
+      hac:
+        name: Hacıqabul
+      imi:
+        name: İmişli
+      ism:
+        name: İsmayıllı
+      kal:
+        name: Kəlbəcər
+      kur:
+        name: Kürdəmir
+      lac:
+        name: Laçın
+      lan:
+        name: Lənkəran
+      ler:
         name: Lerik
-      mas: 
-        name: "Masall\xC4\xB1"
-      nef: 
-        name: "Neft\xC3\xA7ala"
-      ogu: 
-        name: "O\xC4\x9Fuz"
-      qab: 
-        name: "Q\xC9\x99b\xC9\x99l\xC9\x99"
-      qax: 
+      mas:
+        name: Masallı
+      nef:
+        name: Neftçala
+      ogu:
+        name: Oğuz
+      qab:
+        name: Qəbələ
+      qax:
         name: Qax
-      qaz: 
+      qaz:
         name: Qazax
-      qob: 
+      qob:
         name: Qobustan
-      qba: 
+      qba:
         name: Quba
-      qbi: 
-        name: "Qubadl\xC4\xB1"
-      qus: 
+      qbi:
+        name: Qubadlı
+      qus:
         name: Qusar
-      sat: 
-        name: "Saatl\xC4\xB1"
-      sab: 
+      sat:
+        name: Saatlı
+      sab:
         name: Sabirabad
-      sak: 
-        name: "\xC5\x9E\xC9\x99ki"
-      sal: 
+      sak:
+        name: Şəki
+      sal:
         name: Salyan
-      smi: 
-        name: "\xC5\x9Eamax\xC4\xB1"
-      skr: 
-        name: "\xC5\x9E\xC9\x99mkir"
-      smx: 
+      smi:
+        name: Şamaxı
+      skr:
+        name: Şəmkir
+      smx:
         name: Samux
-      siy: 
-        name: "Siy\xC9\x99z\xC9\x99n"
-      sus: 
-        name: "\xC5\x9Eu\xC5\x9Fa"
-      tar: 
-        name: "T\xC9\x99rt\xC9\x99r"
-      tov: 
+      siy:
+        name: Siyəzən
+      sus:
+        name: Şuşa
+      tar:
+        name: Tərtər
+      tov:
         name: Tovuz
-      uca: 
+      uca:
         name: Ucar
-      xac: 
-        name: "Xa\xC3\xA7maz"
-      xan: 
+      xac:
+        name: Xaçmaz
+      xan:
         name: Xanlar
-      xiz: 
-        name: "X\xC4\xB1z\xC4\xB1"
-      xci: 
-        name: "Xocal\xC4\xB1"
-      xvd: 
-        name: "Xocav\xC9\x99nd"
-      yar: 
-        name: "Yard\xC4\xB1ml\xC4\xB1"
-      yev: 
+      xiz:
+        name: Xızı
+      xci:
+        name: Xocalı
+      xvd:
+        name: Xocavənd
+      yar:
+        name: Yardımlı
+      yev:
         name: Yevlax
-      zan: 
-        name: "Z\xC9\x99ngilan"
-      zaq: 
+      zan:
+        name: Zəngilan
+      zaq:
         name: Zaqatala
-      zar: 
-        name: "Z\xC9\x99rdab"
+      zar:
+        name: Zərdab

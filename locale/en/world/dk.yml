@@ -1,14 +1,14 @@
---- 
-en: 
-  world: 
-    dk: 
-      "81": 
+---
+en:
+  world:
+    dk:
+      '81':
         name: Nordjylland
-      "82": 
+      '82':
         name: Midtjylland
-      "83": 
+      '83':
         name: Syddanmark
-      "84": 
+      '84':
         name: Hovedstaden
-      "85": 
-        name: "Sj\xC3\xA6lland"
+      '85':
+        name: Sjælland

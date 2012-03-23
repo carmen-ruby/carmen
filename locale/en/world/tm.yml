@@ -1,16 +1,16 @@
---- 
-en: 
-  world: 
-    tm: 
-      a: 
+---
+en:
+  world:
+    tm:
+      a:
         name: Ahal
-      b: 
+      b:
         name: Balkan
-      d: 
-        name: "Da\xC5\x9Foguz"
-      l: 
+      d:
+        name: Daşoguz
+      l:
         name: Lebap
-      m: 
+      m:
         name: Mary
-      s: 
-        name: "A\xC5\x9Fgabat"
+      s:
+        name: Aşgabat

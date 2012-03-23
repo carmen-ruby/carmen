@@ -1,58 +1,58 @@
---- 
-en: 
-  world: 
-    ua: 
-      "71": 
+---
+en:
+  world:
+    ua:
+      '71':
         name: Cherkas'ka Oblast'
-      "74": 
+      '74':
         name: Chernihivs'ka Oblast'
-      "77": 
+      '77':
         name: Chernivets'ka Oblast'
-      "12": 
+      '12':
         name: Dnipropetrovs'ka Oblast'
-      "14": 
+      '14':
         name: Donets'ka Oblast'
-      "26": 
+      '26':
         name: Ivano-Frankivs'ka Oblast'
-      "63": 
+      '63':
         name: Kharkivs'ka Oblast'
-      "65": 
+      '65':
         name: Khersons'ka Oblast'
-      "68": 
+      '68':
         name: Khmel'nyts'ka Oblast'
-      "35": 
+      '35':
         name: Kirovohrads'ka Oblast'
-      "32": 
-        name: "Ky\xC3\xAFvs'ka Oblast'"
-      09: 
+      '32':
+        name: Kyïvs'ka Oblast'
+      '09':
         name: Luhans'ka Oblast'
-      "46": 
+      '46':
         name: L'vivs'ka Oblast'
-      "48": 
-        name: "Mykola\xC3\xAFvs'ka Oblast'"
-      "51": 
+      '48':
+        name: Mykolaïvs'ka Oblast'
+      '51':
         name: Odes'ka Oblast'
-      "53": 
+      '53':
         name: Poltavs'ka Oblast'
-      "56": 
+      '56':
         name: Rivnens'ka Oblast'
-      "59": 
+      '59':
         name: Sums 'ka Oblast'
-      "61": 
+      '61':
         name: Ternopil's'ka Oblast'
-      "05": 
+      '05':
         name: Vinnyts'ka Oblast'
-      "07": 
+      '07':
         name: Volyns'ka Oblast'
-      "21": 
+      '21':
         name: Zakarpats'ka Oblast'
-      "23": 
+      '23':
         name: Zaporiz'ka Oblast'
-      "18": 
+      '18':
         name: Zhytomyrs'ka Oblast'
-      "43": 
+      '43':
         name: Respublika Krym
-      "30": 
-        name: "Ky\xC3\xAFvs'ka mis'ka rada"
-      "40": 
+      '30':
+        name: Kyïvs'ka mis'ka rada
+      '40':
         name: Sevastopol

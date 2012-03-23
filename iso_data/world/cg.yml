@@ -1,23 +1,23 @@
---- 
-- code: "11"
+---
+- code: '11'
   type: region
-- code: "8"
+- code: '8'
   type: region
-- code: "15"
+- code: '15'
   type: region
-- code: "5"
+- code: '5'
   type: region
-- code: "2"
+- code: '2'
   type: region
-- code: "7"
+- code: '7'
   type: region
-- code: "9"
+- code: '9'
   type: region
-- code: "14"
+- code: '14'
   type: region
-- code: "12"
+- code: '12'
   type: region
-- code: "13"
+- code: '13'
   type: region
 - code: BZV
   type: capital district

@@ -1,9 +1,9 @@
---- 
-en: 
-  world: 
-    it: 
-      "55": 
-        pg: 
+---
+en:
+  world:
+    it:
+      '55':
+        pg:
           name: Perugia
-        tr: 
+        tr:
           name: Terni

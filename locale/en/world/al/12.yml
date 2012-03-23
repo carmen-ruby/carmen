@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    al: 
-      "12": 
-        dl: 
-          name: "Delvin\xC3\xAB"
-        sr: 
-          name: "Sarand\xC3\xAB"
-        vl: 
-          name: "Vlor\xC3\xAB"
+---
+en:
+  world:
+    al:
+      '12':
+        dl:
+          name: Delvinë
+        sr:
+          name: Sarandë
+        vl:
+          name: Vlorë

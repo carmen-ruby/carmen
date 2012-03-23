@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    gr: 
-      d: 
-        "33": 
+---
+en:
+  world:
+    gr:
+      d:
+        '33':
           name: Ioannina
-        "34": 
+        '34':
           name: Preveza
-        "32": 
+        '32':
           name: Thesprotia

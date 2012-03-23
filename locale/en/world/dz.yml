@@ -1,100 +1,100 @@
---- 
-en: 
-  world: 
-    dz: 
-      "01": 
+---
+en:
+  world:
+    dz:
+      '01':
         name: Adrar
-      "44": 
-        name: "A\xC3\xAFn Defla"
-      "46": 
-        name: "A\xC3\xAFn T\xC3\xA9mouchent"
-      "16": 
+      '44':
+        name: Aïn Defla
+      '46':
+        name: Aïn Témouchent
+      '16':
         name: Alger
-      "23": 
+      '23':
         name: Annaba
-      "05": 
+      '05':
         name: Batna
-      08: 
-        name: "B\xC3\xA9char"
-      "06": 
-        name: "B\xC3\xA9ja\xC3\xAFa"
-      "07": 
+      '08':
+        name: Béchar
+      '06':
+        name: Béjaïa
+      '07':
         name: Biskra
-      09: 
+      '09':
         name: Blida
-      "34": 
-        name: "Bordj Bou Arr\xC3\xA9ridj"
-      "10": 
+      '34':
+        name: Bordj Bou Arréridj
+      '10':
         name: Bouira
-      "35": 
-        name: "Boumerd\xC3\xA8s"
-      "02": 
+      '35':
+        name: Boumerdès
+      '02':
         name: Chlef
-      "25": 
+      '25':
         name: Constantine
-      "17": 
+      '17':
         name: Djelfa
-      "32": 
+      '32':
         name: El Bayadh
-      "39": 
+      '39':
         name: El Oued
-      "36": 
+      '36':
         name: El Tarf
-      "47": 
-        name: "Gharda\xC3\xAFa"
-      "24": 
+      '47':
+        name: Ghardaïa
+      '24':
         name: Guelma
-      "33": 
+      '33':
         name: Illizi
-      "18": 
+      '18':
         name: Jijel
-      "40": 
+      '40':
         name: Khenchela
-      "03": 
+      '03':
         name: Laghouat
-      "29": 
+      '29':
         name: Mascara
-      "26": 
-        name: "M\xC3\xA9d\xC3\xA9a"
-      "43": 
+      '26':
+        name: Médéa
+      '43':
         name: Mila
-      "27": 
+      '27':
         name: Mostaganem
-      "28": 
+      '28':
         name: Msila
-      "45": 
+      '45':
         name: Naama
-      "31": 
+      '31':
         name: Oran
-      "30": 
+      '30':
         name: Ouargla
-      "04": 
+      '04':
         name: Oum el Bouaghi
-      "48": 
+      '48':
         name: Relizane
-      "20": 
-        name: "Sa\xC3\xAFda"
-      "19": 
-        name: "S\xC3\xA9tif"
-      "22": 
-        name: "Sidi Bel Abb\xC3\xA8s"
-      "21": 
+      '20':
+        name: Saïda
+      '19':
+        name: Sétif
+      '22':
+        name: Sidi Bel Abbès
+      '21':
         name: Skikda
-      "41": 
+      '41':
         name: Souk Ahras
-      "11": 
+      '11':
         name: Tamanghasset
-      "12": 
-        name: "T\xC3\xA9bessa"
-      "14": 
+      '12':
+        name: Tébessa
+      '14':
         name: Tiaret
-      "37": 
+      '37':
         name: Tindouf
-      "42": 
+      '42':
         name: Tipaza
-      "38": 
+      '38':
         name: Tissemsilt
-      "15": 
+      '15':
         name: Tizi Ouzou
-      "13": 
+      '13':
         name: Tlemcen

@@ -1,26 +1,26 @@
---- 
-en: 
-  world: 
-    et: 
-      aa: 
-        name: "\xC4\x80d\xC4\xABs \xC4\x80beba"
-      dd: 
-        name: "Dir\xC4\x93 Dawa"
-      af: 
-        name: "\xC4\x80far"
-      am: 
-        name: "\xC4\x80mara"
-      be: 
-        name: "B\xC4\xABnshangul Gumuz"
-      ga: 
-        name: "Gamb\xC4\x93la Hizboch"
-      ha: 
-        name: "H\xC4\x81rer\xC4\xAB Hizb"
-      or: 
-        name: "Orom\xC4\xABya"
-      so: 
-        name: "Sumal\xC4\x93"
-      ti: 
+---
+en:
+  world:
+    et:
+      aa:
+        name: Ādīs Ābeba
+      dd:
+        name: Dirē Dawa
+      af:
+        name: Āfar
+      am:
+        name: Āmara
+      be:
+        name: Bīnshangul Gumuz
+      ga:
+        name: Gambēla Hizboch
+      ha:
+        name: Hārerī Hizb
+      or:
+        name: Oromīya
+      so:
+        name: Sumalē
+      ti:
         name: Tigray
-      sn: 
-        name: "YeDebub Bih\xC4\x93roch Bih\xC4\x93reseboch na Hizboch"
+      sn:
+        name: YeDebub Bihēroch Bihēreseboch na Hizboch

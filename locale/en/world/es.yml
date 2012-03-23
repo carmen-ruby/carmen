@@ -1,42 +1,42 @@
---- 
-en: 
-  world: 
-    es: 
-      an: 
-        name: "Andaluc\xC3\xADa"
-      ar: 
-        name: "Arag\xC3\xB3n"
-      as: 
+---
+en:
+  world:
+    es:
+      an:
+        name: Andalucía
+      ar:
+        name: Aragón
+      as:
         name: Asturias, Principado de
-      cn: 
+      cn:
         name: Canarias
-      cb: 
+      cb:
         name: Cantabria
-      cm: 
+      cm:
         name: Castilla-La Mancha
-      cl: 
-        name: "Castilla y Le\xC3\xB3n"
-      ct: 
+      cl:
+        name: Castilla y León
+      ct:
         name: Catalunya
-      ex: 
+      ex:
         name: Extremadura
-      ga: 
+      ga:
         name: Galicia
-      ib: 
+      ib:
         name: Illes Balears
-      ri: 
+      ri:
         name: La Rioja
-      md: 
+      md:
         name: Madrid, Comunidad de
-      mc: 
-        name: "Murcia, Regi\xC3\xB3n de"
-      nc: 
+      mc:
+        name: Murcia, Región de
+      nc:
         name: Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea
-      pv: 
-        name: "Pa\xC3\xADs Vasco / Euskal Herria"
-      vc: 
-        name: "Valenciana, Comunidad / Valenciana, Comunitat "
-      ce: 
+      pv:
+        name: País Vasco / Euskal Herria
+      vc:
+        name: ! 'Valenciana, Comunidad / Valenciana, Comunitat '
+      ce:
         name: Ceuta
-      ml: 
+      ml:
         name: Melilla

@@ -1,74 +1,74 @@
---- 
-en: 
-  world: 
-    in: 
-      ap: 
+---
+en:
+  world:
+    in:
+      ap:
         name: Andhra Pradesh
-      ar: 
-        name: "Arun\xC4\x81chal Pradesh"
-      as: 
+      ar:
+        name: Arunāchal Pradesh
+      as:
         name: Assam
-      br: 
-        name: "Bih\xC4\x81r"
-      ct: 
-        name: "Chhatt\xC4\xABsgarh"
-      ga: 
+      br:
+        name: Bihār
+      ct:
+        name: Chhattīsgarh
+      ga:
         name: Goa
-      gj: 
-        name: "Gujar\xC4\x81t"
-      hr: 
-        name: "Hary\xC4\x81na"
-      hp: 
-        name: "Him\xC4\x81chal Pradesh"
-      jk: 
-        name: "Jammu and Kashm\xC4\xABr"
-      jh: 
+      gj:
+        name: Gujarāt
+      hr:
+        name: Haryāna
+      hp:
+        name: Himāchal Pradesh
+      jk:
+        name: Jammu and Kashmīr
+      jh:
         name: Jharkhand
-      ka: 
-        name: "Karn\xC4\x81taka"
-      kl: 
+      ka:
+        name: Karnātaka
+      kl:
         name: Kerala
-      mp: 
+      mp:
         name: Madhya Pradesh
-      mh: 
-        name: "Mah\xC4\x81r\xC4\x81shtra"
-      mn: 
+      mh:
+        name: Mahārāshtra
+      mn:
         name: Manipur
-      ml: 
-        name: "Megh\xC4\x81laya"
-      mz: 
+      ml:
+        name: Meghālaya
+      mz:
         name: Mizoram
-      nl: 
-        name: "N\xC4\x81g\xC4\x81land"
-      or: 
+      nl:
+        name: Nāgāland
+      or:
         name: Orissa
-      pb: 
+      pb:
         name: Punjab
-      rj: 
-        name: "R\xC4\x81jasth\xC4\x81n"
-      sk: 
+      rj:
+        name: Rājasthān
+      sk:
         name: Sikkim
-      tn: 
-        name: "Tamil N\xC4\x81du"
-      tr: 
+      tn:
+        name: Tamil Nādu
+      tr:
         name: Tripura
-      ul: 
+      ul:
         name: Uttaranchal
-      up: 
+      up:
         name: Uttar Pradesh
-      wb: 
+      wb:
         name: West Bengal
-      an: 
+      an:
         name: Andaman and Nicobar Islands
-      ch: 
-        name: "Chand\xC4\xABgarh"
-      dn: 
-        name: "D\xC4\x81dra and Nagar Haveli"
-      dd: 
-        name: "Dam\xC4\x81n and Diu"
-      dl: 
+      ch:
+        name: Chandīgarh
+      dn:
+        name: Dādra and Nagar Haveli
+      dd:
+        name: Damān and Diu
+      dl:
         name: Delhi
-      ld: 
+      ld:
         name: Lakshadweep
-      py: 
+      py:
         name: Pondicherry

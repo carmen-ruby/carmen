@@ -1,44 +1,44 @@
---- 
-en: 
-  world: 
-    ye: 
-      ab: 
-        name: "Aby\xC4\x81n"
-      ad: 
-        name: "'Adan"
-      da: 
-        name: "Ad\xCC\xA7 D\xCC\xA7\xC4\x81li\xE2\x80\x98"
-      ba: 
-        name: "Al Bay\xE1\xB8\x91\xC4\x81'"
-      mu: 
-        name: "Al \xE1\xB8\xA8udaydah"
-      ja: 
+---
+en:
+  world:
+    ye:
+      ab:
+        name: Abyān
+      ad:
+        name: ! '''Adan'
+      da:
+        name: Aḑ Ḑāli‘
+      ba:
+        name: Al Bayḑā'
+      mu:
+        name: Al Ḩudaydah
+      ja:
         name: Al Jawf
-      mr: 
+      mr:
         name: Al Mahrah
-      mw: 
-        name: "Al Ma\xE1\xB8\xA9w\xC4\xABt"
-      am: 
-        name: "'Amr\xC4\x81n"
-      dh: 
-        name: "Dham\xC4\x81r"
-      hd: 
-        name: "\xE1\xB8\xA8a\xE1\xB8\x91ramawt"
-      hj: 
-        name: "\xE1\xB8\xA8ajjah"
-      ib: 
+      mw:
+        name: Al Maḩwīt
+      am:
+        name: ! '''Amrān'
+      dh:
+        name: Dhamār
+      hd:
+        name: Ḩaḑramawt
+      hj:
+        name: Ḩajjah
+      ib:
         name: Ibb
-      la: 
-        name: "La\xE1\xB8\xA9ij"
-      ma: 
+      la:
+        name: Laḩij
+      ma:
         name: Ma'rib
-      ra: 
+      ra:
         name: Raymah
-      sd: 
-        name: "\xC5\x9Ea'dah"
-      sn: 
-        name: "\xC5\x9Ean'\xC4\x81'"
-      sh: 
+      sd:
+        name: Şa'dah
+      sn:
+        name: Şan'ā'
+      sh:
         name: Shabwah
-      ta: 
-        name: "T\xC4\x81'izz"
+      ta:
+        name: Tā'izz

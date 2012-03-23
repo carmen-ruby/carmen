@@ -1,24 +1,24 @@
---- 
-en: 
-  world: 
-    gy: 
-      ba: 
+---
+en:
+  world:
+    gy:
+      ba:
         name: Barima-Waini
-      cu: 
+      cu:
         name: Cuyuni-Mazaruni
-      de: 
+      de:
         name: Demerara-Mahaica
-      eb: 
+      eb:
         name: East Berbice-Corentyne
-      es: 
+      es:
         name: Essequibo Islands-West Demerara
-      ma: 
+      ma:
         name: Mahaica-Berbice
-      pm: 
+      pm:
         name: Pomeroon-Supenaam
-      pt: 
+      pt:
         name: Potaro-Siparuni
-      ud: 
+      ud:
         name: Upper Demerara-Berbice
-      ut: 
+      ut:
         name: Upper Takutu-Upper Essequibo

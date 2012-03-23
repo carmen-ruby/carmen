@@ -1,18 +1,18 @@
---- 
-en: 
-  world: 
-    id: 
-      jw: 
+---
+en:
+  world:
+    id:
+      jw:
         name: Jawa
-      ka: 
+      ka:
         name: Kalimantan
-      ma: 
+      ma:
         name: Maluku
-      nu: 
+      nu:
         name: Nusa Tenggara
-      ij: 
+      ij:
         name: Papua
-      sl: 
+      sl:
         name: Sulawesi
-      sm: 
+      sm:
         name: Sumatera

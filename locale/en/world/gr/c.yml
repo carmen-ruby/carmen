@@ -1,13 +1,13 @@
---- 
-en: 
-  world: 
-    gr: 
-      c: 
-        "63": 
+---
+en:
+  world:
+    gr:
+      c:
+        '63':
           name: Florina
-        "51": 
+        '51':
           name: Grevena
-        "56": 
+        '56':
           name: Kastoria
-        "58": 
+        '58':
           name: Kozani

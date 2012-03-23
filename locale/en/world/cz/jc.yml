@@ -1,19 +1,19 @@
---- 
-en: 
-  world: 
-    cz: 
-      jc: 
-        "311": 
-          name: "\xC4\x8Cesk\xC3\xA9 Bud\xC4\x9Bjovice"
-        "312": 
-          name: "\xC4\x8Cesk\xC3\xBD Krumlov"
-        "313": 
-          name: "Jind\xC5\x99ich\xC5\xAFv Hradec"
-        "314": 
-          name: "P\xC3\xADsek"
-        "315": 
+---
+en:
+  world:
+    cz:
+      jc:
+        '311':
+          name: České Budějovice
+        '312':
+          name: Český Krumlov
+        '313':
+          name: Jindřichův Hradec
+        '314':
+          name: Písek
+        '315':
           name: Prachatice
-        "316": 
+        '316':
           name: Strakonice
-        "317": 
-          name: "T\xC3\xA1bor"
+        '317':
+          name: Tábor

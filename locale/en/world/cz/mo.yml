@@ -1,17 +1,17 @@
---- 
-en: 
-  world: 
-    cz: 
-      mo: 
-        "801": 
-          name: "Brunt\xC3\xA1l"
-        "802": 
-          name: "Fr\xC3\xBDdek M\xC3\xADstek"
-        "803": 
-          name: "Karvin\xC3\xA1"
-        "804": 
-          name: "Nov\xC3\xBD Ji\xC4\x8D\xC3\xADn"
-        "805": 
+---
+en:
+  world:
+    cz:
+      mo:
+        '801':
+          name: Bruntál
+        '802':
+          name: Frýdek Místek
+        '803':
+          name: Karviná
+        '804':
+          name: Nový Jičín
+        '805':
           name: Opava
-        "806": 
-          name: "Ostrava m\xC4\x9Bsto"
+        '806':
+          name: Ostrava město

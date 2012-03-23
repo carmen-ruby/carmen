@@ -1,4 +1,4 @@
---- 
+---
 - code: AC
   type: district
 - code: BY
@@ -41,7 +41,7 @@
   type: district
 - code: MI
   type: district
-- code: "NO"
+- code: 'NO'
   type: district
 - code: NS
   type: district

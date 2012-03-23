@@ -1,4 +1,4 @@
---- 
+---
 - code: CA
   type: region
 - code: ER
@@ -19,7 +19,7 @@
   type: region
 - code: OS
   type: region
-- code: "ON"
+- code: 'ON'
   type: region
 - code: OT
   type: region

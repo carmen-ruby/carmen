@@ -1,13 +1,13 @@
---- 
-en: 
-  world: 
-    al: 
-      "06": 
-        dv: 
+---
+en:
+  world:
+    al:
+      '06':
+        dv:
           name: Devoll
-        er: 
-          name: "Kolonj\xC3\xAB"
-        ko: 
-          name: "Kor\xC3\xA7\xC3\xAB"
-        pg: 
+        er:
+          name: Kolonjë
+        ko:
+          name: Korçë
+        pg:
           name: Pogradec

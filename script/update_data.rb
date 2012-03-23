@@ -2,6 +2,8 @@ require 'nokogiri'
 require 'yaml'
 require 'pathname'
 
+YAML::ENGINE.yamler = 'psych'
+
 begin
   require 'ftools'
 rescue LoadError

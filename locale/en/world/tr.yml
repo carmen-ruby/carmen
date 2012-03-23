@@ -1,166 +1,166 @@
---- 
-en: 
-  world: 
-    tr: 
-      "01": 
+---
+en:
+  world:
+    tr:
+      '01':
         name: Adana
-      "02": 
-        name: "Ad\xC4\xB1yaman"
-      "03": 
+      '02':
+        name: Adıyaman
+      '03':
         name: Afyon
-      "04": 
-        name: "A\xC4\x9Fr\xC4\xB1"
-      "68": 
+      '04':
+        name: Ağrı
+      '68':
         name: Aksaray
-      "05": 
+      '05':
         name: Amasya
-      "06": 
+      '06':
         name: Ankara
-      "07": 
+      '07':
         name: Antalya
-      "75": 
+      '75':
         name: Ardahan
-      08: 
+      '08':
         name: Artvin
-      09: 
-        name: "Ayd\xC4\xB1n"
-      "10": 
-        name: "Bal\xC4\xB1kesir"
-      "74": 
-        name: "Bart\xC4\xB1n"
-      "72": 
+      '09':
+        name: Aydın
+      '10':
+        name: Balıkesir
+      '74':
+        name: Bartın
+      '72':
         name: Batman
-      "69": 
+      '69':
         name: Bayburt
-      "11": 
+      '11':
         name: Bilecik
-      "12": 
-        name: "Bing\xC3\xB6l"
-      "13": 
+      '12':
+        name: Bingöl
+      '13':
         name: Bitlis
-      "14": 
+      '14':
         name: Bolu
-      "15": 
+      '15':
         name: Burdur
-      "16": 
+      '16':
         name: Bursa
-      "17": 
-        name: "\xC3\x87anakkale"
-      "18": 
-        name: "\xC3\x87ank\xC4\xB1r\xC4\xB1"
-      "19": 
-        name: "\xC3\x87orum"
-      "20": 
+      '17':
+        name: Çanakkale
+      '18':
+        name: Çankırı
+      '19':
+        name: Çorum
+      '20':
         name: Denizli
-      "21": 
-        name: "Diyarbak\xC4\xB1r"
-      "81": 
-        name: "D\xC3\xBCzce"
-      "22": 
+      '21':
+        name: Diyarbakır
+      '81':
+        name: Düzce
+      '22':
         name: Edirne
-      "23": 
-        name: "Elaz\xC4\xB1\xC4\x9F"
-      "24": 
+      '23':
+        name: Elazığ
+      '24':
         name: Erzincan
-      "25": 
+      '25':
         name: Erzurum
-      "26": 
-        name: "Eski\xC5\x9Fehir"
-      "27": 
+      '26':
+        name: Eskişehir
+      '27':
         name: Gaziantep
-      "28": 
+      '28':
         name: Giresun
-      "29": 
-        name: "G\xC3\xBCm\xC3\xBC\xC5\x9Fhane"
-      "30": 
-        name: "Hakk\xC3\xA2ri"
-      "31": 
+      '29':
+        name: Gümüşhane
+      '30':
+        name: Hakkâri
+      '31':
         name: Hatay
-      "76": 
-        name: "I\xC4\x9Fd\xC4\xB1r"
-      "32": 
+      '76':
+        name: Iğdır
+      '32':
         name: Isparta
-      "33": 
-        name: "\xC4\xB0\xC3\xA7el"
-      "34": 
-        name: "\xC4\xB0stanbul"
-      "35": 
-        name: "\xC4\xB0zmir"
-      "46": 
-        name: "Kahramanmara\xC5\x9F"
-      "78": 
-        name: "Karab\xC3\xBCk"
-      "70": 
+      '33':
+        name: İçel
+      '34':
+        name: İstanbul
+      '35':
+        name: İzmir
+      '46':
+        name: Kahramanmaraş
+      '78':
+        name: Karabük
+      '70':
         name: Karaman
-      "36": 
+      '36':
         name: Kars
-      "37": 
+      '37':
         name: Kastamonu
-      "38": 
+      '38':
         name: Kayseri
-      "71": 
-        name: "K\xC4\xB1r\xC4\xB1kkale"
-      "39": 
-        name: "K\xC4\xB1rklareli"
-      "40": 
-        name: "K\xC4\xB1r\xC5\x9Fehir"
-      "79": 
+      '71':
+        name: Kırıkkale
+      '39':
+        name: Kırklareli
+      '40':
+        name: Kırşehir
+      '79':
         name: Kilis
-      "41": 
+      '41':
         name: Kocaeli
-      "42": 
+      '42':
         name: Konya
-      "43": 
-        name: "K\xC3\xBCtahya"
-      "44": 
+      '43':
+        name: Kütahya
+      '44':
         name: Malatya
-      "45": 
+      '45':
         name: Manisa
-      "47": 
+      '47':
         name: Mardin
-      "48": 
-        name: "Mu\xC4\x9Fla"
-      "49": 
-        name: "Mu\xC5\x9F"
-      "50": 
-        name: "Nev\xC5\x9Fehir"
-      "51": 
-        name: "Ni\xC4\x9Fde"
-      "52": 
+      '48':
+        name: Muğla
+      '49':
+        name: Muş
+      '50':
+        name: Nevşehir
+      '51':
+        name: Niğde
+      '52':
         name: Ordu
-      "80": 
+      '80':
         name: Osmaniye
-      "53": 
+      '53':
         name: Rize
-      "54": 
+      '54':
         name: Sakarya
-      "55": 
+      '55':
         name: Samsun
-      "56": 
+      '56':
         name: Siirt
-      "57": 
+      '57':
         name: Sinop
-      "58": 
+      '58':
         name: Sivas
-      "63": 
-        name: "\xC5\x9Eanl\xC4\xB1urfa"
-      "73": 
-        name: "\xC5\x9E\xC4\xB1rnak"
-      "59": 
-        name: "Tekirda\xC4\x9F"
-      "60": 
+      '63':
+        name: Şanlıurfa
+      '73':
+        name: Şırnak
+      '59':
+        name: Tekirdağ
+      '60':
         name: Tokat
-      "61": 
+      '61':
         name: Trabzon
-      "62": 
+      '62':
         name: Tunceli
-      "64": 
-        name: "U\xC5\x9Fak"
-      "65": 
+      '64':
+        name: Uşak
+      '65':
         name: Van
-      "77": 
+      '77':
         name: Yalova
-      "66": 
+      '66':
         name: Yozgat
-      "67": 
+      '67':
         name: Zonguldak

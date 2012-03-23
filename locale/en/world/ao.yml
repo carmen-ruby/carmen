@@ -1,40 +1,40 @@
---- 
-en: 
-  world: 
-    ao: 
-      bgo: 
+---
+en:
+  world:
+    ao:
+      bgo:
         name: Bengo
-      bgu: 
+      bgu:
         name: Benguela
-      bie: 
-        name: "Bi\xC3\xA9"
-      cab: 
+      bie:
+        name: Bié
+      cab:
         name: Cabinda
-      ccu: 
+      ccu:
         name: Cuando-Cubango
-      cno: 
+      cno:
         name: Cuanza Norte
-      cus: 
+      cus:
         name: Cuanza Sul
-      cnn: 
+      cnn:
         name: Cunene
-      hua: 
+      hua:
         name: Huambo
-      hui: 
-        name: "Hu\xC3\xADla"
-      lua: 
+      hui:
+        name: Huíla
+      lua:
         name: Luanda
-      lno: 
+      lno:
         name: Lunda Norte
-      lsu: 
+      lsu:
         name: Lunda Sul
-      mal: 
+      mal:
         name: Malange
-      mox: 
+      mox:
         name: Moxico
-      nam: 
+      nam:
         name: Namibe
-      uig: 
-        name: "U\xC3\xADge"
-      zai: 
+      uig:
+        name: Uíge
+      zai:
         name: Zaire

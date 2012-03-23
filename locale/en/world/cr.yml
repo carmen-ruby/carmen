@@ -1,18 +1,18 @@
---- 
-en: 
-  world: 
-    cr: 
-      a: 
+---
+en:
+  world:
+    cr:
+      a:
         name: Alajuela
-      c: 
+      c:
         name: Cartago
-      g: 
+      g:
         name: Guanacaste
-      h: 
+      h:
         name: Heredia
-      l: 
-        name: "Lim\xC3\xB3n"
-      p: 
+      l:
+        name: Limón
+      p:
         name: Puntarenas
-      sj: 
-        name: "San Jos\xC3\xA9"
+      sj:
+        name: San José

@@ -1,13 +1,13 @@
---- 
-en: 
-  world: 
-    bf: 
-      "10": 
-        lor: 
+---
+en:
+  world:
+    bf:
+      '10':
+        lor:
           name: Loroum
-        pas: 
-          name: "Passor\xC3\xA9"
-        yat: 
+        pas:
+          name: Passoré
+        yat:
           name: Yatenga
-        zon: 
+        zon:
           name: Zondoma

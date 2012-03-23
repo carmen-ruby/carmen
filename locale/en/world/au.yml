@@ -1,20 +1,20 @@
---- 
-en: 
-  world: 
-    au: 
-      nsw: 
+---
+en:
+  world:
+    au:
+      nsw:
         name: New South Wales
-      qld: 
+      qld:
         name: Queensland
-      sa: 
+      sa:
         name: South Australia
-      tas: 
+      tas:
         name: Tasmania
-      vic: 
+      vic:
         name: Victoria
-      wa: 
+      wa:
         name: Western Australia
-      act: 
+      act:
         name: Australian Capital Territory
-      nt: 
+      nt:
         name: Northern Territory

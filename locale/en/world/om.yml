@@ -1,22 +1,22 @@
---- 
-en: 
-  world: 
-    om: 
-      da: 
-        name: "Ad D\xC4\x81khil\xC4\xABya"
-      ba: 
-        name: "Al B\xC4\x81\xC5\xA3inah"
-      wu: 
-        name: "Al Wus\xC5\xA3\xC3\xA1"
-      sh: 
-        name: "Ash Sharq\xC4\xAByah"
-      za: 
-        name: "Az\xCC\xA7 Z\xCC\xA7\xC4\x81hirah"
-      bu: 
-        name: "Al Buraym\xC4\xAB"
-      ma: 
-        name: "Masqa\xC5\xA3"
-      mu: 
+---
+en:
+  world:
+    om:
+      da:
+        name: Ad Dākhilīya
+      ba:
+        name: Al Bāţinah
+      wu:
+        name: Al Wusţá
+      sh:
+        name: Ash Sharqīyah
+      za:
+        name: Az̧ Z̧āhirah
+      bu:
+        name: Al Buraymī
+      ma:
+        name: Masqaţ
+      mu:
         name: Musandam
-      zu: 
-        name: "Z\xCC\xA7uf\xC4\x81r"
+      zu:
+        name: Z̧ufār

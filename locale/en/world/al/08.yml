@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    al: 
-      08: 
-        kb: 
+---
+en:
+  world:
+    al:
+      '08':
+        kb:
           name: Kurbin
-        le: 
-          name: "Lezh\xC3\xAB"
-        mr: 
-          name: "Mirdit\xC3\xAB"
+        le:
+          name: Lezhë
+        mr:
+          name: Mirditë

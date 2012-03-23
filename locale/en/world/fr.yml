@@ -1,74 +1,74 @@
---- 
-en: 
-  world: 
-    fr: 
-      a: 
+---
+en:
+  world:
+    fr:
+      a:
         name: Alsace
-      b: 
+      b:
         name: Aquitaine
-      c: 
+      c:
         name: Auvergne
-      p: 
+      p:
         name: Basse-Normandie
-      d: 
+      d:
         name: Bourgogne
-      e: 
+      e:
         name: Bretagne
-      f: 
+      f:
         name: Centre
-      g: 
+      g:
         name: Champagne-Ardenne
-      h: 
+      h:
         name: Corse
-      i: 
-        name: "Franche-Comt\xC3\xA9"
-      q: 
+      i:
+        name: Franche-Comté
+      q:
         name: Haute-Normandie
-      j: 
-        name: "\xC3\x8Ele-de-France"
-      k: 
+      j:
+        name: Île-de-France
+      k:
         name: Languedoc-Roussillon
-      l: 
+      l:
         name: Limousin
-      m: 
+      m:
         name: Lorraine
-      n: 
-        name: "Midi-Pyr\xC3\xA9n\xC3\xA9es"
-      o: 
+      n:
+        name: Midi-Pyrénées
+      o:
         name: Nord - Pas-de-Calais
-      r: 
+      r:
         name: Pays de la Loire
-      s: 
+      s:
         name: Picardie
-      t: 
+      t:
         name: Poitou-Charentes
-      u: 
-        name: "Provence-Alpes-C\xC3\xB4te d'Azur"
-      v: 
-        name: "Rh\xC3\xB4ne-Alpes"
-      gp: 
+      u:
+        name: Provence-Alpes-Côte d'Azur
+      v:
+        name: Rhône-Alpes
+      gp:
         name: Guadeloupe
-      gf: 
+      gf:
         name: Guyane
-      mq: 
+      mq:
         name: Martinique
-      re: 
-        name: "R\xC3\xA9union"
-      cp: 
+      re:
+        name: Réunion
+      cp:
         name: Clipperton
-      yt: 
+      yt:
         name: Mayotte
-      nc: 
-        name: "Nouvelle-Cal\xC3\xA9donie"
-      pf: 
-        name: "Polyn\xC3\xA9sie fran\xC3\xA7aise"
-      bl: 
-        name: "Saint-Barth\xC3\xA9lemy"
-      mf: 
+      nc:
+        name: Nouvelle-Calédonie
+      pf:
+        name: Polynésie française
+      bl:
+        name: Saint-Barthélemy
+      mf:
         name: Saint-Martin
-      pm: 
+      pm:
         name: Saint-Pierre-et-Miquelon
-      tf: 
-        name: "Terres australes fran\xC3\xA7aises"
-      wf: 
+      tf:
+        name: Terres australes françaises
+      wf:
         name: Wallis-et-Futuna

@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    gr: 
-      a: 
-        "52": 
+---
+en:
+  world:
+    gr:
+      a:
+        '52':
           name: Drama
-        "71": 
+        '71':
           name: Evros
-        "55": 
+        '55':
           name: Kavala
-        "73": 
+        '73':
           name: Rodopi
-        "72": 
+        '72':
           name: Xanthi

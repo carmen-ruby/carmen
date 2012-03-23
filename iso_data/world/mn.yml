@@ -1,45 +1,45 @@
---- 
-- code: "073"
+---
+- code: '073'
   type: province
-- code: 069
+- code: '069'
   type: province
-- code: "071"
+- code: '071'
   type: province
-- code: "067"
+- code: '067'
   type: province
-- code: "061"
+- code: '061'
   type: province
-- code: "063"
+- code: '063'
   type: province
-- code: 059
+- code: '059'
   type: province
-- code: "057"
+- code: '057'
   type: province
-- code: "065"
+- code: '065'
   type: province
-- code: 039
+- code: '039'
   type: province
-- code: "043"
+- code: '043'
   type: province
-- code: "041"
+- code: '041'
   type: province
-- code: "053"
+- code: '053'
   type: province
-- code: "055"
+- code: '055'
   type: province
-- code: 049
+- code: '049'
   type: province
-- code: "051"
+- code: '051'
   type: province
-- code: "047"
+- code: '047'
   type: province
-- code: "046"
+- code: '046'
   type: province
-- code: "1"
+- code: '1'
   type: municipality
-- code: "037"
+- code: '037'
   type: municipality
-- code: "064"
+- code: '064'
   type: municipality
-- code: "035"
+- code: '035'
   type: municipality

@@ -1,44 +1,44 @@
---- 
-en: 
-  world: 
-    pt: 
-      "01": 
+---
+en:
+  world:
+    pt:
+      '01':
         name: Aveiro
-      "02": 
+      '02':
         name: Beja
-      "03": 
+      '03':
         name: Braga
-      "04": 
-        name: "Bragan\xC3\xA7a"
-      "05": 
+      '04':
+        name: Bragança
+      '05':
         name: Castelo Branco
-      "06": 
+      '06':
         name: Coimbra
-      "07": 
-        name: "\xC3\x89vora"
-      08: 
+      '07':
+        name: Évora
+      '08':
         name: Faro
-      09: 
+      '09':
         name: Guarda
-      "10": 
+      '10':
         name: Leiria
-      "11": 
+      '11':
         name: Lisboa
-      "12": 
+      '12':
         name: Portalegre
-      "13": 
+      '13':
         name: Porto
-      "14": 
-        name: "Santar\xC3\xA9m"
-      "15": 
-        name: "Set\xC3\xBAbal"
-      "16": 
+      '14':
+        name: Santarém
+      '15':
+        name: Setúbal
+      '16':
         name: Viana do Castelo
-      "17": 
+      '17':
         name: Vila Real
-      "18": 
+      '18':
         name: Viseu
-      "20": 
-        name: "Regi\xC3\xA3o Aut\xC3\xB3noma dos A\xC3\xA7ores"
-      "30": 
-        name: "Regi\xC3\xA3o Aut\xC3\xB3noma da Madeira"
+      '20':
+        name: Região Autónoma dos Açores
+      '30':
+        name: Região Autónoma da Madeira

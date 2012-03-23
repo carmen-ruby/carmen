@@ -1,40 +1,40 @@
---- 
-en: 
-  world: 
-    la: 
-      vt: 
+---
+en:
+  world:
+    la:
+      vt:
         name: Vientiane
-      at: 
+      at:
         name: Attapu
-      bk: 
-        name: "Bok\xC3\xA8o"
-      bl: 
+      bk:
+        name: Bokèo
+      bl:
         name: Bolikhamxai
-      ch: 
+      ch:
         name: Champasak
-      ho: 
+      ho:
         name: Houaphan
-      kh: 
+      kh:
         name: Khammouan
-      lm: 
+      lm:
         name: Louang Namtha
-      lp: 
+      lp:
         name: Louangphabang
-      ou: 
-        name: "Oud\xC3\xB4mxai"
-      ph: 
-        name: "Ph\xC3\xB4ngsali"
-      sl: 
+      ou:
+        name: Oudômxai
+      ph:
+        name: Phôngsali
+      sl:
         name: Salavan
-      sv: 
-        name: "Savannakh\xC3\xA9t"
-      vi: 
+      sv:
+        name: Savannakhét
+      vi:
         name: Vientiane
-      xa: 
+      xa:
         name: Xaignabouli
-      xe: 
-        name: "X\xC3\xA9kong"
-      xi: 
+      xe:
+        name: Xékong
+      xi:
         name: Xiangkhoang
-      xn: 
-        name: "Xias\xC3\xB4mboun"
+      xn:
+        name: Xiasômboun

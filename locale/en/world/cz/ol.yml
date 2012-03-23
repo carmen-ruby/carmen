@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    cz: 
-      ol: 
-        "711": 
-          name: "Jesen\xC3\xADk"
-        "712": 
+---
+en:
+  world:
+    cz:
+      ol:
+        '711':
+          name: Jeseník
+        '712':
           name: Olomouc
-        "713": 
-          name: "Prost\xC4\x95jov"
-        "714": 
-          name: "P\xC5\x99erov"
-        "715": 
-          name: "\xC5\xA0umperk"
+        '713':
+          name: Prostĕjov
+        '714':
+          name: Přerov
+        '715':
+          name: Šumperk

@@ -1,16 +1,16 @@
---- 
-en: 
-  world: 
-    fi: 
-      al: 
-        name: "Ahvenanmaan l\xC3\xA4\xC3\xA4ni"
-      es: 
-        name: "Etel\xC3\xA4-Suomen l\xC3\xA4\xC3\xA4ni"
-      is: 
-        name: "It\xC3\xA4-Suomen l\xC3\xA4\xC3\xA4ni"
-      ll: 
-        name: "Lapin l\xC3\xA4\xC3\xA4ni"
-      ls: 
-        name: "L\xC3\xA4nsi-Suomen l\xC3\xA4\xC3\xA4ni"
-      ol: 
-        name: "Oulun l\xC3\xA4\xC3\xA4ni"
+---
+en:
+  world:
+    fi:
+      al:
+        name: Ahvenanmaan lääni
+      es:
+        name: Etelä-Suomen lääni
+      is:
+        name: Itä-Suomen lääni
+      ll:
+        name: Lapin lääni
+      ls:
+        name: Länsi-Suomen lääni
+      ol:
+        name: Oulun lääni

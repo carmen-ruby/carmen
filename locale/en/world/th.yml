@@ -1,158 +1,158 @@
---- 
-en: 
-  world: 
-    th: 
-      "10": 
+---
+en:
+  world:
+    th:
+      '10':
         name: Krung Thep Maha Nakhon Bangkok
-      s: 
+      s:
         name: Phatthaya
-      "37": 
+      '37':
         name: Amnat Charoen
-      "15": 
+      '15':
         name: Ang Thong
-      "31": 
+      '31':
         name: Buri Ram
-      "24": 
+      '24':
         name: Chachoengsao
-      "18": 
+      '18':
         name: Chai Nat
-      "36": 
+      '36':
         name: Chaiyaphum
-      "22": 
+      '22':
         name: Chanthaburi
-      "50": 
+      '50':
         name: Chiang Mai
-      "57": 
+      '57':
         name: Chiang Rai
-      "20": 
+      '20':
         name: Chon Buri
-      "86": 
+      '86':
         name: Chumphon
-      "46": 
+      '46':
         name: Kalasin
-      "62": 
+      '62':
         name: Kamphaeng Phet
-      "71": 
+      '71':
         name: Kanchanaburi
-      "40": 
+      '40':
         name: Khon Kaen
-      "81": 
+      '81':
         name: Krabi
-      "52": 
+      '52':
         name: Lampang
-      "51": 
+      '51':
         name: Lamphun
-      "42": 
+      '42':
         name: Loei
-      "16": 
+      '16':
         name: Lop Buri
-      "58": 
+      '58':
         name: Mae Hong Son
-      "44": 
+      '44':
         name: Maha Sarakham
-      "49": 
+      '49':
         name: Mukdahan
-      "26": 
+      '26':
         name: Nakhon Nayok
-      "73": 
+      '73':
         name: Nakhon Pathom
-      "48": 
+      '48':
         name: Nakhon Phanom
-      "30": 
+      '30':
         name: Nakhon Ratchasima
-      "60": 
+      '60':
         name: Nakhon Sawan
-      "80": 
+      '80':
         name: Nakhon Si Thammarat
-      "55": 
+      '55':
         name: Nan
-      "96": 
+      '96':
         name: Narathiwat
-      "39": 
+      '39':
         name: Nong Bua Lam Phu
-      "43": 
+      '43':
         name: Nong Khai
-      "12": 
+      '12':
         name: Nonthaburi
-      "13": 
+      '13':
         name: Pathum Thani
-      "94": 
+      '94':
         name: Pattani
-      "82": 
+      '82':
         name: Phangnga
-      "93": 
+      '93':
         name: Phatthalung
-      "56": 
+      '56':
         name: Phayao
-      "67": 
+      '67':
         name: Phetchabun
-      "76": 
+      '76':
         name: Phetchaburi
-      "66": 
+      '66':
         name: Phichit
-      "65": 
+      '65':
         name: Phitsanulok
-      "54": 
+      '54':
         name: Phrae
-      "14": 
+      '14':
         name: Phra Nakhon Si Ayutthaya
-      "83": 
+      '83':
         name: Phuket
-      "25": 
+      '25':
         name: Prachin Buri
-      "77": 
+      '77':
         name: Prachuap Khiri Khan
-      "85": 
+      '85':
         name: Ranong
-      "70": 
+      '70':
         name: Ratchaburi
-      "21": 
+      '21':
         name: Rayong
-      "45": 
+      '45':
         name: Roi Et
-      "27": 
+      '27':
         name: Sa Kaeo
-      "47": 
+      '47':
         name: Sakon Nakhon
-      "11": 
+      '11':
         name: Samut Prakan
-      "74": 
+      '74':
         name: Samut Sakhon
-      "75": 
+      '75':
         name: Samut Songkhram
-      "19": 
+      '19':
         name: Saraburi
-      "91": 
+      '91':
         name: Satun
-      "17": 
+      '17':
         name: Sing Buri
-      "33": 
+      '33':
         name: Si Sa Ket
-      "90": 
+      '90':
         name: Songkhla
-      "64": 
+      '64':
         name: Sukhothai
-      "72": 
+      '72':
         name: Suphan Buri
-      "84": 
+      '84':
         name: Surat Thani
-      "32": 
+      '32':
         name: Surin
-      "63": 
+      '63':
         name: Tak
-      "92": 
+      '92':
         name: Trang
-      "23": 
+      '23':
         name: Trat
-      "34": 
+      '34':
         name: Ubon Ratchathani
-      "41": 
+      '41':
         name: Udon Thani
-      "61": 
+      '61':
         name: Uthai Thani
-      "53": 
+      '53':
         name: Uttaradit
-      "95": 
+      '95':
         name: Yala
-      "35": 
+      '35':
         name: Yasothon

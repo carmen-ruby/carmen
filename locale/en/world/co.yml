@@ -1,70 +1,70 @@
---- 
-en: 
-  world: 
-    co: 
-      dc: 
-        name: "Distrito Capital de Bogot\xC3\xA1"
-      ama: 
+---
+en:
+  world:
+    co:
+      dc:
+        name: Distrito Capital de Bogotá
+      ama:
         name: Amazonas
-      ant: 
+      ant:
         name: Antioquia
-      ara: 
+      ara:
         name: Arauca
-      atl: 
-        name: "Atl\xC3\xA1ntico"
-      bol: 
-        name: "Bol\xC3\xADvar"
-      boy: 
-        name: "Boyac\xC3\xA1"
-      cal: 
+      atl:
+        name: Atlántico
+      bol:
+        name: Bolívar
+      boy:
+        name: Boyacá
+      cal:
         name: Caldas
-      caq: 
-        name: "Caquet\xC3\xA1"
-      cas: 
+      caq:
+        name: Caquetá
+      cas:
         name: Casanare
-      cau: 
+      cau:
         name: Cauca
-      ces: 
+      ces:
         name: Cesar
-      cho: 
-        name: "Choc\xC3\xB3"
-      cor: 
-        name: "C\xC3\xB3rdoba"
-      cun: 
+      cho:
+        name: Chocó
+      cor:
+        name: Córdoba
+      cun:
         name: Cundinamarca
-      gua: 
-        name: "Guain\xC3\xADa"
-      guv: 
+      gua:
+        name: Guainía
+      guv:
         name: Guaviare
-      hui: 
+      hui:
         name: Huila
-      lag: 
+      lag:
         name: La Guajira
-      mag: 
+      mag:
         name: Magdalena
-      met: 
+      met:
         name: Meta
-      nar: 
-        name: "Nari\xC3\xB1o"
-      nsa: 
+      nar:
+        name: Nariño
+      nsa:
         name: Norte de Santander
-      put: 
+      put:
         name: Putumayo
-      qui: 
-        name: "Quind\xC3\xADo"
-      ris: 
+      qui:
+        name: Quindío
+      ris:
         name: Risaralda
-      sap: 
-        name: "San Andr\xC3\xA9s, Providencia y Santa Catalina"
-      san: 
+      sap:
+        name: San Andrés, Providencia y Santa Catalina
+      san:
         name: Santander
-      suc: 
+      suc:
         name: Sucre
-      tol: 
+      tol:
         name: Tolima
-      vac: 
+      vac:
         name: Valle del Cauca
-      vau: 
-        name: "Vaup\xC3\xA9s"
-      vid: 
+      vau:
+        name: Vaupés
+      vid:
         name: Vichada

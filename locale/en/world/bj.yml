@@ -1,28 +1,28 @@
---- 
-en: 
-  world: 
-    bj: 
-      al: 
+---
+en:
+  world:
+    bj:
+      al:
         name: Alibori
-      ak: 
+      ak:
         name: Atakora
-      aq: 
+      aq:
         name: Atlantique
-      bo: 
+      bo:
         name: Borgou
-      co: 
+      co:
         name: Collines
-      do: 
+      do:
         name: Donga
-      ko: 
+      ko:
         name: Kouffo
-      li: 
+      li:
         name: Littoral
-      mo: 
+      mo:
         name: Mono
-      ou: 
-        name: "Ou\xC3\xA9m\xC3\xA9"
-      pl: 
+      ou:
+        name: Ouémé
+      pl:
         name: Plateau
-      zo: 
+      zo:
         name: Zou

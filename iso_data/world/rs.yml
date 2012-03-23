@@ -1,41 +1,41 @@
---- 
-- code: "00"
+---
+- code: '00'
   type: city
 - code: KM
   type: autonomous province
 - code: VO
   type: autonomous province
-- code: "14"
+- code: '14'
   type: district
-- code: "11"
+- code: '11'
   type: district
-- code: "23"
+- code: '23'
   type: district
-- code: 09
+- code: '09'
   type: district
-- code: 08
+- code: '08'
   type: district
-- code: "17"
+- code: '17'
   type: district
-- code: "20"
+- code: '20'
   type: district
-- code: "24"
+- code: '24'
   type: district
-- code: "22"
+- code: '22'
   type: district
-- code: "10"
+- code: '10'
   type: district
-- code: "13"
+- code: '13'
   type: district
-- code: "19"
+- code: '19'
   type: district
-- code: "18"
+- code: '18'
   type: district
-- code: "12"
+- code: '12'
   type: district
-- code: "21"
+- code: '21'
   type: district
-- code: "15"
+- code: '15'
   type: district
-- code: "16"
+- code: '16'
   type: district

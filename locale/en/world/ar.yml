@@ -1,50 +1,50 @@
---- 
-en: 
-  world: 
-    ar: 
-      c: 
-        name: "Ciudad Aut\xC3\xB3noma de Buenos Aires"
-      b: 
+---
+en:
+  world:
+    ar:
+      c:
+        name: Ciudad Autónoma de Buenos Aires
+      b:
         name: Buenos Aires
-      k: 
+      k:
         name: Catamarca
-      x: 
+      x:
         name: Cordoba
-      w: 
+      w:
         name: Corrientes
-      h: 
+      h:
         name: Chaco
-      u: 
+      u:
         name: Chubut
-      e: 
+      e:
         name: Entre Rios
-      p: 
+      p:
         name: Formosa
-      y: 
+      y:
         name: Jujuy
-      l: 
+      l:
         name: La Pampa
-      m: 
+      m:
         name: Mendoza
-      n: 
+      n:
         name: Misiones
-      q: 
+      q:
         name: Neuquen
-      r: 
+      r:
         name: Rio Negro
-      a: 
+      a:
         name: Salta
-      j: 
+      j:
         name: San Juan
-      d: 
+      d:
         name: San Luis
-      z: 
+      z:
         name: Santa Cruz
-      s: 
+      s:
         name: Santa Fe
-      g: 
+      g:
         name: Santiago del Estero
-      v: 
+      v:
         name: Tierra del Fuego
-      t: 
+      t:
         name: Tucuman

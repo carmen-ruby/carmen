@@ -1,9 +1,9 @@
---- 
-en: 
-  world: 
-    it: 
-      "67": 
-        cb: 
+---
+en:
+  world:
+    it:
+      '67':
+        cb:
           name: Campobasso
-        is: 
+        is:
           name: Isernia

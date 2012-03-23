@@ -1,10 +1,10 @@
---- 
-en: 
-  world: 
-    mw: 
-      c: 
+---
+en:
+  world:
+    mw:
+      c:
         name: Central Region
-      n: 
+      n:
         name: Northern Region
-      s: 
+      s:
         name: Southern Region

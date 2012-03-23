@@ -1,32 +1,32 @@
---- 
-en: 
-  world: 
-    cz: 
-      jc: 
-        name: "Jiho\xC4\x8Desk\xC3\xBD kraj"
-      jm: 
-        name: "Jihomoravsk\xC3\xBD kraj"
-      ka: 
-        name: "Karlovarsk\xC3\xBD kraj"
-      kr: 
-        name: "Kr\xC3\xA1lov\xC3\xA9hradeck\xC3\xBD kraj"
-      li: 
-        name: "Libereck\xC3\xBD kraj"
-      mo: 
-        name: "Moravskoslezsk\xC3\xBD kraj"
-      ol: 
-        name: "Olomouck\xC3\xBD kraj"
-      pa: 
-        name: "Pardubick\xC3\xBD kraj"
-      pl: 
-        name: "Plze\xC5\x88sk\xC3\xBD kraj"
-      pr: 
-        name: "Praha, hlavn\xC3\xAD m\xC4\x9Bsto"
-      st: 
-        name: "St\xC5\x99edo\xC4\x8Desk\xC3\xBD kraj"
-      us: 
-        name: "\xC3\x9Asteck\xC3\xBD kraj"
-      vy: 
-        name: "Vyso\xC4\x8Dina"
-      zl: 
-        name: "Zl\xC3\xADnsk\xC3\xBD kraj"
+---
+en:
+  world:
+    cz:
+      jc:
+        name: Jihočeský kraj
+      jm:
+        name: Jihomoravský kraj
+      ka:
+        name: Karlovarský kraj
+      kr:
+        name: Královéhradecký kraj
+      li:
+        name: Liberecký kraj
+      mo:
+        name: Moravskoslezský kraj
+      ol:
+        name: Olomoucký kraj
+      pa:
+        name: Pardubický kraj
+      pl:
+        name: Plzeňský kraj
+      pr:
+        name: Praha, hlavní město
+      st:
+        name: Středočeský kraj
+      us:
+        name: Ústecký kraj
+      vy:
+        name: Vysočina
+      zl:
+        name: Zlínský kraj

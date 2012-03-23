@@ -1,46 +1,46 @@
---- 
-en: 
-  world: 
-    se: 
-      k: 
-        name: "Blekinge l\xC3\xA4n"
-      w: 
-        name: "Dalarnas l\xC3\xA4n"
-      i: 
-        name: "Gotlands l\xC3\xA4n"
-      x: 
-        name: "G\xC3\xA4vleborgs l\xC3\xA4n"
-      n: 
-        name: "Hallands l\xC3\xA4n"
-      z: 
-        name: "J\xC3\xA4mtlande l\xC3\xA4n"
-      f: 
-        name: "J\xC3\xB6nk\xC3\xB6pings l\xC3\xA4n"
-      h: 
-        name: "Kalmar l\xC3\xA4n"
-      g: 
-        name: "Kronobergs l\xC3\xA4n"
-      bd: 
-        name: "Norrbottens l\xC3\xA4n"
-      m: 
-        name: "Sk\xC3\xA5ne l\xC3\xA4n"
-      ab: 
-        name: "Stockholms l\xC3\xA4n"
-      d: 
-        name: "S\xC3\xB6dermanlands l\xC3\xA4n"
-      c: 
-        name: "Uppsala l\xC3\xA4n"
-      s: 
-        name: "V\xC3\xA4rmlands l\xC3\xA4n"
-      ac: 
-        name: "V\xC3\xA4sterbottens l\xC3\xA4n"
-      y: 
-        name: "V\xC3\xA4sternorrlands l\xC3\xA4n"
-      u: 
-        name: "V\xC3\xA4stmanlands l\xC3\xA4n"
-      o: 
-        name: "V\xC3\xA4stra G\xC3\xB6talands l\xC3\xA4n"
-      t: 
-        name: "\xC3\x96rebro l\xC3\xA4n"
-      e: 
-        name: "\xC3\x96sterg\xC3\xB6tlands l\xC3\xA4n"
+---
+en:
+  world:
+    se:
+      k:
+        name: Blekinge län
+      w:
+        name: Dalarnas län
+      i:
+        name: Gotlands län
+      x:
+        name: Gävleborgs län
+      n:
+        name: Hallands län
+      z:
+        name: Jämtlande län
+      f:
+        name: Jönköpings län
+      h:
+        name: Kalmar län
+      g:
+        name: Kronobergs län
+      bd:
+        name: Norrbottens län
+      m:
+        name: Skåne län
+      ab:
+        name: Stockholms län
+      d:
+        name: Södermanlands län
+      c:
+        name: Uppsala län
+      s:
+        name: Värmlands län
+      ac:
+        name: Västerbottens län
+      y:
+        name: Västernorrlands län
+      u:
+        name: Västmanlands län
+      o:
+        name: Västra Götalands län
+      t:
+        name: Örebro län
+      e:
+        name: Östergötlands län

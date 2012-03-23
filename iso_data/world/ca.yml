@@ -1,4 +1,4 @@
---- 
+---
 - code: AB
   type: province
 - code: BC
@@ -11,7 +11,7 @@
   type: province
 - code: NS
   type: province
-- code: "ON"
+- code: 'ON'
   type: province
 - code: PE
   type: province

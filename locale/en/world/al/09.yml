@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    al: 
-      09: 
-        bu: 
-          name: "Bulqiz\xC3\xAB"
-        di: 
-          name: "Dib\xC3\xABr"
-        mt: 
+---
+en:
+  world:
+    al:
+      '09':
+        bu:
+          name: Bulqizë
+        di:
+          name: Dibër
+        mt:
           name: Mat

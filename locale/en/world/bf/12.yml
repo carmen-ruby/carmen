@@ -1,13 +1,13 @@
---- 
-en: 
-  world: 
-    bf: 
-      "12": 
-        oud: 
+---
+en:
+  world:
+    bf:
+      '12':
+        oud:
           name: Oudalan
-        sen: 
-          name: "S\xC3\xA9no"
-        som: 
+        sen:
+          name: Séno
+        som:
           name: Soum
-        yag: 
+        yag:
           name: Yagha

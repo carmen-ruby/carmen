@@ -1,35 +1,35 @@
---- 
-en: 
-  world: 
-    cv: 
-      s: 
-        br: 
+---
+en:
+  world:
+    cv:
+      s:
+        br:
           name: Brava
-        ma: 
+        ma:
           name: Maio
-        mo: 
+        mo:
           name: Mosteiros
-        pr: 
+        pr:
           name: Praia
-        rs: 
+        rs:
           name: Ribeira Grande de Santiago
-        ca: 
+        ca:
           name: Santa Catarina
-        cf: 
+        cf:
           name: Santa Catarina de Fogo
-        cr: 
+        cr:
           name: Santa Cruz
-        sd: 
-          name: "S\xC3\xA3o Domingos"
-        sf: 
-          name: "S\xC3\xA3o Filipe"
-        sl: 
-          name: "S\xC3\xA3o Louren\xC3\xA7o dos \xC3\x93rg\xC3\xA3os"
-        sm: 
-          name: "S\xC3\xA3o Miguel"
-        ss: 
-          name: "S\xC3\xA3o Salvador do Mundo"
-        ta: 
+        sd:
+          name: São Domingos
+        sf:
+          name: São Filipe
+        sl:
+          name: São Lourenço dos Órgãos
+        sm:
+          name: São Miguel
+        ss:
+          name: São Salvador do Mundo
+        ta:
           name: Tarrafal
-        ts: 
-          name: "Tarrafal de S\xC3\xA3o Nicolau"
+        ts:
+          name: Tarrafal de São Nicolau

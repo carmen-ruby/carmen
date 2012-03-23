@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    gr: 
-      f: 
-        "31": 
+---
+en:
+  world:
+    gr:
+      f:
+        '31':
           name: Arta
-        "23": 
+        '23':
           name: Kefallonia
-        "22": 
+        '22':
           name: Kerkyra
-        "24": 
+        '24':
           name: Lefkada
-        "21": 
+        '21':
           name: Zakynthos

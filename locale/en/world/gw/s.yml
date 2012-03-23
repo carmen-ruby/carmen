@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    gw: 
-      s: 
-        bl: 
+---
+en:
+  world:
+    gw:
+      s:
+        bl:
           name: Bolama
-        qu: 
+        qu:
           name: Quinara
-        to: 
+        to:
           name: Tombali

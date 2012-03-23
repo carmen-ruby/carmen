@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    np: 
-      "2": 
-        bh: 
+---
+en:
+  world:
+    np:
+      '2':
+        bh:
           name: Bheri
-        ka: 
+        ka:
           name: Karnali
-        ra: 
+        ra:
           name: Rapti

@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    np: 
-      "1": 
-        ba: 
+---
+en:
+  world:
+    np:
+      '1':
+        ba:
           name: Bagmati
-        ja: 
+        ja:
           name: Janakpur
-        na: 
+        na:
           name: Narayani

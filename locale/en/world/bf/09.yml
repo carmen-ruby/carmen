@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    bf: 
-      09: 
-        hou: 
+---
+en:
+  world:
+    bf:
+      '09':
+        hou:
           name: Houet
-        ken: 
-          name: "K\xC3\xA9n\xC3\xA9dougou"
-        tui: 
+        ken:
+          name: Kénédougou
+        tui:
           name: Tui

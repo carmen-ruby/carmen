@@ -1,13 +1,13 @@
---- 
-en: 
-  world: 
-    bf: 
-      "06": 
-        blk: 
-          name: "Boulkiemd\xC3\xA9"
-        sng: 
-          name: "Sangui\xC3\xA9"
-        sis: 
+---
+en:
+  world:
+    bf:
+      '06':
+        blk:
+          name: Boulkiemdé
+        sng:
+          name: Sanguié
+        sis:
           name: Sissili
-        zir: 
+        zir:
           name: Ziro

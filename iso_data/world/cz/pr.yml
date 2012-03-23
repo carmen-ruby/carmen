@@ -1,21 +1,21 @@
---- 
-- code: "101"
+---
+- code: '101'
   type: district
-- code: "102"
+- code: '102'
   type: district
-- code: "103"
+- code: '103'
   type: district
-- code: "104"
+- code: '104'
   type: district
-- code: "105"
+- code: '105'
   type: district
-- code: "106"
+- code: '106'
   type: district
-- code: "107"
+- code: '107'
   type: district
-- code: "108"
+- code: '108'
   type: district
-- code: "109"
+- code: '109'
   type: district
 - code: 10A
   type: district

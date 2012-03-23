@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    np: 
-      "4": 
-        ko: 
+---
+en:
+  world:
+    np:
+      '4':
+        ko:
           name: Kosi
-        me: 
+        me:
           name: Mechi
-        sa: 
+        sa:
           name: Sagarmatha

@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    lk: 
-      "3": 
-        "31": 
-          name: "G\xC4\x81lla"
-        "33": 
-          name: "Hambant\xC5\x8F\xE1\xB9\xADa"
-        "32": 
-          name: "M\xC4\x81tara"
+---
+en:
+  world:
+    lk:
+      '3':
+        '31':
+          name: Gālla
+        '33':
+          name: Hambantŏṭa
+        '32':
+          name: Mātara

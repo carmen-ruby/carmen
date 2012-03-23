@@ -1,42 +1,42 @@
---- 
-en: 
-  world: 
-    ci: 
-      "06": 
-        name: "18 Montagnes (R\xC3\xA9gion des)"
-      "16": 
-        name: "Agn\xC3\xA9bi (R\xC3\xA9gion de l')"
-      "17": 
-        name: "Bafing (R\xC3\xA9gion du)"
-      09: 
-        name: "Bas-Sassandra (R\xC3\xA9gion du)"
-      "10": 
-        name: "Dengu\xC3\xA9l\xC3\xA9 (R\xC3\xA9gion du)"
-      "18": 
-        name: "Fromager (R\xC3\xA9gion du)"
-      "02": 
-        name: "Haut-Sassandra (R\xC3\xA9gion du)"
-      "07": 
-        name: "Lacs (R\xC3\xA9gion des)"
-      "01": 
-        name: "Lagunes (R\xC3\xA9gion des)"
-      "12": 
-        name: "Marahou\xC3\xA9 (R\xC3\xA9gion de la)"
-      "19": 
-        name: "Moyen-Cavally (R\xC3\xA9gion du)"
-      "05": 
-        name: "Moyen-Como\xC3\xA9 (R\xC3\xA9gion du)"
-      "11": 
-        name: "Nzi-Como\xC3\xA9 (R\xC3\xA9gion)"
-      "03": 
-        name: "Savanes (R\xC3\xA9gion des)"
-      "15": 
-        name: "Sud-Bandama (R\xC3\xA9gion du)"
-      "13": 
-        name: "Sud-Como\xC3\xA9 (R\xC3\xA9gion du)"
-      "04": 
-        name: "Vall\xC3\xA9e du Bandama (R\xC3\xA9gion de la)"
-      "14": 
-        name: "Worodouqou (R\xC3\xA9gion du)"
-      08: 
-        name: "Zanzan (R\xC3\xA9gion du)"
+---
+en:
+  world:
+    ci:
+      '06':
+        name: 18 Montagnes (Région des)
+      '16':
+        name: Agnébi (Région de l')
+      '17':
+        name: Bafing (Région du)
+      '09':
+        name: Bas-Sassandra (Région du)
+      '10':
+        name: Denguélé (Région du)
+      '18':
+        name: Fromager (Région du)
+      '02':
+        name: Haut-Sassandra (Région du)
+      '07':
+        name: Lacs (Région des)
+      '01':
+        name: Lagunes (Région des)
+      '12':
+        name: Marahoué (Région de la)
+      '19':
+        name: Moyen-Cavally (Région du)
+      '05':
+        name: Moyen-Comoé (Région du)
+      '11':
+        name: Nzi-Comoé (Région)
+      '03':
+        name: Savanes (Région des)
+      '15':
+        name: Sud-Bandama (Région du)
+      '13':
+        name: Sud-Comoé (Région du)
+      '04':
+        name: Vallée du Bandama (Région de la)
+      '14':
+        name: Worodouqou (Région du)
+      '08':
+        name: Zanzan (Région du)

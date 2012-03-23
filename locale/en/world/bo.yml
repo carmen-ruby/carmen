@@ -1,22 +1,22 @@
---- 
-en: 
-  world: 
-    bo: 
-      h: 
+---
+en:
+  world:
+    bo:
+      h:
         name: Chuquisaca
-      c: 
+      c:
         name: Cochabamba
-      b: 
+      b:
         name: El Beni
-      l: 
+      l:
         name: La Paz
-      o: 
+      o:
         name: Oruro
-      n: 
+      n:
         name: Pando
-      p: 
-        name: "Potos\xC3\xAD"
-      s: 
+      p:
+        name: Potosí
+      s:
         name: Santa Cruz
-      t: 
+      t:
         name: Tarija

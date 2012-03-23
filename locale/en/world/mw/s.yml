@@ -1,29 +1,29 @@
---- 
-en: 
-  world: 
-    mw: 
-      s: 
-        ba: 
+---
+en:
+  world:
+    mw:
+      s:
+        ba:
           name: Balaka
-        bl: 
+        bl:
           name: Blantyre
-        ck: 
+        ck:
           name: Chikwawa
-        cr: 
+        cr:
           name: Chiradzulu
-        mh: 
+        mh:
           name: Machinga
-        mg: 
+        mg:
           name: Mangochi
-        mu: 
+        mu:
           name: Mulanje
-        mw: 
+        mw:
           name: Mwanza
-        ns: 
+        ns:
           name: Nsanje
-        ph: 
+        ph:
           name: Phalombe
-        th: 
+        th:
           name: Thyolo
-        zo: 
+        zo:
           name: Zomba

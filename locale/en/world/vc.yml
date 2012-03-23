@@ -1,16 +1,16 @@
---- 
-en: 
-  world: 
-    vc: 
-      "01": 
+---
+en:
+  world:
+    vc:
+      '01':
         name: Charlotte
-      "06": 
+      '06':
         name: Grenadines
-      "02": 
+      '02':
         name: Saint Andrew
-      "03": 
+      '03':
         name: Saint David
-      "04": 
+      '04':
         name: Saint George
-      "05": 
+      '05':
         name: Saint Patrick

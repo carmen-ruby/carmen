@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    fr: 
-      k: 
-        "11": 
+---
+en:
+  world:
+    fr:
+      k:
+        '11':
           name: Aude
-        "30": 
+        '30':
           name: Gard
-        "34": 
-          name: "H\xC3\xA9rault"
-        "48": 
-          name: "Loz\xC3\xA8re"
-        "66": 
-          name: "Pyr\xC3\xA9n\xC3\xA9es-Orientales"
+        '34':
+          name: Hérault
+        '48':
+          name: Lozère
+        '66':
+          name: Pyrénées-Orientales

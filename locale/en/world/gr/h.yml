@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    gr: 
-      h: 
-        "05": 
+---
+en:
+  world:
+    gr:
+      h:
+        '05':
           name: Evrytania
-        "04": 
+        '04':
           name: Evvoias
-        "07": 
+        '07':
           name: Fokida
-        "06": 
+        '06':
           name: Fthiotida
-        "03": 
+        '03':
           name: Voiotia

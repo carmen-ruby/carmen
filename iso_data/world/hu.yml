@@ -1,4 +1,4 @@
---- 
+---
 - code: BK
   type: county
 - code: BA
@@ -21,7 +21,7 @@
   type: county
 - code: KE
   type: county
-- code: "NO"
+- code: 'NO'
   type: county
 - code: PE
   type: county

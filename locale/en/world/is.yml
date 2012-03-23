@@ -1,22 +1,22 @@
---- 
-en: 
-  world: 
-    is: 
-      "7": 
+---
+en:
+  world:
+    is:
+      '7':
         name: Austurland
-      "1": 
-        name: "H\xC3\xB6fu\xC3\xB0borgarsv\xC3\xA6\xC3\xB0i\xC3\xB0"
-      "6": 
-        name: "Nor\xC3\xB0urland eystra"
-      "5": 
-        name: "Nor\xC3\xB0urland vestra"
-      "8": 
-        name: "Su\xC3\xB0urland"
-      "2": 
-        name: "Su\xC3\xB0urnes"
-      "4": 
-        name: "Vestfir\xC3\xB0ir"
-      "3": 
+      '1':
+        name: Höfuðborgarsvæðið
+      '6':
+        name: Norðurland eystra
+      '5':
+        name: Norðurland vestra
+      '8':
+        name: Suðurland
+      '2':
+        name: Suðurnes
+      '4':
+        name: Vestfirðir
+      '3':
         name: Vesturland
-      "0": 
-        name: "Reykjav\xC3\xADk"
+      '0':
+        name: Reykjavík

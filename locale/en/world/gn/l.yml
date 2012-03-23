@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    gn: 
-      l: 
-        kb: 
+---
+en:
+  world:
+    gn:
+      l:
+        kb:
           name: Koubia
-        la: 
-          name: "Lab\xC3\xA9"
-        le: 
-          name: "L\xC3\xA9louma"
-        ml: 
+        la:
+          name: Labé
+        le:
+          name: Lélouma
+        ml:
           name: Mali
-        to: 
-          name: "Tougu\xC3\xA9"
+        to:
+          name: Tougué

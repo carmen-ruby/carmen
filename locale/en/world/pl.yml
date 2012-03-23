@@ -1,36 +1,36 @@
---- 
-en: 
-  world: 
-    pl: 
-      ds: 
-        name: "Dolno\xC5\x9Bl\xC4\x85skie"
-      kp: 
+---
+en:
+  world:
+    pl:
+      ds:
+        name: Dolnośląskie
+      kp:
         name: Kujawsko-pomorskie
-      lu: 
+      lu:
         name: Lubelskie
-      lb: 
+      lb:
         name: Lubuskie
-      ld: 
-        name: "\xC5\x81\xC3\xB3dzkie"
-      ma: 
-        name: "Ma\xC5\x82opolskie"
-      mz: 
+      ld:
+        name: Łódzkie
+      ma:
+        name: Małopolskie
+      mz:
         name: Mazowieckie
-      op: 
+      op:
         name: Opolskie
-      pk: 
+      pk:
         name: Podkarpackie
-      pd: 
+      pd:
         name: Podlaskie
-      pm: 
+      pm:
         name: Pomorskie
-      sl: 
-        name: "\xC5\x9Al\xC4\x85skie"
-      sk: 
-        name: "\xC5\x9Awi\xC4\x99tokrzyskie"
-      wn: 
-        name: "Warmi\xC5\x84sko-mazurskie"
-      wp: 
+      sl:
+        name: Śląskie
+      sk:
+        name: Świętokrzyskie
+      wn:
+        name: Warmińsko-mazurskie
+      wp:
         name: Wielkopolskie
-      zp: 
+      zp:
         name: Zachodniopomorskie

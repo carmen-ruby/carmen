@@ -1,13 +1,13 @@
---- 
-en: 
-  world: 
-    fr: 
-      m: 
-        "54": 
+---
+en:
+  world:
+    fr:
+      m:
+        '54':
           name: Meurthe-et-Moselle
-        "55": 
+        '55':
           name: Meuse
-        "57": 
+        '57':
           name: Moselle
-        "88": 
+        '88':
           name: Vosges

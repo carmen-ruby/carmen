@@ -1,41 +1,41 @@
---- 
+---
 - code: MLE
   type: city
-- code: "02"
+- code: '02'
   type: atoll
-- code: "20"
+- code: '20'
   type: atoll
-- code: "17"
+- code: '17'
   type: atoll
-- code: "14"
+- code: '14'
   type: atoll
-- code: "27"
+- code: '27'
   type: atoll
-- code: "28"
+- code: '28'
   type: atoll
-- code: "29"
+- code: '29'
   type: atoll
-- code: "07"
+- code: '07'
   type: atoll
-- code: "23"
+- code: '23'
   type: atoll
-- code: "26"
+- code: '26'
   type: atoll
-- code: "05"
+- code: '05'
   type: atoll
-- code: "03"
+- code: '03'
   type: atoll
-- code: "12"
+- code: '12'
   type: atoll
-- code: "25"
+- code: '25'
   type: atoll
-- code: "13"
+- code: '13'
   type: atoll
-- code: "01"
+- code: '01'
   type: atoll
-- code: "24"
+- code: '24'
   type: atoll
-- code: 08
+- code: '08'
   type: atoll
-- code: "04"
+- code: '04'
   type: atoll

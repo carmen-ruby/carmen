@@ -1,4 +1,4 @@
---- 
+---
 - code: A
   type: administrative region
 - code: I
@@ -25,5 +25,5 @@
   type: administrative region
 - code: K
   type: administrative region
-- code: "69"
+- code: '69'
   type: self-governed part

@@ -1,69 +1,69 @@
---- 
-- code: "11"
+---
+- code: '11'
   type: municipality
-- code: "50"
+- code: '50'
   type: municipality
-- code: "31"
+- code: '31'
   type: municipality
-- code: "12"
+- code: '12'
   type: municipality
-- code: "34"
+- code: '34'
   type: province
-- code: "35"
+- code: '35'
   type: province
-- code: "62"
+- code: '62'
   type: province
-- code: "44"
+- code: '44'
   type: province
-- code: "52"
+- code: '52'
   type: province
-- code: "46"
+- code: '46'
   type: province
-- code: "13"
+- code: '13'
   type: province
-- code: "23"
+- code: '23'
   type: province
-- code: "41"
+- code: '41'
   type: province
-- code: "42"
+- code: '42'
   type: province
-- code: "43"
+- code: '43'
   type: province
-- code: "32"
+- code: '32'
   type: province
-- code: "36"
+- code: '36'
   type: province
-- code: "22"
+- code: '22'
   type: province
-- code: "21"
+- code: '21'
   type: province
-- code: "63"
+- code: '63'
   type: province
-- code: "61"
+- code: '61'
   type: province
-- code: "37"
+- code: '37'
   type: province
-- code: "14"
+- code: '14'
   type: province
-- code: "51"
+- code: '51'
   type: province
-- code: "71"
+- code: '71'
   type: province
-- code: "53"
+- code: '53'
   type: province
-- code: "33"
+- code: '33'
   type: province
-- code: "45"
+- code: '45'
   type: autonomous region
-- code: "15"
+- code: '15'
   type: autonomous region
-- code: "64"
+- code: '64'
   type: autonomous region
-- code: "65"
+- code: '65'
   type: autonomous region
-- code: "54"
+- code: '54'
   type: autonomous region
-- code: "91"
+- code: '91'
   type: special administrative region
-- code: "92"
+- code: '92'
   type: special administrative region

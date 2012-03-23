@@ -1,23 +1,23 @@
---- 
-- code: "01"
+---
+- code: '01'
   type: capital city
-- code: "13"
+- code: '13'
   type: special city
-- code: "02"
+- code: '02'
   type: province
-- code: "03"
+- code: '03'
   type: province
-- code: "04"
+- code: '04'
   type: province
-- code: "05"
+- code: '05'
   type: province
-- code: "06"
+- code: '06'
   type: province
-- code: "07"
+- code: '07'
   type: province
-- code: 08
+- code: '08'
   type: province
-- code: 09
+- code: '09'
   type: province
-- code: "10"
+- code: '10'
   type: province

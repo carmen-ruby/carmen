@@ -1,68 +1,68 @@
---- 
-en: 
-  world: 
-    bs: 
-      ac: 
+---
+en:
+  world:
+    bs:
+      ac:
         name: Acklins Islands
-      by: 
+      by:
         name: Berry Islands
-      bi: 
+      bi:
         name: Bimini and Cat Cay
-      bp: 
+      bp:
         name: Black Point
-      ci: 
+      ci:
         name: Cat Island
-      co: 
+      co:
         name: Central Abaco
-      cs: 
+      cs:
         name: Central Andros
-      ce: 
+      ce:
         name: Central Eleuthera
-      fp: 
+      fp:
         name: City of Freeport
-      ck: 
+      ck:
         name: Crooked Island and Long Cay
-      eg: 
+      eg:
         name: East Grand Bahama
-      ex: 
+      ex:
         name: Exuma
-      gc: 
+      gc:
         name: Grand Cay
-      gt: 
+      gt:
         name: Green Turtle Cay
-      hi: 
+      hi:
         name: Harbour Island
-      ht: 
+      ht:
         name: Hope Town
-      in: 
+      in:
         name: Inagua
-      li: 
+      li:
         name: Long Island
-      mc: 
+      mc:
         name: Mangrove Cay
-      mg: 
+      mg:
         name: Mayaguana
-      mi: 
+      mi:
         name: Moore's Island
-      "no": 
+      'no':
         name: North Abaco
-      ns: 
+      ns:
         name: North Andros
-      ne: 
+      ne:
         name: North Eleuthera
-      ri: 
+      ri:
         name: Ragged Island
-      rc: 
+      rc:
         name: Rum Cay
-      ss: 
+      ss:
         name: San Salvador
-      so: 
+      so:
         name: South Abaco
-      sa: 
+      sa:
         name: South Andros
-      se: 
+      se:
         name: South Eleuthera
-      sw: 
+      sw:
         name: Spanish Wells
-      wg: 
+      wg:
         name: West Grand Bahama

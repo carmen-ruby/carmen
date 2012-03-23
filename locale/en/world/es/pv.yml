@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    es: 
-      pv: 
-        vi: 
-          name: "\xC3\x81lava"
-        ss: 
-          name: "Guip\xC3\xBAzcoa / Gipuzkoa"
-        bi: 
+---
+en:
+  world:
+    es:
+      pv:
+        vi:
+          name: Álava
+        ss:
+          name: Guipúzcoa / Gipuzkoa
+        bi:
           name: Vizcayaa / Bizkaia

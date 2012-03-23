@@ -1,11 +1,11 @@
---- 
-- code: "01"
+---
+- code: '01'
   type: town council
-- code: "02"
+- code: '02'
   type: province
-- code: "03"
+- code: '03'
   type: province
-- code: "04"
+- code: '04'
   type: province
-- code: "05"
+- code: '05'
   type: province

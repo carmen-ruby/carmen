@@ -1,10 +1,10 @@
---- 
-en: 
-  world: 
-    km: 
-      a: 
-        name: "Andjou\xC3\xA2n (Anjw\xC4\x81n)"
-      g: 
-        name: "Andjaz\xC3\xAEdja (Anjaz\xC4\xABjah)"
-      m: 
-        name: "Mo\xC3\xBBh\xC3\xAEl\xC3\xAE (M\xC5\xABh\xC4\xABl\xC4\xAB)"
+---
+en:
+  world:
+    km:
+      a:
+        name: Andjouân (Anjwān)
+      g:
+        name: Andjazîdja (Anjazījah)
+      m:
+        name: Moûhîlî (Mūhīlī)

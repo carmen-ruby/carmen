@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    cz: 
-      kr: 
-        "521": 
-          name: "Hradec Kr\xC3\xA1lov\xC3\xA9"
-        "522": 
-          name: "Ji\xC4\x8D\xC3\xADn"
-        "523": 
-          name: "N\xC3\xA1chod"
-        "524": 
-          name: "Rychnov nad Kn\xC4\x9B\xC5\xBEnou"
-        "525": 
+---
+en:
+  world:
+    cz:
+      kr:
+        '521':
+          name: Hradec Králové
+        '522':
+          name: Jičín
+        '523':
+          name: Náchod
+        '524':
+          name: Rychnov nad Kněžnou
+        '525':
           name: Trutnov

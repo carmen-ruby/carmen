@@ -1,14 +1,14 @@
---- 
-en: 
-  world: 
-    tg: 
-      c: 
-        name: "R\xC3\xA9gion du Centre"
-      k: 
-        name: "R\xC3\xA9gion de la Kara"
-      m: 
-        name: "R\xC3\xA9gion Maritime"
-      p: 
-        name: "R\xC3\xA9gion des Plateaux"
-      s: 
-        name: "R\xC3\xA9gion des Savannes"
+---
+en:
+  world:
+    tg:
+      c:
+        name: Région du Centre
+      k:
+        name: Région de la Kara
+      m:
+        name: Région Maritime
+      p:
+        name: Région des Plateaux
+      s:
+        name: Région des Savannes

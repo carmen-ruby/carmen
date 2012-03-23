@@ -1,13 +1,13 @@
---- 
-en: 
-  world: 
-    fr: 
-      d: 
-        "21": 
-          name: "C\xC3\xB4te-d'Or"
-        "58": 
-          name: "Ni\xC3\xA8vre"
-        "71": 
-          name: "Sa\xC3\xB4ne-et-Loire"
-        "89": 
+---
+en:
+  world:
+    fr:
+      d:
+        '21':
+          name: Côte-d'Or
+        '58':
+          name: Nièvre
+        '71':
+          name: Saône-et-Loire
+        '89':
           name: Yonne

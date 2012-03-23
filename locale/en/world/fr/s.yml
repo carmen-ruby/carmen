@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    fr: 
-      s: 
-        "02": 
+---
+en:
+  world:
+    fr:
+      s:
+        '02':
           name: Aisne
-        "60": 
+        '60':
           name: Oise
-        "80": 
+        '80':
           name: Somme

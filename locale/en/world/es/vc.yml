@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    es: 
-      vc: 
-        a: 
+---
+en:
+  world:
+    es:
+      vc:
+        a:
           name: Alicante
-        cs: 
-          name: "Castell\xC3\xB3n"
-        v: 
-          name: "Valencia / Val\xC3\xA8ncia"
+        cs:
+          name: Castellón
+        v:
+          name: Valencia / València

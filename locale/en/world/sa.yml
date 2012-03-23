@@ -1,30 +1,30 @@
---- 
-en: 
-  world: 
-    sa: 
-      "11": 
-        name: "Al B\xC4\x81hah"
-      08: 
-        name: "Al \xE1\xB8\xA4ud\xC5\xABd ash Sham\xC4\x81liyah"
-      "12": 
+---
+en:
+  world:
+    sa:
+      '11':
+        name: Al Bāhah
+      '08':
+        name: Al Ḥudūd ash Shamāliyah
+      '12':
         name: Al Jawf
-      "03": 
-        name: "Al Mad\xC4\xABnah"
-      "05": 
-        name: "Al Qa\xC5\x9F\xC4\xABm"
-      "01": 
-        name: "Ar Riy\xC4\x81\xE1\xB8\x8D"
-      "04": 
-        name: "Ash Sharq\xC4\xAByah"
-      "14": 
-        name: "`As\xC4\xABr"
-      "06": 
-        name: "\xE1\xB8\xA4\xC4\x81'il"
-      09: 
-        name: "J\xC4\xABzan"
-      "02": 
+      '03':
+        name: Al Madīnah
+      '05':
+        name: Al Qaşīm
+      '01':
+        name: Ar Riyāḍ
+      '04':
+        name: Ash Sharqīyah
+      '14':
+        name: ! '`Asīr'
+      '06':
+        name: Ḥā'il
+      '09':
+        name: Jīzan
+      '02':
         name: Makkah
-      "10": 
-        name: "Najr\xC4\x81n"
-      "07": 
-        name: "Tab\xC5\xABk"
+      '10':
+        name: Najrān
+      '07':
+        name: Tabūk

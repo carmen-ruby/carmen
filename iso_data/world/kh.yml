@@ -1,49 +1,49 @@
---- 
-- code: "23"
+---
+- code: '23'
   type: autonomous municipality
-- code: "24"
+- code: '24'
   type: autonomous municipality
-- code: "18"
+- code: '18'
   type: autonomous municipality
-- code: "12"
+- code: '12'
   type: autonomous municipality
-- code: "2"
+- code: '2'
   type: province
-- code: "1"
+- code: '1'
   type: province
-- code: "3"
+- code: '3'
   type: province
-- code: "4"
+- code: '4'
   type: province
-- code: "5"
+- code: '5'
   type: province
-- code: "6"
+- code: '6'
   type: province
-- code: "7"
+- code: '7'
   type: province
-- code: "8"
+- code: '8'
   type: province
-- code: "9"
+- code: '9'
   type: province
-- code: "10"
+- code: '10'
   type: province
-- code: "11"
+- code: '11'
   type: province
-- code: "22"
+- code: '22'
   type: province
-- code: "15"
+- code: '15'
   type: province
-- code: "13"
+- code: '13'
   type: province
-- code: "14"
+- code: '14'
   type: province
-- code: "16"
+- code: '16'
   type: province
-- code: "17"
+- code: '17'
   type: province
-- code: "19"
+- code: '19'
   type: province
-- code: "20"
+- code: '20'
   type: province
-- code: "21"
+- code: '21'
   type: province

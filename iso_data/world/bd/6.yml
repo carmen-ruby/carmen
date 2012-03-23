@@ -1,9 +1,9 @@
---- 
-- code: "20"
+---
+- code: '20'
   type: district
-- code: "38"
+- code: '38'
   type: district
-- code: "61"
+- code: '61'
   type: district
-- code: "60"
+- code: '60'
   type: district

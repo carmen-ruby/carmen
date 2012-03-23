@@ -1,14 +1,14 @@
---- 
-en: 
-  world: 
-    np: 
-      "1": 
+---
+en:
+  world:
+    np:
+      '1':
         name: Madhyamanchal
-      "2": 
+      '2':
         name: Madhya Pashchimanchal
-      "3": 
+      '3':
         name: Pashchimanchal
-      "4": 
+      '4':
         name: Purwanchal
-      "5": 
+      '5':
         name: Sudur Pashchimanchal

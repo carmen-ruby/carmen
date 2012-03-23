@@ -1,14 +1,14 @@
---- 
-en: 
-  world: 
-    sg: 
-      "01": 
+---
+en:
+  world:
+    sg:
+      '01':
         name: Central Singapore
-      "02": 
+      '02':
         name: North East
-      "03": 
+      '03':
         name: North West
-      "04": 
+      '04':
         name: South East
-      "05": 
+      '05':
         name: South West

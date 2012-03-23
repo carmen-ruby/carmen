@@ -1,21 +1,21 @@
---- 
-en: 
-  world: 
-    es: 
-      an: 
-        al: 
-          name: "Almer\xC3\xADa"
-        ca: 
-          name: "C\xC3\xA1diz"
-        co: 
-          name: "C\xC3\xB3rdoba"
-        gr: 
+---
+en:
+  world:
+    es:
+      an:
+        al:
+          name: Almería
+        ca:
+          name: Cádiz
+        co:
+          name: Córdoba
+        gr:
           name: Granada
-        h: 
+        h:
           name: Huelva
-        j: 
-          name: "Ja\xC3\xA9n"
-        ma: 
-          name: "M\xC3\xA1laga"
-        se: 
+        j:
+          name: Jaén
+        ma:
+          name: Málaga
+        se:
           name: Sevilla

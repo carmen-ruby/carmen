@@ -1,11 +1,11 @@
---- 
-- code: "1"
+---
+- code: '1'
   type: development region
-- code: "2"
+- code: '2'
   type: development region
-- code: "3"
+- code: '3'
   type: development region
-- code: "4"
+- code: '4'
   type: development region
-- code: "5"
+- code: '5'
   type: development region

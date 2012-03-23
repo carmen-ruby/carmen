@@ -1,32 +1,32 @@
---- 
-en: 
-  world: 
-    gr: 
-      a: 
+---
+en:
+  world:
+    gr:
+      a:
         name: Anatoliki Makedonia kai Thraki
-      i: 
+      i:
         name: Attiki
-      g: 
+      g:
         name: Dytiki Ellada
-      c: 
+      c:
         name: Dytiki Makedonia
-      f: 
+      f:
         name: Ionia Nisia
-      d: 
+      d:
         name: Ipeiros
-      b: 
+      b:
         name: Kentriki Makedonia
-      m: 
+      m:
         name: Kriti
-      l: 
+      l:
         name: Notio Aigaio
-      j: 
+      j:
         name: Peloponnisos
-      h: 
+      h:
         name: Sterea Ellada
-      e: 
+      e:
         name: Thessalia
-      k: 
+      k:
         name: Voreio Aigaio
-      "69": 
+      '69':
         name: Agio Oros

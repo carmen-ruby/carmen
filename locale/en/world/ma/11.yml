@@ -1,19 +1,19 @@
---- 
-en: 
-  world: 
-    ma: 
-      "11": 
-        hao: 
+---
+en:
+  world:
+    ma:
+      '11':
+        hao:
           name: Al Haouz
-        chi: 
+        chi:
           name: Chichaoua
-        esi: 
+        esi:
           name: Essaouira
-        kes: 
+        kes:
           name: Kelaat es Sraghna
-        mmd: 
+        mmd:
           name: Marrakech-Medina
-        mmn: 
+        mmn:
           name: Marrakech-Menara
-        syb: 
+        syb:
           name: Sidi Youssef Ben Ali

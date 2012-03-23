@@ -1,32 +1,32 @@
---- 
-en: 
-  world: 
-    sn: 
-      dk: 
+---
+en:
+  world:
+    sn:
+      dk:
         name: Dakar
-      db: 
+      db:
         name: Diourbel
-      fk: 
+      fk:
         name: Fatick
-      ka: 
+      ka:
         name: Kaffrine
-      kl: 
+      kl:
         name: Kaolack
-      ke: 
-        name: "K\xC3\xA9dougou"
-      kd: 
+      ke:
+        name: Kédougou
+      kd:
         name: Kolda
-      lg: 
+      lg:
         name: Louga
-      mt: 
+      mt:
         name: Matam
-      sl: 
+      sl:
         name: Saint-Louis
-      se: 
-        name: "S\xC3\xA9dhiou"
-      tc: 
+      se:
+        name: Sédhiou
+      tc:
         name: Tambacounda
-      th: 
-        name: "Thi\xC3\xA8s"
-      zg: 
+      th:
+        name: Thiès
+      zg:
         name: Ziguinchor

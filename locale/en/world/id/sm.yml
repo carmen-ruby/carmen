@@ -1,25 +1,25 @@
---- 
-en: 
-  world: 
-    id: 
-      sm: 
-        ac: 
+---
+en:
+  world:
+    id:
+      sm:
+        ac:
           name: Aceh
-        bb: 
+        bb:
           name: Bangka Belitung
-        be: 
+        be:
           name: Bengkulu
-        ja: 
+        ja:
           name: Jambi
-        kr: 
+        kr:
           name: Kepulauan Riau
-        la: 
+        la:
           name: Lampung
-        ri: 
+        ri:
           name: Riau
-        sb: 
+        sb:
           name: Sumatra Barat
-        ss: 
+        ss:
           name: Sumatra Selatan
-        su: 
+        su:
           name: Sumatera Utara

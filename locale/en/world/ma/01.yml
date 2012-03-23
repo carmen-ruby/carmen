@@ -1,15 +1,15 @@
---- 
-en: 
-  world: 
-    ma: 
-      "01": 
-        che: 
+---
+en:
+  world:
+    ma:
+      '01':
+        che:
           name: Chefchaouen
-        lar: 
+        lar:
           name: Larache
-        fah: 
+        fah:
           name: Fahs-Beni Makada
-        tng: 
+        tng:
           name: Tanger-Assilah
-        tet: 
-          name: "T\xC3\xA9touan"
+        tet:
+          name: Tétouan

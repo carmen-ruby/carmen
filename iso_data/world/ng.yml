@@ -1,4 +1,4 @@
---- 
+---
 - code: FC
   type: capital territory
 - code: AB
@@ -55,7 +55,7 @@
   type: state
 - code: OG
   type: state
-- code: "ON"
+- code: 'ON'
   type: state
 - code: OS
   type: state

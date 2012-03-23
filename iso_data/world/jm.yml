@@ -1,29 +1,29 @@
---- 
-- code: "13"
+---
+- code: '13'
   type: parish
-- code: 09
+- code: '09'
   type: parish
-- code: "01"
+- code: '01'
   type: parish
-- code: "12"
+- code: '12'
   type: parish
-- code: "04"
+- code: '04'
   type: parish
-- code: "02"
+- code: '02'
   type: parish
-- code: "06"
+- code: '06'
   type: parish
-- code: "14"
+- code: '14'
   type: parish
-- code: "11"
+- code: '11'
   type: parish
-- code: 08
+- code: '08'
   type: parish
-- code: "05"
+- code: '05'
   type: parish
-- code: "03"
+- code: '03'
   type: parish
-- code: "07"
+- code: '07'
   type: parish
-- code: "10"
+- code: '10'
   type: parish

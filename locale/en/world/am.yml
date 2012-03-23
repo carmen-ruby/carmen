@@ -1,26 +1,26 @@
---- 
-en: 
-  world: 
-    am: 
-      er: 
+---
+en:
+  world:
+    am:
+      er:
         name: Erevan
-      ag: 
+      ag:
         name: Aragacotn
-      ar: 
+      ar:
         name: Ararat
-      av: 
+      av:
         name: Armavir
-      gr: 
+      gr:
         name: Gegarkunik'
-      kt: 
+      kt:
         name: Kotayk'
-      lo: 
+      lo:
         name: Lory
-      sh: 
+      sh:
         name: Sirak
-      su: 
+      su:
         name: Syunik'
-      tv: 
+      tv:
         name: Tavus
-      vd: 
+      vd:
         name: Vayoc Jor

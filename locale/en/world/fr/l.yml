@@ -1,11 +1,11 @@
---- 
-en: 
-  world: 
-    fr: 
-      l: 
-        "19": 
-          name: "Corr\xC3\xA8ze"
-        "23": 
+---
+en:
+  world:
+    fr:
+      l:
+        '19':
+          name: Corrèze
+        '23':
           name: Creuse
-        "87": 
+        '87':
           name: Haute-Vienne

@@ -1,13 +1,13 @@
---- 
-en: 
-  world: 
-    it: 
-      "65": 
-        ch: 
+---
+en:
+  world:
+    it:
+      '65':
+        ch:
           name: Chieti
-        aq: 
+        aq:
           name: L'Aquila
-        pe: 
+        pe:
           name: Pescara
-        te: 
+        te:
           name: Teramo

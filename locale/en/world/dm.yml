@@ -1,24 +1,24 @@
---- 
-en: 
-  world: 
-    dm: 
-      "02": 
+---
+en:
+  world:
+    dm:
+      '02':
         name: Saint Andrew
-      "03": 
+      '03':
         name: Saint David
-      "04": 
+      '04':
         name: Saint George
-      "05": 
+      '05':
         name: Saint John
-      "06": 
+      '06':
         name: Saint Joseph
-      "07": 
+      '07':
         name: Saint Luke
-      08: 
+      '08':
         name: Saint Mark
-      09: 
+      '09':
         name: Saint Patrick
-      "10": 
+      '10':
         name: Saint Paul
-      "01": 
+      '01':
         name: Saint Peter

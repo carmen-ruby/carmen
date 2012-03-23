@@ -1,60 +1,60 @@
---- 
-en: 
-  world: 
-    br: 
-      ac: 
+---
+en:
+  world:
+    br:
+      ac:
         name: Acre
-      al: 
+      al:
         name: Alagoas
-      am: 
+      am:
         name: Amazonas
-      ap: 
-        name: "Amap\xC3\xA1"
-      ba: 
+      ap:
+        name: Amapá
+      ba:
         name: Bahia
-      ce: 
-        name: "Cear\xC3\xA1"
-      es: 
-        name: "Esp\xC3\xADrito Santo"
-      fn: 
+      ce:
+        name: Ceará
+      es:
+        name: Espírito Santo
+      fn:
         name: Fernando de Noronha
-      go: 
-        name: "Goi\xC3\xA1s"
-      ma: 
-        name: "Maranh\xC3\xA3o"
-      mg: 
+      go:
+        name: Goiás
+      ma:
+        name: Maranhão
+      mg:
         name: Minas Gerais
-      ms: 
+      ms:
         name: Mato Grosso do Sul
-      mt: 
+      mt:
         name: Mato Grosso
-      pa: 
-        name: "Par\xC3\xA1"
-      pb: 
-        name: "Para\xC3\xADba"
-      pe: 
+      pa:
+        name: Pará
+      pb:
+        name: Paraíba
+      pe:
         name: Pernambuco
-      pi: 
-        name: "Piau\xC3\xAD"
-      pr: 
-        name: "Paran\xC3\xA1"
-      rj: 
+      pi:
+        name: Piauí
+      pr:
+        name: Paraná
+      rj:
         name: Rio de Janeiro
-      rn: 
+      rn:
         name: Rio Grande do Norte
-      ro: 
-        name: "Rond\xC3\xB4nia"
-      rr: 
+      ro:
+        name: Rondônia
+      rr:
         name: Roraima
-      rs: 
+      rs:
         name: Rio Grande do Sul
-      sc: 
+      sc:
         name: Santa Catarina
-      se: 
+      se:
         name: Sergipe
-      sp: 
-        name: "S\xC3\xA3o Paulo"
-      to: 
+      sp:
+        name: São Paulo
+      to:
         name: Tocantins
-      df: 
+      df:
         name: Distrito Federal
