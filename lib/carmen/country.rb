@@ -15,8 +15,8 @@ module Carmen
     attr_reader :common_name
 
     def initialize(data={}, parent=nil)
-      @alpha_2_code  = data['alpha_2_code']
-      @alpha_3_code  = data['alpha_3_code']
+      @alpha_2_code = data['alpha_2_code']
+      @alpha_3_code = data['alpha_3_code']
       super
     end
 
@@ -29,7 +29,7 @@ module Carmen
     end
 
     def inspect
-      "<##{self.class} name=\"#{name}\">"
+      %(<##{self.class} name="#{name}">)
     end
 
     def code
