@@ -32,6 +32,10 @@ module Carmen
       "<##{self.class} name=\"#{name}\">"
     end
 
+    def code
+      alpha_2_code
+    end
+
   private
     def translated_keys
       super + ['official_name', 'common_name']

@@ -45,6 +45,10 @@ describe Carmen::Country do
       @oceania.alpha_3_code.must_equal 'OCE'
     end
 
+    it "has code as an alias to alpha_2_code" do
+      @oceania.code.must_equal 'OC'
+    end
+
     it "has the world as a parent" do
       @oceania.parent.must_equal Carmen::World.instance
     end
