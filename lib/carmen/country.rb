@@ -14,7 +14,7 @@ module Carmen
     attr_reader :official_name
     attr_reader :common_name
 
-    def initialize(data={}, parent)
+    def initialize(data={}, parent=nil)
       @alpha_2_code  = data['alpha_2_code']
       @alpha_3_code  = data['alpha_3_code']
       super
@@ -37,6 +37,7 @@ module Carmen
     end
 
   private
+
     def translated_keys
       super + ['official_name', 'common_name']
     end
