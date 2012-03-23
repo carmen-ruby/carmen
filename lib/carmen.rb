@@ -41,6 +41,11 @@ module Carmen
     # Defaults to an instance of Carmen::I18n::Simple.
     attr_accessor :i18n_backend
 
+    # Private: the Carmen library's root directory.
+    #
+    # Provides a way to find the built-in data and locale files.
+    attr_accessor :root_path
+
     # Public: Set the data path.
     # path - The String path to the data directory.
     def data_path=(path)
@@ -61,4 +66,6 @@ module Carmen
   self.data_path = File.expand_path('../../iso_data', __FILE__)
   locale_path = File.expand_path('../locale', data_path)
   self.i18n_backend = Carmen::I18n::Simple.new(locale_path)
+
+  self.root_path = File.expand_path('../..', __FILE__)
 end
