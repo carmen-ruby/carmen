@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "1.0.0.pre"
   s.authors = ["Jim Benton"]
   s.email = %q{jim@autonomousmachine.com}
-  s.date = %q{2011-12-21}
+  s.date = %q{2012-03-23}
   s.homepage = %q{http://github.com/jim/carmen}
 
   s.required_rubygems_version = '>= 1.3.6'
@@ -14,4 +14,5 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency('minitest', ["= 2.6.1"])
   s.add_development_dependency('nokogiri')
+  s.add_development_dependency('rake', '0.9.2.2')
 end
