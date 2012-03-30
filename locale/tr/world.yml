@@ -1,0 +1,955 @@
+---
+tr:
+  world:
+    ad:
+      common_name: !!null 
+      name: Andora
+      official_name: !!null 
+    ae:
+      common_name: !!null 
+      name: Birleşik Arap Emirlikleri
+      official_name: !!null 
+    af:
+      common_name: !!null 
+      name: Afganistan
+      official_name: !!null 
+    ag:
+      common_name: !!null 
+      name: Antigua ve Barbuda
+      official_name: !!null 
+    ai:
+      common_name: !!null 
+      name: Anguilla
+      official_name: !!null 
+    al:
+      common_name: !!null 
+      name: Arnavutluk
+      official_name: !!null 
+    am:
+      common_name: !!null 
+      name: Ermenistan
+      official_name: !!null 
+    an:
+      common_name: !!null 
+      name: Hollanda Antilleri
+      official_name: !!null 
+    ao:
+      common_name: !!null 
+      name: Angola
+      official_name: !!null 
+    aq:
+      common_name: !!null 
+      name: Antarktika
+      official_name: !!null 
+    ar:
+      common_name: !!null 
+      name: Arjantin
+      official_name: !!null 
+    as:
+      common_name: !!null 
+      name: Amerikan Samoası
+      official_name: !!null 
+    at:
+      common_name: !!null 
+      name: Avusturya
+      official_name: !!null 
+    au:
+      common_name: !!null 
+      name: Avustralya
+      official_name: !!null 
+    aw:
+      common_name: !!null 
+      name: Aruba
+      official_name: !!null 
+    az:
+      common_name: !!null 
+      name: Azerbaycan
+      official_name: !!null 
+    ba:
+      common_name: !!null 
+      name: Bosna Hersek
+      official_name: !!null 
+    bb:
+      common_name: !!null 
+      name: Barbados
+      official_name: !!null 
+    bd:
+      common_name: !!null 
+      name: Bangladeş
+      official_name: !!null 
+    be:
+      common_name: !!null 
+      name: Belçika
+      official_name: !!null 
+    bf:
+      common_name: !!null 
+      name: Burkina Faso
+      official_name: !!null 
+    bg:
+      common_name: !!null 
+      name: Bulgaristan
+      official_name: !!null 
+    bh:
+      common_name: !!null 
+      name: Bahreyn
+      official_name: !!null 
+    bi:
+      common_name: !!null 
+      name: Burundi
+      official_name: !!null 
+    bj:
+      common_name: !!null 
+      name: Benin
+      official_name: !!null 
+    bm:
+      common_name: !!null 
+      name: Bermuda
+      official_name: !!null 
+    bn:
+      common_name: !!null 
+      name: Brunei
+      official_name: !!null 
+    bo:
+      common_name: !!null 
+      name: Bolivya
+      official_name: !!null 
+    br:
+      common_name: !!null 
+      name: Brezilya
+      official_name: !!null 
+    bs:
+      common_name: !!null 
+      name: Bahamalar
+      official_name: !!null 
+    bt:
+      common_name: !!null 
+      name: Bhutan
+      official_name: !!null 
+    bv:
+      common_name: !!null 
+      name: Buvet Adası
+      official_name: !!null 
+    bw:
+      common_name: !!null 
+      name: Botsvana
+      official_name: !!null 
+    by:
+      common_name: !!null 
+      name: Belarus
+      official_name: !!null 
+    bz:
+      common_name: !!null 
+      name: Belize
+      official_name: !!null 
+    ca:
+      common_name: !!null 
+      name: Kanada
+      official_name: !!null 
+    cc:
+      common_name: !!null 
+      name: Cocos (Keeling) Adaları
+      official_name: !!null 
+    cd:
+      common_name: !!null 
+      name: Kongo Demokratik Cumhuriyeti
+      official_name: !!null 
+    cf:
+      common_name: !!null 
+      name: Orta Afrika Cumhuriyeti
+      official_name: !!null 
+    cg:
+      common_name: !!null 
+      name: Kongo
+      official_name: !!null 
+    ch:
+      common_name: !!null 
+      name: İsviçre
+      official_name: !!null 
+    ci:
+      common_name: !!null 
+      name: Fildişi Sahili
+      official_name: !!null 
+    ck:
+      common_name: !!null 
+      name: Cook Adaları
+      official_name: !!null 
+    cl:
+      common_name: !!null 
+      name: Şili
+      official_name: !!null 
+    cm:
+      common_name: !!null 
+      name: Kamerun
+      official_name: !!null 
+    cn:
+      common_name: !!null 
+      name: Çin
+      official_name: !!null 
+    co:
+      common_name: !!null 
+      name: Kolombiya
+      official_name: !!null 
+    cr:
+      common_name: !!null 
+      name: Kosta Rika
+      official_name: !!null 
+    cu:
+      common_name: !!null 
+      name: Küba
+      official_name: !!null 
+    cv:
+      common_name: !!null 
+      name: Cape Verde
+      official_name: !!null 
+    cx:
+      common_name: !!null 
+      name: Christmas Adası
+      official_name: !!null 
+    cy:
+      common_name: !!null 
+      name: Kıbrıs
+      official_name: !!null 
+    cz:
+      common_name: !!null 
+      name: Çek Cumhuriyeti
+      official_name: !!null 
+    de:
+      common_name: !!null 
+      name: Almanya
+      official_name: !!null 
+    dj:
+      common_name: !!null 
+      name: Cibuti
+      official_name: !!null 
+    dk:
+      common_name: !!null 
+      name: Danimarka
+      official_name: !!null 
+    dm:
+      common_name: !!null 
+      name: Dominika
+      official_name: !!null 
+    do:
+      common_name: !!null 
+      name: Dominik Cumhuriyeti
+      official_name: !!null 
+    dz:
+      common_name: !!null 
+      name: Cezayir
+      official_name: !!null 
+    ec:
+      common_name: !!null 
+      name: Ekvator
+      official_name: !!null 
+    ee:
+      common_name: !!null 
+      name: Estonya
+      official_name: !!null 
+    eg:
+      common_name: !!null 
+      name: Mısır
+      official_name: !!null 
+    eh:
+      common_name: !!null 
+      name: Batı Sahra
+      official_name: !!null 
+    er:
+      common_name: !!null 
+      name: Eritre
+      official_name: !!null 
+    es:
+      common_name: !!null 
+      name: İspanya
+      official_name: !!null 
+    et:
+      common_name: !!null 
+      name: Etiyopya
+      official_name: !!null 
+    fi:
+      common_name: !!null 
+      name: Finlandiya
+      official_name: !!null 
+    fj:
+      common_name: !!null 
+      name: Fiji
+      official_name: !!null 
+    fk:
+      common_name: !!null 
+      name: Falkland Adaları (Malvinas)
+      official_name: !!null 
+    fm:
+      common_name: !!null 
+      name: Mikronezya Federal Devletleri
+      official_name: !!null 
+    fo:
+      common_name: !!null 
+      name: Faroe Adaları
+      official_name: !!null 
+    fr:
+      common_name: !!null 
+      name: Fransa
+      official_name: !!null 
+    ga:
+      common_name: !!null 
+      name: Gabon
+      official_name: !!null 
+    gb:
+      common_name: !!null 
+      name: Birleşik Krallık
+      official_name: !!null 
+    gd:
+      common_name: !!null 
+      name: Grenada
+      official_name: !!null 
+    ge:
+      common_name: !!null 
+      name: Gürcistan
+      official_name: !!null 
+    gf:
+      common_name: !!null 
+      name: Fransız Guyanası
+      official_name: !!null 
+    gh:
+      common_name: !!null 
+      name: Gana
+      official_name: !!null 
+    gi:
+      common_name: !!null 
+      name: Gibraltar
+      official_name: !!null 
+    gl:
+      common_name: !!null 
+      name: Grönland
+      official_name: !!null 
+    gm:
+      common_name: !!null 
+      name: Gambiya
+      official_name: !!null 
+    gn:
+      common_name: !!null 
+      name: Gine
+      official_name: !!null 
+    gp:
+      common_name: !!null 
+      name: Guatelup
+      official_name: !!null 
+    gq:
+      common_name: !!null 
+      name: Ekvator Ginesi
+      official_name: !!null 
+    gr:
+      common_name: !!null 
+      name: Yunanistan
+      official_name: !!null 
+    gt:
+      common_name: !!null 
+      name: Guatemala
+      official_name: !!null 
+    gu:
+      common_name: !!null 
+      name: Guam
+      official_name: !!null 
+    gw:
+      common_name: !!null 
+      name: Gine Bissau
+      official_name: !!null 
+    gy:
+      common_name: !!null 
+      name: Guyena
+      official_name: !!null 
+    hk:
+      common_name: !!null 
+      name: Hong Kong
+      official_name: !!null 
+    hm:
+      common_name: !!null 
+      name: Heard Adası ve McDonald Adaları
+      official_name: !!null 
+    hn:
+      common_name: !!null 
+      name: Honduras
+      official_name: !!null 
+    hr:
+      common_name: !!null 
+      name: Hırvatistan
+      official_name: !!null 
+    ht:
+      common_name: !!null 
+      name: Haiti
+      official_name: !!null 
+    hu:
+      common_name: !!null 
+      name: Macaristan
+      official_name: !!null 
+    id:
+      common_name: !!null 
+      name: Endonezya
+      official_name: !!null 
+    ie:
+      common_name: !!null 
+      name: İrlanda
+      official_name: !!null 
+    il:
+      common_name: !!null 
+      name: İsrail
+      official_name: !!null 
+    in:
+      common_name: !!null 
+      name: Hindistan
+      official_name: !!null 
+    io:
+      common_name: !!null 
+      name: İngiliz Hint Okyanus Bölgesi
+      official_name: !!null 
+    iq:
+      common_name: !!null 
+      name: Irak
+      official_name: !!null 
+    ir:
+      common_name: !!null 
+      name: İran
+      official_name: !!null 
+    is:
+      common_name: !!null 
+      name: İzlanda
+      official_name: !!null 
+    it:
+      common_name: !!null 
+      name: İtalya
+      official_name: !!null 
+    jm:
+      common_name: !!null 
+      name: Jamaika
+      official_name: !!null 
+    jo:
+      common_name: !!null 
+      name: Ürdün
+      official_name: !!null 
+    jp:
+      common_name: !!null 
+      name: Japonya
+      official_name: !!null 
+    ke:
+      common_name: !!null 
+      name: Kenya
+      official_name: !!null 
+    kg:
+      common_name: !!null 
+      name: Kırgızistan
+      official_name: !!null 
+    kh:
+      common_name: !!null 
+      name: Kamboçya
+      official_name: !!null 
+    ki:
+      common_name: !!null 
+      name: Kiribati
+      official_name: !!null 
+    km:
+      common_name: !!null 
+      name: Komor
+      official_name: !!null 
+    kn:
+      common_name: !!null 
+      name: St. Kitts ve Nevis
+      official_name: !!null 
+    kp:
+      common_name: !!null 
+      name: Kore, Kuzey
+      official_name: !!null 
+    kr:
+      common_name: !!null 
+      name: Kore, Güney
+      official_name: !!null 
+    kw:
+      common_name: !!null 
+      name: Kuveyt
+      official_name: !!null 
+    ky:
+      common_name: !!null 
+      name: Cayman Adaları
+      official_name: !!null 
+    kz:
+      common_name: !!null 
+      name: Kazakistan
+      official_name: !!null 
+    la:
+      common_name: !!null 
+      name: Laos
+      official_name: !!null 
+    lb:
+      common_name: !!null 
+      name: Lübnan
+      official_name: !!null 
+    lc:
+      common_name: !!null 
+      name: Santa Lucia
+      official_name: !!null 
+    li:
+      common_name: !!null 
+      name: Liechtenstein
+      official_name: !!null 
+    lk:
+      common_name: !!null 
+      name: Sri Lanka
+      official_name: !!null 
+    lr:
+      common_name: !!null 
+      name: Liberya
+      official_name: !!null 
+    ls:
+      common_name: !!null 
+      name: Lesotho
+      official_name: !!null 
+    lt:
+      common_name: !!null 
+      name: Litvanya
+      official_name: !!null 
+    lu:
+      common_name: !!null 
+      name: Lüksemburg
+      official_name: !!null 
+    lv:
+      common_name: !!null 
+      name: Letonya
+      official_name: !!null 
+    ly:
+      common_name: !!null 
+      name: Libya
+      official_name: !!null 
+    ma:
+      common_name: !!null 
+      name: Fas
+      official_name: !!null 
+    mc:
+      common_name: !!null 
+      name: Monako
+      official_name: !!null 
+    md:
+      common_name: !!null 
+      name: Moldova
+      official_name: !!null 
+    me:
+      common_name: !!null 
+      name: Karadağ
+      official_name: !!null 
+    mg:
+      common_name: !!null 
+      name: Madagaskar
+      official_name: !!null 
+    mh:
+      common_name: !!null 
+      name: Marşal Adaları
+      official_name: !!null 
+    mk:
+      common_name: !!null 
+      name: Makedonya
+      official_name: !!null 
+    ml:
+      common_name: !!null 
+      name: Mali
+      official_name: !!null 
+    mm:
+      common_name: !!null 
+      name: Myanmar
+      official_name: !!null 
+    mn:
+      common_name: !!null 
+      name: Moğolistan
+      official_name: !!null 
+    mo:
+      common_name: !!null 
+      name: Makao
+      official_name: !!null 
+    mp:
+      common_name: !!null 
+      name: Kuzey Marian Adaları
+      official_name: !!null 
+    mq:
+      common_name: !!null 
+      name: Martinik
+      official_name: !!null 
+    mr:
+      common_name: !!null 
+      name: Moritanya
+      official_name: !!null 
+    ms:
+      common_name: !!null 
+      name: Monserra
+      official_name: !!null 
+    mt:
+      common_name: !!null 
+      name: Malta
+      official_name: !!null 
+    mu:
+      common_name: !!null 
+      name: Mauritius
+      official_name: !!null 
+    mv:
+      common_name: !!null 
+      name: Maldivler
+      official_name: !!null 
+    mw:
+      common_name: !!null 
+      name: Malavi
+      official_name: !!null 
+    mx:
+      common_name: !!null 
+      name: Meksika
+      official_name: !!null 
+    my:
+      common_name: !!null 
+      name: Malezya
+      official_name: !!null 
+    mz:
+      common_name: !!null 
+      name: Mozambik
+      official_name: !!null 
+    na:
+      common_name: !!null 
+      name: Namibya
+      official_name: !!null 
+    nc:
+      common_name: !!null 
+      name: Yeni Kaledonya
+      official_name: !!null 
+    ne:
+      common_name: !!null 
+      name: Nijer
+      official_name: !!null 
+    nf:
+      common_name: !!null 
+      name: Norfolk Adası
+      official_name: !!null 
+    ng:
+      common_name: !!null 
+      name: Nijerya
+      official_name: !!null 
+    ni:
+      common_name: !!null 
+      name: Nikaragua
+      official_name: !!null 
+    nl:
+      common_name: !!null 
+      name: Hollanda
+      official_name: !!null 
+    'no':
+      common_name: !!null 
+      name: Norveç
+      official_name: !!null 
+    np:
+      common_name: !!null 
+      name: Nepal
+      official_name: !!null 
+    nr:
+      common_name: !!null 
+      name: Nauru
+      official_name: !!null 
+    nu:
+      common_name: !!null 
+      name: Niue
+      official_name: !!null 
+    nz:
+      common_name: !!null 
+      name: Yeni Zelanda
+      official_name: !!null 
+    om:
+      common_name: !!null 
+      name: Umman
+      official_name: !!null 
+    pa:
+      common_name: !!null 
+      name: Panama
+      official_name: !!null 
+    pe:
+      common_name: !!null 
+      name: Peru
+      official_name: !!null 
+    pf:
+      common_name: !!null 
+      name: Fransız Polenezyası
+      official_name: !!null 
+    pg:
+      common_name: !!null 
+      name: Papua Yeni Gine
+      official_name: !!null 
+    ph:
+      common_name: !!null 
+      name: Filipinler
+      official_name: !!null 
+    pk:
+      common_name: !!null 
+      name: Pakistan
+      official_name: !!null 
+    pl:
+      common_name: !!null 
+      name: Polonya
+      official_name: !!null 
+    pm:
+      common_name: !!null 
+      name: St. Pier ve Mikelon
+      official_name: !!null 
+    pn:
+      common_name: !!null 
+      name: Pitkeirn
+      official_name: !!null 
+    pr:
+      common_name: !!null 
+      name: Puerto Riko
+      official_name: !!null 
+    pt:
+      common_name: !!null 
+      name: Portekiz
+      official_name: !!null 
+    pw:
+      common_name: !!null 
+      name: Palau
+      official_name: !!null 
+    py:
+      common_name: !!null 
+      name: Paraguay
+      official_name: !!null 
+    qa:
+      common_name: !!null 
+      name: Katar
+      official_name: !!null 
+    re:
+      common_name: !!null 
+      name: Reunyon
+      official_name: !!null 
+    ro:
+      common_name: !!null 
+      name: Romanya
+      official_name: !!null 
+    rs:
+      common_name: !!null 
+      name: Sırbistan
+      official_name: !!null 
+    ru:
+      common_name: !!null 
+      name: Rusya
+      official_name: !!null 
+    rw:
+      common_name: !!null 
+      name: Ruanda
+      official_name: !!null 
+    sa:
+      common_name: !!null 
+      name: Suudi Arabistan
+      official_name: !!null 
+    sb:
+      common_name: !!null 
+      name: Solomon Adaları
+      official_name: !!null 
+    sc:
+      common_name: !!null 
+      name: Seyşeller
+      official_name: !!null 
+    sd:
+      common_name: !!null 
+      name: Sudan
+      official_name: !!null 
+    se:
+      common_name: !!null 
+      name: İsveç
+      official_name: !!null 
+    sg:
+      common_name: !!null 
+      name: Singapur
+      official_name: !!null 
+    sh:
+      common_name: !!null 
+      name: St. Helen
+      official_name: !!null 
+    si:
+      common_name: !!null 
+      name: Slovenya
+      official_name: !!null 
+    sj:
+      common_name: !!null 
+      name: Svalbard ve Jan Mayen
+      official_name: !!null 
+    sk:
+      common_name: !!null 
+      name: Slovakya
+      official_name: !!null 
+    sl:
+      common_name: !!null 
+      name: Sierra Leon
+      official_name: !!null 
+    sm:
+      common_name: !!null 
+      name: San Marino
+      official_name: !!null 
+    sn:
+      common_name: !!null 
+      name: Senegal
+      official_name: !!null 
+    so:
+      common_name: !!null 
+      name: Somali
+      official_name: !!null 
+    sr:
+      common_name: !!null 
+      name: Surinam
+      official_name: !!null 
+    st:
+      common_name: !!null 
+      name: Sao Tome ve Prensip
+      official_name: !!null 
+    sv:
+      common_name: !!null 
+      name: El Salvador
+      official_name: !!null 
+    sy:
+      common_name: !!null 
+      name: Suriye
+      official_name: !!null 
+    sz:
+      common_name: !!null 
+      name: Svaziland
+      official_name: !!null 
+    tc:
+      common_name: !!null 
+      name: Türk ve Kaikos Adaları
+      official_name: !!null 
+    td:
+      common_name: !!null 
+      name: Çad
+      official_name: !!null 
+    tf:
+      common_name: !!null 
+      name: Fransa Güney Bölgesi
+      official_name: !!null 
+    tg:
+      common_name: !!null 
+      name: Togo
+      official_name: !!null 
+    th:
+      common_name: !!null 
+      name: Tayland
+      official_name: !!null 
+    tj:
+      common_name: !!null 
+      name: Tacikistan
+      official_name: !!null 
+    tk:
+      common_name: !!null 
+      name: Tokelau
+      official_name: !!null 
+    tl:
+      common_name: !!null 
+      name: Timor-Leste
+      official_name: !!null 
+    tm:
+      common_name: !!null 
+      name: Türkmenistan
+      official_name: !!null 
+    tn:
+      common_name: !!null 
+      name: Tunus
+      official_name: !!null 
+    to:
+      common_name: !!null 
+      name: Tonga
+      official_name: !!null 
+    tr:
+      common_name: !!null 
+      name: Türkiye
+      official_name: !!null 
+    tt:
+      common_name: !!null 
+      name: Trinidad ve Tobago
+      official_name: !!null 
+    tv:
+      common_name: !!null 
+      name: Tuvalu
+      official_name: !!null 
+    tw:
+      common_name: !!null 
+      name: Tayvan
+      official_name: !!null 
+    tz:
+      common_name: !!null 
+      name: Tanzanya
+      official_name: !!null 
+    ua:
+      common_name: !!null 
+      name: Ukrayna
+      official_name: !!null 
+    ug:
+      common_name: !!null 
+      name: Uganda
+      official_name: !!null 
+    um:
+      common_name: !!null 
+      name: A.B.D. Küçük Çevre Adaları
+      official_name: !!null 
+    us:
+      common_name: !!null 
+      name: Amerika Birleşik Devletleri
+      official_name: !!null 
+    uy:
+      common_name: !!null 
+      name: Uruguay
+      official_name: !!null 
+    uz:
+      common_name: !!null 
+      name: Özbekistan
+      official_name: !!null 
+    va:
+      common_name: !!null 
+      name: Vatikan
+      official_name: !!null 
+    vc:
+      common_name: !!null 
+      name: St. Vensan ve Grenadines
+      official_name: !!null 
+    ve:
+      common_name: !!null 
+      name: Venezuela
+      official_name: !!null 
+    vg:
+      common_name: !!null 
+      name: Virjin Adaları, İngiltere
+      official_name: !!null 
+    vi:
+      common_name: !!null 
+      name: Virjin Adaları, ABD
+      official_name: !!null 
+    vn:
+      common_name: !!null 
+      name: Vietnam
+      official_name: !!null 
+    vu:
+      common_name: !!null 
+      name: Vanuatu
+      official_name: !!null 
+    wf:
+      common_name: !!null 
+      name: Valis ve Futuna
+      official_name: !!null 
+    ws:
+      common_name: !!null 
+      name: Samoa
+      official_name: !!null 
+    ye:
+      common_name: !!null 
+      name: Yemen
+      official_name: !!null 
+    yt:
+      common_name: !!null 
+      name: Mayotte
+      official_name: !!null 
+    za:
+      common_name: !!null 
+      name: Güney Afrika
+      official_name: !!null 
+    zm:
+      common_name: !!null 
+      name: Zambiya
+      official_name: !!null 
+    zw:
+      common_name: !!null 
+      name: Zimbabve
+      official_name: !!null 

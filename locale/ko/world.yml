@@ -1,0 +1,955 @@
+---
+ko:
+  world:
+    ad:
+      common_name: !!null 
+      name: 안도라
+      official_name: !!null 
+    ae:
+      common_name: !!null 
+      name: 아랍에미리트연합국
+      official_name: !!null 
+    af:
+      common_name: !!null 
+      name: 아프카니스탄
+      official_name: !!null 
+    ag:
+      common_name: !!null 
+      name: 앤티가바부다
+      official_name: !!null 
+    ai:
+      common_name: !!null 
+      name: 앙길라
+      official_name: !!null 
+    al:
+      common_name: !!null 
+      name: 알바니아
+      official_name: !!null 
+    am:
+      common_name: !!null 
+      name: 아르메니아
+      official_name: !!null 
+    an:
+      common_name: !!null 
+      name: 네덜란드령 안틸레스
+      official_name: !!null 
+    ao:
+      common_name: !!null 
+      name: 앙골라
+      official_name: !!null 
+    aq:
+      common_name: !!null 
+      name: 남극
+      official_name: !!null 
+    ar:
+      common_name: !!null 
+      name: 아르헨티나
+      official_name: !!null 
+    as:
+      common_name: !!null 
+      name: 미국령 사모아
+      official_name: !!null 
+    at:
+      common_name: !!null 
+      name: 오스트리아
+      official_name: !!null 
+    au:
+      common_name: !!null 
+      name: 호주
+      official_name: !!null 
+    aw:
+      common_name: !!null 
+      name: 아루바
+      official_name: !!null 
+    az:
+      common_name: !!null 
+      name: 아제르바이잔
+      official_name: !!null 
+    ba:
+      common_name: !!null 
+      name: 보스니아 헤르체고비나
+      official_name: !!null 
+    bb:
+      common_name: !!null 
+      name: 바베이도스
+      official_name: !!null 
+    bd:
+      common_name: !!null 
+      name: 방글라데시
+      official_name: !!null 
+    be:
+      common_name: !!null 
+      name: 벨기에
+      official_name: !!null 
+    bf:
+      common_name: !!null 
+      name: 부르키나 파소
+      official_name: !!null 
+    bg:
+      common_name: !!null 
+      name: 불가리아
+      official_name: !!null 
+    bh:
+      common_name: !!null 
+      name: 바레인
+      official_name: !!null 
+    bi:
+      common_name: !!null 
+      name: 부룬디
+      official_name: !!null 
+    bj:
+      common_name: !!null 
+      name: 베냉
+      official_name: !!null 
+    bm:
+      common_name: !!null 
+      name: 버뮤다
+      official_name: !!null 
+    bn:
+      common_name: !!null 
+      name: 브루나이
+      official_name: !!null 
+    bo:
+      common_name: !!null 
+      name: 볼리비아
+      official_name: !!null 
+    br:
+      common_name: !!null 
+      name: 브라질
+      official_name: !!null 
+    bs:
+      common_name: !!null 
+      name: 바하마
+      official_name: !!null 
+    bt:
+      common_name: !!null 
+      name: 부탄
+      official_name: !!null 
+    bv:
+      common_name: !!null 
+      name: 부베섬
+      official_name: !!null 
+    bw:
+      common_name: !!null 
+      name: 보츠와나
+      official_name: !!null 
+    by:
+      common_name: !!null 
+      name: 벨로루시
+      official_name: !!null 
+    bz:
+      common_name: !!null 
+      name: 벨리즈
+      official_name: !!null 
+    ca:
+      common_name: !!null 
+      name: 캐나다
+      official_name: !!null 
+    cc:
+      common_name: !!null 
+      name: 코코스 (킬링) 제도
+      official_name: !!null 
+    cd:
+      common_name: !!null 
+      name: 콩고 민주 공화국
+      official_name: !!null 
+    cf:
+      common_name: !!null 
+      name: 중앙아프리카공화국
+      official_name: !!null 
+    cg:
+      common_name: !!null 
+      name: 콩고
+      official_name: !!null 
+    ch:
+      common_name: !!null 
+      name: 스위스
+      official_name: !!null 
+    ci:
+      common_name: !!null 
+      name: 코트디부와르
+      official_name: !!null 
+    ck:
+      common_name: !!null 
+      name: 쿡 제도
+      official_name: !!null 
+    cl:
+      common_name: !!null 
+      name: 칠레
+      official_name: !!null 
+    cm:
+      common_name: !!null 
+      name: 카메룬
+      official_name: !!null 
+    cn:
+      common_name: !!null 
+      name: 중국
+      official_name: !!null 
+    co:
+      common_name: !!null 
+      name: 콜럼비아
+      official_name: !!null 
+    cr:
+      common_name: !!null 
+      name: 코스타리카
+      official_name: !!null 
+    cu:
+      common_name: !!null 
+      name: 쿠바
+      official_name: !!null 
+    cv:
+      common_name: !!null 
+      name: 카보베르데
+      official_name: !!null 
+    cx:
+      common_name: !!null 
+      name: 크리스마스 섬
+      official_name: !!null 
+    cy:
+      common_name: !!null 
+      name: 키프로스
+      official_name: !!null 
+    cz:
+      common_name: !!null 
+      name: 체코 공화국
+      official_name: !!null 
+    de:
+      common_name: !!null 
+      name: 독일
+      official_name: !!null 
+    dj:
+      common_name: !!null 
+      name: 지부티
+      official_name: !!null 
+    dk:
+      common_name: !!null 
+      name: 덴마크
+      official_name: !!null 
+    dm:
+      common_name: !!null 
+      name: 도미니카
+      official_name: !!null 
+    do:
+      common_name: !!null 
+      name: 도미니카 공화국
+      official_name: !!null 
+    dz:
+      common_name: !!null 
+      name: 알제리아
+      official_name: !!null 
+    ec:
+      common_name: !!null 
+      name: 에쿠아도르
+      official_name: !!null 
+    ee:
+      common_name: !!null 
+      name: 에스토니아
+      official_name: !!null 
+    eg:
+      common_name: !!null 
+      name: 이집트
+      official_name: !!null 
+    eh:
+      common_name: !!null 
+      name: 서부 사하라
+      official_name: !!null 
+    er:
+      common_name: !!null 
+      name: 에리트레아
+      official_name: !!null 
+    es:
+      common_name: !!null 
+      name: 스페인
+      official_name: !!null 
+    et:
+      common_name: !!null 
+      name: 에티오피아
+      official_name: !!null 
+    fi:
+      common_name: !!null 
+      name: 핀란드
+      official_name: !!null 
+    fj:
+      common_name: !!null 
+      name: 피지
+      official_name: !!null 
+    fk:
+      common_name: !!null 
+      name: 포크랜드 군도(말비나스)
+      official_name: !!null 
+    fm:
+      common_name: !!null 
+      name: 마이크로네시아 연합국
+      official_name: !!null 
+    fo:
+      common_name: !!null 
+      name: 페로우 군도
+      official_name: !!null 
+    fr:
+      common_name: !!null 
+      name: 프랑스
+      official_name: !!null 
+    ga:
+      common_name: !!null 
+      name: 가봉
+      official_name: !!null 
+    gb:
+      common_name: !!null 
+      name: 영국
+      official_name: !!null 
+    gd:
+      common_name: !!null 
+      name: 그레나다
+      official_name: !!null 
+    ge:
+      common_name: !!null 
+      name: 그루지야
+      official_name: !!null 
+    gf:
+      common_name: !!null 
+      name: 프랑스령 가이아나
+      official_name: !!null 
+    gh:
+      common_name: !!null 
+      name: 가나
+      official_name: !!null 
+    gi:
+      common_name: !!null 
+      name: 지브랄타
+      official_name: !!null 
+    gl:
+      common_name: !!null 
+      name: 그린랜드
+      official_name: !!null 
+    gm:
+      common_name: !!null 
+      name: 감비아
+      official_name: !!null 
+    gn:
+      common_name: !!null 
+      name: 기니
+      official_name: !!null 
+    gp:
+      common_name: !!null 
+      name: 과들루프
+      official_name: !!null 
+    gq:
+      common_name: !!null 
+      name: 적도 기니
+      official_name: !!null 
+    gr:
+      common_name: !!null 
+      name: 그리스
+      official_name: !!null 
+    gt:
+      common_name: !!null 
+      name: 과테말라
+      official_name: !!null 
+    gu:
+      common_name: !!null 
+      name: 괌
+      official_name: !!null 
+    gw:
+      common_name: !!null 
+      name: 기니비사우
+      official_name: !!null 
+    gy:
+      common_name: !!null 
+      name: 가이아나
+      official_name: !!null 
+    hk:
+      common_name: !!null 
+      name: 홍콩
+      official_name: !!null 
+    hm:
+      common_name: !!null 
+      name: 허드 및 맥도날드 군도
+      official_name: !!null 
+    hn:
+      common_name: !!null 
+      name: 온두라스
+      official_name: !!null 
+    hr:
+      common_name: !!null 
+      name: 크로아티아
+      official_name: !!null 
+    ht:
+      common_name: !!null 
+      name: 하이티
+      official_name: !!null 
+    hu:
+      common_name: !!null 
+      name: 헝가리
+      official_name: !!null 
+    id:
+      common_name: !!null 
+      name: 인도네시아
+      official_name: !!null 
+    ie:
+      common_name: !!null 
+      name: 아일랜드
+      official_name: !!null 
+    il:
+      common_name: !!null 
+      name: 이스라엘
+      official_name: !!null 
+    in:
+      common_name: !!null 
+      name: 인도
+      official_name: !!null 
+    io:
+      common_name: !!null 
+      name: 영국령 인도양 식민지
+      official_name: !!null 
+    iq:
+      common_name: !!null 
+      name: 이라크
+      official_name: !!null 
+    ir:
+      common_name: !!null 
+      name: 이란
+      official_name: !!null 
+    is:
+      common_name: !!null 
+      name: 아이슬란드
+      official_name: !!null 
+    it:
+      common_name: !!null 
+      name: 이탈리아
+      official_name: !!null 
+    jm:
+      common_name: !!null 
+      name: 자메이카
+      official_name: !!null 
+    jo:
+      common_name: !!null 
+      name: 요르단
+      official_name: !!null 
+    jp:
+      common_name: !!null 
+      name: 일본
+      official_name: !!null 
+    ke:
+      common_name: !!null 
+      name: 케냐
+      official_name: !!null 
+    kg:
+      common_name: !!null 
+      name: 키르기스
+      official_name: !!null 
+    kh:
+      common_name: !!null 
+      name: 캄보디아
+      official_name: !!null 
+    ki:
+      common_name: !!null 
+      name: 키리바시
+      official_name: !!null 
+    km:
+      common_name: !!null 
+      name: 코모로
+      official_name: !!null 
+    kn:
+      common_name: !!null 
+      name: 세인트키츠네비스
+      official_name: !!null 
+    kp:
+      common_name: !!null 
+      name: 북한
+      official_name: !!null 
+    kr:
+      common_name: !!null 
+      name: 대한민국
+      official_name: !!null 
+    kw:
+      common_name: !!null 
+      name: 쿠웨이트
+      official_name: !!null 
+    ky:
+      common_name: !!null 
+      name: 케이맨 군도
+      official_name: !!null 
+    kz:
+      common_name: !!null 
+      name: 카자흐스탄
+      official_name: !!null 
+    la:
+      common_name: !!null 
+      name: 라오스
+      official_name: !!null 
+    lb:
+      common_name: !!null 
+      name: 레바논
+      official_name: !!null 
+    lc:
+      common_name: !!null 
+      name: 세인트 루치아
+      official_name: !!null 
+    li:
+      common_name: !!null 
+      name: 리히텐슈타인
+      official_name: !!null 
+    lk:
+      common_name: !!null 
+      name: 스리랑카
+      official_name: !!null 
+    lr:
+      common_name: !!null 
+      name: 라이베리아
+      official_name: !!null 
+    ls:
+      common_name: !!null 
+      name: 레소토
+      official_name: !!null 
+    lt:
+      common_name: !!null 
+      name: 리투아니아
+      official_name: !!null 
+    lu:
+      common_name: !!null 
+      name: 룩셈부르크
+      official_name: !!null 
+    lv:
+      common_name: !!null 
+      name: 라트비아
+      official_name: !!null 
+    ly:
+      common_name: !!null 
+      name: 리비아
+      official_name: !!null 
+    ma:
+      common_name: !!null 
+      name: 모로코
+      official_name: !!null 
+    mc:
+      common_name: !!null 
+      name: 모나코
+      official_name: !!null 
+    md:
+      common_name: !!null 
+      name: 몰도바
+      official_name: !!null 
+    me:
+      common_name: !!null 
+      name: 몬테네그로
+      official_name: !!null 
+    mg:
+      common_name: !!null 
+      name: 마다가스카르
+      official_name: !!null 
+    mh:
+      common_name: !!null 
+      name: 마셜 제도
+      official_name: !!null 
+    mk:
+      common_name: !!null 
+      name: 마케도니아
+      official_name: !!null 
+    ml:
+      common_name: !!null 
+      name: 말리
+      official_name: !!null 
+    mm:
+      common_name: !!null 
+      name: 미얀마
+      official_name: !!null 
+    mn:
+      common_name: !!null 
+      name: 몽골
+      official_name: !!null 
+    mo:
+      common_name: !!null 
+      name: 마카오
+      official_name: !!null 
+    mp:
+      common_name: !!null 
+      name: 북 마리아나 제도
+      official_name: !!null 
+    mq:
+      common_name: !!null 
+      name: 마르티니크
+      official_name: !!null 
+    mr:
+      common_name: !!null 
+      name: 모리타니아
+      official_name: !!null 
+    ms:
+      common_name: !!null 
+      name: 몬트세라트
+      official_name: !!null 
+    mt:
+      common_name: !!null 
+      name: 몰타
+      official_name: !!null 
+    mu:
+      common_name: !!null 
+      name: 모리셔스
+      official_name: !!null 
+    mv:
+      common_name: !!null 
+      name: 말라위
+      official_name: !!null 
+    mw:
+      common_name: !!null 
+      name: 몰디브
+      official_name: !!null 
+    mx:
+      common_name: !!null 
+      name: 멕시코
+      official_name: !!null 
+    my:
+      common_name: !!null 
+      name: 말레이시아
+      official_name: !!null 
+    mz:
+      common_name: !!null 
+      name: 모잠비크
+      official_name: !!null 
+    na:
+      common_name: !!null 
+      name: 나미비아
+      official_name: !!null 
+    nc:
+      common_name: !!null 
+      name: 뉴 칼레도니아
+      official_name: !!null 
+    ne:
+      common_name: !!null 
+      name: 니제르
+      official_name: !!null 
+    nf:
+      common_name: !!null 
+      name: 노퍽 제도
+      official_name: !!null 
+    ng:
+      common_name: !!null 
+      name: 나이제리아
+      official_name: !!null 
+    ni:
+      common_name: !!null 
+      name: 니카라과
+      official_name: !!null 
+    nl:
+      common_name: !!null 
+      name: 네덜란드
+      official_name: !!null 
+    'no':
+      common_name: !!null 
+      name: 노르웨이
+      official_name: !!null 
+    np:
+      common_name: !!null 
+      name: 네팔
+      official_name: !!null 
+    nr:
+      common_name: !!null 
+      name: 나우루
+      official_name: !!null 
+    nu:
+      common_name: !!null 
+      name: 니우에
+      official_name: !!null 
+    nz:
+      common_name: !!null 
+      name: 뉴질랜드
+      official_name: !!null 
+    om:
+      common_name: !!null 
+      name: 오만
+      official_name: !!null 
+    pa:
+      common_name: !!null 
+      name: 파나마
+      official_name: !!null 
+    pe:
+      common_name: !!null 
+      name: 페루
+      official_name: !!null 
+    pf:
+      common_name: !!null 
+      name: 프랑스령 폴리네시아
+      official_name: !!null 
+    pg:
+      common_name: !!null 
+      name: 파푸아뉴기니
+      official_name: !!null 
+    ph:
+      common_name: !!null 
+      name: 필리핀
+      official_name: !!null 
+    pk:
+      common_name: !!null 
+      name: 파키스탄
+      official_name: !!null 
+    pl:
+      common_name: !!null 
+      name: 폴란드
+      official_name: !!null 
+    pm:
+      common_name: !!null 
+      name: 성 피에르 및 미클롱
+      official_name: !!null 
+    pn:
+      common_name: !!null 
+      name: 핏케언
+      official_name: !!null 
+    pr:
+      common_name: !!null 
+      name: 푸에르토리코
+      official_name: !!null 
+    pt:
+      common_name: !!null 
+      name: 포르투갈
+      official_name: !!null 
+    pw:
+      common_name: !!null 
+      name: 팔라우
+      official_name: !!null 
+    py:
+      common_name: !!null 
+      name: 파라과이
+      official_name: !!null 
+    qa:
+      common_name: !!null 
+      name: 카타르
+      official_name: !!null 
+    re:
+      common_name: !!null 
+      name: 리유니온
+      official_name: !!null 
+    ro:
+      common_name: !!null 
+      name: 루마니아
+      official_name: !!null 
+    rs:
+      common_name: !!null 
+      name: 세르비아
+      official_name: !!null 
+    ru:
+      common_name: !!null 
+      name: 러시아
+      official_name: !!null 
+    rw:
+      common_name: !!null 
+      name: 르완다
+      official_name: !!null 
+    sa:
+      common_name: !!null 
+      name: 사우디 아라비아
+      official_name: !!null 
+    sb:
+      common_name: !!null 
+      name: 솔로몬 제도
+      official_name: !!null 
+    sc:
+      common_name: !!null 
+      name: 세이셸
+      official_name: !!null 
+    sd:
+      common_name: !!null 
+      name: 수단
+      official_name: !!null 
+    se:
+      common_name: !!null 
+      name: 스웨덴
+      official_name: !!null 
+    sg:
+      common_name: !!null 
+      name: 싱가포르
+      official_name: !!null 
+    sh:
+      common_name: !!null 
+      name: 세인트 헬레나
+      official_name: !!null 
+    si:
+      common_name: !!null 
+      name: 슬로베니아
+      official_name: !!null 
+    sj:
+      common_name: !!null 
+      name: 스발바드 및 얀마옌
+      official_name: !!null 
+    sk:
+      common_name: !!null 
+      name: 슬로바키아
+      official_name: !!null 
+    sl:
+      common_name: !!null 
+      name: 시에라리온
+      official_name: !!null 
+    sm:
+      common_name: !!null 
+      name: 산마리노
+      official_name: !!null 
+    sn:
+      common_name: !!null 
+      name: 세네갈
+      official_name: !!null 
+    so:
+      common_name: !!null 
+      name: 소말리아
+      official_name: !!null 
+    sr:
+      common_name: !!null 
+      name: 수리남
+      official_name: !!null 
+    st:
+      common_name: !!null 
+      name: 상투메 프린시페
+      official_name: !!null 
+    sv:
+      common_name: !!null 
+      name: 엘살바도르
+      official_name: !!null 
+    sy:
+      common_name: !!null 
+      name: 시리아
+      official_name: !!null 
+    sz:
+      common_name: !!null 
+      name: 스와질란드
+      official_name: !!null 
+    tc:
+      common_name: !!null 
+      name: 터크스 앤드 카이코스 제도
+      official_name: !!null 
+    td:
+      common_name: !!null 
+      name: 차드
+      official_name: !!null 
+    tf:
+      common_name: !!null 
+      name: 프랑스령 남부 영토
+      official_name: !!null 
+    tg:
+      common_name: !!null 
+      name: 토고
+      official_name: !!null 
+    th:
+      common_name: !!null 
+      name: 태국
+      official_name: !!null 
+    tj:
+      common_name: !!null 
+      name: 타지키스탄
+      official_name: !!null 
+    tk:
+      common_name: !!null 
+      name: 토켈라우
+      official_name: !!null 
+    tl:
+      common_name: !!null 
+      name: 티모르-레스테
+      official_name: !!null 
+    tm:
+      common_name: !!null 
+      name: 투르크메니스탄
+      official_name: !!null 
+    tn:
+      common_name: !!null 
+      name: 튀니지
+      official_name: !!null 
+    to:
+      common_name: !!null 
+      name: 통가
+      official_name: !!null 
+    tr:
+      common_name: !!null 
+      name: 터키
+      official_name: !!null 
+    tt:
+      common_name: !!null 
+      name: 트리니다드 토바고
+      official_name: !!null 
+    tv:
+      common_name: !!null 
+      name: 투발루
+      official_name: !!null 
+    tw:
+      common_name: !!null 
+      name: 대만
+      official_name: !!null 
+    tz:
+      common_name: !!null 
+      name: 탄자니아
+      official_name: !!null 
+    ua:
+      common_name: !!null 
+      name: 우크라이나
+      official_name: !!null 
+    ug:
+      common_name: !!null 
+      name: 우간다
+      official_name: !!null 
+    um:
+      common_name: !!null 
+      name: 미국령 군소 외곽제도
+      official_name: !!null 
+    us:
+      common_name: !!null 
+      name: 미국
+      official_name: !!null 
+    uy:
+      common_name: !!null 
+      name: 우루과이
+      official_name: !!null 
+    uz:
+      common_name: !!null 
+      name: 우즈베키스탄
+      official_name: !!null 
+    va:
+      common_name: !!null 
+      name: 바티칸 시(교황청)
+      official_name: !!null 
+    vc:
+      common_name: !!null 
+      name: 세인트 빈센트 그레나딘
+      official_name: !!null 
+    ve:
+      common_name: !!null 
+      name: 베네수엘라
+      official_name: !!null 
+    vg:
+      common_name: !!null 
+      name: 영국령 버진 제도
+      official_name: !!null 
+    vi:
+      common_name: !!null 
+      name: 미국령 버진 제도
+      official_name: !!null 
+    vn:
+      common_name: !!null 
+      name: 베트남
+      official_name: !!null 
+    vu:
+      common_name: !!null 
+      name: 바누아투
+      official_name: !!null 
+    wf:
+      common_name: !!null 
+      name: 월리스 푸투나
+      official_name: !!null 
+    ws:
+      common_name: !!null 
+      name: 사모아
+      official_name: !!null 
+    ye:
+      common_name: !!null 
+      name: 예멘
+      official_name: !!null 
+    yt:
+      common_name: !!null 
+      name: 마요테
+      official_name: !!null 
+    za:
+      common_name: !!null 
+      name: 남아프리카
+      official_name: !!null 
+    zm:
+      common_name: !!null 
+      name: 잠비아
+      official_name: !!null 
+    zw:
+      common_name: !!null 
+      name: 짐바브웨
+      official_name: !!null 
