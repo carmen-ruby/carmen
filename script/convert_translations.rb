@@ -7,8 +7,6 @@ YAML::ENGINE.yamler = 'psych'
 ROOT = Pathname.new(__FILE__ + '/../..').expand_path
 DEPRECATED_DATA_PATH = ROOT + 'deprecated_data'
 
-puts DEPRECATED_DATA_PATH
-
 def convert_country_files
   Dir[DEPRECATED_DATA_PATH + 'countries/*.yml'].each do |file|
     puts "Converting #{file}"
