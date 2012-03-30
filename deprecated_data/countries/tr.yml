@@ -1,0 +1,477 @@
+---
+- - A.B.D. Küçük Çevre Adaları
+  - UM
+- - Afganistan
+  - AF
+- - Almanya
+  - DE
+- - Amerika Birleşik Devletleri
+  - US
+- - Amerikan Samoası
+  - AS
+- - Andora
+  - AD
+- - Angola
+  - AO
+- - Anguilla
+  - AI
+- - Antarktika
+  - AQ
+- - Antigua ve Barbuda
+  - AG
+- - Arjantin
+  - AR
+- - Arnavutluk
+  - AL
+- - Aruba
+  - AW
+- - Avustralya
+  - AU
+- - Avusturya
+  - AT
+- - Azerbaycan
+  - AZ
+- - Bahamalar
+  - BS
+- - Bahreyn
+  - BH
+- - Bangladeş
+  - BD
+- - Barbados
+  - BB
+- - Batı Sahra
+  - EH
+- - Belarus
+  - BY
+- - Belçika
+  - BE
+- - Belize
+  - BZ
+- - Benin
+  - BJ
+- - Bermuda
+  - BM
+- - Bhutan
+  - BT
+- - Birleşik Arap Emirlikleri
+  - AE
+- - Birleşik Krallık
+  - GB
+- - Bolivya
+  - BO
+- - Bosna Hersek
+  - BA
+- - Botsvana
+  - BW
+- - Brezilya
+  - BR
+- - Brunei
+  - BN
+- - Bulgaristan
+  - BG
+- - Burkina Faso
+  - BF
+- - Burundi
+  - BI
+- - Buvet Adası
+  - BV
+- - Cape Verde
+  - CV
+- - Cayman Adaları
+  - KY
+- - Cezayir
+  - DZ
+- - Christmas Adası
+  - CX
+- - Cibuti
+  - DJ
+- - Cocos (Keeling) Adaları
+  - CC
+- - Cook Adaları
+  - CK
+- - Çad
+  - TD
+- - Çek Cumhuriyeti
+  - CZ
+- - Çin
+  - CN
+- - Danimarka
+  - DK
+- - Dominika
+  - DM
+- - Dominik Cumhuriyeti
+  - DO
+- - Ekvator
+  - EC
+- - Ekvator Ginesi
+  - GQ
+- - El Salvador
+  - SV
+- - Endonezya
+  - ID
+- - Eritre
+  - ER
+- - Ermenistan
+  - AM
+- - Estonya
+  - EE
+- - Etiyopya
+  - ET
+- - Falkland Adaları (Malvinas)
+  - FK
+- - Faroe Adaları
+  - FO
+- - Fas
+  - MA
+- - Fiji
+  - FJ
+- - Fildişi Sahili
+  - CI
+- - Filipinler
+  - PH
+- - Finlandiya
+  - FI
+- - Fransa
+  - FR
+- - Fransa Güney Bölgesi
+  - TF
+- - Fransız Guyanası
+  - GF
+- - Fransız Polenezyası
+  - PF
+- - Gabon
+  - GA
+- - Gambiya
+  - GM
+- - Gana
+  - GH
+- - Gibraltar
+  - GI
+- - Gine
+  - GN
+- - Gine Bissau
+  - GW
+- - Grenada
+  - GD
+- - Grönland
+  - GL
+- - Guam
+  - GU
+- - Guatelup
+  - GP
+- - Guatemala
+  - GT
+- - Guyena
+  - GY
+- - Güney Afrika
+  - ZA
+- - Gürcistan
+  - GE
+- - Haiti
+  - HT
+- - Heard Adası ve McDonald Adaları
+  - HM
+- - Hırvatistan
+  - HR
+- - Hindistan
+  - IN
+- - Hollanda
+  - NL
+- - Hollanda Antilleri
+  - AN
+- - Honduras
+  - HN
+- - Hong Kong
+  - HK
+- - Irak
+  - IQ
+- - İngiliz Hint Okyanus Bölgesi
+  - IO
+- - İran
+  - IR
+- - İrlanda
+  - IE
+- - İspanya
+  - ES
+- - İsrail
+  - IL
+- - İsveç
+  - SE
+- - İsviçre
+  - CH
+- - İtalya
+  - IT
+- - İzlanda
+  - IS
+- - Jamaika
+  - JM
+- - Japonya
+  - JP
+- - Kamboçya
+  - KH
+- - Kamerun
+  - CM
+- - Kanada
+  - CA
+- - Karadağ
+  - ME
+- - Katar
+  - QA
+- - Kazakistan
+  - KZ
+- - Kenya
+  - KE
+- - Kıbrıs
+  - CY
+- - Kırgızistan
+  - KG
+- - Kiribati
+  - KI
+- - Kolombiya
+  - CO
+- - Komor
+  - KM
+- - Kongo
+  - CG
+- - Kongo Demokratik Cumhuriyeti
+  - CD
+- - Kore, Güney
+  - KR
+- - Kore, Kuzey
+  - KP
+- - Kosta Rika
+  - CR
+- - Kuveyt
+  - KW
+- - Kuzey Marian Adaları
+  - MP
+- - Küba
+  - CU
+- - Laos
+  - LA
+- - Lesotho
+  - LS
+- - Letonya
+  - LV
+- - Liberya
+  - LR
+- - Libya
+  - LY
+- - Liechtenstein
+  - LI
+- - Litvanya
+  - LT
+- - Lübnan
+  - LB
+- - Lüksemburg
+  - LU
+- - Macaristan
+  - HU
+- - Madagaskar
+  - MG
+- - Makao
+  - MO
+- - Makedonya
+  - MK
+- - Malavi
+  - MW
+- - Maldivler
+  - MV
+- - Malezya
+  - MY
+- - Mali
+  - ML
+- - Malta
+  - MT
+- - Marşal Adaları
+  - MH
+- - Martinik
+  - MQ
+- - Mauritius
+  - MU
+- - Mayotte
+  - YT
+- - Meksika
+  - MX
+- - Mısır
+  - EG
+- - Mikronezya Federal Devletleri
+  - FM
+- - Moğolistan
+  - MN
+- - Moldova
+  - MD
+- - Monako
+  - MC
+- - Monserra
+  - MS
+- - Moritanya
+  - MR
+- - Mozambik
+  - MZ
+- - Myanmar
+  - MM
+- - Namibya
+  - NA
+- - Nauru
+  - NR
+- - Nepal
+  - NP
+- - Nijer
+  - NE
+- - Nijerya
+  - NG
+- - Nikaragua
+  - NI
+- - Niue
+  - NU
+- - Norfolk Adası
+  - NF
+- - Norveç
+  - 'NO'
+- - Orta Afrika Cumhuriyeti
+  - CF
+- - Özbekistan
+  - UZ
+- - Pakistan
+  - PK
+- - Palau
+  - PW
+- - Panama
+  - PA
+- - Papua Yeni Gine
+  - PG
+- - Paraguay
+  - PY
+- - Peru
+  - PE
+- - Pitkeirn
+  - PN
+- - Polonya
+  - PL
+- - Portekiz
+  - PT
+- - Puerto Riko
+  - PR
+- - Reunyon
+  - RE
+- - Romanya
+  - RO
+- - Ruanda
+  - RW
+- - Rusya
+  - RU
+- - Samoa
+  - WS
+- - San Marino
+  - SM
+- - Santa Lucia
+  - LC
+- - Sao Tome ve Prensip
+  - ST
+- - Senegal
+  - SN
+- - Seyşeller
+  - SC
+- - Sırbistan
+  - RS
+- - Sierra Leon
+  - SL
+- - Singapur
+  - SG
+- - Slovakya
+  - SK
+- - Slovenya
+  - SI
+- - Solomon Adaları
+  - SB
+- - Somali
+  - SO
+- - Sri Lanka
+  - LK
+- - St. Helen
+  - SH
+- - St. Kitts ve Nevis
+  - KN
+- - St. Pier ve Mikelon
+  - PM
+- - St. Vensan ve Grenadines
+  - VC
+- - Sudan
+  - SD
+- - Surinam
+  - SR
+- - Suriye
+  - SY
+- - Suudi Arabistan
+  - SA
+- - Svalbard ve Jan Mayen
+  - SJ
+- - Svaziland
+  - SZ
+- - Şili
+  - CL
+- - Tacikistan
+  - TJ
+- - Tanzanya
+  - TZ
+- - Tayland
+  - TH
+- - Tayvan
+  - TW
+- - Timor-Leste
+  - TL
+- - Togo
+  - TG
+- - Tokelau
+  - TK
+- - Tonga
+  - TO
+- - Trinidad ve Tobago
+  - TT
+- - Tunus
+  - TN
+- - Tuvalu
+  - TV
+- - Türkiye
+  - TR
+- - Türkmenistan
+  - TM
+- - Türk ve Kaikos Adaları
+  - TC
+- - Uganda
+  - UG
+- - Ukrayna
+  - UA
+- - Umman
+  - OM
+- - Uruguay
+  - UY
+- - Ürdün
+  - JO
+- - Valis ve Futuna
+  - WF
+- - Vanuatu
+  - VU
+- - Vatikan
+  - VA
+- - Venezuela
+  - VE
+- - Vietnam
+  - VN
+- - Virjin Adaları, ABD
+  - VI
+- - Virjin Adaları, İngiltere
+  - VG
+- - Yemen
+  - YE
+- - Yeni Kaledonya
+  - NC
+- - Yeni Zelanda
+  - NZ
+- - Yunanistan
+  - GR
+- - Zambiya
+  - ZM
+- - Zimbabve
+  - ZW
