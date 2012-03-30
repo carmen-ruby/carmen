@@ -53,6 +53,10 @@ module Carmen
         @cache = nil
       end
 
+      def inspect
+        "<##{self.class} locale=#{locale}>"
+      end
+
     private
 
       def read(key)
