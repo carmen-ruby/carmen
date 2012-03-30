@@ -8,13 +8,15 @@ module Carmen
     attr_reader :type
     attr_reader :code
     attr_reader :parent
-    attr_reader :name
 
     def initialize(data={}, parent=nil)
       @type = data['type']
       @code = data['code']
       @parent = parent
-      load_translated_keys
+    end
+
+    def name
+      Carmen.i18n_backend.translate(path('name'))
     end
 
     def subregions
@@ -56,16 +58,6 @@ module Carmen
 
     def subregion_directory
       code.downcase
-    end
-
-    def load_translated_keys
-      translated_keys.each do |key|
-        instance_variable_set(:"@#{key}", Carmen.i18n_backend.translate(path(key)))
-      end
-    end
-
-    def translated_keys
-      ['name']
     end
 
     def load_subregions
