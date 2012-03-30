@@ -1,11 +1,13 @@
+require File.expand_path('../lib/carmen/version', __FILE__)
+
 Gem::Specification.new do |s|
   s.name = %q{carmen}
-  s.summary = %q{A collection of geographic country and state names for Ruby}
-  s.description = %q{A collection of geographic country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins}
-  s.version = "1.0.0.pre"
+  s.summary = %q{A collection of geographic region names and abbreviations for Ruby}
+  s.description = %q{Includes data from the Debian iso-data project.}
+  s.version = Carmen::VERSION
   s.authors = ["Jim Benton"]
   s.email = %q{jim@autonomousmachine.com}
-  s.date = %q{2012-03-23}
+  s.date = %q{2012-03-30}
   s.homepage = %q{http://github.com/jim/carmen}
 
   s.required_rubygems_version = '>= 1.3.6'
