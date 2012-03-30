@@ -9,9 +9,9 @@
   type: region
 - code: PV
   type: region
-- code: TC
-  type: region
 - code: TA
+  type: region
+- code: TC
   type: region
 - code: ZI
   type: region

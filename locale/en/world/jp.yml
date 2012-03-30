@@ -2,97 +2,97 @@
 en:
   world:
     jp:
-      '23':
-        name: Aichi
-      '05':
-        name: Akita
-      '02':
-        name: Aomori
-      '12':
-        name: Chiba
-      '38':
-        name: Ehime
-      '18':
-        name: Fukui
-      '40':
-        name: Fukuoka
-      '07':
-        name: Fukushima
-      '21':
-        name: Gifu
-      '10':
-        name: Gunma
-      '34':
-        name: Hiroshima
       '01':
         name: Hokkaido
-      '28':
-        name: Hyogo
-      '08':
-        name: Ibaraki
-      '17':
-        name: Ishikawa
+      '02':
+        name: Aomori
       '03':
         name: Iwate
-      '37':
-        name: Kagawa
-      '46':
-        name: Kagoshima
-      '14':
-        name: Kanagawa
-      '39':
-        name: Kochi
-      '43':
-        name: Kumamoto
-      '26':
-        name: Kyoto
-      '24':
-        name: Mie
       '04':
         name: Miyagi
-      '45':
-        name: Miyazaki
-      '20':
-        name: Nagano
-      '42':
-        name: Nagasaki
-      '29':
-        name: Nara
-      '15':
-        name: Niigata
-      '44':
-        name: Oita
-      '33':
-        name: Okayama
-      '47':
-        name: Okinawa
-      '27':
-        name: Osaka
-      '41':
-        name: Saga
-      '11':
-        name: Saitama
-      '25':
-        name: Shiga
-      '32':
-        name: Shimane
-      '22':
-        name: Shizuoka
-      '09':
-        name: Tochigi
-      '36':
-        name: Tokushima
-      '13':
-        name: Tokyo
-      '31':
-        name: Tottori
-      '16':
-        name: Toyama
-      '30':
-        name: Wakayama
+      '05':
+        name: Akita
       '06':
         name: Yamagata
-      '35':
-        name: Yamaguchi
+      '07':
+        name: Fukushima
+      '08':
+        name: Ibaraki
+      '09':
+        name: Tochigi
+      '10':
+        name: Gunma
+      '11':
+        name: Saitama
+      '12':
+        name: Chiba
+      '13':
+        name: Tokyo
+      '14':
+        name: Kanagawa
+      '15':
+        name: Niigata
+      '16':
+        name: Toyama
+      '17':
+        name: Ishikawa
+      '18':
+        name: Fukui
       '19':
         name: Yamanashi
+      '20':
+        name: Nagano
+      '21':
+        name: Gifu
+      '22':
+        name: Shizuoka
+      '23':
+        name: Aichi
+      '24':
+        name: Mie
+      '25':
+        name: Shiga
+      '26':
+        name: Kyoto
+      '27':
+        name: Osaka
+      '28':
+        name: Hyogo
+      '29':
+        name: Nara
+      '30':
+        name: Wakayama
+      '31':
+        name: Tottori
+      '32':
+        name: Shimane
+      '33':
+        name: Okayama
+      '34':
+        name: Hiroshima
+      '35':
+        name: Yamaguchi
+      '36':
+        name: Tokushima
+      '37':
+        name: Kagawa
+      '38':
+        name: Ehime
+      '39':
+        name: Kochi
+      '40':
+        name: Fukuoka
+      '41':
+        name: Saga
+      '42':
+        name: Nagasaki
+      '43':
+        name: Kumamoto
+      '44':
+        name: Oita
+      '45':
+        name: Miyazaki
+      '46':
+        name: Kagoshima
+      '47':
+        name: Okinawa

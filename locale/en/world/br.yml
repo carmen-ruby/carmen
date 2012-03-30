@@ -14,6 +14,8 @@ en:
         name: Bahia
       ce:
         name: Ceará
+      df:
+        name: Distrito Federal
       es:
         name: Espírito Santo
       fn:
@@ -56,5 +58,3 @@ en:
         name: São Paulo
       to:
         name: Tocantins
-      df:
-        name: Distrito Federal

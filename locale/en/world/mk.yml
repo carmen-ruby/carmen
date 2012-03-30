@@ -20,62 +20,72 @@ en:
         name: Brvenica
       '09':
         name: Butel
-      '77':
-        name: Centar
-      '78':
-        name: Centar Župa
-      '79':
-        name: Čair
-      '80':
-        name: Čaška
-      '81':
-        name: Češinovo-Obleševo
-      '82':
-        name: Čučer Sandevo
+      '10':
+        name: Valandovo
+      '11':
+        name: Vasilevo
+      '12':
+        name: Vevčani
+      '13':
+        name: Veles
+      '14':
+        name: Vinica
+      '15':
+        name: Vraneštica
+      '16':
+        name: Vrapčište
+      '17':
+        name: Gazi Baba
+      '18':
+        name: Gevgelija
+      '19':
+        name: Gostivar
+      '20':
+        name: Gradsko
       '21':
         name: Debar
       '22':
         name: Debarca
       '23':
         name: Delčevo
-      '25':
-        name: Demir Hisar
       '24':
         name: Demir Kapija
+      '25':
+        name: Demir Hisar
       '26':
         name: Dojran
       '27':
         name: Dolneni
       '28':
         name: Drugovo
-      '17':
-        name: Gazi Baba
-      '18':
-        name: Gevgelija
       '29':
         name: Gjorče Petrov
-      '19':
-        name: Gostivar
-      '20':
-        name: Gradsko
+      '30':
+        name: Želino
+      '31':
+        name: Zajas
+      '32':
+        name: Zelenikovo
+      '33':
+        name: Zrnovci
       '34':
         name: Ilinden
       '35':
         name: Jegunovce
+      '36':
+        name: Kavadarci
       '37':
         name: Karbinci
       '38':
         name: Karpoš
-      '36':
-        name: Kavadarci
-      '40':
-        name: Kičevo
       '39':
         name: Kisela Voda
-      '42':
-        name: Kočani
+      '40':
+        name: Kičevo
       '41':
         name: Konče
+      '42':
+        name: Kočani
       '43':
         name: Kratovo
       '44':
@@ -90,12 +100,12 @@ en:
         name: Lipkovo
       '49':
         name: Lozovo
+      '50':
+        name: Mavrovo-i-Rostuša
       '51':
         name: Makedonska Kamenica
       '52':
         name: Makedonski Brod
-      '50':
-        name: Mavrovo-i-Rostuša
       '53':
         name: Mogila
       '54':
@@ -104,14 +114,14 @@ en:
         name: Novaci
       '56':
         name: Novo Selo
-      '58':
-        name: Ohrid
       '57':
         name: Oslomej
-      '60':
-        name: Pehčevo
+      '58':
+        name: Ohrid
       '59':
         name: Petrovec
+      '60':
+        name: Pehčevo
       '61':
         name: Plasnica
       '62':
@@ -128,10 +138,8 @@ en:
         name: Rosoman
       '68':
         name: Saraj
-      '83':
-        name: Štip
-      '84':
-        name: Šuto Orizari
+      '69':
+        name: Sveti Nikole
       '70':
         name: Sopište
       '71':
@@ -142,31 +150,23 @@ en:
         name: Strumica
       '74':
         name: Studeničani
-      '69':
-        name: Sveti Nikole
       '75':
         name: Tearce
       '76':
         name: Tetovo
-      '10':
-        name: Valandovo
-      '11':
-        name: Vasilevo
-      '13':
-        name: Veles
-      '12':
-        name: Vevčani
-      '14':
-        name: Vinica
-      '15':
-        name: Vraneštica
-      '16':
-        name: Vrapčište
-      '31':
-        name: Zajas
-      '32':
-        name: Zelenikovo
-      '30':
-        name: Želino
-      '33':
-        name: Zrnovci
+      '77':
+        name: Centar
+      '78':
+        name: Centar Župa
+      '79':
+        name: Čair
+      '80':
+        name: Čaška
+      '81':
+        name: Češinovo-Obleševo
+      '82':
+        name: Čučer Sandevo
+      '83':
+        name: Štip
+      '84':
+        name: Šuto Orizari

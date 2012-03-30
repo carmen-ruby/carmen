@@ -4,25 +4,25 @@ en:
     jo:
       aj:
         name: ! '`Ajlun'
-      aq:
-        name: Al `Aqabah
-      ba:
-        name: Al Balqā'
-      ka:
-        name: Al Karak
-      ma:
-        name: Al Mafraq
       am:
         name: Amman
+      aq:
+        name: Al `Aqabah
       at:
         name: Aţ Ţafīlah
       az:
         name: Az Zarqā'
-      jr:
-        name: Irbid
+      ba:
+        name: Al Balqā'
       ja:
         name: Jarash
-      mn:
-        name: Ma`ān
+      jr:
+        name: Irbid
+      ka:
+        name: Al Karak
+      ma:
+        name: Al Mafraq
       md:
         name: Mādabā
+      mn:
+        name: Ma`ān

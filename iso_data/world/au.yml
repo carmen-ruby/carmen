@@ -1,6 +1,10 @@
 ---
+- code: ACT
+  type: territory
 - code: NSW
   type: state
+- code: NT
+  type: territory
 - code: QLD
   type: state
 - code: SA
@@ -11,7 +15,3 @@
   type: state
 - code: WA
   type: state
-- code: ACT
-  type: territory
-- code: NT
-  type: territory

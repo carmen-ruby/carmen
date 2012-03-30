@@ -12,22 +12,22 @@ en:
         name: Cabinda
       ccu:
         name: Cuando-Cubango
+      cnn:
+        name: Cunene
       cno:
         name: Cuanza Norte
       cus:
         name: Cuanza Sul
-      cnn:
-        name: Cunene
       hua:
         name: Huambo
       hui:
         name: Huíla
-      lua:
-        name: Luanda
       lno:
         name: Lunda Norte
       lsu:
         name: Lunda Sul
+      lua:
+        name: Luanda
       mal:
         name: Malange
       mox:

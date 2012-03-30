@@ -1,13 +1,13 @@
 ---
 - code: AK
   type: governorate
-- code: BH
-  type: governorate
-- code: BI
+- code: AS
   type: governorate
 - code: BA
   type: governorate
-- code: AS
+- code: BH
+  type: governorate
+- code: BI
   type: governorate
 - code: JA
   type: governorate

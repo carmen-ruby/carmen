@@ -8,14 +8,16 @@ en:
         name: Aragón
       as:
         name: Asturias, Principado de
-      cn:
-        name: Canarias
       cb:
         name: Cantabria
-      cm:
-        name: Castilla-La Mancha
+      ce:
+        name: Ceuta
       cl:
         name: Castilla y León
+      cm:
+        name: Castilla-La Mancha
+      cn:
+        name: Canarias
       ct:
         name: Catalunya
       ex:
@@ -24,19 +26,17 @@ en:
         name: Galicia
       ib:
         name: Illes Balears
-      ri:
-        name: La Rioja
-      md:
-        name: Madrid, Comunidad de
       mc:
         name: Murcia, Región de
+      md:
+        name: Madrid, Comunidad de
+      ml:
+        name: Melilla
       nc:
         name: Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea
       pv:
         name: País Vasco / Euskal Herria
+      ri:
+        name: La Rioja
       vc:
         name: ! 'Valenciana, Comunidad / Valenciana, Comunitat '
-      ce:
-        name: Ceuta
-      ml:
-        name: Melilla

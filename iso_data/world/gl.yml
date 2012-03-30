@@ -1,9 +1,9 @@
 ---
 - code: KU
   type: municipality
-- code: SM
-  type: municipality
 - code: QA
   type: municipality
 - code: QE
+  type: municipality
+- code: SM
   type: municipality

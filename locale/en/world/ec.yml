@@ -6,47 +6,47 @@ en:
         name: Azuay
       b:
         name: Bolívar
-      f:
-        name: Cañar
       c:
         name: Carchi
-      x:
-        name: Cotopaxi
-      h:
-        name: Chimborazo
-      o:
-        name: El Oro
+      d:
+        name: Orellana
       e:
         name: Esmeraldas
-      w:
-        name: Galápagos
+      f:
+        name: Cañar
       g:
         name: Guayas
+      h:
+        name: Chimborazo
       i:
         name: Imbabura
       l:
         name: Loja
-      r:
-        name: Los Ríos
       m:
         name: Manabí
-      s:
-        name: Morona-Santiago
       n:
         name: Napo
-      d:
-        name: Orellana
-      y:
-        name: Pastaza
+      o:
+        name: El Oro
       p:
         name: Pichincha
-      se:
-        name: Santa Elena
+      r:
+        name: Los Ríos
+      s:
+        name: Morona-Santiago
       sd:
         name: Santo Domingo de los Tsáchilas
-      u:
-        name: Sucumbíos
+      se:
+        name: Santa Elena
       t:
         name: Tungurahua
+      u:
+        name: Sucumbíos
+      w:
+        name: Galápagos
+      x:
+        name: Cotopaxi
+      y:
+        name: Pastaza
       z:
         name: Zamora-Chinchipe

@@ -1,8 +1,12 @@
 ---
-- code: IS
-  type: capital territory
 - code: BA
   type: province
+- code: IS
+  type: capital territory
+- code: JK
+  type: area
+- code: NA
+  type: area
 - code: NW
   type: province
 - code: PB
@@ -10,8 +14,4 @@
 - code: SD
   type: province
 - code: TA
-  type: area
-- code: JK
-  type: area
-- code: NA
   type: area

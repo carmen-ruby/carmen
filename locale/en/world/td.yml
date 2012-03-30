@@ -4,45 +4,45 @@ en:
     td:
       ba:
         name: Al Baṭḩah
-      lc:
-        name: Al Buḩayrah
       bg:
         name: Baḩr al Ghazāl
       bo:
         name: Būrkū
-      hl:
-        name: Ḥajjar Lamīs
+      cb:
+        name: Shārī Bāqirmī
       en:
         name: Innīdī
+      gr:
+        name: Qīrā
+      hl:
+        name: Ḥajjar Lamīs
       ka:
         name: Kānim
+      lc:
+        name: Al Buḩayrah
       lo:
         name: Lūqūn al Gharbī
       lr:
         name: Lūqūn ash Sharqī
-      nd:
-        name: Madīnat Injamīnā
       ma:
         name: Māndūl
-      mo:
-        name: Māyū Kībbī al Gharbī
-      me:
-        name: Māyū Kībbī ash Sharqī
-      gr:
-        name: Qīrā
-      sa:
-        name: Salāmāt
       mc:
         name: Shārī al Awsaṭ
-      cb:
-        name: Shārī Bāqirmī
+      me:
+        name: Māyū Kībbī ash Sharqī
+      mo:
+        name: Māyū Kībbī al Gharbī
+      nd:
+        name: Madīnat Injamīnā
+      od:
+        name: Waddāy
+      sa:
+        name: Salāmāt
       si:
         name: Sīlā
       ta:
         name: Tānjilī
       ti:
         name: Tibastī
-      od:
-        name: Waddāy
       wf:
         name: Wādī Fīrā

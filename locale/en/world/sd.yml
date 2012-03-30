@@ -2,53 +2,53 @@
 en:
   world:
     sd:
-      '26':
-        name: Al Baḩr al Aḩmar
-      '18':
-        name: Al Buḩayrāt
-      '07':
-        name: Al Jazīrah
-      '03':
-        name: Al Kharţūm
-      '06':
-        name: Al Qaḑārif
-      '22':
-        name: Al Waḩdah
-      '04':
-        name: An Nīl
-      '08':
-        name: An Nīl al Abyaḑ
-      '24':
-        name: An Nīl al Azraq
       '01':
         name: Ash Shamālīyah
-      '23':
-        name: A‘ālī an Nīl
-      '17':
-        name: Baḩr al Jabal
-      '16':
-        name: Gharb al Istiwā'īyah
-      '14':
-        name: Gharb Baḩr al Ghazāl
-      '12':
-        name: Gharb Dārfūr
-      '11':
-        name: Janūb Dārfūr
-      '13':
-        name: Janūb Kurdufān
-      '20':
-        name: Jūnqalī
-      '05':
-        name: Kassalā
-      '15':
-        name: Shamāl Baḩr al Ghazāl
       '02':
         name: Shamāl Dārfūr
+      '03':
+        name: Al Kharţūm
+      '04':
+        name: An Nīl
+      '05':
+        name: Kassalā
+      '06':
+        name: Al Qaḑārif
+      '07':
+        name: Al Jazīrah
+      '08':
+        name: An Nīl al Abyaḑ
       '09':
         name: Shamāl Kurdufān
+      '11':
+        name: Janūb Dārfūr
+      '12':
+        name: Gharb Dārfūr
+      '13':
+        name: Janūb Kurdufān
+      '14':
+        name: Gharb Baḩr al Ghazāl
+      '15':
+        name: Shamāl Baḩr al Ghazāl
+      '16':
+        name: Gharb al Istiwā'īyah
+      '17':
+        name: Baḩr al Jabal
+      '18':
+        name: Al Buḩayrāt
       '19':
         name: Sharq al Istiwā'īyah
-      '25':
-        name: Sinnār
+      '20':
+        name: Jūnqalī
       '21':
         name: Wārāb
+      '22':
+        name: Al Waḩdah
+      '23':
+        name: A‘ālī an Nīl
+      '24':
+        name: An Nīl al Azraq
+      '25':
+        name: Sinnār
+      '26':
+        name: Al Baḩr al Aḩmar

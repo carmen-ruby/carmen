@@ -1,6 +1,4 @@
 ---
-- code: FC
-  type: capital territory
 - code: AB
   type: state
 - code: AD
@@ -11,11 +9,11 @@
   type: state
 - code: BA
   type: state
-- code: BY
-  type: state
 - code: BE
   type: state
 - code: BO
+  type: state
+- code: BY
   type: state
 - code: CR
   type: state
@@ -29,6 +27,8 @@
   type: state
 - code: EN
   type: state
+- code: FC
+  type: capital territory
 - code: GO
   type: state
 - code: IM
@@ -37,13 +37,13 @@
   type: state
 - code: KD
   type: state
-- code: KN
-  type: state
-- code: KT
-  type: state
 - code: KE
   type: state
+- code: KN
+  type: state
 - code: KO
+  type: state
+- code: KT
   type: state
 - code: KW
   type: state

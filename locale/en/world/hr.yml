@@ -2,45 +2,45 @@
 en:
   world:
     hr:
-      '21':
-        name: Grad Zagreb
-      '07':
-        name: Bjelovarsko-bilogorska županija
-      '12':
-        name: Brodsko-posavska županija
-      '19':
-        name: Dubrovačko-neretvanska županija
-      '18':
-        name: Istarska županija
-      '04':
-        name: Karlovačka županija
-      '06':
-        name: Koprivničko-križevačka županija
-      '02':
-        name: Krapinsko-zagorska županija
-      '09':
-        name: Ličko-senjska županija
-      '20':
-        name: Međimurska županija
-      '14':
-        name: Osječko-baranjska županija
-      '11':
-        name: Požeško-slavonska županija
-      '08':
-        name: Primorsko-goranska županija
-      '03':
-        name: Sisačko-moslavačka županija
-      '17':
-        name: Splitsko-dalmatinska županija
-      '15':
-        name: Šibensko-kninska županija
-      '05':
-        name: Varaždinska županija
-      '10':
-        name: Virovitičko-podravska županija
-      '16':
-        name: Vukovarsko-srijemska županija
-      '13':
-        name: Zadarska županija
       '01':
         name: Zagrebačka županija
+      '02':
+        name: Krapinsko-zagorska županija
+      '03':
+        name: Sisačko-moslavačka županija
+      '04':
+        name: Karlovačka županija
+      '05':
+        name: Varaždinska županija
+      '06':
+        name: Koprivničko-križevačka županija
+      '07':
+        name: Bjelovarsko-bilogorska županija
+      '08':
+        name: Primorsko-goranska županija
+      '09':
+        name: Ličko-senjska županija
+      '10':
+        name: Virovitičko-podravska županija
+      '11':
+        name: Požeško-slavonska županija
+      '12':
+        name: Brodsko-posavska županija
+      '13':
+        name: Zadarska županija
+      '14':
+        name: Osječko-baranjska županija
+      '15':
+        name: Šibensko-kninska županija
+      '16':
+        name: Vukovarsko-srijemska županija
+      '17':
+        name: Splitsko-dalmatinska županija
+      '18':
+        name: Istarska županija
+      '19':
+        name: Dubrovačko-neretvanska županija
+      '20':
+        name: Međimurska županija
+      '21':
+        name: Grad Zagreb

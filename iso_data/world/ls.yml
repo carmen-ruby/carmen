@@ -1,21 +1,21 @@
 ---
-- code: D
+- code: A
   type: district
 - code: B
   type: district
 - code: C
   type: district
-- code: E
+- code: D
   type: district
-- code: A
+- code: E
   type: district
 - code: F
   type: district
-- code: J
+- code: G
   type: district
 - code: H
   type: district
-- code: G
+- code: J
   type: district
 - code: K
   type: district

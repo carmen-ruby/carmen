@@ -3,19 +3,11 @@
   type: governorate
 - code: AD
   type: governorate
-- code: DA
+- code: AM
   type: governorate
 - code: BA
   type: governorate
-- code: MU
-  type: governorate
-- code: JA
-  type: governorate
-- code: MR
-  type: governorate
-- code: MW
-  type: governorate
-- code: AM
+- code: DA
   type: governorate
 - code: DH
   type: governorate
@@ -25,17 +17,25 @@
   type: governorate
 - code: IB
   type: governorate
+- code: JA
+  type: governorate
 - code: LA
   type: governorate
 - code: MA
+  type: governorate
+- code: MR
+  type: governorate
+- code: MU
+  type: governorate
+- code: MW
   type: governorate
 - code: RA
   type: governorate
 - code: SD
   type: governorate
-- code: SN
-  type: governorate
 - code: SH
+  type: governorate
+- code: SN
   type: governorate
 - code: TA
   type: governorate

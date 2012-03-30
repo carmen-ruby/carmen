@@ -2,28 +2,28 @@
 en:
   world:
     mm:
-      '07':
-        name: Ayeyarwady
+      '01':
+        name: Sagaing
       '02':
         name: Bago
       '03':
         name: Magway
       '04':
         name: Mandalay
-      '01':
-        name: Sagaing
       '05':
         name: Tanintharyi
       '06':
         name: Yangon
-      '14':
-        name: Chin
+      '07':
+        name: Ayeyarwady
       '11':
         name: Kachin
       '12':
         name: Kayah
       '13':
         name: Kayin
+      '14':
+        name: Chin
       '15':
         name: Mon
       '16':

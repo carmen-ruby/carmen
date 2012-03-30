@@ -4,34 +4,24 @@ en:
     si:
       '001':
         name: Ajdovščina
-      '195':
-        name: Apače
       '002':
         name: Beltinci
-      '148':
-        name: Benedikt
-      '149':
-        name: Bistrica ob Sotli
       '003':
         name: Bled
-      '150':
-        name: Bloke
       '004':
         name: Bohinj
       '005':
         name: Borovnica
       '006':
         name: Bovec
-      '151':
-        name: Braslovče
       '007':
         name: Brda
       '008':
         name: Brezovica
       '009':
         name: Brežice
-      '152':
-        name: Cankova
+      '010':
+        name: Tišina
       '011':
         name: Celje
       '012':
@@ -40,10 +30,6 @@ en:
         name: Cerknica
       '014':
         name: Cerkno
-      '153':
-        name: Cerkvenjak
-      '196':
-        name: Cirkulane
       '015':
         name: Črenšovci
       '016':
@@ -54,20 +40,12 @@ en:
         name: Destrnik
       '019':
         name: Divača
-      '154':
-        name: Dobje
       '020':
         name: Dobrepolje
-      '155':
-        name: Dobrna
       '021':
         name: Dobrova-Polhov Gradec
-      '156':
-        name: Dobrovnik/Dobronak
       '022':
         name: Dol pri Ljubljani
-      '157':
-        name: Dolenjske Toplice
       '023':
         name: Domžale
       '024':
@@ -80,26 +58,16 @@ en:
         name: Gorenja vas-Poljane
       '028':
         name: Gorišnica
-      '207':
-        name: Gorje
       '029':
         name: Gornja Radgona
       '030':
         name: Gornji Grad
       '031':
         name: Gornji Petrovci
-      '158':
-        name: Grad
       '032':
         name: Grosuplje
-      '159':
-        name: Hajdina
-      '160':
-        name: Hoče-Slivnica
-      '161':
-        name: Hodoš/Hodos
-      '162':
-        name: Horjul
+      '033':
+        name: Šalovci
       '034':
         name: Hrastnik
       '035':
@@ -116,8 +84,6 @@ en:
         name: Izola/Isola
       '041':
         name: Jesenice
-      '163':
-        name: Jezersko
       '042':
         name: Juršinci
       '043':
@@ -134,22 +100,14 @@ en:
         name: Kočevje
       '049':
         name: Komen
-      '164':
-        name: Komenda
       '050':
         name: Koper/Capodistria
-      '197':
-        name: Kosanjevica na Krki
-      '165':
-        name: Kostel
       '051':
         name: Kozje
       '052':
         name: Kranj
       '053':
         name: Kranjska Gora
-      '166':
-        name: Križevci
       '054':
         name: Krško
       '055':
@@ -170,28 +128,20 @@ en:
         name: Ljubno
       '063':
         name: Ljutomer
-      '208':
-        name: Log-Dragomer
       '064':
         name: Logatec
       '065':
         name: Loška dolina
       '066':
         name: Loški Potok
-      '167':
-        name: Lovrenc na Pohorju
       '067':
         name: Luče
       '068':
         name: Lukovica
       '069':
         name: Majšperk
-      '198':
-        name: Makole
       '070':
         name: Maribor
-      '168':
-        name: Markovci
       '071':
         name: Medvode
       '072':
@@ -200,16 +150,10 @@ en:
         name: Metlika
       '074':
         name: Mežica
-      '169':
-        name: Miklavž na Dravskem polju
       '075':
         name: Miren-Kostanjevica
-      '170':
-        name: Mirna Peč
       '076':
         name: Mislinja
-      '199':
-        name: Mokronog-Trebelno
       '077':
         name: Moravče
       '078':
@@ -230,8 +174,6 @@ en:
         name: Novo mesto
       '086':
         name: Odranci
-      '171':
-        name: Oplotnica
       '087':
         name: Ormož
       '088':
@@ -244,22 +186,12 @@ en:
         name: Pivka
       '092':
         name: Podčetrtek
-      '172':
-        name: Podlehnik
       '093':
         name: Podvelka
-      '200':
-        name: Poljčane
-      '173':
-        name: Polzela
       '094':
         name: Postojna
-      '174':
-        name: Prebold
       '095':
         name: Preddvor
-      '175':
-        name: Prevalje
       '096':
         name: Ptuj
       '097':
@@ -276,26 +208,16 @@ en:
         name: Radovljica
       '103':
         name: Ravne na Koroškem
-      '176':
-        name: Razkrižje
-      '209':
-        name: Rečica ob Savinji
-      '201':
-        name: Renče-Vogrsko
       '104':
         name: Ribnica
-      '177':
-        name: Ribnica na Pohorju
-      '106':
-        name: Rogaška Slatina
       '105':
         name: Rogašovci
+      '106':
+        name: Rogaška Slatina
       '107':
         name: Rogatec
       '108':
         name: Ruše
-      '178':
-        name: Selnica ob Dravi
       '109':
         name: Semič
       '110':
@@ -308,32 +230,10 @@ en:
         name: Slovenska Bistrica
       '114':
         name: Slovenske Konjice
-      '179':
-        name: Sodražica
-      '180':
-        name: Solčava
-      '202':
-        name: Središče ob Dravi
       '115':
         name: Starče
-      '203':
-        name: Straža
-      '181':
-        name: Sveta Ana
-      '204':
-        name: Sveta Trojica v Slovenskih Goricah
-      '182':
-        name: Sveta Andraž v Slovenskih Goricah
       '116':
         name: Sveti Jurij
-      '210':
-        name: Sveti Jurij v Slovenskih Goricah
-      '205':
-        name: Sveti Tomaž
-      '033':
-        name: Šalovci
-      '183':
-        name: Šempeter-Vrtojba
       '117':
         name: Šenčur
       '118':
@@ -342,8 +242,6 @@ en:
         name: Šentjernej
       '120':
         name: Šentjur
-      '211':
-        name: Šentrupert
       '121':
         name: Škocjan
       '122':
@@ -352,42 +250,26 @@ en:
         name: Škofljica
       '124':
         name: Šmarje pri Jelšah
-      '206':
-        name: Šmarjeske Topliče
       '125':
         name: Šmartno ob Paki
-      '194':
-        name: Šmartno pri Litiji
       '126':
         name: Šoštanj
       '127':
         name: Štore
-      '184':
-        name: Tabor
-      '010':
-        name: Tišina
       '128':
         name: Tolmin
       '129':
         name: Trbovlje
       '130':
         name: Trebnje
-      '185':
-        name: Trnovska vas
-      '186':
-        name: Trzin
       '131':
         name: Tržič
       '132':
         name: Turnišče
       '133':
         name: Velenje
-      '187':
-        name: Velika Polana
       '134':
         name: Velike Lašče
-      '188':
-        name: Veržej
       '135':
         name: Videm
       '136':
@@ -398,8 +280,6 @@ en:
         name: Vodice
       '139':
         name: Vojnik
-      '189':
-        name: Vransko
       '140':
         name: Vrhnika
       '141':
@@ -410,15 +290,135 @@ en:
         name: Zavrč
       '144':
         name: Zreče
-      '190':
-        name: Žalec
       '146':
         name: Železniki
-      '191':
-        name: Žetale
       '147':
         name: Žiri
+      '148':
+        name: Benedikt
+      '149':
+        name: Bistrica ob Sotli
+      '150':
+        name: Bloke
+      '151':
+        name: Braslovče
+      '152':
+        name: Cankova
+      '153':
+        name: Cerkvenjak
+      '154':
+        name: Dobje
+      '155':
+        name: Dobrna
+      '156':
+        name: Dobrovnik/Dobronak
+      '157':
+        name: Dolenjske Toplice
+      '158':
+        name: Grad
+      '159':
+        name: Hajdina
+      '160':
+        name: Hoče-Slivnica
+      '161':
+        name: Hodoš/Hodos
+      '162':
+        name: Horjul
+      '163':
+        name: Jezersko
+      '164':
+        name: Komenda
+      '165':
+        name: Kostel
+      '166':
+        name: Križevci
+      '167':
+        name: Lovrenc na Pohorju
+      '168':
+        name: Markovci
+      '169':
+        name: Miklavž na Dravskem polju
+      '170':
+        name: Mirna Peč
+      '171':
+        name: Oplotnica
+      '172':
+        name: Podlehnik
+      '173':
+        name: Polzela
+      '174':
+        name: Prebold
+      '175':
+        name: Prevalje
+      '176':
+        name: Razkrižje
+      '177':
+        name: Ribnica na Pohorju
+      '178':
+        name: Selnica ob Dravi
+      '179':
+        name: Sodražica
+      '180':
+        name: Solčava
+      '181':
+        name: Sveta Ana
+      '182':
+        name: Sveta Andraž v Slovenskih Goricah
+      '183':
+        name: Šempeter-Vrtojba
+      '184':
+        name: Tabor
+      '185':
+        name: Trnovska vas
+      '186':
+        name: Trzin
+      '187':
+        name: Velika Polana
+      '188':
+        name: Veržej
+      '189':
+        name: Vransko
+      '190':
+        name: Žalec
+      '191':
+        name: Žetale
       '192':
         name: Žirovnica
       '193':
         name: Žužemberk
+      '194':
+        name: Šmartno pri Litiji
+      '195':
+        name: Apače
+      '196':
+        name: Cirkulane
+      '197':
+        name: Kosanjevica na Krki
+      '198':
+        name: Makole
+      '199':
+        name: Mokronog-Trebelno
+      '200':
+        name: Poljčane
+      '201':
+        name: Renče-Vogrsko
+      '202':
+        name: Središče ob Dravi
+      '203':
+        name: Straža
+      '204':
+        name: Sveta Trojica v Slovenskih Goricah
+      '205':
+        name: Sveti Tomaž
+      '206':
+        name: Šmarjeske Topliče
+      '207':
+        name: Gorje
+      '208':
+        name: Log-Dragomer
+      '209':
+        name: Rečica ob Savinji
+      '210':
+        name: Sveti Jurij v Slovenskih Goricah
+      '211':
+        name: Šentrupert

@@ -4,8 +4,6 @@ en:
     kp:
       '01':
         name: P’yŏngyang
-      '13':
-        name: Nasŏn (Najin-Sŏnbong)
       '02':
         name: P’yŏngan-namdo
       '03':
@@ -24,3 +22,5 @@ en:
         name: Hamgyŏng-bukto
       '10':
         name: Yanggang-do
+      '13':
+        name: Nasŏn (Najin-Sŏnbong)

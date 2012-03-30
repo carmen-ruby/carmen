@@ -4,10 +4,10 @@ en:
     bi:
       bb:
         name: Bubanza
-      bm:
-        name: Bujumbura Mairie
       bl:
         name: Bujumbura Rural
+      bm:
+        name: Bujumbura Mairie
       br:
         name: Bururi
       ca:
@@ -16,12 +16,12 @@ en:
         name: Cibitoke
       gi:
         name: Gitega
+      ki:
+        name: Kirundo
       kr:
         name: Karuzi
       ky:
         name: Kayanza
-      ki:
-        name: Kirundo
       ma:
         name: Makamba
       mu:

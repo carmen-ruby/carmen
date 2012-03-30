@@ -1,25 +1,25 @@
 ---
 - code: AJ
   type: governorate
-- code: AQ
-  type: governorate
-- code: BA
-  type: governorate
-- code: KA
-  type: governorate
-- code: MA
-  type: governorate
 - code: AM
+  type: governorate
+- code: AQ
   type: governorate
 - code: AT
   type: governorate
 - code: AZ
   type: governorate
-- code: JR
+- code: BA
   type: governorate
 - code: JA
   type: governorate
-- code: MN
+- code: JR
+  type: governorate
+- code: KA
+  type: governorate
+- code: MA
   type: governorate
 - code: MD
+  type: governorate
+- code: MN
   type: governorate

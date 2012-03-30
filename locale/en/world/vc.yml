@@ -4,8 +4,6 @@ en:
     vc:
       '01':
         name: Charlotte
-      '06':
-        name: Grenadines
       '02':
         name: Saint Andrew
       '03':
@@ -14,3 +12,5 @@ en:
         name: Saint George
       '05':
         name: Saint Patrick
+      '06':
+        name: Grenadines

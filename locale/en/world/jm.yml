@@ -2,31 +2,31 @@
 en:
   world:
     jm:
-      '13':
-        name: Clarendon
-      '09':
-        name: Hanover
       '01':
         name: Kingston
-      '12':
-        name: Manchester
-      '04':
-        name: Portland
       '02':
         name: Saint Andrew
-      '06':
-        name: Saint Ann
-      '14':
-        name: Saint Catherine
-      '11':
-        name: Saint Elizabeth
-      '08':
-        name: Saint James
-      '05':
-        name: Saint Mary
       '03':
         name: Saint Thomas
+      '04':
+        name: Portland
+      '05':
+        name: Saint Mary
+      '06':
+        name: Saint Ann
       '07':
         name: Trelawny
+      '08':
+        name: Saint James
+      '09':
+        name: Hanover
       '10':
         name: Westmoreland
+      '11':
+        name: Saint Elizabeth
+      '12':
+        name: Manchester
+      '13':
+        name: Clarendon
+      '14':
+        name: Saint Catherine

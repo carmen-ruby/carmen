@@ -2,59 +2,59 @@
 en:
   world:
     eg:
-      dk:
-        name: Ad Daqahlīyah
-      ba:
-        name: Al Bahr al Ahmar
-      bh:
-        name: Al Buhayrah
-      fym:
-        name: Al Fayyūm
-      gh:
-        name: Al Gharbīyah
       alx:
         name: Al Iskandarīyah
-      is:
-        name: Al Ismā`īlīyah
-      gz:
-        name: Al Jīzah
-      mnf:
-        name: Al Minūfīyah
-      mn:
-        name: Al Minyā
-      c:
-        name: Al Qāhirah
-      kb:
-        name: Al Qalyūbīyah
-      wad:
-        name: Al Wādī al Jadīd
-      su:
-        name: As Sādis min Uktūbar
-      shr:
-        name: Ash Sharqīyah
-      suz:
-        name: As Suways
       asn:
         name: Aswān
       ast:
         name: Asyūt
+      ba:
+        name: Al Bahr al Ahmar
+      bh:
+        name: Al Buhayrah
       bns:
         name: Banī Suwayf
-      pts:
-        name: Būr Sa`īd
+      c:
+        name: Al Qāhirah
+      dk:
+        name: Ad Daqahlīyah
       dt:
         name: Dumyāt
+      fym:
+        name: Al Fayyūm
+      gh:
+        name: Al Gharbīyah
+      gz:
+        name: Al Jīzah
       hu:
         name: Ḩulwān
+      is:
+        name: Al Ismā`īlīyah
       js:
         name: Janūb Sīnā'
+      kb:
+        name: Al Qalyūbīyah
       kfs:
         name: Kafr ash Shaykh
-      mt:
-        name: Matrūh
       kn:
         name: Qinā
-      sin:
-        name: Shamal Sīnā'
+      mn:
+        name: Al Minyā
+      mnf:
+        name: Al Minūfīyah
+      mt:
+        name: Matrūh
+      pts:
+        name: Būr Sa`īd
       shg:
         name: Sūhāj
+      shr:
+        name: Ash Sharqīyah
+      sin:
+        name: Shamal Sīnā'
+      su:
+        name: As Sādis min Uktūbar
+      suz:
+        name: As Suways
+      wad:
+        name: Al Wādī al Jadīd

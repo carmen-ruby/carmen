@@ -3,9 +3,9 @@
   type: region
 - code: AN
   type: region
-- code: AR
-  type: region
 - code: AP
+  type: region
+- code: AR
   type: region
 - code: AT
   type: region

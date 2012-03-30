@@ -2,21 +2,21 @@
 en:
   world:
     is:
-      '7':
-        name: Austurland
-      '1':
-        name: Höfuðborgarsvæðið
-      '6':
-        name: Norðurland eystra
-      '5':
-        name: Norðurland vestra
-      '8':
-        name: Suðurland
-      '2':
-        name: Suðurnes
-      '4':
-        name: Vestfirðir
-      '3':
-        name: Vesturland
       '0':
         name: Reykjavík
+      '1':
+        name: Höfuðborgarsvæðið
+      '2':
+        name: Suðurnes
+      '3':
+        name: Vesturland
+      '4':
+        name: Vestfirðir
+      '5':
+        name: Norðurland vestra
+      '6':
+        name: Norðurland eystra
+      '7':
+        name: Austurland
+      '8':
+        name: Suðurland

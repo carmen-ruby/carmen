@@ -1,19 +1,19 @@
 ---
-- code: KN
-  type: city
-- code: BN
-  type: province
 - code: BC
+  type: province
+- code: BN
   type: province
 - code: EQ
   type: province
 - code: HC
   type: province
-- code: KW
+- code: KA
   type: province
 - code: KE
   type: province
-- code: KA
+- code: KN
+  type: city
+- code: KW
   type: province
 - code: MA
   type: province

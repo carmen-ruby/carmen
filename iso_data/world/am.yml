@@ -1,11 +1,11 @@
 ---
-- code: ER
-  type: province
 - code: AG
   type: province
 - code: AR
   type: province
 - code: AV
+  type: province
+- code: ER
   type: province
 - code: GR
   type: province

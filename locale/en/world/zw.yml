@@ -12,13 +12,13 @@ en:
         name: Mashonaland Central
       me:
         name: Mashonaland East
-      mw:
-        name: Mashonaland West
-      mv:
-        name: Masvingo
+      mi:
+        name: Midlands
       mn:
         name: Matabeleland North
       ms:
         name: Matabeleland South
-      mi:
-        name: Midlands
+      mv:
+        name: Masvingo
+      mw:
+        name: Mashonaland West

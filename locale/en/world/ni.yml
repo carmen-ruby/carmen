@@ -2,6 +2,10 @@
 en:
   world:
     ni:
+      an:
+        name: Atlántico Norte
+      as:
+        name: Atlántico Sur
       bo:
         name: Boaco
       ca:
@@ -28,11 +32,7 @@ en:
         name: Matagalpa
       ns:
         name: Nueva Segovia
-      sj:
-        name: Río San Juan
       ri:
         name: Rivas
-      an:
-        name: Atlántico Norte
-      as:
-        name: Atlántico Sur
+      sj:
+        name: Río San Juan

@@ -6,12 +6,18 @@ en:
         name: Blagoevgrad
       '02':
         name: Burgas
-      '08':
-        name: Dobrich
+      '03':
+        name: Varna
+      '04':
+        name: Veliko Tarnovo
+      '05':
+        name: Vidin
+      '06':
+        name: Vratsa
       '07':
         name: Gabrovo
-      '26':
-        name: Haskovo
+      '08':
+        name: Dobrich
       '09':
         name: Kardzhali
       '10':
@@ -32,29 +38,23 @@ en:
         name: Razgrad
       '18':
         name: Ruse
-      '27':
-        name: Shumen
       '19':
         name: Silistra
       '20':
         name: Sliven
       '21':
         name: Smolyan
-      '23':
-        name: Sofia
       '22':
         name: Sofia-Grad
+      '23':
+        name: Sofia
       '24':
         name: Stara Zagora
       '25':
         name: Targovishte
-      '03':
-        name: Varna
-      '04':
-        name: Veliko Tarnovo
-      '05':
-        name: Vidin
-      '06':
-        name: Vratsa
+      '26':
+        name: Haskovo
+      '27':
+        name: Shumen
       '28':
         name: Yambol

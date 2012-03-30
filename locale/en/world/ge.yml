@@ -6,8 +6,6 @@ en:
         name: Abkhazia
       aj:
         name: Ajaria
-      tb:
-        name: T’bilisi
       gu:
         name: Guria
       im:
@@ -20,9 +18,11 @@ en:
         name: Mts’khet’a-Mt’ianet’i
       rl:
         name: Racha-Lech’khumi-K’vemo Svanet’i
-      sz:
-        name: Samegrelo-Zemo Svanet’i
       sj:
         name: Samts’khe-Javakhet’i
       sk:
         name: Shida K’art’li
+      sz:
+        name: Samegrelo-Zemo Svanet’i
+      tb:
+        name: T’bilisi

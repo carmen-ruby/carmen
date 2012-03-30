@@ -5,7 +5,7 @@
   type: division
 - code: N
   type: division
-- code: W
-  type: division
 - code: R
   type: dependency
+- code: W
+  type: division

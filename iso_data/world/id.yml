@@ -1,4 +1,6 @@
 ---
+- code: IJ
+  type: geographical unit
 - code: JW
   type: geographical unit
 - code: KA
@@ -6,8 +8,6 @@
 - code: MA
   type: geographical unit
 - code: NU
-  type: geographical unit
-- code: IJ
   type: geographical unit
 - code: SL
   type: geographical unit

@@ -1,43 +1,43 @@
 ---
-- code: K
-  type: county
-- code: W
-  type: county
-- code: I
-  type: county
-- code: X
-  type: county
-- code: N
-  type: county
-- code: Z
-  type: county
-- code: F
-  type: county
-- code: H
-  type: county
-- code: G
-  type: county
-- code: BD
-  type: county
-- code: M
-  type: county
 - code: AB
-  type: county
-- code: D
-  type: county
-- code: C
-  type: county
-- code: S
   type: county
 - code: AC
   type: county
-- code: Y
+- code: BD
   type: county
-- code: U
+- code: C
+  type: county
+- code: D
+  type: county
+- code: E
+  type: county
+- code: F
+  type: county
+- code: G
+  type: county
+- code: H
+  type: county
+- code: I
+  type: county
+- code: K
+  type: county
+- code: M
+  type: county
+- code: N
   type: county
 - code: O
   type: county
+- code: S
+  type: county
 - code: T
   type: county
-- code: E
+- code: U
+  type: county
+- code: W
+  type: county
+- code: X
+  type: county
+- code: Y
+  type: county
+- code: Z
   type: county

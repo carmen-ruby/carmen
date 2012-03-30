@@ -1,7 +1,7 @@
 ---
-- code: AL
-  type: department
 - code: AK
+  type: department
+- code: AL
   type: department
 - code: AQ
   type: department

@@ -4,23 +4,23 @@ en:
     cg:
       '11':
         name: Bouenza
-      '8':
-        name: Cuvette
-      '15':
-        name: Cuvette-Ouest
-      '5':
-        name: Kouilou
-      '2':
-        name: Lékoumou
-      '7':
-        name: Likouala
-      '9':
-        name: Niari
-      '14':
-        name: Plateaux
       '12':
         name: Pool
       '13':
         name: Sangha
+      '14':
+        name: Plateaux
+      '15':
+        name: Cuvette-Ouest
+      '2':
+        name: Lékoumou
+      '5':
+        name: Kouilou
+      '7':
+        name: Likouala
+      '8':
+        name: Cuvette
+      '9':
+        name: Niari
       bzv:
         name: Brazzaville

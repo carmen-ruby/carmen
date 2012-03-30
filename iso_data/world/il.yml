@@ -1,13 +1,13 @@
 ---
 - code: D
   type: district
-- code: M
-  type: district
-- code: Z
-  type: district
 - code: HA
+  type: district
+- code: JM
+  type: district
+- code: M
   type: district
 - code: TA
   type: district
-- code: JM
+- code: Z
   type: district

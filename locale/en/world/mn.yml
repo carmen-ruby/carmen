@@ -2,47 +2,47 @@
 en:
   world:
     mn:
-      '073':
-        name: Arhangay
-      '069':
-        name: Bayanhongor
-      '071':
-        name: Bayan-Ölgiy
-      '067':
-        name: Bulgan
-      '061':
-        name: Dornod
-      '063':
-        name: Dornogovi
-      '059':
-        name: Dundgovi
-      '057':
-        name: Dzavhan
-      '065':
-        name: Govi-Altay
+      '035':
+        name: Orhon
+      '037':
+        name: Darhan uul
       '039':
         name: Hentiy
-      '043':
-        name: Hovd
       '041':
         name: Hövsgöl
-      '053':
-        name: Ömnögovi
-      '055':
-        name: Övörhangay
+      '043':
+        name: Hovd
+      '046':
+        name: Uvs
+      '047':
+        name: Töv
       '049':
         name: Selenge
       '051':
         name: Sühbaatar
-      '047':
-        name: Töv
-      '046':
-        name: Uvs
-      '1':
-        name: Ulanbaatar
-      '037':
-        name: Darhan uul
+      '053':
+        name: Ömnögovi
+      '055':
+        name: Övörhangay
+      '057':
+        name: Dzavhan
+      '059':
+        name: Dundgovi
+      '061':
+        name: Dornod
+      '063':
+        name: Dornogovi
       '064':
         name: Govi-Sumber
-      '035':
-        name: Orhon
+      '065':
+        name: Govi-Altay
+      '067':
+        name: Bulgan
+      '069':
+        name: Bayanhongor
+      '071':
+        name: Bayan-Ölgiy
+      '073':
+        name: Arhangay
+      '1':
+        name: Ulanbaatar

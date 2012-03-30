@@ -1,6 +1,4 @@
 ---
-- code: TK
-  type: city
 - code: AN
   type: region
 - code: BU
@@ -15,15 +13,17 @@
   type: region
 - code: QA
   type: region
+- code: QR
+  type: republic
 - code: SA
   type: region
 - code: SI
   type: region
 - code: SU
   type: region
+- code: TK
+  type: city
 - code: TO
   type: region
 - code: XO
   type: region
-- code: QR
-  type: republic

@@ -1,11 +1,11 @@
 ---
 - code: '1'
   type: province
-- code: '4'
-  type: province
 - code: '2'
   type: province
 - code: '3'
+  type: province
+- code: '4'
   type: province
 - code: '5'
   type: province

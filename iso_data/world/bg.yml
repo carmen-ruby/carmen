@@ -3,11 +3,17 @@
   type: region
 - code: '02'
   type: region
-- code: '08'
+- code: '03'
+  type: region
+- code: '04'
+  type: region
+- code: '05'
+  type: region
+- code: '06'
   type: region
 - code: '07'
   type: region
-- code: '26'
+- code: '08'
   type: region
 - code: '09'
   type: region
@@ -29,29 +35,23 @@
   type: region
 - code: '18'
   type: region
-- code: '27'
-  type: region
 - code: '19'
   type: region
 - code: '20'
   type: region
 - code: '21'
   type: region
-- code: '23'
-  type: region
 - code: '22'
+  type: region
+- code: '23'
   type: region
 - code: '24'
   type: region
 - code: '25'
   type: region
-- code: '03'
+- code: '26'
   type: region
-- code: '04'
-  type: region
-- code: '05'
-  type: region
-- code: '06'
+- code: '27'
   type: region
 - code: '28'
   type: region

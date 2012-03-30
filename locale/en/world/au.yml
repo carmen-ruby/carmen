@@ -2,8 +2,12 @@
 en:
   world:
     au:
+      act:
+        name: Australian Capital Territory
       nsw:
         name: New South Wales
+      nt:
+        name: Northern Territory
       qld:
         name: Queensland
       sa:
@@ -14,7 +18,3 @@ en:
         name: Victoria
       wa:
         name: Western Australia
-      act:
-        name: Australian Capital Territory
-      nt:
-        name: Northern Territory

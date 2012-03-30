@@ -2,6 +2,8 @@
 en:
   world:
     gh:
+      aa:
+        name: Greater Accra
       ah:
         name: Ashanti
       ba:
@@ -10,15 +12,13 @@ en:
         name: Central
       ep:
         name: Eastern
-      aa:
-        name: Greater Accra
       np:
         name: Northern
+      tv:
+        name: Volta
       ue:
         name: Upper East
       uw:
         name: Upper West
-      tv:
-        name: Volta
       wp:
         name: Western

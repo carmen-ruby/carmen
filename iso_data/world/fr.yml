@@ -3,10 +3,12 @@
   type: metropolitan region
 - code: B
   type: metropolitan region
+- code: BL
+  type: overseas territorial collectivity
 - code: C
   type: metropolitan region
-- code: P
-  type: metropolitan region
+- code: CP
+  type: dependency
 - code: D
   type: metropolitan region
 - code: E
@@ -15,11 +17,13 @@
   type: metropolitan region
 - code: G
   type: metropolitan region
+- code: GF
+  type: overseas region/department
+- code: GP
+  type: overseas region/department
 - code: H
   type: metropolitan region
 - code: I
-  type: metropolitan region
-- code: Q
   type: metropolitan region
 - code: J
   type: metropolitan region
@@ -29,43 +33,39 @@
   type: metropolitan region
 - code: M
   type: metropolitan region
+- code: MF
+  type: overseas territorial collectivity
+- code: MQ
+  type: overseas region/department
 - code: N
   type: metropolitan region
+- code: NC
+  type: overseas territorial collectivity
 - code: O
+  type: metropolitan region
+- code: P
+  type: metropolitan region
+- code: PF
+  type: overseas territorial collectivity
+- code: PM
+  type: overseas territorial collectivity
+- code: Q
   type: metropolitan region
 - code: R
   type: metropolitan region
+- code: RE
+  type: overseas region/department
 - code: S
   type: metropolitan region
 - code: T
   type: metropolitan region
+- code: TF
+  type: overseas territorial collectivity
 - code: U
   type: metropolitan region
 - code: V
   type: metropolitan region
-- code: GP
-  type: overseas region/department
-- code: GF
-  type: overseas region/department
-- code: MQ
-  type: overseas region/department
-- code: RE
-  type: overseas region/department
-- code: CP
-  type: dependency
-- code: YT
-  type: overseas territorial collectivity
-- code: NC
-  type: overseas territorial collectivity
-- code: PF
-  type: overseas territorial collectivity
-- code: BL
-  type: overseas territorial collectivity
-- code: MF
-  type: overseas territorial collectivity
-- code: PM
-  type: overseas territorial collectivity
-- code: TF
-  type: overseas territorial collectivity
 - code: WF
+  type: overseas territorial collectivity
+- code: YT
   type: overseas territorial collectivity

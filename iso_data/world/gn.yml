@@ -1,11 +1,13 @@
 ---
 - code: B
   type: governorate
+- code: C
+  type: special zone
+- code: D
+  type: governorate
 - code: F
   type: governorate
 - code: K
-  type: governorate
-- code: D
   type: governorate
 - code: L
   type: governorate
@@ -13,5 +15,3 @@
   type: governorate
 - code: N
   type: governorate
-- code: C
-  type: special zone

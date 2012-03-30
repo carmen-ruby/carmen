@@ -2,28 +2,28 @@
 en:
   world:
     sn:
-      dk:
-        name: Dakar
       db:
         name: Diourbel
+      dk:
+        name: Dakar
       fk:
         name: Fatick
       ka:
         name: Kaffrine
-      kl:
-        name: Kaolack
-      ke:
-        name: Kédougou
       kd:
         name: Kolda
+      ke:
+        name: Kédougou
+      kl:
+        name: Kaolack
       lg:
         name: Louga
       mt:
         name: Matam
-      sl:
-        name: Saint-Louis
       se:
         name: Sédhiou
+      sl:
+        name: Saint-Louis
       tc:
         name: Tambacounda
       th:

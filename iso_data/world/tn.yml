@@ -1,49 +1,49 @@
 ---
-- code: '31'
+- code: '11'
+  type: governorate
+- code: '12'
   type: governorate
 - code: '13'
   type: governorate
+- code: '14'
+  type: governorate
+- code: '21'
+  type: governorate
+- code: '22'
+  type: governorate
 - code: '23'
   type: governorate
-- code: '81'
-  type: governorate
-- code: '71'
+- code: '31'
   type: governorate
 - code: '32'
+  type: governorate
+- code: '33'
+  type: governorate
+- code: '34'
   type: governorate
 - code: '41'
   type: governorate
 - code: '42'
   type: governorate
-- code: '73'
-  type: governorate
-- code: '12'
-  type: governorate
-- code: '33'
-  type: governorate
-- code: '53'
-  type: governorate
-- code: '14'
-  type: governorate
-- code: '82'
-  type: governorate
-- code: '52'
-  type: governorate
-- code: '21'
-  type: governorate
-- code: '61'
-  type: governorate
 - code: '43'
-  type: governorate
-- code: '34'
   type: governorate
 - code: '51'
   type: governorate
-- code: '83'
+- code: '52'
+  type: governorate
+- code: '53'
+  type: governorate
+- code: '61'
+  type: governorate
+- code: '71'
   type: governorate
 - code: '72'
   type: governorate
-- code: '11'
+- code: '73'
   type: governorate
-- code: '22'
+- code: '81'
+  type: governorate
+- code: '82'
+  type: governorate
+- code: '83'
   type: governorate

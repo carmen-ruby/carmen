@@ -1,30 +1,28 @@
 ---
-- code: GA
-  type: autonomous territorial unit
+- code: AN
+  type: district
 - code: BA
   type: city
 - code: BD
   type: city
-- code: CU
-  type: city
-- code: AN
+- code: BR
   type: district
 - code: BS
   type: district
-- code: BR
-  type: district
 - code: CA
   type: district
-- code: CT
-  type: district
 - code: CL
-  type: district
-- code: CS
   type: district
 - code: CM
   type: district
 - code: CR
   type: district
+- code: CS
+  type: district
+- code: CT
+  type: district
+- code: CU
+  type: city
 - code: DO
   type: district
 - code: DR
@@ -37,6 +35,8 @@
   type: district
 - code: FL
   type: district
+- code: GA
+  type: autonomous territorial unit
 - code: GL
   type: district
 - code: HI
@@ -55,13 +55,15 @@
   type: district
 - code: RI
   type: district
+- code: SD
+  type: district
 - code: SI
   type: district
+- code: SN
+  type: territorial unit
 - code: SO
   type: district
 - code: ST
-  type: district
-- code: SD
   type: district
 - code: SV
   type: district
@@ -71,5 +73,3 @@
   type: district
 - code: UN
   type: district
-- code: SN
-  type: territorial unit

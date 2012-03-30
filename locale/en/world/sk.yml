@@ -12,9 +12,9 @@ en:
         name: Nitriansky kraj
       pv:
         name: Prešovský kraj
-      tc:
-        name: Trenčiansky kraj
       ta:
         name: Trnavský kraj
+      tc:
+        name: Trenčiansky kraj
       zi:
         name: Žilinský kraj

@@ -2,46 +2,20 @@
 en:
   world:
     hu:
-      bk:
-        name: Bács-Kiskun
       ba:
         name: Baranya
+      bc:
+        name: Békéscsaba
       be:
         name: Békés
+      bk:
+        name: Bács-Kiskun
+      bu:
+        name: Budapest
       bz:
         name: Borsod-Abaúj-Zemplén
       cs:
         name: Csongrád
-      fe:
-        name: Fejér
-      gs:
-        name: Győr-Moson-Sopron
-      hb:
-        name: Hajdú-Bihar
-      he:
-        name: Heves
-      jn:
-        name: Jász-Nagykun-Szolnok
-      ke:
-        name: Komárom-Esztergom
-      'no':
-        name: Nógrád
-      pe:
-        name: Pest
-      so:
-        name: Somogy
-      sz:
-        name: Szabolcs-Szatmár-Bereg
-      to:
-        name: Tolna
-      va:
-        name: Vas
-      ve:
-        name: Veszprém (county)
-      za:
-        name: Zala
-      bc:
-        name: Békéscsaba
       de:
         name: Debrecen
       du:
@@ -50,41 +24,67 @@ en:
         name: Eger
       er:
         name: Érd
+      fe:
+        name: Fejér
+      gs:
+        name: Győr-Moson-Sopron
       gy:
         name: Győr
+      hb:
+        name: Hajdú-Bihar
+      he:
+        name: Heves
       hv:
         name: Hódmezővásárhely
-      kv:
-        name: Kaposvár
+      jn:
+        name: Jász-Nagykun-Szolnok
+      ke:
+        name: Komárom-Esztergom
       km:
         name: Kecskemét
+      kv:
+        name: Kaposvár
       mi:
         name: Miskolc
       nk:
         name: Nagykanizsa
+      'no':
+        name: Nógrád
       ny:
         name: Nyíregyháza
+      pe:
+        name: Pest
       ps:
         name: Pécs
-      st:
-        name: Salgótarján
-      sn:
-        name: Sopron
       sd:
         name: Szeged
       sf:
         name: Székesfehérvár
-      ss:
-        name: Szekszárd
-      sk:
-        name: Szolnok
       sh:
         name: Szombathely
+      sk:
+        name: Szolnok
+      sn:
+        name: Sopron
+      so:
+        name: Somogy
+      ss:
+        name: Szekszárd
+      st:
+        name: Salgótarján
+      sz:
+        name: Szabolcs-Szatmár-Bereg
       tb:
         name: Tatabánya
+      to:
+        name: Tolna
+      va:
+        name: Vas
+      ve:
+        name: Veszprém (county)
       vm:
         name: Veszprém
+      za:
+        name: Zala
       ze:
         name: Zalaegerszeg
-      bu:
-        name: Budapest

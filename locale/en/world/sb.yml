@@ -2,12 +2,12 @@
 en:
   world:
     sb:
-      ct:
-        name: Capital Territory (Honiara)
       ce:
         name: Central
       ch:
         name: Choiseul
+      ct:
+        name: Capital Territory (Honiara)
       gu:
         name: Guadalcanal
       is:

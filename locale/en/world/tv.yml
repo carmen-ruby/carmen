@@ -4,10 +4,6 @@ en:
     tv:
       fun:
         name: Funafuti
-      nmg:
-        name: Nanumanga
-      nma:
-        name: Nanumea
       nit:
         name: Niutao
       niu:
@@ -16,5 +12,9 @@ en:
         name: Nukufetau
       nkl:
         name: Nukulaelae
+      nma:
+        name: Nanumea
+      nmg:
+        name: Nanumanga
       vai:
         name: Vaitupu

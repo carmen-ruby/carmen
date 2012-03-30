@@ -89,7 +89,8 @@ end
 
 puts
 
-write_data_to_path_as_yaml(countries, 'world')
+sorted_countries = countries.sort_by {|e| e['alpha_2_code'] }
+write_data_to_path_as_yaml(sorted_countries, 'world')
 
 # regions
 puts "Importing regions"
@@ -136,7 +137,8 @@ doc.css('iso_3166_country').each do |country|
 
   end
 
-  write_regions_to_path_as_yaml(regions, "world/#{code}")
+  sorted_regions = regions.sort_by {|e| e['code'] }
+  write_regions_to_path_as_yaml(sorted_regions, "world/#{code}")
   print '.'
 end
 

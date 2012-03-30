@@ -11,17 +11,17 @@
   type: region
 - code: KU
   type: region
-- code: OW
-  type: region
-- code: OK
+- code: OD
   type: region
 - code: OH
   type: region
-- code: OS
+- code: OK
   type: region
 - code: 'ON'
   type: region
+- code: OS
+  type: region
 - code: OT
   type: region
-- code: OD
+- code: OW
   type: region

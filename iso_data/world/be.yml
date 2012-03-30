@@ -1,23 +1,23 @@
 ---
+- code: BRU
+  type: province
 - code: VAN
   type: province
-- code: WBR
+- code: VBR
   type: province
-- code: BRU
+- code: VLI
+  type: province
+- code: VOV
+  type: province
+- code: VWV
+  type: province
+- code: WBR
   type: province
 - code: WHT
   type: province
 - code: WLG
   type: province
-- code: VLI
-  type: province
 - code: WLX
   type: province
 - code: WNA
-  type: province
-- code: VOV
-  type: province
-- code: VBR
-  type: province
-- code: VWV
   type: province

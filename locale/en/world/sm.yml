@@ -4,8 +4,6 @@ en:
     sm:
       '01':
         name: Acquaviva
-      '06':
-        name: Borgo Maggiore
       '02':
         name: Chiesanuova
       '03':
@@ -14,9 +12,11 @@ en:
         name: Faetano
       '05':
         name: Fiorentino
-      '08':
-        name: Montegiardino
+      '06':
+        name: Borgo Maggiore
       '07':
         name: San Marino
+      '08':
+        name: Montegiardino
       '09':
         name: Serravalle

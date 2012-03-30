@@ -14,14 +14,20 @@ en:
         name: Cēsis Apriņķis
       da:
         name: Daugavpils Apriņķis
+      dgv:
+        name: Daugavpils
       do:
         name: Dobele Apriņķis
       gu:
         name: Gulbene Apriņķis
+      jel:
+        name: Jelgava
       jk:
         name: Jēkabpils Apriņķis
       jl:
         name: Jelgava Apriņķis
+      jur:
+        name: Jūrmala
       kr:
         name: Krāslava Apriņķis
       ku:
@@ -30,6 +36,8 @@ en:
         name: Liepāja Apriņķis
       lm:
         name: Limbaži Apriņķis
+      lpx:
+        name: Liepāja
       lu:
         name: Ludza Apriņķis
       ma:
@@ -40,31 +48,23 @@ en:
         name: Preiļi Apriņķis
       re:
         name: Rēzekne Apriņķis
+      rez:
+        name: Rēzekne
       ri:
         name: Rīga Apriņķis
+      rix:
+        name: Rīga
       sa:
         name: Saldus Apriņķis
       ta:
         name: Talsi Apriņķis
       tu:
         name: Tukums Apriņķis
+      ve:
+        name: Ventspils Apriņķis
+      ven:
+        name: Ventspils
       vk:
         name: Valka Apriņķis
       vm:
         name: Valmiera Apriņķis
-      ve:
-        name: Ventspils Apriņķis
-      dgv:
-        name: Daugavpils
-      jel:
-        name: Jelgava
-      jur:
-        name: Jūrmala
-      lpx:
-        name: Liepāja
-      rez:
-        name: Rēzekne
-      rix:
-        name: Rīga
-      ven:
-        name: Ventspils

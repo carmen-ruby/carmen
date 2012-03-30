@@ -2,17 +2,17 @@
 en:
   world:
     ae:
-      az:
-        name: Abū Ȥaby [Abu Dhabi]
       aj:
         name: ! '''Ajmān'
-      fu:
-        name: Al Fujayrah
-      sh:
-        name: Ash Shāriqah
+      az:
+        name: Abū Ȥaby [Abu Dhabi]
       du:
         name: Dubayy
+      fu:
+        name: Al Fujayrah
       rk:
         name: Ra’s al Khaymah
+      sh:
+        name: Ash Shāriqah
       uq:
         name: Umm al Qaywayn

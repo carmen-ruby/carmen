@@ -4,97 +4,97 @@ en:
     dz:
       '01':
         name: Adrar
-      '44':
-        name: Aïn Defla
-      '46':
-        name: Aïn Témouchent
-      '16':
-        name: Alger
-      '23':
-        name: Annaba
+      '02':
+        name: Chlef
+      '03':
+        name: Laghouat
+      '04':
+        name: Oum el Bouaghi
       '05':
         name: Batna
-      '08':
-        name: Béchar
       '06':
         name: Béjaïa
       '07':
         name: Biskra
+      '08':
+        name: Béchar
       '09':
         name: Blida
-      '34':
-        name: Bordj Bou Arréridj
       '10':
         name: Bouira
-      '35':
-        name: Boumerdès
-      '02':
-        name: Chlef
-      '25':
-        name: Constantine
-      '17':
-        name: Djelfa
-      '32':
-        name: El Bayadh
-      '39':
-        name: El Oued
-      '36':
-        name: El Tarf
-      '47':
-        name: Ghardaïa
-      '24':
-        name: Guelma
-      '33':
-        name: Illizi
-      '18':
-        name: Jijel
-      '40':
-        name: Khenchela
-      '03':
-        name: Laghouat
-      '29':
-        name: Mascara
-      '26':
-        name: Médéa
-      '43':
-        name: Mila
-      '27':
-        name: Mostaganem
-      '28':
-        name: Msila
-      '45':
-        name: Naama
-      '31':
-        name: Oran
-      '30':
-        name: Ouargla
-      '04':
-        name: Oum el Bouaghi
-      '48':
-        name: Relizane
-      '20':
-        name: Saïda
-      '19':
-        name: Sétif
-      '22':
-        name: Sidi Bel Abbès
-      '21':
-        name: Skikda
-      '41':
-        name: Souk Ahras
       '11':
         name: Tamanghasset
       '12':
         name: Tébessa
-      '14':
-        name: Tiaret
-      '37':
-        name: Tindouf
-      '42':
-        name: Tipaza
-      '38':
-        name: Tissemsilt
-      '15':
-        name: Tizi Ouzou
       '13':
         name: Tlemcen
+      '14':
+        name: Tiaret
+      '15':
+        name: Tizi Ouzou
+      '16':
+        name: Alger
+      '17':
+        name: Djelfa
+      '18':
+        name: Jijel
+      '19':
+        name: Sétif
+      '20':
+        name: Saïda
+      '21':
+        name: Skikda
+      '22':
+        name: Sidi Bel Abbès
+      '23':
+        name: Annaba
+      '24':
+        name: Guelma
+      '25':
+        name: Constantine
+      '26':
+        name: Médéa
+      '27':
+        name: Mostaganem
+      '28':
+        name: Msila
+      '29':
+        name: Mascara
+      '30':
+        name: Ouargla
+      '31':
+        name: Oran
+      '32':
+        name: El Bayadh
+      '33':
+        name: Illizi
+      '34':
+        name: Bordj Bou Arréridj
+      '35':
+        name: Boumerdès
+      '36':
+        name: El Tarf
+      '37':
+        name: Tindouf
+      '38':
+        name: Tissemsilt
+      '39':
+        name: El Oued
+      '40':
+        name: Khenchela
+      '41':
+        name: Souk Ahras
+      '42':
+        name: Tipaza
+      '43':
+        name: Mila
+      '44':
+        name: Aïn Defla
+      '45':
+        name: Naama
+      '46':
+        name: Aïn Témouchent
+      '47':
+        name: Ghardaïa
+      '48':
+        name: Relizane

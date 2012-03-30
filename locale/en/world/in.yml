@@ -2,6 +2,8 @@
 en:
   world:
     in:
+      an:
+        name: Andaman and Nicobar Islands
       ap:
         name: Andhra Pradesh
       ar:
@@ -10,32 +12,42 @@ en:
         name: Assam
       br:
         name: Bihār
+      ch:
+        name: Chandīgarh
       ct:
         name: Chhattīsgarh
+      dd:
+        name: Damān and Diu
+      dl:
+        name: Delhi
+      dn:
+        name: Dādra and Nagar Haveli
       ga:
         name: Goa
       gj:
         name: Gujarāt
-      hr:
-        name: Haryāna
       hp:
         name: Himāchal Pradesh
-      jk:
-        name: Jammu and Kashmīr
+      hr:
+        name: Haryāna
       jh:
         name: Jharkhand
+      jk:
+        name: Jammu and Kashmīr
       ka:
         name: Karnātaka
       kl:
         name: Kerala
-      mp:
-        name: Madhya Pradesh
+      ld:
+        name: Lakshadweep
       mh:
         name: Mahārāshtra
-      mn:
-        name: Manipur
       ml:
         name: Meghālaya
+      mn:
+        name: Manipur
+      mp:
+        name: Madhya Pradesh
       mz:
         name: Mizoram
       nl:
@@ -44,6 +56,8 @@ en:
         name: Orissa
       pb:
         name: Punjab
+      py:
+        name: Pondicherry
       rj:
         name: Rājasthān
       sk:
@@ -58,17 +72,3 @@ en:
         name: Uttar Pradesh
       wb:
         name: West Bengal
-      an:
-        name: Andaman and Nicobar Islands
-      ch:
-        name: Chandīgarh
-      dn:
-        name: Dādra and Nagar Haveli
-      dd:
-        name: Damān and Diu
-      dl:
-        name: Delhi
-      ld:
-        name: Lakshadweep
-      py:
-        name: Pondicherry

@@ -26,8 +26,6 @@ en:
         name: Kusini Unguja
       '12':
         name: Lindi
-      '26':
-        name: Manyara
       '13':
         name: Mara
       '14':
@@ -54,3 +52,5 @@ en:
         name: Tabora
       '25':
         name: Tanga
+      '26':
+        name: Manyara

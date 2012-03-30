@@ -1,4 +1,6 @@
 ---
+- code: AN
+  type: union territory
 - code: AP
   type: state
 - code: AR
@@ -7,31 +9,41 @@
   type: state
 - code: BR
   type: state
+- code: CH
+  type: union territory
 - code: CT
   type: state
+- code: DD
+  type: union territory
+- code: DL
+  type: union territory
+- code: DN
+  type: union territory
 - code: GA
   type: state
 - code: GJ
   type: state
-- code: HR
-  type: state
 - code: HP
   type: state
-- code: JK
+- code: HR
   type: state
 - code: JH
+  type: state
+- code: JK
   type: state
 - code: KA
   type: state
 - code: KL
   type: state
-- code: MP
-  type: state
+- code: LD
+  type: union territory
 - code: MH
+  type: state
+- code: ML
   type: state
 - code: MN
   type: state
-- code: ML
+- code: MP
   type: state
 - code: MZ
   type: state
@@ -41,6 +53,8 @@
   type: state
 - code: PB
   type: state
+- code: PY
+  type: union territory
 - code: RJ
   type: state
 - code: SK
@@ -55,17 +69,3 @@
   type: state
 - code: WB
   type: state
-- code: AN
-  type: union territory
-- code: CH
-  type: union territory
-- code: DN
-  type: union territory
-- code: DD
-  type: union territory
-- code: DL
-  type: union territory
-- code: LD
-  type: union territory
-- code: PY
-  type: union territory

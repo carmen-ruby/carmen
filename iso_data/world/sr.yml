@@ -9,9 +9,9 @@
   type: district
 - code: NI
   type: district
-- code: PR
-  type: district
 - code: PM
+  type: district
+- code: PR
   type: district
 - code: SA
   type: district

@@ -7,27 +7,17 @@
   type: province
 - code: '04'
   type: province
-- code: '68'
-  type: province
 - code: '05'
   type: province
 - code: '06'
   type: province
 - code: '07'
   type: province
-- code: '75'
-  type: province
 - code: '08'
   type: province
 - code: '09'
   type: province
 - code: '10'
-  type: province
-- code: '74'
-  type: province
-- code: '72'
-  type: province
-- code: '69'
   type: province
 - code: '11'
   type: province
@@ -51,8 +41,6 @@
   type: province
 - code: '21'
   type: province
-- code: '81'
-  type: province
 - code: '22'
   type: province
 - code: '23'
@@ -73,8 +61,6 @@
   type: province
 - code: '31'
   type: province
-- code: '76'
-  type: province
 - code: '32'
   type: province
 - code: '33'
@@ -83,25 +69,15 @@
   type: province
 - code: '35'
   type: province
-- code: '46'
-  type: province
-- code: '78'
-  type: province
-- code: '70'
-  type: province
 - code: '36'
   type: province
 - code: '37'
   type: province
 - code: '38'
   type: province
-- code: '71'
-  type: province
 - code: '39'
   type: province
 - code: '40'
-  type: province
-- code: '79'
   type: province
 - code: '41'
   type: province
@@ -112,6 +88,8 @@
 - code: '44'
   type: province
 - code: '45'
+  type: province
+- code: '46'
   type: province
 - code: '47'
   type: province
@@ -125,8 +103,6 @@
   type: province
 - code: '52'
   type: province
-- code: '80'
-  type: province
 - code: '53'
   type: province
 - code: '54'
@@ -139,10 +115,6 @@
   type: province
 - code: '58'
   type: province
-- code: '63'
-  type: province
-- code: '73'
-  type: province
 - code: '59'
   type: province
 - code: '60'
@@ -151,13 +123,41 @@
   type: province
 - code: '62'
   type: province
+- code: '63'
+  type: province
 - code: '64'
   type: province
 - code: '65'
   type: province
-- code: '77'
-  type: province
 - code: '66'
   type: province
 - code: '67'
+  type: province
+- code: '68'
+  type: province
+- code: '69'
+  type: province
+- code: '70'
+  type: province
+- code: '71'
+  type: province
+- code: '72'
+  type: province
+- code: '73'
+  type: province
+- code: '74'
+  type: province
+- code: '75'
+  type: province
+- code: '76'
+  type: province
+- code: '77'
+  type: province
+- code: '78'
+  type: province
+- code: '79'
+  type: province
+- code: '80'
+  type: province
+- code: '81'
   type: province

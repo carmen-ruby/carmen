@@ -17,9 +17,9 @@
   type: district
 - code: LI
   type: district
-- code: MT
-  type: district
 - code: MF
+  type: district
+- code: MT
   type: district
 - code: OE
   type: district

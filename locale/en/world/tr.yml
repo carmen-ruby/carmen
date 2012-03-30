@@ -10,28 +10,18 @@ en:
         name: Afyon
       '04':
         name: Ağrı
-      '68':
-        name: Aksaray
       '05':
         name: Amasya
       '06':
         name: Ankara
       '07':
         name: Antalya
-      '75':
-        name: Ardahan
       '08':
         name: Artvin
       '09':
         name: Aydın
       '10':
         name: Balıkesir
-      '74':
-        name: Bartın
-      '72':
-        name: Batman
-      '69':
-        name: Bayburt
       '11':
         name: Bilecik
       '12':
@@ -54,8 +44,6 @@ en:
         name: Denizli
       '21':
         name: Diyarbakır
-      '81':
-        name: Düzce
       '22':
         name: Edirne
       '23':
@@ -76,8 +64,6 @@ en:
         name: Hakkâri
       '31':
         name: Hatay
-      '76':
-        name: Iğdır
       '32':
         name: Isparta
       '33':
@@ -86,26 +72,16 @@ en:
         name: İstanbul
       '35':
         name: İzmir
-      '46':
-        name: Kahramanmaraş
-      '78':
-        name: Karabük
-      '70':
-        name: Karaman
       '36':
         name: Kars
       '37':
         name: Kastamonu
       '38':
         name: Kayseri
-      '71':
-        name: Kırıkkale
       '39':
         name: Kırklareli
       '40':
         name: Kırşehir
-      '79':
-        name: Kilis
       '41':
         name: Kocaeli
       '42':
@@ -116,6 +92,8 @@ en:
         name: Malatya
       '45':
         name: Manisa
+      '46':
+        name: Kahramanmaraş
       '47':
         name: Mardin
       '48':
@@ -128,8 +106,6 @@ en:
         name: Niğde
       '52':
         name: Ordu
-      '80':
-        name: Osmaniye
       '53':
         name: Rize
       '54':
@@ -142,10 +118,6 @@ en:
         name: Sinop
       '58':
         name: Sivas
-      '63':
-        name: Şanlıurfa
-      '73':
-        name: Şırnak
       '59':
         name: Tekirdağ
       '60':
@@ -154,13 +126,41 @@ en:
         name: Trabzon
       '62':
         name: Tunceli
+      '63':
+        name: Şanlıurfa
       '64':
         name: Uşak
       '65':
         name: Van
-      '77':
-        name: Yalova
       '66':
         name: Yozgat
       '67':
         name: Zonguldak
+      '68':
+        name: Aksaray
+      '69':
+        name: Bayburt
+      '70':
+        name: Karaman
+      '71':
+        name: Kırıkkale
+      '72':
+        name: Batman
+      '73':
+        name: Şırnak
+      '74':
+        name: Bartın
+      '75':
+        name: Ardahan
+      '76':
+        name: Iğdır
+      '77':
+        name: Yalova
+      '78':
+        name: Karabük
+      '79':
+        name: Kilis
+      '80':
+        name: Osmaniye
+      '81':
+        name: Düzce

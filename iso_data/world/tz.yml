@@ -23,8 +23,6 @@
   type: region
 - code: '12'
   type: region
-- code: '26'
-  type: region
 - code: '13'
   type: region
 - code: '14'
@@ -50,4 +48,6 @@
 - code: '24'
   type: region
 - code: '25'
+  type: region
+- code: '26'
   type: region

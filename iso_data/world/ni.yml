@@ -1,4 +1,8 @@
 ---
+- code: AN
+  type: autonomous region
+- code: AS
+  type: autonomous region
 - code: BO
   type: department
 - code: CA
@@ -25,11 +29,7 @@
   type: department
 - code: NS
   type: department
-- code: SJ
-  type: department
 - code: RI
   type: department
-- code: AN
-  type: autonomous region
-- code: AS
-  type: autonomous region
+- code: SJ
+  type: department

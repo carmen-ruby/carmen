@@ -4,41 +4,41 @@ en:
     rs:
       '00':
         name: Beograd
-      km:
-        name: Kosovo-Metohija
-      vo:
-        name: Vojvodina
-      '14':
-        name: Borski okrug
-      '11':
-        name: Braničevski okrug
-      '23':
-        name: Jablanički okrug
-      '09':
-        name: Kolubarski okrug
       '08':
         name: Mačvanski okrug
-      '17':
-        name: Moravički okrug
-      '20':
-        name: Nišavski okrug
-      '24':
-        name: Pčinjski okrug
-      '22':
-        name: Pirotski okrug
+      '09':
+        name: Kolubarski okrug
       '10':
         name: Podunavski okrug
-      '13':
-        name: Pomoravski okrug
-      '19':
-        name: Rasinski okrug
-      '18':
-        name: Raški okrug
+      '11':
+        name: Braničevski okrug
       '12':
         name: Šumadijski okrug
-      '21':
-        name: Toplički okrug
+      '13':
+        name: Pomoravski okrug
+      '14':
+        name: Borski okrug
       '15':
         name: Zaječarski okrug
       '16':
         name: Zlatiborski okrug
+      '17':
+        name: Moravički okrug
+      '18':
+        name: Raški okrug
+      '19':
+        name: Rasinski okrug
+      '20':
+        name: Nišavski okrug
+      '21':
+        name: Toplički okrug
+      '22':
+        name: Pirotski okrug
+      '23':
+        name: Jablanički okrug
+      '24':
+        name: Pčinjski okrug
+      km:
+        name: Kosovo-Metohija
+      vo:
+        name: Vojvodina

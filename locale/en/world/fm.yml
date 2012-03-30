@@ -2,11 +2,11 @@
 en:
   world:
     fm:
-      trk:
-        name: Chuuk
       ksa:
         name: Kosrae
       pni:
         name: Pohnpei
+      trk:
+        name: Chuuk
       yap:
         name: Yap

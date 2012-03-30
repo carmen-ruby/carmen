@@ -1,28 +1,28 @@
 ---
-- code: NCD
-  type: district
-- code: CPM
-  type: province
 - code: CPK
   type: province
-- code: EHG
+- code: CPM
   type: province
 - code: EBR
   type: province
-- code: ESW
+- code: EHG
   type: province
 - code: EPW
   type: province
+- code: ESW
+  type: province
 - code: GPK
-  type: province
-- code: MPM
-  type: province
-- code: MRL
   type: province
 - code: MBA
   type: province
 - code: MPL
   type: province
+- code: MPM
+  type: province
+- code: MRL
+  type: province
+- code: NCD
+  type: district
 - code: NIK
   type: province
 - code: NPP
@@ -33,9 +33,9 @@
   type: province
 - code: SHM
   type: province
-- code: WPD
+- code: WBK
   type: province
 - code: WHM
   type: province
-- code: WBK
+- code: WPD
   type: province

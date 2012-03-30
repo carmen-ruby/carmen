@@ -3,61 +3,7 @@
   type: republic
 - code: AL
   type: republic
-- code: BA
-  type: republic
-- code: BU
-  type: republic
-- code: CE
-  type: republic
-- code: CU
-  type: republic
-- code: DA
-  type: republic
-- code: IN
-  type: republic
-- code: KB
-  type: republic
-- code: KL
-  type: republic
-- code: KC
-  type: republic
-- code: KR
-  type: republic
-- code: KK
-  type: republic
-- code: KO
-  type: republic
-- code: ME
-  type: republic
-- code: MO
-  type: republic
-- code: SA
-  type: republic
-- code: SE
-  type: republic
-- code: TA
-  type: republic
-- code: TY
-  type: republic
-- code: UD
-  type: republic
 - code: ALT
-  type: administrative territory
-- code: KAM
-  type: administrative territory
-- code: KHA
-  type: administrative territory
-- code: KDA
-  type: administrative territory
-- code: KYA
-  type: administrative territory
-- code: PER
-  type: administrative territory
-- code: PRI
-  type: administrative territory
-- code: STA
-  type: administrative territory
-- code: ZAB
   type: administrative territory
 - code: AMU
   type: administrative region
@@ -65,43 +11,87 @@
   type: administrative region
 - code: AST
   type: administrative region
+- code: BA
+  type: republic
 - code: BEL
   type: administrative region
 - code: BRY
   type: administrative region
+- code: BU
+  type: republic
+- code: CE
+  type: republic
 - code: CHE
   type: administrative region
+- code: CHU
+  type: autonomous district
+- code: CU
+  type: republic
+- code: DA
+  type: republic
+- code: IN
+  type: republic
 - code: IRK
   type: administrative region
 - code: IVA
   type: administrative region
-- code: KGD
-  type: administrative region
-- code: KLU
-  type: administrative region
+- code: KAM
+  type: administrative territory
+- code: KB
+  type: republic
+- code: KC
+  type: republic
+- code: KDA
+  type: administrative territory
 - code: KEM
   type: administrative region
-- code: KIR
-  type: administrative region
-- code: KOS
+- code: KGD
   type: administrative region
 - code: KGN
   type: administrative region
+- code: KHA
+  type: administrative territory
+- code: KHM
+  type: autonomous district
+- code: KIR
+  type: administrative region
+- code: KK
+  type: republic
+- code: KL
+  type: republic
+- code: KLU
+  type: administrative region
+- code: KO
+  type: republic
+- code: KOS
+  type: administrative region
+- code: KR
+  type: republic
 - code: KRS
   type: administrative region
+- code: KYA
+  type: administrative territory
 - code: LEN
   type: administrative region
 - code: LIP
   type: administrative region
 - code: MAG
   type: administrative region
+- code: ME
+  type: republic
+- code: MO
+  type: republic
 - code: MOS
   type: administrative region
+- code: MOW
+  type: autonomous city
 - code: MUR
   type: administrative region
-- code: NIZ
-  type: administrative region
+- code: NEN
+  type: autonomous district
 - code: NGR
+  type: administrative region
+- code: NIZ
   type: administrative region
 - code: NVS
   type: administrative region
@@ -111,24 +101,38 @@
   type: administrative region
 - code: ORL
   type: administrative region
+- code: PER
+  type: administrative territory
 - code: PNZ
   type: administrative region
+- code: PRI
+  type: administrative territory
 - code: PSK
   type: administrative region
 - code: ROS
   type: administrative region
 - code: RYA
   type: administrative region
+- code: SA
+  type: republic
 - code: SAK
   type: administrative region
 - code: SAM
   type: administrative region
 - code: SAR
   type: administrative region
+- code: SE
+  type: republic
 - code: SMO
   type: administrative region
+- code: SPE
+  type: autonomous city
+- code: STA
+  type: administrative territory
 - code: SVE
   type: administrative region
+- code: TA
+  type: republic
 - code: TAM
   type: administrative region
 - code: TOM
@@ -137,31 +141,27 @@
   type: administrative region
 - code: TVE
   type: administrative region
+- code: TY
+  type: republic
 - code: TYU
   type: administrative region
+- code: UD
+  type: republic
 - code: ULY
   type: administrative region
-- code: VLA
-  type: administrative region
 - code: VGG
+  type: administrative region
+- code: VLA
   type: administrative region
 - code: VLG
   type: administrative region
 - code: VOR
   type: administrative region
-- code: YAR
-  type: administrative region
-- code: MOW
-  type: autonomous city
-- code: SPE
-  type: autonomous city
-- code: YEV
-  type: autonomous region
-- code: CHU
-  type: autonomous district
-- code: KHM
-  type: autonomous district
-- code: NEN
-  type: autonomous district
 - code: YAN
   type: autonomous district
+- code: YAR
+  type: administrative region
+- code: YEV
+  type: autonomous region
+- code: ZAB
+  type: administrative territory

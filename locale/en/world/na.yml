@@ -14,17 +14,17 @@ en:
         name: Khomas
       ku:
         name: Kunene
-      ow:
-        name: Ohangwena
-      ok:
-        name: Okavango
-      oh:
-        name: Omaheke
-      os:
-        name: Omusati
-      'on':
-        name: Oshana
-      ot:
-        name: Oshikoto
       od:
         name: Otjozondjupa
+      oh:
+        name: Omaheke
+      ok:
+        name: Okavango
+      'on':
+        name: Oshana
+      os:
+        name: Omusati
+      ot:
+        name: Oshikoto
+      ow:
+        name: Ohangwena

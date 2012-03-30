@@ -1,4 +1,6 @@
 ---
+- code: B
+  type: city
 - code: L
   type: division
 - code: M
@@ -9,5 +11,3 @@
   type: division
 - code: W
   type: division
-- code: B
-  type: city

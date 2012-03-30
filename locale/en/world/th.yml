@@ -4,155 +4,155 @@ en:
     th:
       '10':
         name: Krung Thep Maha Nakhon Bangkok
-      s:
-        name: Phatthaya
-      '37':
-        name: Amnat Charoen
-      '15':
-        name: Ang Thong
-      '31':
-        name: Buri Ram
-      '24':
-        name: Chachoengsao
-      '18':
-        name: Chai Nat
-      '36':
-        name: Chaiyaphum
-      '22':
-        name: Chanthaburi
-      '50':
-        name: Chiang Mai
-      '57':
-        name: Chiang Rai
-      '20':
-        name: Chon Buri
-      '86':
-        name: Chumphon
-      '46':
-        name: Kalasin
-      '62':
-        name: Kamphaeng Phet
-      '71':
-        name: Kanchanaburi
-      '40':
-        name: Khon Kaen
-      '81':
-        name: Krabi
-      '52':
-        name: Lampang
-      '51':
-        name: Lamphun
-      '42':
-        name: Loei
-      '16':
-        name: Lop Buri
-      '58':
-        name: Mae Hong Son
-      '44':
-        name: Maha Sarakham
-      '49':
-        name: Mukdahan
-      '26':
-        name: Nakhon Nayok
-      '73':
-        name: Nakhon Pathom
-      '48':
-        name: Nakhon Phanom
-      '30':
-        name: Nakhon Ratchasima
-      '60':
-        name: Nakhon Sawan
-      '80':
-        name: Nakhon Si Thammarat
-      '55':
-        name: Nan
-      '96':
-        name: Narathiwat
-      '39':
-        name: Nong Bua Lam Phu
-      '43':
-        name: Nong Khai
+      '11':
+        name: Samut Prakan
       '12':
         name: Nonthaburi
       '13':
         name: Pathum Thani
-      '94':
-        name: Pattani
-      '82':
-        name: Phangnga
-      '93':
-        name: Phatthalung
-      '56':
-        name: Phayao
-      '67':
-        name: Phetchabun
-      '76':
-        name: Phetchaburi
-      '66':
-        name: Phichit
-      '65':
-        name: Phitsanulok
-      '54':
-        name: Phrae
       '14':
         name: Phra Nakhon Si Ayutthaya
-      '83':
-        name: Phuket
-      '25':
-        name: Prachin Buri
-      '77':
-        name: Prachuap Khiri Khan
-      '85':
-        name: Ranong
-      '70':
-        name: Ratchaburi
+      '15':
+        name: Ang Thong
+      '16':
+        name: Lop Buri
+      '17':
+        name: Sing Buri
+      '18':
+        name: Chai Nat
+      '19':
+        name: Saraburi
+      '20':
+        name: Chon Buri
       '21':
         name: Rayong
-      '45':
-        name: Roi Et
+      '22':
+        name: Chanthaburi
+      '23':
+        name: Trat
+      '24':
+        name: Chachoengsao
+      '25':
+        name: Prachin Buri
+      '26':
+        name: Nakhon Nayok
       '27':
         name: Sa Kaeo
+      '30':
+        name: Nakhon Ratchasima
+      '31':
+        name: Buri Ram
+      '32':
+        name: Surin
+      '33':
+        name: Si Sa Ket
+      '34':
+        name: Ubon Ratchathani
+      '35':
+        name: Yasothon
+      '36':
+        name: Chaiyaphum
+      '37':
+        name: Amnat Charoen
+      '39':
+        name: Nong Bua Lam Phu
+      '40':
+        name: Khon Kaen
+      '41':
+        name: Udon Thani
+      '42':
+        name: Loei
+      '43':
+        name: Nong Khai
+      '44':
+        name: Maha Sarakham
+      '45':
+        name: Roi Et
+      '46':
+        name: Kalasin
       '47':
         name: Sakon Nakhon
-      '11':
-        name: Samut Prakan
+      '48':
+        name: Nakhon Phanom
+      '49':
+        name: Mukdahan
+      '50':
+        name: Chiang Mai
+      '51':
+        name: Lamphun
+      '52':
+        name: Lampang
+      '53':
+        name: Uttaradit
+      '54':
+        name: Phrae
+      '55':
+        name: Nan
+      '56':
+        name: Phayao
+      '57':
+        name: Chiang Rai
+      '58':
+        name: Mae Hong Son
+      '60':
+        name: Nakhon Sawan
+      '61':
+        name: Uthai Thani
+      '62':
+        name: Kamphaeng Phet
+      '63':
+        name: Tak
+      '64':
+        name: Sukhothai
+      '65':
+        name: Phitsanulok
+      '66':
+        name: Phichit
+      '67':
+        name: Phetchabun
+      '70':
+        name: Ratchaburi
+      '71':
+        name: Kanchanaburi
+      '72':
+        name: Suphan Buri
+      '73':
+        name: Nakhon Pathom
       '74':
         name: Samut Sakhon
       '75':
         name: Samut Songkhram
-      '19':
-        name: Saraburi
-      '91':
-        name: Satun
-      '17':
-        name: Sing Buri
-      '33':
-        name: Si Sa Ket
-      '90':
-        name: Songkhla
-      '64':
-        name: Sukhothai
-      '72':
-        name: Suphan Buri
+      '76':
+        name: Phetchaburi
+      '77':
+        name: Prachuap Khiri Khan
+      '80':
+        name: Nakhon Si Thammarat
+      '81':
+        name: Krabi
+      '82':
+        name: Phangnga
+      '83':
+        name: Phuket
       '84':
         name: Surat Thani
-      '32':
-        name: Surin
-      '63':
-        name: Tak
+      '85':
+        name: Ranong
+      '86':
+        name: Chumphon
+      '90':
+        name: Songkhla
+      '91':
+        name: Satun
       '92':
         name: Trang
-      '23':
-        name: Trat
-      '34':
-        name: Ubon Ratchathani
-      '41':
-        name: Udon Thani
-      '61':
-        name: Uthai Thani
-      '53':
-        name: Uttaradit
+      '93':
+        name: Phatthalung
+      '94':
+        name: Pattani
       '95':
         name: Yala
-      '35':
-        name: Yasothon
+      '96':
+        name: Narathiwat
+      s:
+        name: Phatthaya

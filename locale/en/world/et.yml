@@ -4,23 +4,23 @@ en:
     et:
       aa:
         name: Ādīs Ābeba
-      dd:
-        name: Dirē Dawa
       af:
         name: Āfar
       am:
         name: Āmara
       be:
         name: Bīnshangul Gumuz
+      dd:
+        name: Dirē Dawa
       ga:
         name: Gambēla Hizboch
       ha:
         name: Hārerī Hizb
       or:
         name: Oromīya
+      sn:
+        name: YeDebub Bihēroch Bihēreseboch na Hizboch
       so:
         name: Sumalē
       ti:
         name: Tigray
-      sn:
-        name: YeDebub Bihēroch Bihēreseboch na Hizboch

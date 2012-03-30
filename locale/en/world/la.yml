@@ -2,8 +2,6 @@
 en:
   world:
     la:
-      vt:
-        name: Vientiane
       at:
         name: Attapu
       bk:
@@ -29,6 +27,8 @@ en:
       sv:
         name: Savannakhét
       vi:
+        name: Vientiane
+      vt:
         name: Vientiane
       xa:
         name: Xaignabouli

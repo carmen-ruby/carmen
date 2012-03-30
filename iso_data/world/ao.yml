@@ -9,21 +9,21 @@
   type: province
 - code: CCU
   type: province
+- code: CNN
+  type: province
 - code: CNO
   type: province
 - code: CUS
-  type: province
-- code: CNN
   type: province
 - code: HUA
   type: province
 - code: HUI
   type: province
-- code: LUA
-  type: province
 - code: LNO
   type: province
 - code: LSU
+  type: province
+- code: LUA
   type: province
 - code: MAL
   type: province

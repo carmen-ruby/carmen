@@ -1,35 +1,35 @@
 ---
-- code: BGF
-  type: commune
+- code: AC
+  type: prefecture
 - code: BB
   type: prefecture
+- code: BGF
+  type: commune
 - code: BK
   type: prefecture
 - code: HK
   type: prefecture
 - code: HM
   type: prefecture
+- code: HS
+  type: prefecture
+- code: KB
+  type: economic prefecture
 - code: KG
   type: prefecture
 - code: LB
   type: prefecture
-- code: HS
-  type: prefecture
 - code: MB
-  type: prefecture
-- code: NM
   type: prefecture
 - code: MP
   type: prefecture
-- code: UK
-  type: prefecture
-- code: AC
+- code: NM
   type: prefecture
 - code: OP
   type: prefecture
-- code: VK
-  type: prefecture
-- code: KB
-  type: economic prefecture
 - code: SE
   type: economic prefecture
+- code: UK
+  type: prefecture
+- code: VK
+  type: prefecture

@@ -2,15 +2,15 @@
 en:
   world:
     cy:
-      '04':
-        name: Ammóchostos
-      '06':
-        name: Kerýneia
-      '03':
-        name: Lárnaka
       '01':
         name: Lefkosía
       '02':
         name: Lemesós
+      '03':
+        name: Lárnaka
+      '04':
+        name: Ammóchostos
       '05':
         name: Páfos
+      '06':
+        name: Kerýneia

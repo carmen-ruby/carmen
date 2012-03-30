@@ -1,29 +1,29 @@
 ---
+- code: '69'
+  type: self-governed part
 - code: A
-  type: administrative region
-- code: I
-  type: administrative region
-- code: G
-  type: administrative region
-- code: C
-  type: administrative region
-- code: F
-  type: administrative region
-- code: D
   type: administrative region
 - code: B
   type: administrative region
-- code: M
+- code: C
   type: administrative region
-- code: L
-  type: administrative region
-- code: J
-  type: administrative region
-- code: H
+- code: D
   type: administrative region
 - code: E
   type: administrative region
+- code: F
+  type: administrative region
+- code: G
+  type: administrative region
+- code: H
+  type: administrative region
+- code: I
+  type: administrative region
+- code: J
+  type: administrative region
 - code: K
   type: administrative region
-- code: '69'
-  type: self-governed part
+- code: L
+  type: administrative region
+- code: M
+  type: administrative region

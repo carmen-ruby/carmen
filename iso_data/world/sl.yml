@@ -1,9 +1,9 @@
 ---
-- code: W
-  type: area
 - code: E
   type: province
 - code: N
   type: province
 - code: S
   type: province
+- code: W
+  type: area

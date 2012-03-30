@@ -1,5 +1,19 @@
 ---
+- code: DI
+  type: governorate
+- code: DR
+  type: governorate
+- code: DY
+  type: governorate
 - code: HA
+  type: governorate
+- code: HI
+  type: governorate
+- code: HL
+  type: governorate
+- code: HM
+  type: governorate
+- code: ID
   type: governorate
 - code: LA
   type: governorate
@@ -7,23 +21,9 @@
   type: governorate
 - code: RA
   type: governorate
-- code: SU
-  type: governorate
-- code: DR
-  type: governorate
-- code: DY
-  type: governorate
-- code: DI
-  type: governorate
-- code: HL
-  type: governorate
-- code: HM
-  type: governorate
-- code: HI
-  type: governorate
-- code: ID
-  type: governorate
 - code: RD
+  type: governorate
+- code: SU
   type: governorate
 - code: TA
   type: governorate

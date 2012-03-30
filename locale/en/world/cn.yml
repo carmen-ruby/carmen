@@ -4,68 +4,68 @@ en:
     cn:
       '11':
         name: Beijing
-      '50':
-        name: Chongqing
-      '31':
-        name: Shanghai
       '12':
         name: Tianjin
+      '13':
+        name: Hebei
+      '14':
+        name: Shanxi
+      '15':
+        name: Nei Mongol
+      '21':
+        name: Liaoning
+      '22':
+        name: Jilin
+      '23':
+        name: Heilongjiang
+      '31':
+        name: Shanghai
+      '32':
+        name: Jiangsu
+      '33':
+        name: Zhejiang
       '34':
         name: Anhui
       '35':
         name: Fujian
-      '62':
-        name: Gansu
-      '44':
-        name: Guangdong
-      '52':
-        name: Guizhou
-      '46':
-        name: Hainan
-      '13':
-        name: Hebei
-      '23':
-        name: Heilongjiang
+      '36':
+        name: Jiangxi
+      '37':
+        name: Shandong
       '41':
         name: Henan
       '42':
         name: Hubei
       '43':
         name: Hunan
-      '32':
-        name: Jiangsu
-      '36':
-        name: Jiangxi
-      '22':
-        name: Jilin
-      '21':
-        name: Liaoning
-      '63':
-        name: Qinghai
-      '61':
-        name: Shaanxi
-      '37':
-        name: Shandong
-      '14':
-        name: Shanxi
-      '51':
-        name: Sichuan
-      '71':
-        name: Taiwan
-      '53':
-        name: Yunnan
-      '33':
-        name: Zhejiang
+      '44':
+        name: Guangdong
       '45':
         name: Guangxi
-      '15':
-        name: Nei Mongol
+      '46':
+        name: Hainan
+      '50':
+        name: Chongqing
+      '51':
+        name: Sichuan
+      '52':
+        name: Guizhou
+      '53':
+        name: Yunnan
+      '54':
+        name: Xizang
+      '61':
+        name: Shaanxi
+      '62':
+        name: Gansu
+      '63':
+        name: Qinghai
       '64':
         name: Ningxia
       '65':
         name: Xinjiang
-      '54':
-        name: Xizang
+      '71':
+        name: Taiwan
       '91':
         name: Xianggang (Hong-Kong)
       '92':

@@ -1,9 +1,9 @@
 ---
 - code: AN
   type: province
-- code: DU
-  type: province
 - code: DK
+  type: province
+- code: DU
   type: province
 - code: GB
   type: province

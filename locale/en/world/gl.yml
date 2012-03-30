@@ -4,9 +4,9 @@ en:
     gl:
       ku:
         name: Kommune Kujalleq
-      sm:
-        name: Kommuneqarfik Sermersooq
       qa:
         name: Qaasuitsup Kommunia
       qe:
         name: Qeqqata Kommunia
+      sm:
+        name: Kommuneqarfik Sermersooq

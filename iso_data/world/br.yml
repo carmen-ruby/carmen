@@ -11,6 +11,8 @@
   type: state
 - code: CE
   type: state
+- code: DF
+  type: federal district
 - code: ES
   type: state
 - code: FN
@@ -53,5 +55,3 @@
   type: state
 - code: TO
   type: state
-- code: DF
-  type: federal district

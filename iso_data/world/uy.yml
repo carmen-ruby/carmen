@@ -9,9 +9,9 @@
   type: department
 - code: DU
   type: department
-- code: FS
-  type: department
 - code: FD
+  type: department
+- code: FS
   type: department
 - code: LA
   type: department
@@ -23,9 +23,9 @@
   type: department
 - code: RN
   type: department
-- code: RV
-  type: department
 - code: RO
+  type: department
+- code: RV
   type: department
 - code: SA
   type: department

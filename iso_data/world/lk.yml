@@ -1,19 +1,19 @@
 ---
 - code: '1'
   type: province
-- code: '3'
-  type: province
 - code: '2'
   type: province
-- code: '5'
-  type: province
-- code: '9'
-  type: province
-- code: '7'
+- code: '3'
   type: province
 - code: '4'
   type: province
-- code: '8'
+- code: '5'
   type: province
 - code: '6'
+  type: province
+- code: '7'
+  type: province
+- code: '8'
+  type: province
+- code: '9'
   type: province

@@ -2,15 +2,15 @@
 en:
   world:
     dj:
-      as:
-        name: Ali Sabieh
       ar:
         name: Arta
+      as:
+        name: Ali Sabieh
       di:
         name: Dikhil
+      dj:
+        name: Djibouti
       ob:
         name: Obock
       ta:
         name: Tadjourah
-      dj:
-        name: Djibouti

@@ -2,8 +2,6 @@
 en:
   world:
     mx:
-      dif:
-        name: Distrito Federal
       agu:
         name: Aguascalientes
       bcn:
@@ -12,20 +10,22 @@ en:
         name: Baja California Sur
       cam:
         name: Campeche
+      chh:
+        name: Chihuahua
+      chp:
+        name: Chiapas
       coa:
         name: Coahuila
       col:
         name: Colima
-      chp:
-        name: Chiapas
-      chh:
-        name: Chihuahua
+      dif:
+        name: Distrito Federal
       dur:
         name: Durango
-      gua:
-        name: Guanajuato
       gro:
         name: Guerrero
+      gua:
+        name: Guanajuato
       hid:
         name: Hidalgo
       jal:
@@ -48,10 +48,10 @@ en:
         name: Querétaro
       roo:
         name: Quintana Roo
-      slp:
-        name: San Luis Potosí
       sin:
         name: Sinaloa
+      slp:
+        name: San Luis Potosí
       son:
         name: Sonora
       tab:

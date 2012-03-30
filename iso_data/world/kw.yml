@@ -3,9 +3,9 @@
   type: governorate
 - code: FA
   type: governorate
+- code: HA
+  type: governorate
 - code: JA
   type: governorate
 - code: KU
-  type: governorate
-- code: HA
   type: governorate

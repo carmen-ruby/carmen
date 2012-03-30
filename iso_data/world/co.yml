@@ -1,6 +1,4 @@
 ---
-- code: DC
-  type: capital district
 - code: AMA
   type: department
 - code: ANT
@@ -29,6 +27,8 @@
   type: department
 - code: CUN
   type: department
+- code: DC
+  type: capital district
 - code: GUA
   type: department
 - code: GUV
@@ -51,9 +51,9 @@
   type: department
 - code: RIS
   type: department
-- code: SAP
-  type: department
 - code: SAN
+  type: department
+- code: SAP
   type: department
 - code: SUC
   type: department

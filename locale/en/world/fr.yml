@@ -6,10 +6,12 @@ en:
         name: Alsace
       b:
         name: Aquitaine
+      bl:
+        name: Saint-Barthélemy
       c:
         name: Auvergne
-      p:
-        name: Basse-Normandie
+      cp:
+        name: Clipperton
       d:
         name: Bourgogne
       e:
@@ -18,12 +20,14 @@ en:
         name: Centre
       g:
         name: Champagne-Ardenne
+      gf:
+        name: Guyane
+      gp:
+        name: Guadeloupe
       h:
         name: Corse
       i:
         name: Franche-Comté
-      q:
-        name: Haute-Normandie
       j:
         name: Île-de-France
       k:
@@ -32,43 +36,39 @@ en:
         name: Limousin
       m:
         name: Lorraine
+      mf:
+        name: Saint-Martin
+      mq:
+        name: Martinique
       n:
         name: Midi-Pyrénées
+      nc:
+        name: Nouvelle-Calédonie
       o:
         name: Nord - Pas-de-Calais
+      p:
+        name: Basse-Normandie
+      pf:
+        name: Polynésie française
+      pm:
+        name: Saint-Pierre-et-Miquelon
+      q:
+        name: Haute-Normandie
       r:
         name: Pays de la Loire
+      re:
+        name: Réunion
       s:
         name: Picardie
       t:
         name: Poitou-Charentes
+      tf:
+        name: Terres australes françaises
       u:
         name: Provence-Alpes-Côte d'Azur
       v:
         name: Rhône-Alpes
-      gp:
-        name: Guadeloupe
-      gf:
-        name: Guyane
-      mq:
-        name: Martinique
-      re:
-        name: Réunion
-      cp:
-        name: Clipperton
-      yt:
-        name: Mayotte
-      nc:
-        name: Nouvelle-Calédonie
-      pf:
-        name: Polynésie française
-      bl:
-        name: Saint-Barthélemy
-      mf:
-        name: Saint-Martin
-      pm:
-        name: Saint-Pierre-et-Miquelon
-      tf:
-        name: Terres australes françaises
       wf:
         name: Wallis-et-Futuna
+      yt:
+        name: Mayotte

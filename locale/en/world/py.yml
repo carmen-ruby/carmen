@@ -2,39 +2,39 @@
 en:
   world:
     py:
-      asu:
-        name: Asunción
-      '16':
-        name: Alto Paraguay
-      '10':
-        name: Alto Paraná
-      '13':
-        name: Amambay
-      '19':
-        name: Boquerón
-      '5':
-        name: Caaguazú
-      '6':
-        name: Caazapá
-      '14':
-        name: Canindeyú
-      '11':
-        name: Central
       '1':
         name: Concepción
+      '10':
+        name: Alto Paraná
+      '11':
+        name: Central
+      '12':
+        name: Ñeembucú
+      '13':
+        name: Amambay
+      '14':
+        name: Canindeyú
+      '15':
+        name: Presidente Hayes
+      '16':
+        name: Alto Paraguay
+      '19':
+        name: Boquerón
+      '2':
+        name: San Pedro
       '3':
         name: Cordillera
       '4':
         name: Guairá
+      '5':
+        name: Caaguazú
+      '6':
+        name: Caazapá
       '7':
         name: Itapúa
       '8':
         name: Misiones
-      '12':
-        name: Ñeembucú
       '9':
         name: Paraguarí
-      '15':
-        name: Presidente Hayes
-      '2':
-        name: San Pedro
+      asu:
+        name: Asunción

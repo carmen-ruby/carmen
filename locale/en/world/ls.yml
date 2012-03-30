@@ -2,23 +2,23 @@
 en:
   world:
     ls:
-      d:
-        name: Berea
+      a:
+        name: Maseru
       b:
         name: Butha-Buthe
       c:
         name: Leribe
+      d:
+        name: Berea
       e:
         name: Mafeteng
-      a:
-        name: Maseru
       f:
         name: Mohale's Hoek
-      j:
-        name: Mokhotlong
-      h:
-        name: Qacha's Nek
       g:
         name: Quthing
+      h:
+        name: Qacha's Nek
+      j:
+        name: Mokhotlong
       k:
         name: Thaba-Tseka

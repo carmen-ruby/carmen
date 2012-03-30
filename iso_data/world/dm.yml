@@ -1,4 +1,6 @@
 ---
+- code: '01'
+  type: parish
 - code: '02'
   type: parish
 - code: '03'
@@ -16,6 +18,4 @@
 - code: '09'
   type: parish
 - code: '10'
-  type: parish
-- code: '01'
   type: parish
