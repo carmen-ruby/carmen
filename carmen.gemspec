@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.version = Carmen::VERSION
   s.authors = ["Jim Benton"]
   s.email = %q{jim@autonomousmachine.com}
-  s.date = %q{2012-03-30}
   s.homepage = %q{http://github.com/jim/carmen}
 
   s.required_rubygems_version = '>= 1.3.6'
