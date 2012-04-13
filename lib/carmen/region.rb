@@ -1,6 +1,7 @@
 require 'yaml'
 
 require 'carmen/region_collection'
+require 'carmen/utils'
 
 module Carmen
   class Region
@@ -88,30 +89,20 @@ module Carmen
       flatten_data(default_data, overlay_data)
     end
 
-    # Merge two datasets together, using either 'code' or 'alpha_2_code' to
-    # match elements between the sets.
+    # Merge two arrays of hashes together
+    #
+    # Use either 'code' or 'alpha_2_code' to match elements between the sets.
+    #
+    # Returns a single merged array of hashes.
     def flatten_data(base, supplimental)
-      supplimental.each do |suppliment|
-        # Find the matching element in the base array
-        target = base.find do |e|
-          (e['code'] && e['code'] == suppliment['code']) ||
-          (e['alpha_2_code'] && e['alpha_2_code'] == suppliment['alpha_2_code'])
-        end
+      keys = %w(code alpha_2_code)
+      flattened = Utils.merge_arrays_by_keys([base, supplimental], keys)
 
-        # If this is an additional element, add it to the array and move on
-        if !target
-          base << suppliment
-          next
-        end
-
-        # Delete the element if _enabled is false, or merge in the new values
-        if suppliment['_enabled'] == false
-          base.delete(target)
-        else
-          target.merge!(suppliment)
-        end
+      flattened.each do |hash|
+        flattened.delete(hash) if hash['_enabled'] == false
       end
-      base
+
+      flattened
     end
   end
 end

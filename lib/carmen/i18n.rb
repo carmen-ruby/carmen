@@ -1,5 +1,6 @@
 require 'yaml'
 require 'pp'
+require 'carmen/utils'
 
 module Carmen
   module I18n
@@ -77,7 +78,7 @@ module Carmen
       def load_cache_if_needed
         return unless @cache.nil?
         hashes = load_hashes_for_paths(@locale_paths)
-        @cache = deep_hash_merge(hashes)
+        @cache = Utils.deep_hash_merge(hashes)
       end
 
       def load_hashes_for_paths(paths)
@@ -91,23 +92,6 @@ module Carmen
         }.flatten
       end
 
-      # Merge an array of hashes deeply. When a conflict occurs, if either the
-      # old value or the new value don't respond_to? :merge, the new value is
-      # used.
-      def deep_hash_merge(hashes)
-        return hashes.first if hashes.size == 1
-
-        hashes.inject { |acc, hash|
-          acc.merge(hash) { |key, old_value, new_value|
-            if old_value.respond_to?(:merge) && new_value.respond_to?(:merge)
-              deep_hash_merge([old_value, new_value])
-            else
-              new_value
-            end
-          }
-        }
-      end
     end
-
   end
 end
