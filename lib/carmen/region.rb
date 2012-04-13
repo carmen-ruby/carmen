@@ -62,18 +62,17 @@ module Carmen
     end
 
     def load_subregions
-      if File.exist?(Carmen.data_path + subregion_data_path)
-        load_subregions_from_file(subregion_data_path, self)
+      if Carmen.data_paths.any? {|path| (path + subregion_data_path).exist? }
+        load_subregions_from_path(subregion_data_path, self)
       else
         []
       end
     end
 
-    def load_subregions_from_file(path, parent=nil)
+    def load_subregions_from_path(path, parent=nil)
       regions = load_data_at_path(path).collect do |data|
         subregion_class.new(data, parent)
       end
-
       RegionCollection.new(regions)
     end
 
@@ -82,21 +81,21 @@ module Carmen
     # The resulting data will be the result of loading the file from the data_path
     # and overlaying matching data (if it exists) from the overlay_path.
     def load_data_at_path(path)
-      default_data = YAML.load_file(Carmen.data_path + path)
-      return default_data if Carmen.overlay_path.nil?
-
-      overlay_data = YAML.load_file(Carmen.overlay_path + path)
-      flatten_data(default_data, overlay_data)
+      data_sets = Carmen.data_paths.map do |data_path|
+        YAML.load_file(data_path + path)
+      end
+      flatten_data(data_sets)
     end
 
-    # Merge two arrays of hashes together
+    # Merge multiple arrays of hashes together
     #
     # Use either 'code' or 'alpha_2_code' to match elements between the sets.
     #
     # Returns a single merged array of hashes.
-    def flatten_data(base, supplimental)
+    def flatten_data(arrays)
+
       keys = %w(code alpha_2_code)
-      flattened = Utils.merge_arrays_by_keys([base, supplimental], keys)
+      flattened = Utils.merge_arrays_by_keys(arrays, keys)
 
       flattened.each do |hash|
         flattened.delete(hash) if hash['_enabled'] == false
