@@ -2,9 +2,7 @@ require 'minitest/unit'
 require 'minitest/spec'
 require 'minitest/autorun'
 
-lib_path = File.expand_path('../../lib', __FILE__)
-$LOAD_PATH.unshift(lib_path)
-
+require 'bundler/setup'
 require 'carmen'
 
 Carmen.data_path = File.expand_path('../data', __FILE__)
