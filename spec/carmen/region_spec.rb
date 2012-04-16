@@ -6,7 +6,7 @@ describe Carmen::Region do
   end
 
   it 'has a reasonable inspect value' do
-    @airstrip_one.inspect.must_equal '<#Carmen::Region name="Airstrip One" type="providence">'
+    @airstrip_one.inspect.must_equal '<#Carmen::Region name="Airstrip One" type="province">'
   end
 
   it "has the correct subregion path" do
