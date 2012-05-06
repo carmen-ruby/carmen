@@ -1,16 +1,38 @@
 ---
+- code: '1'
+  type: province
+- code: '10'
+  type: province
+- code: '11'
+  type: province
+- code: '12'
+  type: autonomous municipality
+- code: '13'
+  type: province
+- code: '14'
+  type: province
+- code: '15'
+  type: province
+- code: '16'
+  type: province
+- code: '17'
+  type: province
+- code: '18'
+  type: autonomous municipality
+- code: '19'
+  type: province
+- code: '2'
+  type: province
+- code: '20'
+  type: province
+- code: '21'
+  type: province
+- code: '22'
+  type: province
 - code: '23'
   type: autonomous municipality
 - code: '24'
   type: autonomous municipality
-- code: '18'
-  type: autonomous municipality
-- code: '12'
-  type: autonomous municipality
-- code: '2'
-  type: province
-- code: '1'
-  type: province
 - code: '3'
   type: province
 - code: '4'
@@ -24,26 +46,4 @@
 - code: '8'
   type: province
 - code: '9'
-  type: province
-- code: '10'
-  type: province
-- code: '11'
-  type: province
-- code: '22'
-  type: province
-- code: '15'
-  type: province
-- code: '13'
-  type: province
-- code: '14'
-  type: province
-- code: '16'
-  type: province
-- code: '17'
-  type: province
-- code: '19'
-  type: province
-- code: '20'
-  type: province
-- code: '21'
   type: province

@@ -3,11 +3,12 @@ require 'spec_helper'
 describe "Data overlaying" do
 
   before do
-    Carmen.overlay_path = File.expand_path('../../overlay/data', __FILE__)
+    overlay_path = Carmen.root_path + 'spec/overlay/data'
+    Carmen.append_data_path(overlay_path)
   end
 
   after do
-    Carmen.overlay_path = nil
+    setup_carmen_test_data_path
   end
 
   it 'finds elements that exist only in overlay files' do

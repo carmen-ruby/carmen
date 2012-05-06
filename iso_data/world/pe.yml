@@ -1,8 +1,4 @@
 ---
-- code: CAL
-  type: constitutional province
-- code: LMA
-  type: municipality
 - code: AMA
   type: region
 - code: ANC
@@ -15,11 +11,13 @@
   type: region
 - code: CAJ
   type: region
+- code: CAL
+  type: constitutional province
 - code: CUS
   type: region
-- code: HUV
-  type: region
 - code: HUC
+  type: region
+- code: HUV
   type: region
 - code: ICA
   type: region
@@ -31,6 +29,8 @@
   type: region
 - code: LIM
   type: region
+- code: LMA
+  type: municipality
 - code: LOR
   type: region
 - code: MDD

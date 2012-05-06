@@ -6,19 +6,19 @@ en:
         name: Adamaoua
       ce:
         name: Centre
-      es:
-        name: East
       en:
         name: Far North
+      es:
+        name: East
       lt:
         name: Littoral
       'no':
         name: North
       nw:
         name: North-West (Cameroon)
+      ou:
+        name: West
       su:
         name: South
       sw:
         name: South-West
-      ou:
-        name: West

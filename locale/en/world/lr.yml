@@ -2,14 +2,14 @@
 en:
   world:
     lr:
-      bm:
-        name: Bomi
       bg:
         name: Bong
-      gb:
-        name: Grand Bassa
+      bm:
+        name: Bomi
       cm:
         name: Grand Cape Mount
+      gb:
+        name: Grand Bassa
       gg:
         name: Grand Gedeh
       gk:
@@ -18,10 +18,10 @@ en:
         name: Lofa
       mg:
         name: Margibi
-      my:
-        name: Maryland
       mo:
         name: Montserrado
+      my:
+        name: Maryland
       ni:
         name: Nimba
       ri:

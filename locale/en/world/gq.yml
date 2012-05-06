@@ -2,18 +2,18 @@
 en:
   world:
     gq:
-      c:
-        name: Región Continental
-      i:
-        name: Región Insular
       an:
         name: Annobón
       bn:
         name: Bioko Norte
       bs:
         name: Bioko Sur
+      c:
+        name: Región Continental
       cs:
         name: Centro Sur
+      i:
+        name: Región Insular
       kn:
         name: Kié-Ntem
       li:

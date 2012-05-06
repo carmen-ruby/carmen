@@ -14,6 +14,10 @@ en:
         name: Newfoundland and Labrador
       ns:
         name: Nova Scotia
+      nt:
+        name: Northwest Territories
+      nu:
+        name: Nunavut
       'on':
         name: Ontario
       pe:
@@ -22,9 +26,5 @@ en:
         name: Quebec
       sk:
         name: Saskatchewan
-      nt:
-        name: Northwest Territories
-      nu:
-        name: Nunavut
       yt:
         name: Yukon Territory

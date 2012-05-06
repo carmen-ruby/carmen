@@ -12,10 +12,10 @@ en:
         name: Colonia
       du:
         name: Durazno
-      fs:
-        name: Flores
       fd:
         name: Florida
+      fs:
+        name: Flores
       la:
         name: Lavalleja
       ma:
@@ -26,10 +26,10 @@ en:
         name: Paysandú
       rn:
         name: Río Negro
-      rv:
-        name: Rivera
       ro:
         name: Rocha
+      rv:
+        name: Rivera
       sa:
         name: Salto
       sj:

@@ -1,23 +1,23 @@
 ---
-- code: MPM
-  type: city
-- code: P
+- code: A
+  type: province
+- code: B
   type: province
 - code: G
   type: province
 - code: I
   type: province
-- code: B
-  type: province
 - code: L
   type: province
+- code: MPM
+  type: city
 - code: N
   type: province
-- code: A
+- code: P
+  type: province
+- code: Q
   type: province
 - code: S
   type: province
 - code: T
-  type: province
-- code: Q
   type: province

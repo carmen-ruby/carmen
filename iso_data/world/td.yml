@@ -1,45 +1,45 @@
 ---
 - code: BA
   type: region
-- code: LC
-  type: region
 - code: BG
   type: region
 - code: BO
   type: region
-- code: HL
+- code: CB
   type: region
 - code: EN
   type: region
+- code: GR
+  type: region
+- code: HL
+  type: region
 - code: KA
+  type: region
+- code: LC
   type: region
 - code: LO
   type: region
 - code: LR
   type: region
-- code: ND
-  type: region
 - code: MA
-  type: region
-- code: MO
-  type: region
-- code: ME
-  type: region
-- code: GR
-  type: region
-- code: SA
   type: region
 - code: MC
   type: region
-- code: CB
+- code: ME
+  type: region
+- code: MO
+  type: region
+- code: ND
+  type: region
+- code: OD
+  type: region
+- code: SA
   type: region
 - code: SI
   type: region
 - code: TA
   type: region
 - code: TI
-  type: region
-- code: OD
   type: region
 - code: WF
   type: region

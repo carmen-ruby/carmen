@@ -2,21 +2,21 @@
 en:
   world:
     om:
-      da:
-        name: Ad Dākhilīya
       ba:
         name: Al Bāţinah
-      wu:
-        name: Al Wusţá
-      sh:
-        name: Ash Sharqīyah
-      za:
-        name: Az̧ Z̧āhirah
       bu:
         name: Al Buraymī
+      da:
+        name: Ad Dākhilīya
       ma:
         name: Masqaţ
       mu:
         name: Musandam
+      sh:
+        name: Ash Sharqīyah
+      wu:
+        name: Al Wusţá
+      za:
+        name: Az̧ Z̧āhirah
       zu:
         name: Z̧ufār

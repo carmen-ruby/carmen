@@ -1,19 +1,9 @@
 ---
 - code: AN
   type: governorate
-- code: BA
-  type: governorate
-- code: MU
-  type: governorate
-- code: QA
-  type: governorate
-- code: NA
-  type: governorate
 - code: AR
   type: governorate
-- code: SW
-  type: governorate
-- code: TS
+- code: BA
   type: governorate
 - code: BB
   type: governorate
@@ -21,17 +11,27 @@
   type: governorate
 - code: DA
   type: governorate
-- code: DQ
-  type: governorate
 - code: DI
+  type: governorate
+- code: DQ
   type: governorate
 - code: KA
   type: governorate
 - code: MA
   type: governorate
+- code: MU
+  type: governorate
+- code: NA
+  type: governorate
 - code: NI
   type: governorate
+- code: QA
+  type: governorate
 - code: SD
+  type: governorate
+- code: SW
+  type: governorate
+- code: TS
   type: governorate
 - code: WA
   type: governorate

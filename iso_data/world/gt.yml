@@ -7,8 +7,6 @@
   type: department
 - code: CQ
   type: department
-- code: PR
-  type: department
 - code: ES
   type: department
 - code: GU
@@ -23,9 +21,11 @@
   type: department
 - code: PE
   type: department
-- code: QZ
+- code: PR
   type: department
 - code: QC
+  type: department
+- code: QZ
   type: department
 - code: RE
   type: department
@@ -33,9 +33,9 @@
   type: department
 - code: SM
   type: department
-- code: SR
-  type: department
 - code: SO
+  type: department
+- code: SR
   type: department
 - code: SU
   type: department

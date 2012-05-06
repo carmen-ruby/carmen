@@ -1,7 +1,7 @@
 ---
+- code: CIT
+  type: special island authority
 - code: N
   type: island
 - code: S
   type: island
-- code: CIT
-  type: special island authority

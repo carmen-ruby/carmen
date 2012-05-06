@@ -2,12 +2,12 @@
 en:
   world:
     kg:
-      gb:
-        name: Bishkek
       b:
         name: Batken
       c:
         name: Chü
+      gb:
+        name: Bishkek
       j:
         name: Jalal-Abad
       n:

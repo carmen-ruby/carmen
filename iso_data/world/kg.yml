@@ -1,10 +1,10 @@
 ---
-- code: GB
-  type: city
 - code: B
   type: region
 - code: C
   type: region
+- code: GB
+  type: city
 - code: J
   type: region
 - code: N

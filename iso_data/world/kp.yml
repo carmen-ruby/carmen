@@ -1,8 +1,6 @@
 ---
 - code: '01'
   type: capital city
-- code: '13'
-  type: special city
 - code: '02'
   type: province
 - code: '03'
@@ -21,3 +19,5 @@
   type: province
 - code: '10'
   type: province
+- code: '13'
+  type: special city

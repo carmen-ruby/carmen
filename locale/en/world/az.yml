@@ -2,44 +2,24 @@
 en:
   world:
     az:
-      nx:
-        name: Naxçıvan
       ab:
         name: Əli Bayramlı
-      ba:
-        name: Bakı
-      ga:
-        name: Gəncə
-      la:
-        name: Lənkəran
-      mi:
-        name: Mingəçevir
-      na:
-        name: Naftalan
-      sa:
-        name: Şəki
-      sm:
-        name: Sumqayıt
-      ss:
-        name: Şuşa
-      xa:
-        name: Xankəndi
-      ye:
-        name: Yevlax
       abs:
         name: Abşeron
+      aga:
+        name: Ağstafa
       agc:
         name: Ağcabədi
       agm:
         name: Ağdam
       ags:
         name: Ağdaş
-      aga:
-        name: Ağstafa
       agu:
         name: Ağsu
       ast:
         name: Astara
+      ba:
+        name: Bakı
       bal:
         name: Balakən
       bar:
@@ -58,6 +38,8 @@ en:
         name: Dəvəçi
       fuz:
         name: Füzuli
+      ga:
+        name: Gəncə
       gad:
         name: Gədəbəy
       gor:
@@ -74,6 +56,8 @@ en:
         name: Kəlbəcər
       kur:
         name: Kürdəmir
+      la:
+        name: Lənkəran
       lac:
         name: Laçın
       lan:
@@ -82,8 +66,14 @@ en:
         name: Lerik
       mas:
         name: Masallı
+      mi:
+        name: Mingəçevir
+      na:
+        name: Naftalan
       nef:
         name: Neftçala
+      nx:
+        name: Naxçıvan
       ogu:
         name: Oğuz
       qab:
@@ -92,30 +82,36 @@ en:
         name: Qax
       qaz:
         name: Qazax
-      qob:
-        name: Qobustan
       qba:
         name: Quba
       qbi:
         name: Qubadlı
+      qob:
+        name: Qobustan
       qus:
         name: Qusar
-      sat:
-        name: Saatlı
+      sa:
+        name: Şəki
       sab:
         name: Sabirabad
       sak:
         name: Şəki
       sal:
         name: Salyan
-      smi:
-        name: Şamaxı
-      skr:
-        name: Şəmkir
-      smx:
-        name: Samux
+      sat:
+        name: Saatlı
       siy:
         name: Siyəzən
+      skr:
+        name: Şəmkir
+      sm:
+        name: Sumqayıt
+      smi:
+        name: Şamaxı
+      smx:
+        name: Samux
+      ss:
+        name: Şuşa
       sus:
         name: Şuşa
       tar:
@@ -124,18 +120,22 @@ en:
         name: Tovuz
       uca:
         name: Ucar
+      xa:
+        name: Xankəndi
       xac:
         name: Xaçmaz
       xan:
         name: Xanlar
-      xiz:
-        name: Xızı
       xci:
         name: Xocalı
+      xiz:
+        name: Xızı
       xvd:
         name: Xocavənd
       yar:
         name: Yardımlı
+      ye:
+        name: Yevlax
       yev:
         name: Yevlax
       zan:

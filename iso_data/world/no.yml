@@ -1,43 +1,43 @@
 ---
+- code: '01'
+  type: county
 - code: '02'
-  type: county
-- code: '09'
-  type: county
-- code: '06'
-  type: county
-- code: '20'
-  type: county
-- code: '04'
-  type: county
-- code: '12'
-  type: county
-- code: '15'
-  type: county
-- code: '18'
-  type: county
-- code: '17'
-  type: county
-- code: '05'
   type: county
 - code: '03'
   type: county
-- code: '11'
+- code: '04'
   type: county
-- code: '14'
+- code: '05'
   type: county
-- code: '16'
-  type: county
-- code: '08'
-  type: county
-- code: '19'
-  type: county
-- code: '10'
+- code: '06'
   type: county
 - code: '07'
   type: county
-- code: '01'
+- code: '08'
   type: county
-- code: '22'
+- code: '09'
+  type: county
+- code: '10'
+  type: county
+- code: '11'
+  type: county
+- code: '12'
+  type: county
+- code: '14'
+  type: county
+- code: '15'
+  type: county
+- code: '16'
+  type: county
+- code: '17'
+  type: county
+- code: '18'
+  type: county
+- code: '19'
+  type: county
+- code: '20'
   type: county
 - code: '21'
+  type: county
+- code: '22'
   type: county

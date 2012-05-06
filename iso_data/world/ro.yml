@@ -1,29 +1,31 @@
 ---
 - code: AB
   type: department
-- code: AR
-  type: department
 - code: AG
   type: department
+- code: AR
+  type: department
+- code: B
+  type: municipality
 - code: BC
   type: department
 - code: BH
   type: department
 - code: BN
   type: department
+- code: BR
+  type: department
 - code: BT
   type: department
 - code: BV
   type: department
-- code: BR
-  type: department
 - code: BZ
   type: department
-- code: CS
+- code: CJ
   type: department
 - code: CL
   type: department
-- code: CJ
+- code: CS
   type: department
 - code: CT
   type: department
@@ -33,25 +35,25 @@
   type: department
 - code: DJ
   type: department
+- code: GJ
+  type: department
 - code: GL
   type: department
 - code: GR
   type: department
-- code: GJ
+- code: HD
   type: department
 - code: HR
   type: department
-- code: HD
+- code: IF
   type: department
 - code: IL
   type: department
 - code: IS
   type: department
-- code: IF
+- code: MH
   type: department
 - code: MM
-  type: department
-- code: MH
   type: department
 - code: MS
   type: department
@@ -61,25 +63,23 @@
   type: department
 - code: PH
   type: department
-- code: SM
+- code: SB
   type: department
 - code: SJ
   type: department
-- code: SB
+- code: SM
   type: department
 - code: SV
   type: department
-- code: TR
+- code: TL
   type: department
 - code: TM
   type: department
-- code: TL
-  type: department
-- code: VS
+- code: TR
   type: department
 - code: VL
   type: department
 - code: VN
   type: department
-- code: B
-  type: municipality
+- code: VS
+  type: department

@@ -2,32 +2,32 @@
 en:
   world:
     de:
+      bb:
+        name: Brandenburg
+      be:
+        name: Berlin
       bw:
         name: Baden-Württemberg
       by:
         name: Bayern
       hb:
         name: Bremen
-      hh:
-        name: Hamburg
       he:
         name: Hessen
+      hh:
+        name: Hamburg
+      mv:
+        name: Mecklenburg-Vorpommern
       ni:
         name: Niedersachsen
       nw:
         name: Nordrhein-Westfalen
       rp:
         name: Rheinland-Pfalz
-      sl:
-        name: Saarland
       sh:
         name: Schleswig-Holstein
-      be:
-        name: Berlin
-      bb:
-        name: Brandenburg
-      mv:
-        name: Mecklenburg-Vorpommern
+      sl:
+        name: Saarland
       sn:
         name: Sachsen
       st:

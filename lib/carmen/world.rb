@@ -25,11 +25,5 @@ module Carmen
       "<##{self.class}>"
     end
 
-  private
-
-    def translated_keys
-      []
-    end
-
   end
 end

@@ -1,44 +1,18 @@
 ---
-- code: BK
-  type: county
 - code: BA
   type: county
+- code: BC
+  type: city with county rights
 - code: BE
   type: county
+- code: BK
+  type: county
+- code: BU
+  type: capital city
 - code: BZ
   type: county
 - code: CS
   type: county
-- code: FE
-  type: county
-- code: GS
-  type: county
-- code: HB
-  type: county
-- code: HE
-  type: county
-- code: JN
-  type: county
-- code: KE
-  type: county
-- code: 'NO'
-  type: county
-- code: PE
-  type: county
-- code: SO
-  type: county
-- code: SZ
-  type: county
-- code: TO
-  type: county
-- code: VA
-  type: county
-- code: VE
-  type: county
-- code: ZA
-  type: county
-- code: BC
-  type: city with county rights
 - code: DE
   type: city with county rights
 - code: DU
@@ -47,41 +21,67 @@
   type: city with county rights
 - code: ER
   type: city with county rights
+- code: FE
+  type: county
+- code: GS
+  type: county
 - code: GY
   type: city with county rights
+- code: HB
+  type: county
+- code: HE
+  type: county
 - code: HV
   type: city with county rights
-- code: KV
-  type: city with county rights
+- code: JN
+  type: county
+- code: KE
+  type: county
 - code: KM
+  type: city with county rights
+- code: KV
   type: city with county rights
 - code: MI
   type: city with county rights
 - code: NK
   type: city with county rights
+- code: 'NO'
+  type: county
 - code: NY
   type: city with county rights
+- code: PE
+  type: county
 - code: PS
-  type: city with county rights
-- code: ST
-  type: city with county rights
-- code: SN
   type: city with county rights
 - code: SD
   type: city with county rights
 - code: SF
   type: city with county rights
-- code: SS
+- code: SH
   type: city with county rights
 - code: SK
   type: city with county rights
-- code: SH
+- code: SN
   type: city with county rights
+- code: SO
+  type: county
+- code: SS
+  type: city with county rights
+- code: ST
+  type: city with county rights
+- code: SZ
+  type: county
 - code: TB
   type: city with county rights
+- code: TO
+  type: county
+- code: VA
+  type: county
+- code: VE
+  type: county
 - code: VM
   type: city with county rights
+- code: ZA
+  type: county
 - code: ZE
   type: city with county rights
-- code: BU
-  type: capital city

@@ -2,6 +2,8 @@
 en:
   world:
     gm:
+      b:
+        name: Banjul
       l:
         name: Lower River
       m:
@@ -12,5 +14,3 @@ en:
         name: Upper River
       w:
         name: Western
-      b:
-        name: Banjul

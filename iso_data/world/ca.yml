@@ -11,6 +11,10 @@
   type: province
 - code: NS
   type: province
+- code: NT
+  type: territory
+- code: NU
+  type: territory
 - code: 'ON'
   type: province
 - code: PE
@@ -19,9 +23,5 @@
   type: province
 - code: SK
   type: province
-- code: NT
-  type: territory
-- code: NU
-  type: territory
 - code: YT
   type: territory

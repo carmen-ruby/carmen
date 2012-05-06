@@ -2,35 +2,35 @@
 en:
   world:
     ma:
+      '01':
+        name: Tanger-Tétouan
+      '02':
+        name: Gharb-Chrarda-Beni Hssen
+      '03':
+        name: Taza-Al Hoceima-Taounate
+      '04':
+        name: L'Oriental
+      '05':
+        name: Fès-Boulemane
+      '06':
+        name: Meknès-Tafilalet
+      '07':
+        name: Rabat-Salé-Zemmour-Zaer
+      '08':
+        name: Grand Casablanca
       '09':
         name: Chaouia-Ouardigha
       '10':
         name: Doukhala-Abda
-      '05':
-        name: Fès-Boulemane
-      '02':
-        name: Gharb-Chrarda-Beni Hssen
-      '08':
-        name: Grand Casablanca
+      '11':
+        name: Marrakech-Tensift-Al Haouz
+      '12':
+        name: Tadla-Azilal
+      '13':
+        name: Sous-Massa-Draa
       '14':
         name: Guelmim-Es Smara
       '15':
         name: Laâyoune-Boujdour-Sakia el Hamra
-      '04':
-        name: L'Oriental
-      '11':
-        name: Marrakech-Tensift-Al Haouz
-      '06':
-        name: Meknès-Tafilalet
       '16':
         name: Oued ed Dahab-Lagouira
-      '07':
-        name: Rabat-Salé-Zemmour-Zaer
-      '13':
-        name: Sous-Massa-Draa
-      '12':
-        name: Tadla-Azilal
-      '01':
-        name: Tanger-Tétouan
-      '03':
-        name: Taza-Al Hoceima-Taounate

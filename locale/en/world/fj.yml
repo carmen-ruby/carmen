@@ -8,7 +8,7 @@ en:
         name: Eastern
       n:
         name: Northern
-      w:
-        name: Western
       r:
         name: Rotuma
+      w:
+        name: Western

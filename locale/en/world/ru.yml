@@ -6,106 +6,96 @@ en:
         name: Adygeya, Respublika
       al:
         name: Altay, Respublika
-      ba:
-        name: Bashkortostan, Respublika
-      bu:
-        name: Buryatiya, Respublika
-      ce:
-        name: Chechenskaya Respublika
-      cu:
-        name: Chuvashskaya Respublika
-      da:
-        name: Dagestan, Respublika
-      in:
-        name: Respublika Ingushetiya
-      kb:
-        name: Kabardino-Balkarskaya Respublika
-      kl:
-        name: Kalmykiya, Respublika
-      kc:
-        name: Karachayevo-Cherkesskaya Respublika
-      kr:
-        name: Kareliya, Respublika
-      kk:
-        name: Khakasiya, Respublika
-      ko:
-        name: Komi, Respublika
-      me:
-        name: Mariy El, Respublika
-      mo:
-        name: Mordoviya, Respublika
-      sa:
-        name: Sakha, Respublika [Yakutiya]
-      se:
-        name: Severnaya Osetiya-Alaniya, Respublika
-      ta:
-        name: Tatarstan, Respublika
-      ty:
-        name: Tyva, Respublika [Tuva]
-      ud:
-        name: Udmurtskaya Respublika
       alt:
         name: Altayskiy kray
-      kam:
-        name: Kamchatskiy kray
-      kha:
-        name: Khabarovskiy kray
-      kda:
-        name: Krasnodarskiy kray
-      kya:
-        name: Krasnoyarskiy kray
-      per:
-        name: Permskiy kray
-      pri:
-        name: Primorskiy kray
-      sta:
-        name: Stavropol'skiy kray
-      zab:
-        name: Zabajkal'skij kraj
       amu:
         name: Amurskaya oblast'
       ark:
         name: Arkhangel'skaya oblast'
       ast:
         name: Astrakhanskaya oblast'
+      ba:
+        name: Bashkortostan, Respublika
       bel:
         name: Belgorodskaya oblast'
       bry:
         name: Bryanskaya oblast'
+      bu:
+        name: Buryatiya, Respublika
+      ce:
+        name: Chechenskaya Respublika
       che:
         name: Chelyabinskaya oblast'
+      chu:
+        name: Chukotskiy avtonomnyy okrug
+      cu:
+        name: Chuvashskaya Respublika
+      da:
+        name: Dagestan, Respublika
+      in:
+        name: Respublika Ingushetiya
       irk:
         name: Irkutiskaya oblast'
       iva:
         name: Ivanovskaya oblast'
-      kgd:
-        name: Kaliningradskaya oblast'
-      klu:
-        name: Kaluzhskaya oblast'
+      kam:
+        name: Kamchatskiy kray
+      kb:
+        name: Kabardino-Balkarskaya Respublika
+      kc:
+        name: Karachayevo-Cherkesskaya Respublika
+      kda:
+        name: Krasnodarskiy kray
       kem:
         name: Kemerovskaya oblast'
-      kir:
-        name: Kirovskaya oblast'
-      kos:
-        name: Kostromskaya oblast'
+      kgd:
+        name: Kaliningradskaya oblast'
       kgn:
         name: Kurganskaya oblast'
+      kha:
+        name: Khabarovskiy kray
+      khm:
+        name: Khanty-Mansiysky avtonomnyy okrug-Yugra
+      kir:
+        name: Kirovskaya oblast'
+      kk:
+        name: Khakasiya, Respublika
+      kl:
+        name: Kalmykiya, Respublika
+      klu:
+        name: Kaluzhskaya oblast'
+      ko:
+        name: Komi, Respublika
+      kos:
+        name: Kostromskaya oblast'
+      kr:
+        name: Kareliya, Respublika
       krs:
         name: Kurskaya oblast'
+      kya:
+        name: Krasnoyarskiy kray
       len:
         name: Leningradskaya oblast'
       lip:
         name: Lipetskaya oblast'
       mag:
         name: Magadanskaya oblast'
+      me:
+        name: Mariy El, Respublika
+      mo:
+        name: Mordoviya, Respublika
       mos:
         name: Moskovskaya oblast'
+      mow:
+        name: Moskva
       mur:
         name: Murmanskaya oblast'
-      niz:
-        name: Nizhegorodskaya oblast'
+      nen:
+        name: Nenetskiy avtonomnyy okrug
       ngr:
         name: Novgorodskaya oblast'
+      niz:
+        name: Nizhegorodskaya oblast'
       nvs:
         name: Novosibirskaya oblast'
       oms:
@@ -114,24 +104,38 @@ en:
         name: Orenburgskaya oblast'
       orl:
         name: Orlovskaya oblast'
+      per:
+        name: Permskiy kray
       pnz:
         name: Penzenskaya oblast'
+      pri:
+        name: Primorskiy kray
       psk:
         name: Pskovskaya oblast'
       ros:
         name: Rostovskaya oblast'
       rya:
         name: Ryazanskaya oblast'
+      sa:
+        name: Sakha, Respublika [Yakutiya]
       sak:
         name: Sakhalinskaya oblast'
       sam:
         name: Samaraskaya oblast'
       sar:
         name: Saratovskaya oblast'
+      se:
+        name: Severnaya Osetiya-Alaniya, Respublika
       smo:
         name: Smolenskaya oblast'
+      spe:
+        name: Sankt-Peterburg
+      sta:
+        name: Stavropol'skiy kray
       sve:
         name: Sverdlovskaya oblast'
+      ta:
+        name: Tatarstan, Respublika
       tam:
         name: Tambovskaya oblast'
       tom:
@@ -140,31 +144,27 @@ en:
         name: Tul'skaya oblast'
       tve:
         name: Tverskaya oblast'
+      ty:
+        name: Tyva, Respublika [Tuva]
       tyu:
         name: Tyumenskaya oblast'
+      ud:
+        name: Udmurtskaya Respublika
       uly:
         name: Ul'yanovskaya oblast'
-      vla:
-        name: Vladimirskaya oblast'
       vgg:
         name: Volgogradskaya oblast'
+      vla:
+        name: Vladimirskaya oblast'
       vlg:
         name: Vologodskaya oblast'
       vor:
         name: Voronezhskaya oblast'
-      yar:
-        name: Yaroslavskaya oblast'
-      mow:
-        name: Moskva
-      spe:
-        name: Sankt-Peterburg
-      yev:
-        name: Yevreyskaya avtonomnaya oblast'
-      chu:
-        name: Chukotskiy avtonomnyy okrug
-      khm:
-        name: Khanty-Mansiysky avtonomnyy okrug-Yugra
-      nen:
-        name: Nenetskiy avtonomnyy okrug
       yan:
         name: Yamalo-Nenetskiy avtonomnyy okrug
+      yar:
+        name: Yaroslavskaya oblast'
+      yev:
+        name: Yevreyskaya avtonomnaya oblast'
+      zab:
+        name: Zabajkal'skij kraj

@@ -1,29 +1,9 @@
 ---
-- code: NX
-  type: autonomous republic
 - code: AB
   type: city
-- code: BA
-  type: city
-- code: GA
-  type: city
-- code: LA
-  type: city
-- code: MI
-  type: city
-- code: NA
-  type: city
-- code: SA
-  type: city
-- code: SM
-  type: city
-- code: SS
-  type: city
-- code: XA
-  type: city
-- code: YE
-  type: city
 - code: ABS
+  type: rayon
+- code: AGA
   type: rayon
 - code: AGC
   type: rayon
@@ -31,12 +11,12 @@
   type: rayon
 - code: AGS
   type: rayon
-- code: AGA
-  type: rayon
 - code: AGU
   type: rayon
 - code: AST
   type: rayon
+- code: BA
+  type: city
 - code: BAL
   type: rayon
 - code: BAR
@@ -55,6 +35,8 @@
   type: rayon
 - code: FUZ
   type: rayon
+- code: GA
+  type: city
 - code: GAD
   type: rayon
 - code: GOR
@@ -71,6 +53,8 @@
   type: rayon
 - code: KUR
   type: rayon
+- code: LA
+  type: city
 - code: LAC
   type: rayon
 - code: LAN
@@ -79,8 +63,14 @@
   type: rayon
 - code: MAS
   type: rayon
+- code: MI
+  type: city
+- code: NA
+  type: city
 - code: NEF
   type: rayon
+- code: NX
+  type: autonomous republic
 - code: OGU
   type: rayon
 - code: QAB
@@ -89,30 +79,36 @@
   type: rayon
 - code: QAZ
   type: rayon
-- code: QOB
-  type: rayon
 - code: QBA
   type: rayon
 - code: QBI
   type: rayon
+- code: QOB
+  type: rayon
 - code: QUS
   type: rayon
-- code: SAT
-  type: rayon
+- code: SA
+  type: city
 - code: SAB
   type: rayon
 - code: SAK
   type: rayon
 - code: SAL
   type: rayon
-- code: SMI
-  type: rayon
-- code: SKR
-  type: rayon
-- code: SMX
+- code: SAT
   type: rayon
 - code: SIY
   type: rayon
+- code: SKR
+  type: rayon
+- code: SM
+  type: city
+- code: SMI
+  type: rayon
+- code: SMX
+  type: rayon
+- code: SS
+  type: city
 - code: SUS
   type: rayon
 - code: TAR
@@ -121,18 +117,22 @@
   type: rayon
 - code: UCA
   type: rayon
+- code: XA
+  type: city
 - code: XAC
   type: rayon
 - code: XAN
   type: rayon
-- code: XIZ
-  type: rayon
 - code: XCI
+  type: rayon
+- code: XIZ
   type: rayon
 - code: XVD
   type: rayon
 - code: YAR
   type: rayon
+- code: YE
+  type: city
 - code: YEV
   type: rayon
 - code: ZAN

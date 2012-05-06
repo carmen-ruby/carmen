@@ -1,8 +1,8 @@
 ---
-- code: HM
-  type: city
 - code: BR
   type: oblast
+- code: HM
+  type: city
 - code: HO
   type: oblast
 - code: HR

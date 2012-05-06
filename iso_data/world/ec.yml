@@ -3,47 +3,47 @@
   type: province
 - code: B
   type: province
-- code: F
-  type: province
 - code: C
   type: province
-- code: X
-  type: province
-- code: H
-  type: province
-- code: O
+- code: D
   type: province
 - code: E
   type: province
-- code: W
+- code: F
   type: province
 - code: G
+  type: province
+- code: H
   type: province
 - code: I
   type: province
 - code: L
   type: province
-- code: R
-  type: province
 - code: M
-  type: province
-- code: S
   type: province
 - code: N
   type: province
-- code: D
-  type: province
-- code: Y
+- code: O
   type: province
 - code: P
   type: province
-- code: SE
+- code: R
+  type: province
+- code: S
   type: province
 - code: SD
   type: province
-- code: U
+- code: SE
   type: province
 - code: T
+  type: province
+- code: U
+  type: province
+- code: W
+  type: province
+- code: X
+  type: province
+- code: Y
   type: province
 - code: Z
   type: province

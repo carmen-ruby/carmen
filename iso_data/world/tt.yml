@@ -1,4 +1,8 @@
 ---
+- code: ARI
+  type: borough
+- code: CHA
+  type: borough
 - code: CTT
   type: region
 - code: DMN
@@ -7,27 +11,23 @@
   type: region
 - code: PED
   type: region
+- code: POS
+  type: city
 - code: PRT
   type: region
+- code: PTF
+  type: borough
 - code: RCM
   type: region
+- code: SFO
+  type: city
 - code: SGE
   type: region
-- code: SJL
-  type: region
 - code: SIP
+  type: region
+- code: SJL
   type: region
 - code: TUP
   type: region
 - code: WTO
   type: region
-- code: ARI
-  type: borough
-- code: CHA
-  type: borough
-- code: PTF
-  type: borough
-- code: POS
-  type: city
-- code: SFO
-  type: city

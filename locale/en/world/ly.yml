@@ -2,10 +2,18 @@
 en:
   world:
     ly:
+      ba:
+        name: Banghāzī
       bu:
         name: Al Buţnān
+      dr:
+        name: Darnah
+      gt:
+        name: Ghāt
       ja:
         name: Al Jabal al Akhḑar
+      jb:
+        name: Jaghbūb
       jg:
         name: Al Jabal al Gharbī
       ji:
@@ -14,37 +22,29 @@ en:
         name: Al Jufrah
       kf:
         name: Al Kufrah
-      mj:
-        name: Al Marj
       mb:
         name: Al Marqab
-      wa:
-        name: Al Wāḩāt
-      nq:
-        name: An Nuqaţ al Khams
-      za:
-        name: Az Zāwiyah
-      ba:
-        name: Banghāzī
-      dr:
-        name: Darnah
-      gt:
-        name: Ghāt
-      jb:
-        name: Jaghbūb
       mi:
         name: Mişrātah
+      mj:
+        name: Al Marj
       mq:
         name: Murzuq
       nl:
         name: Nālūt
+      nq:
+        name: An Nuqaţ al Khams
       sb:
         name: Sabhā
       sr:
         name: Surt
       tb:
         name: Ţarābulus
+      wa:
+        name: Al Wāḩāt
       wd:
         name: Wādī al Ḩayāt
       ws:
         name: Wādī ash Shāţiʾ
+      za:
+        name: Az Zāwiyah

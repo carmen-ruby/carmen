@@ -1,9 +1,9 @@
 ---
 - code: AL
   type: county
-- code: KU
-  type: county
 - code: KL
+  type: county
+- code: KU
   type: county
 - code: MR
   type: county

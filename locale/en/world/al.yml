@@ -4,8 +4,6 @@ en:
     al:
       '01':
         name: Berat
-      '09':
-        name: Dibër
       '02':
         name: Durrës
       '03':
@@ -20,6 +18,8 @@ en:
         name: Kukës
       '08':
         name: Lezhë
+      '09':
+        name: Dibër
       '10':
         name: Shkodër
       '11':

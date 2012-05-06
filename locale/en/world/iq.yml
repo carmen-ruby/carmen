@@ -4,37 +4,37 @@ en:
     iq:
       an:
         name: Al Anbar
-      ba:
-        name: Al Basrah
-      mu:
-        name: Al Muthanna
-      qa:
-        name: Al Qadisiyah
-      na:
-        name: An Najef
       ar:
         name: Arbil
-      sw:
-        name: As Sulaymaniyah
-      ts:
-        name: At Ta'mim
+      ba:
+        name: Al Basrah
       bb:
         name: Babil
       bg:
         name: Baghdad
       da:
         name: Dahuk
-      dq:
-        name: Dhi Qar
       di:
         name: Diyala
+      dq:
+        name: Dhi Qar
       ka:
         name: Karbala'
       ma:
         name: Maysan
+      mu:
+        name: Al Muthanna
+      na:
+        name: An Najef
       ni:
         name: Ninawa
+      qa:
+        name: Al Qadisiyah
       sd:
         name: Salah ad Din
+      sw:
+        name: As Sulaymaniyah
+      ts:
+        name: At Ta'mim
       wa:
         name: Wasit

@@ -1,5 +1,5 @@
 ---
-- code: T
+- code: A
   type: autonomous province
 - code: D
   type: autonomous province
@@ -7,7 +7,7 @@
   type: autonomous province
 - code: M
   type: autonomous province
-- code: A
+- code: T
   type: autonomous province
 - code: U
   type: autonomous province

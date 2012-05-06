@@ -1,25 +1,25 @@
 ---
-- code: DK
-  type: region
 - code: DB
+  type: region
+- code: DK
   type: region
 - code: FK
   type: region
 - code: KA
   type: region
-- code: KL
+- code: KD
   type: region
 - code: KE
   type: region
-- code: KD
+- code: KL
   type: region
 - code: LG
   type: region
 - code: MT
   type: region
-- code: SL
-  type: region
 - code: SE
+  type: region
+- code: SL
   type: region
 - code: TC
   type: region

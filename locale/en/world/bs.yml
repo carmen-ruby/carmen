@@ -4,28 +4,28 @@ en:
     bs:
       ac:
         name: Acklins Islands
-      by:
-        name: Berry Islands
       bi:
         name: Bimini and Cat Cay
       bp:
         name: Black Point
+      by:
+        name: Berry Islands
+      ce:
+        name: Central Eleuthera
       ci:
         name: Cat Island
+      ck:
+        name: Crooked Island and Long Cay
       co:
         name: Central Abaco
       cs:
         name: Central Andros
-      ce:
-        name: Central Eleuthera
-      fp:
-        name: City of Freeport
-      ck:
-        name: Crooked Island and Long Cay
       eg:
         name: East Grand Bahama
       ex:
         name: Exuma
+      fp:
+        name: City of Freeport
       gc:
         name: Grand Cay
       gt:
@@ -44,24 +44,24 @@ en:
         name: Mayaguana
       mi:
         name: Moore's Island
+      ne:
+        name: North Eleuthera
       'no':
         name: North Abaco
       ns:
         name: North Andros
-      ne:
-        name: North Eleuthera
-      ri:
-        name: Ragged Island
       rc:
         name: Rum Cay
-      ss:
-        name: San Salvador
-      so:
-        name: South Abaco
+      ri:
+        name: Ragged Island
       sa:
         name: South Andros
       se:
         name: South Eleuthera
+      so:
+        name: South Abaco
+      ss:
+        name: San Salvador
       sw:
         name: Spanish Wells
       wg:

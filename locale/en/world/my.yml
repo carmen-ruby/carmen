@@ -2,12 +2,6 @@
 en:
   world:
     my:
-      '14':
-        name: Wilayah Persekutuan Kuala Lumpur
-      '15':
-        name: Wilayah Persekutuan Labuan
-      '16':
-        name: Wilayah Persekutuan Putrajaya
       '01':
         name: Johor
       '02':
@@ -20,17 +14,23 @@ en:
         name: Negeri Sembilan
       '06':
         name: Pahang
+      '07':
+        name: Pulau Pinang
       '08':
         name: Perak
       '09':
         name: Perlis
-      '07':
-        name: Pulau Pinang
-      '12':
-        name: Sabah
-      '13':
-        name: Sarawak
       '10':
         name: Selangor
       '11':
         name: Terengganu
+      '12':
+        name: Sabah
+      '13':
+        name: Sarawak
+      '14':
+        name: Wilayah Persekutuan Kuala Lumpur
+      '15':
+        name: Wilayah Persekutuan Labuan
+      '16':
+        name: Wilayah Persekutuan Putrajaya

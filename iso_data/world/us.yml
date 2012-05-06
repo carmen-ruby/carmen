@@ -1,11 +1,13 @@
 ---
-- code: AL
-  type: state
 - code: AK
   type: state
-- code: AZ
+- code: AL
   type: state
 - code: AR
+  type: state
+- code: AS
+  type: outlying area
+- code: AZ
   type: state
 - code: CA
   type: state
@@ -13,13 +15,19 @@
   type: state
 - code: CT
   type: state
+- code: DC
+  type: district
 - code: DE
   type: state
 - code: FL
   type: state
 - code: GA
   type: state
+- code: GU
+  type: outlying area
 - code: HI
+  type: state
+- code: IA
   type: state
 - code: ID
   type: state
@@ -27,33 +35,35 @@
   type: state
 - code: IN
   type: state
-- code: IA
-  type: state
 - code: KS
   type: state
 - code: KY
   type: state
 - code: LA
   type: state
-- code: ME
+- code: MA
   type: state
 - code: MD
   type: state
-- code: MA
+- code: ME
   type: state
 - code: MI
   type: state
 - code: MN
   type: state
-- code: MS
-  type: state
 - code: MO
+  type: state
+- code: MP
+  type: outlying area
+- code: MS
   type: state
 - code: MT
   type: state
-- code: NE
+- code: NC
   type: state
-- code: NV
+- code: ND
+  type: state
+- code: NE
   type: state
 - code: NH
   type: state
@@ -61,11 +71,9 @@
   type: state
 - code: NM
   type: state
+- code: NV
+  type: state
 - code: NY
-  type: state
-- code: NC
-  type: state
-- code: ND
   type: state
 - code: OH
   type: state
@@ -75,6 +83,8 @@
   type: state
 - code: PA
   type: state
+- code: PR
+  type: outlying area
 - code: RI
   type: state
 - code: SC
@@ -85,31 +95,21 @@
   type: state
 - code: TX
   type: state
+- code: UM
+  type: outlying area
 - code: UT
-  type: state
-- code: VT
   type: state
 - code: VA
   type: state
-- code: WA
+- code: VI
+  type: outlying area
+- code: VT
   type: state
-- code: WV
+- code: WA
   type: state
 - code: WI
   type: state
+- code: WV
+  type: state
 - code: WY
   type: state
-- code: DC
-  type: district
-- code: AS
-  type: outlying area
-- code: GU
-  type: outlying area
-- code: MP
-  type: outlying area
-- code: PR
-  type: outlying area
-- code: UM
-  type: outlying area
-- code: VI
-  type: outlying area

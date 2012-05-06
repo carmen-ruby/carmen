@@ -1,22 +1,14 @@
 ---
-- code: BR
-  type: city
-- code: CU
-  type: city
-- code: PU
-  type: city
-- code: QB
-  type: city
-- code: VP
-  type: city
 - code: AG
-  type: dependency
-- code: CC
-  type: dependency
-- code: RO
   type: dependency
 - code: BL
   type: district
+- code: BR
+  type: city
+- code: CC
+  type: dependency
+- code: CU
+  type: city
 - code: FL
   type: district
 - code: GP
@@ -25,11 +17,19 @@
   type: district
 - code: PA
   type: district
-- code: PW
-  type: district
 - code: PL
   type: district
+- code: PU
+  type: city
+- code: PW
+  type: district
+- code: QB
+  type: city
+- code: RO
+  type: dependency
 - code: RP
   type: district
 - code: SA
   type: district
+- code: VP
+  type: city

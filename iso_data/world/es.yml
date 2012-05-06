@@ -5,13 +5,15 @@
   type: autonomous community
 - code: AS
   type: autonomous community
-- code: CN
-  type: autonomous community
 - code: CB
+  type: autonomous community
+- code: CE
+  type: autonomous city
+- code: CL
   type: autonomous community
 - code: CM
   type: autonomous community
-- code: CL
+- code: CN
   type: autonomous community
 - code: CT
   type: autonomous community
@@ -21,19 +23,17 @@
   type: autonomous community
 - code: IB
   type: autonomous community
-- code: RI
+- code: MC
   type: autonomous community
 - code: MD
   type: autonomous community
-- code: MC
-  type: autonomous community
+- code: ML
+  type: autonomous city
 - code: NC
   type: autonomous community
 - code: PV
   type: autonomous community
+- code: RI
+  type: autonomous community
 - code: VC
   type: autonomous community
-- code: CE
-  type: autonomous city
-- code: ML
-  type: autonomous city

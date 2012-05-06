@@ -3,17 +3,17 @@
   type: municipality
 - code: GH
   type: municipality
+- code: JB
+  type: municipality
 - code: JU
   type: municipality
 - code: KH
   type: municipality
-- code: WA
+- code: MS
   type: municipality
 - code: RA
   type: municipality
-- code: JB
-  type: municipality
-- code: MS
-  type: municipality
 - code: US
+  type: municipality
+- code: WA
   type: municipality

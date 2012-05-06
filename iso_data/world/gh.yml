@@ -1,4 +1,6 @@
 ---
+- code: AA
+  type: region
 - code: AH
   type: region
 - code: BA
@@ -7,15 +9,13 @@
   type: region
 - code: EP
   type: region
-- code: AA
-  type: region
 - code: NP
+  type: region
+- code: TV
   type: region
 - code: UE
   type: region
 - code: UW
-  type: region
-- code: TV
   type: region
 - code: WP
   type: region

@@ -2,37 +2,37 @@
 en:
   world:
     cf:
-      bgf:
-        name: Bangui
+      ac:
+        name: Ouham
       bb:
         name: Bamingui-Bangoran
+      bgf:
+        name: Bangui
       bk:
         name: Basse-Kotto
       hk:
         name: Haute-Kotto
       hm:
         name: Haut-Mbomou
+      hs:
+        name: Haute-Sangha / Mambéré-Kadéï
+      kb:
+        name: Gribingui
       kg:
         name: Kémo-Gribingui
       lb:
         name: Lobaye
-      hs:
-        name: Haute-Sangha / Mambéré-Kadéï
       mb:
         name: Mbomou
-      nm:
-        name: Nana-Mambéré
       mp:
         name: Ombella-M'poko
-      uk:
-        name: Ouaka
-      ac:
-        name: Ouham
+      nm:
+        name: Nana-Mambéré
       op:
         name: Ouham-Pendé
-      vk:
-        name: Vakaga
-      kb:
-        name: Gribingui
       se:
         name: Sangha
+      uk:
+        name: Ouaka
+      vk:
+        name: Vakaga

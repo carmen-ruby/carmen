@@ -1,57 +1,57 @@
 ---
-- code: DK
-  type: governorate
-- code: BA
-  type: governorate
-- code: BH
-  type: governorate
-- code: FYM
-  type: governorate
-- code: GH
-  type: governorate
 - code: ALX
-  type: governorate
-- code: IS
-  type: governorate
-- code: GZ
-  type: governorate
-- code: MNF
-  type: governorate
-- code: MN
-  type: governorate
-- code: C
-  type: governorate
-- code: KB
-  type: governorate
-- code: WAD
-  type: governorate
-- code: SU
-  type: governorate
-- code: SHR
-  type: governorate
-- code: SUZ
   type: governorate
 - code: ASN
   type: governorate
 - code: AST
   type: governorate
+- code: BA
+  type: governorate
+- code: BH
+  type: governorate
 - code: BNS
   type: governorate
-- code: PTS
+- code: C
+  type: governorate
+- code: DK
   type: governorate
 - code: DT
   type: governorate
+- code: FYM
+  type: governorate
+- code: GH
+  type: governorate
+- code: GZ
+  type: governorate
 - code: HU
+  type: governorate
+- code: IS
   type: governorate
 - code: JS
   type: governorate
-- code: KFS
+- code: KB
   type: governorate
-- code: MT
+- code: KFS
   type: governorate
 - code: KN
   type: governorate
-- code: SIN
+- code: MN
+  type: governorate
+- code: MNF
+  type: governorate
+- code: MT
+  type: governorate
+- code: PTS
   type: governorate
 - code: SHG
+  type: governorate
+- code: SHR
+  type: governorate
+- code: SIN
+  type: governorate
+- code: SU
+  type: governorate
+- code: SUZ
+  type: governorate
+- code: WAD
   type: governorate

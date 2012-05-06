@@ -1,7 +1,15 @@
 ---
+- code: BA
+  type: popularates
 - code: BU
   type: popularates
+- code: DR
+  type: popularates
+- code: GT
+  type: popularates
 - code: JA
+  type: popularates
+- code: JB
   type: popularates
 - code: JG
   type: popularates
@@ -11,29 +19,17 @@
   type: popularates
 - code: KF
   type: popularates
-- code: MJ
-  type: popularates
 - code: MB
   type: popularates
-- code: WA
-  type: popularates
-- code: NQ
-  type: popularates
-- code: ZA
-  type: popularates
-- code: BA
-  type: popularates
-- code: DR
-  type: popularates
-- code: GT
-  type: popularates
-- code: JB
-  type: popularates
 - code: MI
+  type: popularates
+- code: MJ
   type: popularates
 - code: MQ
   type: popularates
 - code: NL
+  type: popularates
+- code: NQ
   type: popularates
 - code: SB
   type: popularates
@@ -41,7 +37,11 @@
   type: popularates
 - code: TB
   type: popularates
+- code: WA
+  type: popularates
 - code: WD
   type: popularates
 - code: WS
+  type: popularates
+- code: ZA
   type: popularates

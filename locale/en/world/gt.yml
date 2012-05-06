@@ -10,8 +10,6 @@ en:
         name: Chimaltenango
       cq:
         name: Chiquimula
-      pr:
-        name: El Progreso
       es:
         name: Escuintla
       gu:
@@ -26,20 +24,22 @@ en:
         name: Jutiapa
       pe:
         name: Petén
-      qz:
-        name: Quetzaltenango
+      pr:
+        name: El Progreso
       qc:
         name: Quiché
+      qz:
+        name: Quetzaltenango
       re:
         name: Retalhuleu
       sa:
         name: Sacatepéquez
       sm:
         name: San Marcos
-      sr:
-        name: Santa Rosa
       so:
         name: Sololá
+      sr:
+        name: Santa Rosa
       su:
         name: Suchitepéquez
       to:

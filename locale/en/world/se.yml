@@ -2,45 +2,45 @@
 en:
   world:
     se:
-      k:
-        name: Blekinge län
-      w:
-        name: Dalarnas län
-      i:
-        name: Gotlands län
-      x:
-        name: Gävleborgs län
-      n:
-        name: Hallands län
-      z:
-        name: Jämtlande län
-      f:
-        name: Jönköpings län
-      h:
-        name: Kalmar län
-      g:
-        name: Kronobergs län
-      bd:
-        name: Norrbottens län
-      m:
-        name: Skåne län
       ab:
         name: Stockholms län
-      d:
-        name: Södermanlands län
-      c:
-        name: Uppsala län
-      s:
-        name: Värmlands län
       ac:
         name: Västerbottens län
-      y:
-        name: Västernorrlands län
-      u:
-        name: Västmanlands län
-      o:
-        name: Västra Götalands län
-      t:
-        name: Örebro län
+      bd:
+        name: Norrbottens län
+      c:
+        name: Uppsala län
+      d:
+        name: Södermanlands län
       e:
         name: Östergötlands län
+      f:
+        name: Jönköpings län
+      g:
+        name: Kronobergs län
+      h:
+        name: Kalmar län
+      i:
+        name: Gotlands län
+      k:
+        name: Blekinge län
+      m:
+        name: Skåne län
+      n:
+        name: Hallands län
+      o:
+        name: Västra Götalands län
+      s:
+        name: Värmlands län
+      t:
+        name: Örebro län
+      u:
+        name: Västmanlands län
+      w:
+        name: Dalarnas län
+      x:
+        name: Gävleborgs län
+      y:
+        name: Västernorrlands län
+      z:
+        name: Jämtlande län

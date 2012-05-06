@@ -3,27 +3,27 @@
   type: department
 - code: CA
   type: department
-- code: CU
-  type: department
 - code: CH
+  type: department
+- code: CU
   type: department
 - code: LI
   type: department
-- code: PA
-  type: department
-- code: UN
-  type: department
 - code: MO
   type: department
-- code: SM
-  type: department
-- code: SS
+- code: PA
   type: department
 - code: SA
   type: department
-- code: SV
+- code: SM
   type: department
 - code: SO
+  type: department
+- code: SS
+  type: department
+- code: SV
+  type: department
+- code: UN
   type: department
 - code: US
   type: department

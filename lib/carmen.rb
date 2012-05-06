@@ -11,28 +11,17 @@ require 'carmen/version'
 module Carmen
   class << self
 
-    # Public: Where the data files for Carmen are stored.
+    # Public: An array of locations where data files for Carmen are stored.
     #
-    # Should be in the following format:
+    # Data in entries that appear later in the array takes precedence.
+    #
+    # Each path should follow the following structure:
     # |- world.yml (all countries)
     # \- regions   (directory for subregions, named by code)
     #  |- be.yml   (subregion file for a country)
     #
-    # Defaults to the `iso_data` directory within the Carmen directory.
-    attr_reader :data_path
-
-    # Public: Where to store overlay data.
-    #
-    # Overlay data is loaded after the data in `data_path`. Entries that appear
-    # within the `overlay_path` take precedence.
-    #
-    # The files in this directory should be in an identical layout to those in
-    # `data_path`. There should only be a file in the overlay directory if the
-    # corresponding regoins has overlay data. Only the regions to be modified
-    # should be included in an overlay file.
-    #
-    # Defaults to nil (no overlay data).
-    attr_reader :overlay_path
+    # Defaults to only the the `iso_data` directory within the Carmen directory.
+    attr_reader :data_paths
 
     # Public: an object to use as the I18n backend.
     #
@@ -49,24 +38,33 @@ module Carmen
 
     # Public: Set the data path.
     # path - The String path to the data directory.
-    def data_path=(path)
-      raise "Carmen's data_path cannot be nil" if path.nil?
-      @data_path = Pathname.new(path)
+    def append_data_path(path)
       World.instance.reset!
+      @data_paths << Pathname.new(path)
     end
 
-    # Public: Set the overlay data path.
-    # path - The String path to the overlay data directory.
-    def overlay_path=(path)
-      path = Pathname.new(path) unless path.nil?
-      @overlay_path = path
+    # Public: Clear the data_paths array.
+    # path - The String path to the data directory.
+    def clear_data_paths
       World.instance.reset!
+      @data_paths = []
+    end
+
+    # Public: Reset the data_paths array to the defaults.
+    def reset_data_paths
+      clear_data_paths
+      append_data_path(root_path + 'iso_data')
+    end
+
+    def reset_i18n_backend
+      locale_path = root_path + 'locale'
+      self.i18n_backend = Carmen::I18n::Simple.new(locale_path)
     end
   end
 
-  self.data_path = File.expand_path('../../iso_data', __FILE__)
-  locale_path = File.expand_path('../locale', data_path)
-  self.i18n_backend = Carmen::I18n::Simple.new(locale_path)
+  self.root_path = Pathname.new(__FILE__) + '../..'
 
-  self.root_path = File.expand_path('../..', __FILE__)
+  self.reset_data_paths
+  self.reset_i18n_backend
+
 end

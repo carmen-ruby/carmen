@@ -4,14 +4,22 @@ en:
     tw:
       cha:
         name: Changhua
+      cyi:
+        name: Chiay City
       cyq:
         name: Chiayi
       hsq:
         name: Hsinchu
+      hsz:
+        name: Hsinchui City
       hua:
         name: Hualien
       ila:
         name: Ilan
+      kee:
+        name: Keelung City
+      khh:
+        name: Kaohsiung City
       khq:
         name: Kaohsiung
       mia:
@@ -22,29 +30,21 @@ en:
         name: Penghu
       pif:
         name: Pingtung
-      txq:
-        name: Taichung
+      tao:
+        name: Taoyuan
+      tnn:
+        name: Tainan City
       tnq:
         name: Tainan
+      tpe:
+        name: Taipei City
       tpq:
         name: Taipei
       ttt:
         name: Taitung
-      tao:
-        name: Taoyuan
-      yun:
-        name: Yunlin
-      cyi:
-        name: Chiay City
-      hsz:
-        name: Hsinchui City
-      kee:
-        name: Keelung City
       txg:
         name: Taichung City
-      tnn:
-        name: Tainan City
-      khh:
-        name: Kaohsiung City
-      tpe:
-        name: Taipei City
+      txq:
+        name: Taichung
+      yun:
+        name: Yunlin

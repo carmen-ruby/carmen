@@ -1,23 +1,15 @@
 ---
-- code: ALA
-  type: city
-- code: AST
-  type: city
-- code: ALM
-  type: region
 - code: AKM
   type: region
 - code: AKT
   type: region
+- code: ALA
+  type: city
+- code: ALM
+  type: region
+- code: AST
+  type: city
 - code: ATY
-  type: region
-- code: ZAP
-  type: region
-- code: MAN
-  type: region
-- code: YUZ
-  type: region
-- code: PAV
   type: region
 - code: KAR
   type: region
@@ -25,9 +17,17 @@
   type: region
 - code: KZY
   type: region
-- code: VOS
+- code: MAN
+  type: region
+- code: PAV
   type: region
 - code: SEV
+  type: region
+- code: VOS
+  type: region
+- code: YUZ
+  type: region
+- code: ZAP
   type: region
 - code: ZHA
   type: region

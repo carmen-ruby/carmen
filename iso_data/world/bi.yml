@@ -1,9 +1,9 @@
 ---
 - code: BB
   type: province
-- code: BM
-  type: province
 - code: BL
+  type: province
+- code: BM
   type: province
 - code: BR
   type: province
@@ -13,11 +13,11 @@
   type: province
 - code: GI
   type: province
+- code: KI
+  type: province
 - code: KR
   type: province
 - code: KY
-  type: province
-- code: KI
   type: province
 - code: MA
   type: province

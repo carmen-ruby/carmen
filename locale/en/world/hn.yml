@@ -4,6 +4,8 @@ en:
     hn:
       at:
         name: Atlántida
+      ch:
+        name: Choluteca
       cl:
         name: Colón
       cm:
@@ -12,22 +14,20 @@ en:
         name: Copán
       cr:
         name: Cortés
-      ch:
-        name: Choluteca
       ep:
         name: El Paraíso
       fm:
         name: Francisco Morazán
       gd:
         name: Gracias a Dios
-      in:
-        name: Intibucá
       ib:
         name: Islas de la Bahía
-      lp:
-        name: La Paz
+      in:
+        name: Intibucá
       le:
         name: Lempira
+      lp:
+        name: La Paz
       oc:
         name: Ocotepeque
       ol:

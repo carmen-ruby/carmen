@@ -1,13 +1,13 @@
 ---
-- code: AS
-  type: region
 - code: AR
+  type: region
+- code: AS
   type: region
 - code: DI
   type: region
+- code: DJ
+  type: city
 - code: OB
   type: region
 - code: TA
   type: region
-- code: DJ
-  type: city

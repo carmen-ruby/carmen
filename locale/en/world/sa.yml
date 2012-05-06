@@ -2,29 +2,29 @@
 en:
   world:
     sa:
-      '11':
-        name: Al Bāhah
-      '08':
-        name: Al Ḥudūd ash Shamāliyah
-      '12':
-        name: Al Jawf
-      '03':
-        name: Al Madīnah
-      '05':
-        name: Al Qaşīm
       '01':
         name: Ar Riyāḍ
-      '04':
-        name: Ash Sharqīyah
-      '14':
-        name: ! '`Asīr'
-      '06':
-        name: Ḥā'il
-      '09':
-        name: Jīzan
       '02':
         name: Makkah
-      '10':
-        name: Najrān
+      '03':
+        name: Al Madīnah
+      '04':
+        name: Ash Sharqīyah
+      '05':
+        name: Al Qaşīm
+      '06':
+        name: Ḥā'il
       '07':
         name: Tabūk
+      '08':
+        name: Al Ḥudūd ash Shamāliyah
+      '09':
+        name: Jīzan
+      '10':
+        name: Najrān
+      '11':
+        name: Al Bāhah
+      '12':
+        name: Al Jawf
+      '14':
+        name: ! '`Asīr'

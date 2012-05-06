@@ -1,23 +1,21 @@
 ---
-- code: C
-  type: city
+- code: A
+  type: province
 - code: B
   type: province
-- code: K
-  type: province
-- code: X
-  type: province
-- code: W
-  type: province
-- code: H
-  type: province
-- code: U
+- code: C
+  type: city
+- code: D
   type: province
 - code: E
   type: province
-- code: P
+- code: G
   type: province
-- code: Y
+- code: H
+  type: province
+- code: J
+  type: province
+- code: K
   type: province
 - code: L
   type: province
@@ -25,23 +23,25 @@
   type: province
 - code: N
   type: province
+- code: P
+  type: province
 - code: Q
   type: province
 - code: R
   type: province
-- code: A
-  type: province
-- code: J
-  type: province
-- code: D
-  type: province
-- code: Z
-  type: province
 - code: S
   type: province
-- code: G
+- code: T
+  type: province
+- code: U
   type: province
 - code: V
   type: province
-- code: T
+- code: W
+  type: province
+- code: X
+  type: province
+- code: Y
+  type: province
+- code: Z
   type: province

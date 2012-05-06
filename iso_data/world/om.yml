@@ -1,19 +1,19 @@
 ---
-- code: DA
-  type: region
 - code: BA
-  type: region
-- code: WU
-  type: region
-- code: SH
-  type: region
-- code: ZA
   type: region
 - code: BU
   type: governorate
+- code: DA
+  type: region
 - code: MA
   type: governorate
 - code: MU
   type: governorate
+- code: SH
+  type: region
+- code: WU
+  type: region
+- code: ZA
+  type: region
 - code: ZU
   type: governorate

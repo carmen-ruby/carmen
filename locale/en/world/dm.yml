@@ -2,6 +2,8 @@
 en:
   world:
     dm:
+      '01':
+        name: Saint Peter
       '02':
         name: Saint Andrew
       '03':
@@ -20,5 +22,3 @@ en:
         name: Saint Patrick
       '10':
         name: Saint Paul
-      '01':
-        name: Saint Peter

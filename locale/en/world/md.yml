@@ -2,32 +2,30 @@
 en:
   world:
     md:
-      ga:
-        name: Găgăuzia, Unitatea teritorială autonomă
+      an:
+        name: Anenii Noi
       ba:
         name: Bălți
       bd:
         name: Tighina
-      cu:
-        name: Chișinău
-      an:
-        name: Anenii Noi
-      bs:
-        name: Basarabeasca
       br:
         name: Briceni
+      bs:
+        name: Basarabeasca
       ca:
         name: Cahul
-      ct:
-        name: Cantemir
       cl:
         name: Călărași
-      cs:
-        name: Căușeni
       cm:
         name: Cimișlia
       cr:
         name: Criuleni
+      cs:
+        name: Căușeni
+      ct:
+        name: Cantemir
+      cu:
+        name: Chișinău
       do:
         name: Dondușeni
       dr:
@@ -40,6 +38,8 @@ en:
         name: Fălești
       fl:
         name: Florești
+      ga:
+        name: Găgăuzia, Unitatea teritorială autonomă
       gl:
         name: Glodeni
       hi:
@@ -58,14 +58,16 @@ en:
         name: Rezina
       ri:
         name: Rîșcani
+      sd:
+        name: Șoldănești
       si:
         name: Sîngerei
+      sn:
+        name: Stînga Nistrului, unitatea teritorială din
       so:
         name: Soroca
       st:
         name: Strășeni
-      sd:
-        name: Șoldănești
       sv:
         name: Ștefan Vodă
       ta:
@@ -74,5 +76,3 @@ en:
         name: Telenești
       un:
         name: Ungheni
-      sn:
-        name: Stînga Nistrului, unitatea teritorială din

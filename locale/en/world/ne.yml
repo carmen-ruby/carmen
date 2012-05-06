@@ -2,8 +2,6 @@
 en:
   world:
     ne:
-      '8':
-        name: Niamey
       '1':
         name: Agadez
       '2':
@@ -18,3 +16,5 @@ en:
         name: Tillabéri
       '7':
         name: Zinder
+      '8':
+        name: Niamey

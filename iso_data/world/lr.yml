@@ -1,11 +1,11 @@
 ---
-- code: BM
-  type: county
 - code: BG
   type: county
-- code: GB
+- code: BM
   type: county
 - code: CM
+  type: county
+- code: GB
   type: county
 - code: GG
   type: county
@@ -15,9 +15,9 @@
   type: county
 - code: MG
   type: county
-- code: MY
-  type: county
 - code: MO
+  type: county
+- code: MY
   type: county
 - code: NI
   type: county

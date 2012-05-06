@@ -3,8 +3,6 @@
   type: autonomous republic
 - code: AJ
   type: autonomous republic
-- code: TB
-  type: city
 - code: GU
   type: region
 - code: IM
@@ -17,9 +15,11 @@
   type: region
 - code: RL
   type: region
-- code: SZ
-  type: region
 - code: SJ
   type: region
 - code: SK
   type: region
+- code: SZ
+  type: region
+- code: TB
+  type: city

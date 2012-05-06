@@ -34,8 +34,6 @@ en:
         name: La Digue
       '16':
         name: English River
-      '24':
-        name: Les Mamelles
       '17':
         name: Mont Buxton
       '18':
@@ -46,9 +44,11 @@ en:
         name: Pointe Larue
       '21':
         name: Port Glaud
-      '25':
-        name: Roche Caiman
       '22':
         name: Saint Louis
       '23':
         name: Takamaka
+      '24':
+        name: Les Mamelles
+      '25':
+        name: Roche Caiman

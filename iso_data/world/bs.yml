@@ -1,27 +1,27 @@
 ---
 - code: AC
   type: district
-- code: BY
-  type: district
 - code: BI
   type: district
 - code: BP
   type: district
+- code: BY
+  type: district
+- code: CE
+  type: district
 - code: CI
+  type: district
+- code: CK
   type: district
 - code: CO
   type: district
 - code: CS
   type: district
-- code: CE
-  type: district
-- code: FP
-  type: district
-- code: CK
-  type: district
 - code: EG
   type: district
 - code: EX
+  type: district
+- code: FP
   type: district
 - code: GC
   type: district
@@ -41,23 +41,23 @@
   type: district
 - code: MI
   type: district
+- code: NE
+  type: district
 - code: 'NO'
   type: district
 - code: NS
   type: district
-- code: NE
-  type: district
-- code: RI
-  type: district
 - code: RC
   type: district
-- code: SS
-  type: district
-- code: SO
+- code: RI
   type: district
 - code: SA
   type: district
 - code: SE
+  type: district
+- code: SO
+  type: district
+- code: SS
   type: district
 - code: SW
   type: district

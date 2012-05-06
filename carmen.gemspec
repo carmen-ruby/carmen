@@ -1,3 +1,4 @@
+# encoding: UTF-8
 require File.expand_path('../lib/carmen/version', __FILE__)
 
 Gem::Specification.new do |s|

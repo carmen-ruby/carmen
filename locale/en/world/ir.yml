@@ -2,63 +2,63 @@
 en:
   world:
     ir:
-      '03':
-        name: Ardabīl
-      '02':
-        name: Āzarbāyjān-e Gharbī
       '01':
         name: Āzarbāyjān-e Sharqī
-      '06':
-        name: Būshehr
-      '08':
-        name: Chahār Mahāll va Bakhtīārī
+      '02':
+        name: Āzarbāyjān-e Gharbī
+      '03':
+        name: Ardabīl
       '04':
         name: Eşfahān
-      '14':
-        name: Fārs
-      '19':
-        name: Gīlān
-      '27':
-        name: Golestān
-      '24':
-        name: Hamadān
-      '23':
-        name: Hormozgān
       '05':
         name: Īlām
+      '06':
+        name: Būshehr
+      '07':
+        name: Tehrān
+      '08':
+        name: Chahār Mahāll va Bakhtīārī
+      '10':
+        name: Khūzestān
+      '11':
+        name: Zanjān
+      '12':
+        name: Semnān
+      '13':
+        name: Sīstān va Balūchestān
+      '14':
+        name: Fārs
       '15':
         name: Kermān
+      '16':
+        name: Kordestān
       '17':
         name: Kermānshāh
+      '18':
+        name: Kohgīlūyeh va Būyer Ahmad
+      '19':
+        name: Gīlān
+      '20':
+        name: Lorestān
+      '21':
+        name: Māzandarān
+      '22':
+        name: Markazī
+      '23':
+        name: Hormozgān
+      '24':
+        name: Hamadān
+      '25':
+        name: Yazd
+      '26':
+        name: Qom
+      '27':
+        name: Golestān
+      '28':
+        name: Qazvīn
       '29':
         name: Khorāsān-e Janūbī
       '30':
         name: Khorāsān-e Razavī
       '31':
         name: Khorāsān-e Shemālī
-      '10':
-        name: Khūzestān
-      '18':
-        name: Kohgīlūyeh va Būyer Ahmad
-      '16':
-        name: Kordestān
-      '20':
-        name: Lorestān
-      '22':
-        name: Markazī
-      '21':
-        name: Māzandarān
-      '28':
-        name: Qazvīn
-      '26':
-        name: Qom
-      '12':
-        name: Semnān
-      '13':
-        name: Sīstān va Balūchestān
-      '07':
-        name: Tehrān
-      '25':
-        name: Yazd
-      '11':
-        name: Zanjān

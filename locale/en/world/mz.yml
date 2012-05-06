@@ -2,25 +2,25 @@
 en:
   world:
     mz:
-      mpm:
-        name: Maputo (city)
-      p:
-        name: Cabo Delgado
+      a:
+        name: Niassa
+      b:
+        name: Manica
       g:
         name: Gaza
       i:
         name: Inhambane
-      b:
-        name: Manica
       l:
         name: Maputo
+      mpm:
+        name: Maputo (city)
       n:
         name: Numpula
-      a:
-        name: Niassa
+      p:
+        name: Cabo Delgado
+      q:
+        name: Zambezia
       s:
         name: Sofala
       t:
         name: Tete
-      q:
-        name: Zambezia

@@ -1,8 +1,6 @@
 ---
 - code: '01'
   type: municipalities
-- code: '06'
-  type: municipalities
 - code: '02'
   type: municipalities
 - code: '03'
@@ -11,9 +9,11 @@
   type: municipalities
 - code: '05'
   type: municipalities
-- code: '08'
+- code: '06'
   type: municipalities
 - code: '07'
+  type: municipalities
+- code: '08'
   type: municipalities
 - code: '09'
   type: municipalities

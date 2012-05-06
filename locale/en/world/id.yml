@@ -2,6 +2,8 @@
 en:
   world:
     id:
+      ij:
+        name: Papua
       jw:
         name: Jawa
       ka:
@@ -10,8 +12,6 @@ en:
         name: Maluku
       nu:
         name: Nusa Tenggara
-      ij:
-        name: Papua
       sl:
         name: Sulawesi
       sm:

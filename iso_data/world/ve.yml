@@ -1,10 +1,6 @@
 ---
-- code: W
-  type: federal dependency
 - code: A
   type: federal district
-- code: Z
-  type: state
 - code: B
   type: state
 - code: C
@@ -18,8 +14,6 @@
 - code: G
   type: state
 - code: H
-  type: state
-- code: Y
   type: state
 - code: I
   type: state
@@ -43,9 +37,15 @@
   type: state
 - code: T
   type: state
-- code: X
-  type: state
 - code: U
   type: state
 - code: V
+  type: state
+- code: W
+  type: federal dependency
+- code: X
+  type: state
+- code: Y
+  type: state
+- code: Z
   type: state

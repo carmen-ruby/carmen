@@ -1,27 +1,27 @@
 ---
-- code: NKC
-  type: district
-- code: '07'
-  type: region
-- code: '03'
-  type: region
-- code: '05'
-  type: region
-- code: '08'
-  type: region
-- code: '04'
-  type: region
-- code: '10'
-  type: region
 - code: '01'
   type: region
 - code: '02'
   type: region
-- code: '12'
+- code: '03'
   type: region
-- code: '09'
+- code: '04'
   type: region
-- code: '11'
+- code: '05'
   type: region
 - code: '06'
   type: region
+- code: '07'
+  type: region
+- code: '08'
+  type: region
+- code: '09'
+  type: region
+- code: '10'
+  type: region
+- code: '11'
+  type: region
+- code: '12'
+  type: region
+- code: NKC
+  type: district

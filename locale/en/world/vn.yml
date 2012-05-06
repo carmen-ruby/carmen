@@ -2,10 +2,92 @@
 en:
   world:
     vn:
-      '44':
-        name: An Giang
+      '01':
+        name: Lai Châu
+      '02':
+        name: Lào Cai
+      '03':
+        name: Hà Giang
+      '04':
+        name: Cao Bằng
+      '05':
+        name: Sơn La
+      '06':
+        name: Yên Bái
+      '07':
+        name: Tuyên Quang
+      '09':
+        name: Lạng Sơn
+      '13':
+        name: Quảng Ninh
+      '14':
+        name: Hoà Bình
+      '15':
+        name: Hà Tây
+      '18':
+        name: Ninh Bình
+      '20':
+        name: Thái Bình
+      '21':
+        name: Thanh Hóa
+      '22':
+        name: Nghệ An
+      '23':
+        name: Hà Tỉnh
+      '24':
+        name: Quảng Bình
+      '25':
+        name: Quảng Trị
+      '26':
+        name: Thừa Thiên-Huế
+      '27':
+        name: Quảng Nam
+      '28':
+        name: Kon Tum
+      '29':
+        name: Quảng Ngãi
+      '30':
+        name: Gia Lai
+      '31':
+        name: Bình Định
+      '32':
+        name: Phú Yên
+      '33':
+        name: Đắc Lắk
+      '34':
+        name: Khánh Hòa
+      '35':
+        name: Lâm Đồng
+      '36':
+        name: Ninh Thuận
+      '37':
+        name: Tây Ninh
+      '39':
+        name: Đồng Nai
+      '40':
+        name: Bình Thuận
+      '41':
+        name: Long An
       '43':
         name: Bà Rịa - Vũng Tàu
+      '44':
+        name: An Giang
+      '45':
+        name: Đồng Tháp
+      '46':
+        name: Tiền Giang
+      '47':
+        name: Kiên Giang
+      '48':
+        name: Cần Thơ
+      '49':
+        name: Vĩnh Long
+      '50':
+        name: Bến Tre
+      '51':
+        name: Trà Vinh
+      '52':
+        name: Sóc Trăng
       '53':
         name: Bắc Kạn
       '54':
@@ -14,119 +96,37 @@ en:
         name: Bạc Liêu
       '56':
         name: Bắc Ninh
-      '50':
-        name: Bến Tre
-      '31':
-        name: Bình Định
       '57':
         name: Bình Dương
       '58':
         name: Bình Phước
-      '40':
-        name: Bình Thuận
       '59':
         name: Cà Mau
-      '48':
-        name: Cần Thơ
-      '04':
-        name: Cao Bằng
       '60':
         name: Đà Nẵng, thành phố
-      '33':
-        name: Đắc Lắk
-      '72':
-        name: Đắk Nông
-      '71':
-        name: Điện Biên
-      '39':
-        name: Đồng Nai
-      '45':
-        name: Đồng Tháp
-      '30':
-        name: Gia Lai
-      '03':
-        name: Hà Giang
-      '63':
-        name: Hà Nam
-      '64':
-        name: Hà Nội, thủ đô
-      '15':
-        name: Hà Tây
-      '23':
-        name: Hà Tỉnh
       '61':
         name: Hải Duong
       '62':
         name: Hải Phòng, thành phố
-      '73':
-        name: Hậu Giang
-      '14':
-        name: Hoà Bình
+      '63':
+        name: Hà Nam
+      '64':
+        name: Hà Nội, thủ đô
       '65':
         name: Hồ Chí Minh, thành phố [Sài Gòn]
       '66':
         name: Hưng Yên
-      '34':
-        name: Khánh Hòa
-      '47':
-        name: Kiên Giang
-      '28':
-        name: Kon Tum
-      '01':
-        name: Lai Châu
-      '35':
-        name: Lâm Đồng
-      '09':
-        name: Lạng Sơn
-      '02':
-        name: Lào Cai
-      '41':
-        name: Long An
       '67':
         name: Nam Định
-      '22':
-        name: Nghệ An
-      '18':
-        name: Ninh Bình
-      '36':
-        name: Ninh Thuận
       '68':
         name: Phú Thọ
-      '32':
-        name: Phú Yên
-      '24':
-        name: Quảng Bình
-      '27':
-        name: Quảng Nam
-      '29':
-        name: Quảng Ngãi
-      '13':
-        name: Quảng Ninh
-      '25':
-        name: Quảng Trị
-      '52':
-        name: Sóc Trăng
-      '05':
-        name: Sơn La
-      '37':
-        name: Tây Ninh
-      '20':
-        name: Thái Bình
       '69':
         name: Thái Nguyên
-      '21':
-        name: Thanh Hóa
-      '26':
-        name: Thừa Thiên-Huế
-      '46':
-        name: Tiền Giang
-      '51':
-        name: Trà Vinh
-      '07':
-        name: Tuyên Quang
-      '49':
-        name: Vĩnh Long
       '70':
         name: Vĩnh Phúc
-      '06':
-        name: Yên Bái
+      '71':
+        name: Điện Biên
+      '72':
+        name: Đắk Nông
+      '73':
+        name: Hậu Giang

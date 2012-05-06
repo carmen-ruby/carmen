@@ -1,5 +1,6 @@
 require 'yaml'
 require 'pp'
+require 'carmen/utils'
 
 module Carmen
   module I18n
@@ -14,16 +15,19 @@ module Carmen
       attr_reader :fallback_locale
       attr_reader :locale_paths
 
-      def initialize(*locale_paths)
+      def initialize(*initial_locale_paths)
         @locale = DEFAULT_LOCALE
         @fallback_locale = DEFAULT_LOCALE
-        @locale_paths = locale_paths.flatten
+        @locale_paths = []
         @cache = nil
+        initial_locale_paths.each do |path|
+          append_locale_path(path)
+        end
       end
 
       def append_locale_path(path)
         reset!
-        @locale_paths << path
+        @locale_paths << Pathname.new(path)
       end
 
       # Set a new locale
@@ -53,6 +57,10 @@ module Carmen
         @cache = nil
       end
 
+      def inspect
+        "<##{self.class} locale=#{locale}>"
+      end
+
     private
 
       def read(key)
@@ -73,37 +81,20 @@ module Carmen
       def load_cache_if_needed
         return unless @cache.nil?
         hashes = load_hashes_for_paths(@locale_paths)
-        @cache = deep_hash_merge(hashes)
+        @cache = Utils.deep_hash_merge(hashes)
       end
 
       def load_hashes_for_paths(paths)
         paths.collect { |path|
           if !File.exist?(path)
-             fail "Path #{path} not found when loading locale files"
+            fail "Path #{path} not found when loading locale files"
           end
-          Dir[path + '/**/*.yml'].map { |file_path|
+          Dir[path + '**/*.yml'].map { |file_path|
             YAML.load_file(file_path)
           }
         }.flatten
       end
 
-      # Merge an array of hashes deeply. When a conflict occurs, if either the
-      # old value or the new value don't respond_to? :merge, the new value is
-      # used.
-      def deep_hash_merge(hashes)
-        return hashes.first if hashes.size == 1
-
-        hashes.inject { |acc, hash|
-          acc.merge(hash) { |key, old_value, new_value|
-            if old_value.respond_to?(:merge) && new_value.respond_to?(:merge)
-              deep_hash_merge([old_value, new_value])
-            else
-              new_value
-            end
-          }
-        }
-      end
     end
-
   end
 end

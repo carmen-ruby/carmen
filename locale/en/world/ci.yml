@@ -2,41 +2,41 @@
 en:
   world:
     ci:
+      '01':
+        name: Lagunes (Région des)
+      '02':
+        name: Haut-Sassandra (Région du)
+      '03':
+        name: Savanes (Région des)
+      '04':
+        name: Vallée du Bandama (Région de la)
+      '05':
+        name: Moyen-Comoé (Région du)
       '06':
         name: 18 Montagnes (Région des)
-      '16':
-        name: Agnébi (Région de l')
-      '17':
-        name: Bafing (Région du)
+      '07':
+        name: Lacs (Région des)
+      '08':
+        name: Zanzan (Région du)
       '09':
         name: Bas-Sassandra (Région du)
       '10':
         name: Denguélé (Région du)
-      '18':
-        name: Fromager (Région du)
-      '02':
-        name: Haut-Sassandra (Région du)
-      '07':
-        name: Lacs (Région des)
-      '01':
-        name: Lagunes (Région des)
-      '12':
-        name: Marahoué (Région de la)
-      '19':
-        name: Moyen-Cavally (Région du)
-      '05':
-        name: Moyen-Comoé (Région du)
       '11':
         name: Nzi-Comoé (Région)
-      '03':
-        name: Savanes (Région des)
-      '15':
-        name: Sud-Bandama (Région du)
+      '12':
+        name: Marahoué (Région de la)
       '13':
         name: Sud-Comoé (Région du)
-      '04':
-        name: Vallée du Bandama (Région de la)
       '14':
         name: Worodouqou (Région du)
-      '08':
-        name: Zanzan (Région du)
+      '15':
+        name: Sud-Bandama (Région du)
+      '16':
+        name: Agnébi (Région de l')
+      '17':
+        name: Bafing (Région du)
+      '18':
+        name: Fromager (Région du)
+      '19':
+        name: Moyen-Cavally (Région du)

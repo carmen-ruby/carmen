@@ -1,19 +1,19 @@
 ---
-- code: '7'
-  type: region
+- code: '0'
+  type: city
 - code: '1'
-  type: region
-- code: '6'
-  type: region
-- code: '5'
-  type: region
-- code: '8'
   type: region
 - code: '2'
   type: region
-- code: '4'
-  type: region
 - code: '3'
   type: region
-- code: '0'
-  type: city
+- code: '4'
+  type: region
+- code: '5'
+  type: region
+- code: '6'
+  type: region
+- code: '7'
+  type: region
+- code: '8'
+  type: region

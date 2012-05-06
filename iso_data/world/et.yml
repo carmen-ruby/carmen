@@ -1,23 +1,23 @@
 ---
 - code: AA
   type: administration
-- code: DD
-  type: administration
 - code: AF
   type: state
 - code: AM
   type: state
 - code: BE
   type: state
+- code: DD
+  type: administration
 - code: GA
   type: state
 - code: HA
   type: state
 - code: OR
   type: state
+- code: SN
+  type: state
 - code: SO
   type: state
 - code: TI
-  type: state
-- code: SN
   type: state

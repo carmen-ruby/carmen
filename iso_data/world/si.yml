@@ -1,17 +1,9 @@
 ---
 - code: '001'
   type: municipalities
-- code: '195'
-  type: municipalities
 - code: '002'
   type: municipalities
-- code: '148'
-  type: municipalities
-- code: '149'
-  type: municipalities
 - code: '003'
-  type: municipalities
-- code: '150'
   type: municipalities
 - code: '004'
   type: municipalities
@@ -19,15 +11,13 @@
   type: municipalities
 - code: '006'
   type: municipalities
-- code: '151'
-  type: municipalities
 - code: '007'
   type: municipalities
 - code: '008'
   type: municipalities
 - code: '009'
   type: municipalities
-- code: '152'
+- code: '010'
   type: municipalities
 - code: '011'
   type: municipalities
@@ -36,10 +26,6 @@
 - code: '013'
   type: municipalities
 - code: '014'
-  type: municipalities
-- code: '153'
-  type: municipalities
-- code: '196'
   type: municipalities
 - code: '015'
   type: municipalities
@@ -51,19 +37,11 @@
   type: municipalities
 - code: '019'
   type: municipalities
-- code: '154'
-  type: municipalities
 - code: '020'
-  type: municipalities
-- code: '155'
   type: municipalities
 - code: '021'
   type: municipalities
-- code: '156'
-  type: municipalities
 - code: '022'
-  type: municipalities
-- code: '157'
   type: municipalities
 - code: '023'
   type: municipalities
@@ -77,25 +55,15 @@
   type: municipalities
 - code: '028'
   type: municipalities
-- code: '207'
-  type: municipalities
 - code: '029'
   type: municipalities
 - code: '030'
   type: municipalities
 - code: '031'
   type: municipalities
-- code: '158'
-  type: municipalities
 - code: '032'
   type: municipalities
-- code: '159'
-  type: municipalities
-- code: '160'
-  type: municipalities
-- code: '161'
-  type: municipalities
-- code: '162'
+- code: '033'
   type: municipalities
 - code: '034'
   type: municipalities
@@ -113,8 +81,6 @@
   type: municipalities
 - code: '041'
   type: municipalities
-- code: '163'
-  type: municipalities
 - code: '042'
   type: municipalities
 - code: '043'
@@ -131,21 +97,13 @@
   type: municipalities
 - code: '049'
   type: municipalities
-- code: '164'
-  type: municipalities
 - code: '050'
-  type: municipalities
-- code: '197'
-  type: municipalities
-- code: '165'
   type: municipalities
 - code: '051'
   type: municipalities
 - code: '052'
   type: municipalities
 - code: '053'
-  type: municipalities
-- code: '166'
   type: municipalities
 - code: '054'
   type: municipalities
@@ -167,15 +125,11 @@
   type: municipalities
 - code: '063'
   type: municipalities
-- code: '208'
-  type: municipalities
 - code: '064'
   type: municipalities
 - code: '065'
   type: municipalities
 - code: '066'
-  type: municipalities
-- code: '167'
   type: municipalities
 - code: '067'
   type: municipalities
@@ -183,11 +137,7 @@
   type: municipalities
 - code: '069'
   type: municipalities
-- code: '198'
-  type: municipalities
 - code: '070'
-  type: municipalities
-- code: '168'
   type: municipalities
 - code: '071'
   type: municipalities
@@ -197,15 +147,9 @@
   type: municipalities
 - code: '074'
   type: municipalities
-- code: '169'
-  type: municipalities
 - code: '075'
   type: municipalities
-- code: '170'
-  type: municipalities
 - code: '076'
-  type: municipalities
-- code: '199'
   type: municipalities
 - code: '077'
   type: municipalities
@@ -227,8 +171,6 @@
   type: municipalities
 - code: '086'
   type: municipalities
-- code: '171'
-  type: municipalities
 - code: '087'
   type: municipalities
 - code: '088'
@@ -241,21 +183,11 @@
   type: municipalities
 - code: '092'
   type: municipalities
-- code: '172'
-  type: municipalities
 - code: '093'
-  type: municipalities
-- code: '200'
-  type: municipalities
-- code: '173'
   type: municipalities
 - code: '094'
   type: municipalities
-- code: '174'
-  type: municipalities
 - code: '095'
-  type: municipalities
-- code: '175'
   type: municipalities
 - code: '096'
   type: municipalities
@@ -273,25 +205,15 @@
   type: municipalities
 - code: '103'
   type: municipalities
-- code: '176'
-  type: municipalities
-- code: '209'
-  type: municipalities
-- code: '201'
-  type: municipalities
 - code: '104'
   type: municipalities
-- code: '177'
+- code: '105'
   type: municipalities
 - code: '106'
-  type: municipalities
-- code: '105'
   type: municipalities
 - code: '107'
   type: municipalities
 - code: '108'
-  type: municipalities
-- code: '178'
   type: municipalities
 - code: '109'
   type: municipalities
@@ -305,31 +227,9 @@
   type: municipalities
 - code: '114'
   type: municipalities
-- code: '179'
-  type: municipalities
-- code: '180'
-  type: municipalities
-- code: '202'
-  type: municipalities
 - code: '115'
   type: municipalities
-- code: '203'
-  type: municipalities
-- code: '181'
-  type: municipalities
-- code: '204'
-  type: municipalities
-- code: '182'
-  type: municipalities
 - code: '116'
-  type: municipalities
-- code: '210'
-  type: municipalities
-- code: '205'
-  type: municipalities
-- code: '033'
-  type: municipalities
-- code: '183'
   type: municipalities
 - code: '117'
   type: municipalities
@@ -339,8 +239,6 @@
   type: municipalities
 - code: '120'
   type: municipalities
-- code: '211'
-  type: municipalities
 - code: '121'
   type: municipalities
 - code: '122'
@@ -349,19 +247,11 @@
   type: municipalities
 - code: '124'
   type: municipalities
-- code: '206'
-  type: municipalities
 - code: '125'
-  type: municipalities
-- code: '194'
   type: municipalities
 - code: '126'
   type: municipalities
 - code: '127'
-  type: municipalities
-- code: '184'
-  type: municipalities
-- code: '010'
   type: municipalities
 - code: '128'
   type: municipalities
@@ -369,21 +259,13 @@
   type: municipalities
 - code: '130'
   type: municipalities
-- code: '185'
-  type: municipalities
-- code: '186'
-  type: municipalities
 - code: '131'
   type: municipalities
 - code: '132'
   type: municipalities
 - code: '133'
   type: municipalities
-- code: '187'
-  type: municipalities
 - code: '134'
-  type: municipalities
-- code: '188'
   type: municipalities
 - code: '135'
   type: municipalities
@@ -395,8 +277,6 @@
   type: municipalities
 - code: '139'
   type: municipalities
-- code: '189'
-  type: municipalities
 - code: '140'
   type: municipalities
 - code: '141'
@@ -407,15 +287,135 @@
   type: municipalities
 - code: '144'
   type: municipalities
-- code: '190'
-  type: municipalities
 - code: '146'
   type: municipalities
-- code: '191'
-  type: municipalities
 - code: '147'
+  type: municipalities
+- code: '148'
+  type: municipalities
+- code: '149'
+  type: municipalities
+- code: '150'
+  type: municipalities
+- code: '151'
+  type: municipalities
+- code: '152'
+  type: municipalities
+- code: '153'
+  type: municipalities
+- code: '154'
+  type: municipalities
+- code: '155'
+  type: municipalities
+- code: '156'
+  type: municipalities
+- code: '157'
+  type: municipalities
+- code: '158'
+  type: municipalities
+- code: '159'
+  type: municipalities
+- code: '160'
+  type: municipalities
+- code: '161'
+  type: municipalities
+- code: '162'
+  type: municipalities
+- code: '163'
+  type: municipalities
+- code: '164'
+  type: municipalities
+- code: '165'
+  type: municipalities
+- code: '166'
+  type: municipalities
+- code: '167'
+  type: municipalities
+- code: '168'
+  type: municipalities
+- code: '169'
+  type: municipalities
+- code: '170'
+  type: municipalities
+- code: '171'
+  type: municipalities
+- code: '172'
+  type: municipalities
+- code: '173'
+  type: municipalities
+- code: '174'
+  type: municipalities
+- code: '175'
+  type: municipalities
+- code: '176'
+  type: municipalities
+- code: '177'
+  type: municipalities
+- code: '178'
+  type: municipalities
+- code: '179'
+  type: municipalities
+- code: '180'
+  type: municipalities
+- code: '181'
+  type: municipalities
+- code: '182'
+  type: municipalities
+- code: '183'
+  type: municipalities
+- code: '184'
+  type: municipalities
+- code: '185'
+  type: municipalities
+- code: '186'
+  type: municipalities
+- code: '187'
+  type: municipalities
+- code: '188'
+  type: municipalities
+- code: '189'
+  type: municipalities
+- code: '190'
+  type: municipalities
+- code: '191'
   type: municipalities
 - code: '192'
   type: municipalities
 - code: '193'
+  type: municipalities
+- code: '194'
+  type: municipalities
+- code: '195'
+  type: municipalities
+- code: '196'
+  type: municipalities
+- code: '197'
+  type: municipalities
+- code: '198'
+  type: municipalities
+- code: '199'
+  type: municipalities
+- code: '200'
+  type: municipalities
+- code: '201'
+  type: municipalities
+- code: '202'
+  type: municipalities
+- code: '203'
+  type: municipalities
+- code: '204'
+  type: municipalities
+- code: '205'
+  type: municipalities
+- code: '206'
+  type: municipalities
+- code: '207'
+  type: municipalities
+- code: '208'
+  type: municipalities
+- code: '209'
+  type: municipalities
+- code: '210'
+  type: municipalities
+- code: '211'
   type: municipalities

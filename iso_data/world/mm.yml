@@ -1,5 +1,5 @@
 ---
-- code: '07'
+- code: '01'
   type: division
 - code: '02'
   type: division
@@ -7,19 +7,19 @@
   type: division
 - code: '04'
   type: division
-- code: '01'
-  type: division
 - code: '05'
   type: division
 - code: '06'
   type: division
-- code: '14'
-  type: state
+- code: '07'
+  type: division
 - code: '11'
   type: state
 - code: '12'
   type: state
 - code: '13'
+  type: state
+- code: '14'
   type: state
 - code: '15'
   type: state

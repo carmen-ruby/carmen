@@ -2,10 +2,6 @@
 en:
   world:
     pe:
-      cal:
-        name: El Callao
-      lma:
-        name: Municipalidad Metropolitana de Lima
       ama:
         name: Amazonas
       anc:
@@ -18,12 +14,14 @@ en:
         name: Ayacucho
       caj:
         name: Cajamarca
+      cal:
+        name: El Callao
       cus:
         name: Cusco [Cuzco]
-      huv:
-        name: Huancavelica
       huc:
         name: Huánuco
+      huv:
+        name: Huancavelica
       ica:
         name: Ica
       jun:
@@ -34,6 +32,8 @@ en:
         name: Lambayeque
       lim:
         name: Lima
+      lma:
+        name: Municipalidad Metropolitana de Lima
       lor:
         name: Loreto
       mdd:

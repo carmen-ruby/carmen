@@ -1,15 +1,15 @@
 ---
-- code: C
-  type: province
-- code: I
-  type: province
 - code: AN
   type: province
 - code: BN
   type: province
 - code: BS
   type: province
+- code: C
+  type: province
 - code: CS
+  type: province
+- code: I
   type: province
 - code: KN
   type: province

@@ -2,16 +2,13 @@ require 'spec_helper'
 
 describe "basic sanity check" do
   before do
-    @__test_data_path = Carmen.data_path
-    @__test_locale_paths = Carmen.i18n_backend.locale_paths
-    Carmen.data_path = File.expand_path('../../../iso_data', __FILE__)
-    locale_path = File.expand_path('../../../locale', __FILE__)
-    Carmen.i18n_backend = Carmen::I18n::Simple.new(locale_path)
+    Carmen.reset_data_paths
+    Carmen.reset_i18n_backend
   end
 
   after do
-    Carmen.data_path = @__test_data_path
-    Carmen.i18n_backend = Carmen::I18n::Simple.new(@__test_locale_paths)
+    setup_carmen_test_i18n_backend
+    setup_carmen_test_data_path
   end
 
   it "has 249 countries" do

@@ -11,14 +11,20 @@
   type: district
 - code: DA
   type: district
+- code: DGV
+  type: city
 - code: DO
   type: district
 - code: GU
   type: district
+- code: JEL
+  type: city
 - code: JK
   type: district
 - code: JL
   type: district
+- code: JUR
+  type: city
 - code: KR
   type: district
 - code: KU
@@ -27,6 +33,8 @@
   type: district
 - code: LM
   type: district
+- code: LPX
+  type: city
 - code: LU
   type: district
 - code: MA
@@ -37,31 +45,23 @@
   type: district
 - code: RE
   type: district
+- code: REZ
+  type: city
 - code: RI
   type: district
+- code: RIX
+  type: city
 - code: SA
   type: district
 - code: TA
   type: district
 - code: TU
   type: district
+- code: VE
+  type: district
+- code: VEN
+  type: city
 - code: VK
   type: district
 - code: VM
   type: district
-- code: VE
-  type: district
-- code: DGV
-  type: city
-- code: JEL
-  type: city
-- code: JUR
-  type: city
-- code: LPX
-  type: city
-- code: REZ
-  type: city
-- code: RIX
-  type: city
-- code: VEN
-  type: city

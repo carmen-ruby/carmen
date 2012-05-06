@@ -1,15 +1,15 @@
 ---
-- code: '07'
-  type: parish
 - code: '02'
   type: parish
 - code: '03'
-  type: parish
-- code: '08'
   type: parish
 - code: '04'
   type: parish
 - code: '05'
   type: parish
 - code: '06'
+  type: parish
+- code: '07'
+  type: parish
+- code: '08'
   type: parish

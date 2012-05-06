@@ -31,8 +31,6 @@
   type: district
 - code: '16'
   type: district
-- code: '24'
-  type: district
 - code: '17'
   type: district
 - code: '18'
@@ -43,9 +41,11 @@
   type: district
 - code: '21'
   type: district
-- code: '25'
-  type: district
 - code: '22'
   type: district
 - code: '23'
+  type: district
+- code: '24'
+  type: district
+- code: '25'
   type: district

@@ -2,16 +2,16 @@
 en:
   world:
     af:
-      bds:
-        name: Badakhshān
-      bdg:
-        name: Bādghīs
-      bgl:
-        name: Baghlān
       bal:
         name: Balkh
       bam:
         name: Bāmīān
+      bdg:
+        name: Bādghīs
+      bds:
+        name: Badakhshān
+      bgl:
+        name: Baghlān
       day:
         name: Dāykondī
       fra:
@@ -34,12 +34,12 @@ en:
         name: Kandahār
       kap:
         name: Kāpīsā
+      kdz:
+        name: Kondoz [Kunduz]
       kho:
         name: Khowst
       knr:
         name: Konar [Kunar]
-      kdz:
-        name: Kondoz [Kunduz]
       lag:
         name: Laghmān
       low:
@@ -54,12 +54,12 @@ en:
         name: Orūzgān [Urūzgān]
       pan:
         name: Panjshīr
+      par:
+        name: Parwān
       pia:
         name: Paktīā
       pka:
         name: Paktīkā
-      par:
-        name: Parwān
       sam:
         name: Samangān
       sar:

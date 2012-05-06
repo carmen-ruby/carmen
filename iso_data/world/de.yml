@@ -1,13 +1,19 @@
 ---
+- code: BB
+  type: state
+- code: BE
+  type: state
 - code: BW
   type: state
 - code: BY
   type: state
 - code: HB
   type: state
+- code: HE
+  type: state
 - code: HH
   type: state
-- code: HE
+- code: MV
   type: state
 - code: NI
   type: state
@@ -15,15 +21,9 @@
   type: state
 - code: RP
   type: state
-- code: SL
-  type: state
 - code: SH
   type: state
-- code: BE
-  type: state
-- code: BB
-  type: state
-- code: MV
+- code: SL
   type: state
 - code: SN
   type: state

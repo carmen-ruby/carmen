@@ -2,18 +2,18 @@
 en:
   world:
     bo:
-      h:
-        name: Chuquisaca
-      c:
-        name: Cochabamba
       b:
         name: El Beni
+      c:
+        name: Cochabamba
+      h:
+        name: Chuquisaca
       l:
         name: La Paz
-      o:
-        name: Oruro
       n:
         name: Pando
+      o:
+        name: Oruro
       p:
         name: Potosí
       s:

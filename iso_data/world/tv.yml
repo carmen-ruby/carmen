@@ -1,10 +1,6 @@
 ---
 - code: FUN
   type: town council
-- code: NMG
-  type: island council
-- code: NMA
-  type: island council
 - code: NIT
   type: island council
 - code: NIU
@@ -12,6 +8,10 @@
 - code: NKF
   type: island council
 - code: NKL
+  type: island council
+- code: NMA
+  type: island council
+- code: NMG
   type: island council
 - code: VAI
   type: island council

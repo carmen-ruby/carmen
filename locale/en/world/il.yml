@@ -4,13 +4,13 @@ en:
     il:
       d:
         name: HaDarom
-      m:
-        name: HaMerkaz
-      z:
-        name: HaZafon
       ha:
         name: Hefa
-      ta:
-        name: Tel-Aviv
       jm:
         name: Yerushalayim Al Quds
+      m:
+        name: HaMerkaz
+      ta:
+        name: Tel-Aviv
+      z:
+        name: HaZafon

@@ -6,27 +6,27 @@ en:
         name: Ahuachapán
       ca:
         name: Cabañas
-      cu:
-        name: Cuscatlán
       ch:
         name: Chalatenango
+      cu:
+        name: Cuscatlán
       li:
         name: La Libertad
-      pa:
-        name: La Paz
-      un:
-        name: La Unión
       mo:
         name: Morazán
-      sm:
-        name: San Miguel
-      ss:
-        name: San Salvador
+      pa:
+        name: La Paz
       sa:
         name: Santa Ana
-      sv:
-        name: San Vicente
+      sm:
+        name: San Miguel
       so:
         name: Sonsonate
+      ss:
+        name: San Salvador
+      sv:
+        name: San Vicente
+      un:
+        name: La Unión
       us:
         name: Usulután

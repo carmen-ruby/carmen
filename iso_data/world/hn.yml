@@ -1,6 +1,8 @@
 ---
 - code: AT
   type: department
+- code: CH
+  type: department
 - code: CL
   type: department
 - code: CM
@@ -9,21 +11,19 @@
   type: department
 - code: CR
   type: department
-- code: CH
-  type: department
 - code: EP
   type: department
 - code: FM
   type: department
 - code: GD
   type: department
-- code: IN
-  type: department
 - code: IB
   type: department
-- code: LP
+- code: IN
   type: department
 - code: LE
+  type: department
+- code: LP
   type: department
 - code: OC
   type: department

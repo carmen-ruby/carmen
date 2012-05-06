@@ -2,43 +2,43 @@
 en:
   world:
     mv:
-      mle:
-        name: Male
+      '01':
+        name: Seenu
       '02':
         name: Alif
-      '20':
-        name: Baa
-      '17':
-        name: Dhaalu
+      '03':
+        name: Lhaviyani
+      '04':
+        name: Vaavu
+      '05':
+        name: Laamu
+      '07':
+        name: Haa Alif
+      '08':
+        name: Thaa
+      '12':
+        name: Meemu
+      '13':
+        name: Raa
       '14':
         name: Faafu
+      '17':
+        name: Dhaalu
+      '20':
+        name: Baa
+      '23':
+        name: Haa Dhaalu
+      '24':
+        name: Shaviyani
+      '25':
+        name: Noonu
+      '26':
+        name: Kaafu
       '27':
         name: Gaafu Aliff
       '28':
         name: Gaafu Daalu
       '29':
         name: Gnaviyani
-      '07':
-        name: Haa Alif
-      '23':
-        name: Haa Dhaalu
-      '26':
-        name: Kaafu
-      '05':
-        name: Laamu
-      '03':
-        name: Lhaviyani
-      '12':
-        name: Meemu
-      '25':
-        name: Noonu
-      '13':
-        name: Raa
-      '01':
-        name: Seenu
-      '24':
-        name: Shaviyani
-      '08':
-        name: Thaa
-      '04':
-        name: Vaavu
+      mle:
+        name: Male

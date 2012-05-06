@@ -1,14 +1,22 @@
 ---
 - code: CHA
   type: district
+- code: CYI
+  type: municipality
 - code: CYQ
   type: district
 - code: HSQ
   type: district
+- code: HSZ
+  type: municipality
 - code: HUA
   type: district
 - code: ILA
   type: district
+- code: KEE
+  type: municipality
+- code: KHH
+  type: special municipality
 - code: KHQ
   type: district
 - code: MIA
@@ -19,29 +27,21 @@
   type: district
 - code: PIF
   type: district
-- code: TXQ
+- code: TAO
   type: district
+- code: TNN
+  type: municipality
 - code: TNQ
   type: district
+- code: TPE
+  type: special municipality
 - code: TPQ
   type: district
 - code: TTT
   type: district
-- code: TAO
+- code: TXG
+  type: municipality
+- code: TXQ
   type: district
 - code: YUN
   type: district
-- code: CYI
-  type: municipality
-- code: HSZ
-  type: municipality
-- code: KEE
-  type: municipality
-- code: TXG
-  type: municipality
-- code: TNN
-  type: municipality
-- code: KHH
-  type: special municipality
-- code: TPE
-  type: special municipality

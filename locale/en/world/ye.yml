@@ -6,20 +6,12 @@ en:
         name: Abyān
       ad:
         name: ! '''Adan'
-      da:
-        name: Aḑ Ḑāli‘
-      ba:
-        name: Al Bayḑā'
-      mu:
-        name: Al Ḩudaydah
-      ja:
-        name: Al Jawf
-      mr:
-        name: Al Mahrah
-      mw:
-        name: Al Maḩwīt
       am:
         name: ! '''Amrān'
+      ba:
+        name: Al Bayḑā'
+      da:
+        name: Aḑ Ḑāli‘
       dh:
         name: Dhamār
       hd:
@@ -28,17 +20,25 @@ en:
         name: Ḩajjah
       ib:
         name: Ibb
+      ja:
+        name: Al Jawf
       la:
         name: Laḩij
       ma:
         name: Ma'rib
+      mr:
+        name: Al Mahrah
+      mu:
+        name: Al Ḩudaydah
+      mw:
+        name: Al Maḩwīt
       ra:
         name: Raymah
       sd:
         name: Şa'dah
-      sn:
-        name: Şan'ā'
       sh:
         name: Shabwah
+      sn:
+        name: Şan'ā'
       ta:
         name: Tā'izz

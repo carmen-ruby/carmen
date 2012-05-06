@@ -5,13 +5,13 @@
   type: province
 - code: GT
   type: province
-- code: NL
-  type: province
 - code: LP
   type: province
 - code: MP
   type: province
 - code: NC
+  type: province
+- code: NL
   type: province
 - code: NW
   type: province

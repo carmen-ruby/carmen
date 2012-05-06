@@ -1,6 +1,4 @@
 ---
-- code: VT
-  type: prefecture
 - code: AT
   type: province
 - code: BK
@@ -27,6 +25,8 @@
   type: province
 - code: VI
   type: province
+- code: VT
+  type: prefecture
 - code: XA
   type: province
 - code: XE

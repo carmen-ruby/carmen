@@ -9,13 +9,13 @@
   type: province
 - code: ME
   type: province
-- code: MW
-  type: province
-- code: MV
+- code: MI
   type: province
 - code: MN
   type: province
 - code: MS
   type: province
-- code: MI
+- code: MV
+  type: province
+- code: MW
   type: province

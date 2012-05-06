@@ -1,9 +1,9 @@
 ---
-- code: TRK
-  type: state
 - code: KSA
   type: state
 - code: PNI
+  type: state
+- code: TRK
   type: state
 - code: YAP
   type: state

@@ -4,30 +4,32 @@ en:
     ro:
       ab:
         name: Alba
-      ar:
-        name: Arad
       ag:
         name: Argeș
+      ar:
+        name: Arad
+      b:
+        name: București
       bc:
         name: Bacău
       bh:
         name: Bihor
       bn:
         name: Bistrița-Năsăud
+      br:
+        name: Brăila
       bt:
         name: Botoșani
       bv:
         name: Brașov
-      br:
-        name: Brăila
       bz:
         name: Buzău
-      cs:
-        name: Caraș-Severin
-      cl:
-        name: Călărași
       cj:
         name: Cluj
+      cl:
+        name: Călărași
+      cs:
+        name: Caraș-Severin
       ct:
         name: Constanța
       cv:
@@ -36,26 +38,26 @@ en:
         name: Dâmbovița
       dj:
         name: Dolj
+      gj:
+        name: Gorj
       gl:
         name: Galați
       gr:
         name: Giurgiu
-      gj:
-        name: Gorj
-      hr:
-        name: Harghita
       hd:
         name: Hunedoara
+      hr:
+        name: Harghita
+      if:
+        name: Ilfov
       il:
         name: Ialomița
       is:
         name: Iași
-      if:
-        name: Ilfov
-      mm:
-        name: Maramureș
       mh:
         name: Mehedinți
+      mm:
+        name: Maramureș
       ms:
         name: Mureș
       nt:
@@ -64,25 +66,23 @@ en:
         name: Olt
       ph:
         name: Prahova
-      sm:
-        name: Satu Mare
-      sj:
-        name: Sălaj
       sb:
         name: Sibiu
+      sj:
+        name: Sălaj
+      sm:
+        name: Satu Mare
       sv:
         name: Suceava
-      tr:
-        name: Teleorman
-      tm:
-        name: Timiș
       tl:
         name: Tulcea
-      vs:
-        name: Vaslui
+      tm:
+        name: Timiș
+      tr:
+        name: Teleorman
       vl:
         name: Vâlcea
       vn:
         name: Vrancea
-      b:
-        name: București
+      vs:
+        name: Vaslui

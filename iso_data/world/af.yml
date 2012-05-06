@@ -1,13 +1,13 @@
 ---
-- code: BDS
-  type: province
-- code: BDG
-  type: province
-- code: BGL
-  type: province
 - code: BAL
   type: province
 - code: BAM
+  type: province
+- code: BDG
+  type: province
+- code: BDS
+  type: province
+- code: BGL
   type: province
 - code: DAY
   type: province
@@ -31,11 +31,11 @@
   type: province
 - code: KAP
   type: province
+- code: KDZ
+  type: province
 - code: KHO
   type: province
 - code: KNR
-  type: province
-- code: KDZ
   type: province
 - code: LAG
   type: province
@@ -51,11 +51,11 @@
   type: province
 - code: PAN
   type: province
+- code: PAR
+  type: province
 - code: PIA
   type: province
 - code: PKA
-  type: province
-- code: PAR
   type: province
 - code: SAM
   type: province

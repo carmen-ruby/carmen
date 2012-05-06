@@ -2,22 +2,22 @@
 en:
   world:
     cd:
-      kn:
-        name: Kinshasa
-      bn:
-        name: Bandundu
       bc:
         name: Bas-Congo
+      bn:
+        name: Bandundu
       eq:
         name: Équateur
       hc:
         name: Haut-Congo
-      kw:
-        name: Kasai-Occidental
-      ke:
-        name: Kasai-Oriental
       ka:
         name: Katanga
+      ke:
+        name: Kasai-Oriental
+      kn:
+        name: Kinshasa
+      kw:
+        name: Kasai-Occidental
       ma:
         name: Maniema
       nk:

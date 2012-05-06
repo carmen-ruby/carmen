@@ -3,9 +3,9 @@
   type: province
 - code: CE
   type: province
-- code: ES
-  type: province
 - code: EN
+  type: province
+- code: ES
   type: province
 - code: LT
   type: province
@@ -13,9 +13,9 @@
   type: province
 - code: NW
   type: province
+- code: OU
+  type: province
 - code: SU
   type: province
 - code: SW
-  type: province
-- code: OU
   type: province

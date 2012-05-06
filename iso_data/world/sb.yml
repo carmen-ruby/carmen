@@ -1,10 +1,10 @@
 ---
-- code: CT
-  type: capital territory
 - code: CE
   type: province
 - code: CH
   type: province
+- code: CT
+  type: capital territory
 - code: GU
   type: province
 - code: IS

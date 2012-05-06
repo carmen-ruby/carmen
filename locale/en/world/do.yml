@@ -14,30 +14,24 @@ en:
         name: Dajabón
       '06':
         name: Duarte
+      '07':
+        name: La Estrelleta [Elías Piña]
       '08':
         name: El Seybo [El Seibo]
       '09':
         name: Espaillat
-      '30':
-        name: Hato Mayor
       '10':
         name: Independencia
       '11':
         name: La Altagracia
-      '07':
-        name: La Estrelleta [Elías Piña]
       '12':
         name: La Romana
       '13':
         name: La Vega
       '14':
         name: María Trinidad Sánchez
-      '28':
-        name: Monseñor Nouel
       '15':
         name: Monte Cristi
-      '29':
-        name: Monte Plata
       '16':
         name: Pedernales
       '17':
@@ -62,3 +56,9 @@ en:
         name: Santiago Rodríguez
       '27':
         name: Valverde
+      '28':
+        name: Monseñor Nouel
+      '29':
+        name: Monte Plata
+      '30':
+        name: Hato Mayor

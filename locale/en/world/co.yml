@@ -2,8 +2,6 @@
 en:
   world:
     co:
-      dc:
-        name: Distrito Capital de Bogotá
       ama:
         name: Amazonas
       ant:
@@ -32,6 +30,8 @@ en:
         name: Córdoba
       cun:
         name: Cundinamarca
+      dc:
+        name: Distrito Capital de Bogotá
       gua:
         name: Guainía
       guv:
@@ -54,10 +54,10 @@ en:
         name: Quindío
       ris:
         name: Risaralda
-      sap:
-        name: San Andrés, Providencia y Santa Catalina
       san:
         name: Santander
+      sap:
+        name: San Andrés, Providencia y Santa Catalina
       suc:
         name: Sucre
       tol:

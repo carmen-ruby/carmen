@@ -17,17 +17,27 @@
   type: municipality
 - code: '09'
   type: municipality
-- code: '77'
+- code: '10'
   type: municipality
-- code: '78'
+- code: '11'
   type: municipality
-- code: '79'
+- code: '12'
   type: municipality
-- code: '80'
+- code: '13'
   type: municipality
-- code: '81'
+- code: '14'
   type: municipality
-- code: '82'
+- code: '15'
+  type: municipality
+- code: '16'
+  type: municipality
+- code: '17'
+  type: municipality
+- code: '18'
+  type: municipality
+- code: '19'
+  type: municipality
+- code: '20'
   type: municipality
 - code: '21'
   type: municipality
@@ -35,9 +45,9 @@
   type: municipality
 - code: '23'
   type: municipality
-- code: '25'
-  type: municipality
 - code: '24'
+  type: municipality
+- code: '25'
   type: municipality
 - code: '26'
   type: municipality
@@ -45,33 +55,33 @@
   type: municipality
 - code: '28'
   type: municipality
-- code: '17'
-  type: municipality
-- code: '18'
-  type: municipality
 - code: '29'
   type: municipality
-- code: '19'
+- code: '30'
   type: municipality
-- code: '20'
+- code: '31'
+  type: municipality
+- code: '32'
+  type: municipality
+- code: '33'
   type: municipality
 - code: '34'
   type: municipality
 - code: '35'
   type: municipality
+- code: '36'
+  type: municipality
 - code: '37'
   type: municipality
 - code: '38'
   type: municipality
-- code: '36'
+- code: '39'
   type: municipality
 - code: '40'
   type: municipality
-- code: '39'
+- code: '41'
   type: municipality
 - code: '42'
-  type: municipality
-- code: '41'
   type: municipality
 - code: '43'
   type: municipality
@@ -87,11 +97,11 @@
   type: municipality
 - code: '49'
   type: municipality
+- code: '50'
+  type: municipality
 - code: '51'
   type: municipality
 - code: '52'
-  type: municipality
-- code: '50'
   type: municipality
 - code: '53'
   type: municipality
@@ -101,13 +111,13 @@
   type: municipality
 - code: '56'
   type: municipality
-- code: '58'
-  type: municipality
 - code: '57'
   type: municipality
-- code: '60'
+- code: '58'
   type: municipality
 - code: '59'
+  type: municipality
+- code: '60'
   type: municipality
 - code: '61'
   type: municipality
@@ -125,9 +135,7 @@
   type: municipality
 - code: '68'
   type: municipality
-- code: '83'
-  type: municipality
-- code: '84'
+- code: '69'
   type: municipality
 - code: '70'
   type: municipality
@@ -139,31 +147,23 @@
   type: municipality
 - code: '74'
   type: municipality
-- code: '69'
-  type: municipality
 - code: '75'
   type: municipality
 - code: '76'
   type: municipality
-- code: '10'
+- code: '77'
   type: municipality
-- code: '11'
+- code: '78'
   type: municipality
-- code: '13'
+- code: '79'
   type: municipality
-- code: '12'
+- code: '80'
   type: municipality
-- code: '14'
+- code: '81'
   type: municipality
-- code: '15'
+- code: '82'
   type: municipality
-- code: '16'
+- code: '83'
   type: municipality
-- code: '31'
-  type: municipality
-- code: '32'
-  type: municipality
-- code: '30'
-  type: municipality
-- code: '33'
+- code: '84'
   type: municipality

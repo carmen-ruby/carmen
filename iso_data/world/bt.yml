@@ -1,41 +1,41 @@
 ---
-- code: '33'
+- code: '11'
   type: district
 - code: '12'
   type: district
-- code: '22'
-  type: district
-- code: GA
-  type: district
 - code: '13'
-  type: district
-- code: '44'
-  type: district
-- code: '42'
-  type: district
-- code: '11'
-  type: district
-- code: '43'
-  type: district
-- code: '23'
-  type: district
-- code: '45'
   type: district
 - code: '14'
   type: district
-- code: '31'
-  type: district
 - code: '15'
-  type: district
-- code: '41'
-  type: district
-- code: TY
-  type: district
-- code: '32'
   type: district
 - code: '21'
   type: district
+- code: '22'
+  type: district
+- code: '23'
+  type: district
 - code: '24'
   type: district
+- code: '31'
+  type: district
+- code: '32'
+  type: district
+- code: '33'
+  type: district
 - code: '34'
+  type: district
+- code: '41'
+  type: district
+- code: '42'
+  type: district
+- code: '43'
+  type: district
+- code: '44'
+  type: district
+- code: '45'
+  type: district
+- code: GA
+  type: district
+- code: TY
   type: district

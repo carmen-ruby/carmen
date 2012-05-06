@@ -2,8 +2,6 @@
 en:
   world:
     ng:
-      fc:
-        name: Abuja Capital Territory
       ab:
         name: Abia
       ad:
@@ -14,12 +12,12 @@ en:
         name: Anambra
       ba:
         name: Bauchi
-      by:
-        name: Bayelsa
       be:
         name: Benue
       bo:
         name: Borno
+      by:
+        name: Bayelsa
       cr:
         name: Cross River
       de:
@@ -32,6 +30,8 @@ en:
         name: Ekiti
       en:
         name: Enugu
+      fc:
+        name: Abuja Capital Territory
       go:
         name: Gombe
       im:
@@ -40,14 +40,14 @@ en:
         name: Jigawa
       kd:
         name: Kaduna
-      kn:
-        name: Kano
-      kt:
-        name: Katsina
       ke:
         name: Kebbi
+      kn:
+        name: Kano
       ko:
         name: Kogi
+      kt:
+        name: Katsina
       kw:
         name: Kwara
       la:

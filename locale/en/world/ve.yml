@@ -2,12 +2,8 @@
 en:
   world:
     ve:
-      w:
-        name: Dependencias Federales
       a:
         name: Distrito Federal
-      z:
-        name: Amazonas
       b:
         name: Anzoátegui
       c:
@@ -22,8 +18,6 @@ en:
         name: Carabobo
       h:
         name: Cojedes
-      y:
-        name: Delta Amacuro
       i:
         name: Falcón
       j:
@@ -46,9 +40,15 @@ en:
         name: Táchira
       t:
         name: Trujillo
-      x:
-        name: Vargas
       u:
         name: Yaracuy
       v:
         name: Zulia
+      w:
+        name: Dependencias Federales
+      x:
+        name: Vargas
+      y:
+        name: Delta Amacuro
+      z:
+        name: Amazonas

@@ -3,11 +3,11 @@
   type: province
 - code: KP
   type: province
-- code: LU
-  type: province
 - code: LB
   type: province
 - code: LD
+  type: province
+- code: LU
   type: province
 - code: MA
   type: province
@@ -15,15 +15,15 @@
   type: province
 - code: OP
   type: province
-- code: PK
-  type: province
 - code: PD
+  type: province
+- code: PK
   type: province
 - code: PM
   type: province
-- code: SL
-  type: province
 - code: SK
+  type: province
+- code: SL
   type: province
 - code: WN
   type: province

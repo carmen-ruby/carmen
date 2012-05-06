@@ -1,19 +1,19 @@
 ---
+- code: '67'
+  type: territory
+- code: '71'
+  type: territory
+- code: '76'
+  type: territory
+- code: '79'
+  type: territory
 - code: '81'
   type: territory
 - code: '84'
   type: territory
 - code: '86'
   type: territory
-- code: '67'
-  type: territory
 - code: '89'
   type: territory
-- code: '71'
-  type: territory
-- code: '76'
-  type: territory
 - code: '95'
-  type: territory
-- code: '79'
   type: territory

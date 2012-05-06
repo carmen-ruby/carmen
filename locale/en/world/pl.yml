@@ -6,28 +6,28 @@ en:
         name: Dolnośląskie
       kp:
         name: Kujawsko-pomorskie
-      lu:
-        name: Lubelskie
       lb:
         name: Lubuskie
       ld:
         name: Łódzkie
+      lu:
+        name: Lubelskie
       ma:
         name: Małopolskie
       mz:
         name: Mazowieckie
       op:
         name: Opolskie
-      pk:
-        name: Podkarpackie
       pd:
         name: Podlaskie
+      pk:
+        name: Podkarpackie
       pm:
         name: Pomorskie
-      sl:
-        name: Śląskie
       sk:
         name: Świętokrzyskie
+      sl:
+        name: Śląskie
       wn:
         name: Warmińsko-mazurskie
       wp:

@@ -2,8 +2,6 @@
 en:
   world:
     uz:
-      tk:
-        name: Toshkent
       an:
         name: Andijon
       bu:
@@ -18,15 +16,17 @@ en:
         name: Navoiy
       qa:
         name: Qashqadaryo
+      qr:
+        name: Qoraqalpog'iston Respublikasi
       sa:
         name: Samarqand
       si:
         name: Sirdaryo
       su:
         name: Surxondaryo
+      tk:
+        name: Toshkent
       to:
         name: Toshkent
       xo:
         name: Xorazm
-      qr:
-        name: Qoraqalpog'iston Respublikasi

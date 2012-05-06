@@ -1,6 +1,4 @@
 ---
-- code: DIF
-  type: federal district
 - code: AGU
   type: state
 - code: BCN
@@ -9,19 +7,21 @@
   type: state
 - code: CAM
   type: state
+- code: CHH
+  type: state
+- code: CHP
+  type: state
 - code: COA
   type: state
 - code: COL
   type: state
-- code: CHP
-  type: state
-- code: CHH
-  type: state
+- code: DIF
+  type: federal district
 - code: DUR
   type: state
-- code: GUA
-  type: state
 - code: GRO
+  type: state
+- code: GUA
   type: state
 - code: HID
   type: state
@@ -45,9 +45,9 @@
   type: state
 - code: ROO
   type: state
-- code: SLP
-  type: state
 - code: SIN
+  type: state
+- code: SLP
   type: state
 - code: SON
   type: state
