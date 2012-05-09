@@ -3,7 +3,7 @@ require File.expand_path('../lib/carmen/version', __FILE__)
 
 Gem::Specification.new do |s|
   s.name = %q{carmen}
-  s.summary = %q{A collection of geographic region names and abbreviations for Ruby}
+  s.summary = %q{A collection of geographic region data for Ruby}
   s.description = %q{Includes data from the Debian iso-data project.}
   s.version = Carmen::VERSION
   s.authors = ["Jim Benton"]

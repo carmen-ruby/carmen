@@ -1,42 +1,21 @@
-# WARNING
-
-This branch (master) is home to a rewrite of the Carmen library. If you're currently using Carmen in your application, you probably want to see the [0.2.x branch](https://github.com/jim/carmen/tree/0.2.x), which will be maintained until version 1 is ready.
-
-If you'd like become a maintainer of the project, please let me know.
-
 # Carmen- A repository of geographic regions for Ruby
 
 [![Build Status](https://secure.travis-ci.org/jim/carmen.png?branch=master)](http://travis-ci.org/jim/carmen)
 
-## A Little History
+Carmen 1.0 is a rewrite of the library, seperating out the geographic
+components from the Rails-specific view helpers. If you are using Carmen with
+Rails, you should check out the
+[carmen-rails](http://github.com/jim/carmen-rails) library.
 
-Carmen began its life as a replacement for Rails' country_select and
-state_select helpers. The API of the library was designed to facilitate
-a few view helpers and model validations, and that was about it.
+The [0.2.x branch](https://github.com/jim/carmen/tree/0.2.x) contains the previous
+version of Carmen should you need it for some reason.
 
-## Today
-
-It's been a few years since Carmen was released, and it has been used by a lot of projects. Many fine individuals have contributed code and
-data- I'm really happy with the way the [community](https://github.com/jim/carmen/contributors) has improved the library. But this growth has brought to light many of the weaknesses in the current library and implementation.
-
-I have decided that it is time to go back and rethink Carmen's
-data model and API, and in the process address some long standing
-issues. Carmen 1.0 will feature the following:
+Carmen 1.0 features the following:
 
 * A new, cleaner API
 * Support for the old API via an optional require
 * More complete data via the iso-codes Debian package (idea borrowed from [here](https://github.com/pluginaweek/has_addresses))
-* A sane approach to internationalization, utilizing an existing i18n
-  library.
-
-## The TODO
-
-* Switch to a more complete data source (done)
-* Add the ability to overlay custom data on the dataset (done)
-* Rewrite spike-level V2 API implementation (working)
-* Provide a legacy api so existing users have an upgrade path: 'carmen/legacy'
-* Separate Rails view methods out into a carmen-rails gem (in progress)
-* i18n integration (working)
+* A sane approach to internationalization
 
 # How to Use Carmen
 
