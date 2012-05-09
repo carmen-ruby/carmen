@@ -17,6 +17,10 @@ describe "I18n::Simple" do
     @i18n = Carmen::I18n::Simple.new(path)
   end
 
+  it 'knows which locales are available' do
+    @i18n.available_locales.must_equal ['en']
+  end
+
   it "loads and merges yaml files" do
     @i18n.t('world.oc.name').must_equal 'Oceania'
     @i18n.t('world.oc.ao.name').must_equal 'Airstrip One'
@@ -52,6 +56,10 @@ describe "I18n::Simple" do
     after do
       @i18n.locale = Carmen::I18n::Simple::DEFAULT_LOCALE
       @i18n.reset!
+    end
+
+    it 'retains existing locales' do
+      @i18n.available_locales.must_equal ['en', 'zz']
     end
 
     it 'can override the names of countries' do

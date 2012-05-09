@@ -61,6 +61,11 @@ module Carmen
         "<##{self.class} locale=#{locale}>"
       end
 
+      def available_locales
+        load_cache_if_needed
+        @cache.keys
+      end
+
     private
 
       def read(key)
