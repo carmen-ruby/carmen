@@ -3,8 +3,7 @@ require 'spec_helper'
 describe "Data overlaying" do
 
   before do
-    overlay_path = Carmen.root_path + 'spec/overlay/data'
-    Carmen.append_data_path(overlay_path)
+    Carmen.append_data_path(carmen_spec_overlay_data_path)
   end
 
   after do

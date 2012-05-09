@@ -13,7 +13,7 @@ end
 describe "I18n::Simple" do
 
   before do
-    path = File.expand_path('../../locale', __FILE__)
+    path = carmen_spec_locale_path
     @i18n = Carmen::I18n::Simple.new(path)
   end
 
@@ -30,7 +30,7 @@ describe "I18n::Simple" do
   describe "overlaying additional locale paths" do
 
     before do
-      @i18n.append_locale_path(File.expand_path('../../overlay/locale', __FILE__))
+      @i18n.append_locale_path(carmen_spec_overlay_locale_path)
     end
 
     after do
@@ -49,7 +49,7 @@ describe "I18n::Simple" do
 
   describe 'using a non-default locale' do
     before do
-      @i18n.append_locale_path(File.expand_path('../../overlay/locale', __FILE__))
+      @i18n.append_locale_path(carmen_spec_overlay_locale_path)
       @i18n.locale = 'zz'
     end
 
