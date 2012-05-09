@@ -63,7 +63,7 @@ module Carmen
 
       def available_locales
         load_cache_if_needed
-        @cache.keys
+        @cache.keys.sort
       end
 
     private
