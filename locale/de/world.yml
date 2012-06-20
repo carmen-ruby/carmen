@@ -144,7 +144,11 @@ de:
     bv:
       common_name: !!null 
       name: Bouvetinsel
-      official_name: !!null 
+      official_name: !!null
+    bq:
+      common_name: !!null
+      name: Bonaire, Sint Eustatius und Saba
+      official_name: !!null
     bw:
       common_name: !!null 
       name: Botswana
@@ -229,6 +233,10 @@ de:
       common_name: !!null 
       name: Kap Verde
       official_name: !!null 
+    cw:
+      common_name: !!null
+      name: Curaçao
+      official_name: !!null
     cx:
       common_name: !!null 
       name: Weihnachtsinsel
@@ -236,7 +244,7 @@ de:
     cy:
       common_name: !!null 
       name: Zypern
-      official_name: !!null 
+      official_name: !!null
     cz:
       common_name: !!null 
       name: Tschechische Republik
@@ -872,7 +880,11 @@ de:
     sr:
       common_name: !!null 
       name: Suriname
-      official_name: !!null 
+      official_name: !!null
+    ss:
+      common_name: !!null 
+      name: Südsudan
+      official_name: !!null
     st:
       common_name: !!null 
       name: São Tomé und Príncipe
@@ -884,6 +896,10 @@ de:
     sv:
       common_name: !!null 
       name: El Salvador
+      official_name: !!null
+    sx:
+      common_name: !!null
+      name: Sint Maarten
       official_name: !!null 
     sy:
       common_name: !!null 
@@ -1048,4 +1064,4 @@ de:
     zw:
       common_name: !!null 
       name: Simbabwe
-      official_name: !!null 
+      official_name: !!null
