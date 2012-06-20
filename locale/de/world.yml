@@ -183,7 +183,7 @@ de:
       official_name: !!null 
     ch:
       common_name: !!null 
-      name: Schweiz (Confoederatio Helvetica)
+      name: Schweiz
       official_name: !!null 
     ci:
       common_name: !!null 
@@ -305,7 +305,7 @@ de:
       common_name: !!null 
       name: Europäische Union
       official_name: !!null 
-    fi (sf):
+    fi:
       common_name: !!null 
       name: Finnland
       official_name: !!null 
