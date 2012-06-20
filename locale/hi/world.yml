@@ -5,979 +5,1224 @@ hi:
       common_name: !!null 
       name: अनडोरा
       official_name: !!null 
+      nationality: !!null 
     ae:
       common_name: !!null 
       name: संयुक्त अरब अमीरात
       official_name: !!null 
+      nationality: !!null 
     af:
       common_name: !!null 
       name: अफ़ग़ानिस्तान
       official_name: !!null 
+      nationality: !!null 
     ag:
       common_name: !!null 
       name: एंटीगुआ और बारबुडा
       official_name: !!null 
+      nationality: !!null 
     ai:
       common_name: !!null 
       name: एंगुइला
       official_name: !!null 
+      nationality: !!null 
     al:
       common_name: !!null 
       name: अल्बानिया
       official_name: !!null 
+      nationality: !!null 
     am:
       common_name: !!null 
       name: आर्मेनिया
       official_name: !!null 
+      nationality: !!null 
     an:
       common_name: !!null 
       name: नीदरलैंड एंटिल्स
       official_name: !!null 
+      nationality: !!null 
     ao:
       common_name: !!null 
       name: अंगोला
       official_name: !!null 
+      nationality: !!null 
     aq:
       common_name: !!null 
       name: अंटार्कटिका
       official_name: !!null 
+      nationality: !!null 
     ar:
       common_name: !!null 
       name: अर्जेंटीना
       official_name: !!null 
+      nationality: !!null 
     as:
       common_name: !!null 
       name: अमेरिकन समोआ
       official_name: !!null 
+      nationality: !!null 
     at:
       common_name: !!null 
       name: ऑस्ट्रिया
       official_name: !!null 
+      nationality: !!null 
     au:
       common_name: !!null 
       name: ऑस्ट्रेलिया
       official_name: !!null 
+      nationality: !!null 
     aw:
       common_name: !!null 
       name: अरूबा
       official_name: !!null 
+      nationality: !!null 
     ax:
       common_name: !!null 
       name: आलैंड द्वीप
       official_name: !!null 
+      nationality: !!null 
     az:
       common_name: !!null 
       name: अज़रबैजान
       official_name: !!null 
+      nationality: !!null 
     ba:
       common_name: !!null 
       name: बोस्निया और हरज़ेगोविना
       official_name: !!null 
+      nationality: !!null 
     bb:
       common_name: !!null 
       name: बारबाडोस
       official_name: !!null 
+      nationality: !!null 
     bd:
       common_name: !!null 
       name: बांग्लादेश
       official_name: !!null 
+      nationality: !!null 
     be:
       common_name: !!null 
       name: बेल्जियम
       official_name: !!null 
+      nationality: !!null 
     bf:
       common_name: !!null 
       name: बुर्किना फासो
       official_name: !!null 
+      nationality: !!null 
     bg:
       common_name: !!null 
       name: बुल्गारिया
       official_name: !!null 
+      nationality: !!null 
     bh:
       common_name: !!null 
       name: बहरीन
       official_name: !!null 
+      nationality: !!null 
     bi:
       common_name: !!null 
       name: बुस्र्न्दी
       official_name: !!null 
+      nationality: !!null 
     bj:
       common_name: !!null 
       name: बेनिन
       official_name: !!null 
+      nationality: !!null 
     bm:
       common_name: !!null 
       name: बरमूडा
       official_name: !!null 
+      nationality: !!null 
     bn:
       common_name: !!null 
       name: ब्रुनेई दारुसलाम
       official_name: !!null 
+      nationality: !!null 
     bo:
       common_name: !!null 
       name: बोलीविया
       official_name: !!null 
+      nationality: !!null 
     br:
       common_name: !!null 
       name: ब्राज़िल
       official_name: !!null 
+      nationality: !!null 
     bs:
       common_name: !!null 
       name: बहामा
       official_name: !!null 
+      nationality: !!null 
     bt:
       common_name: !!null 
       name: भूटान
       official_name: !!null 
+      nationality: !!null 
     bv:
       common_name: !!null 
       name: बुवेत आइलैंड
       official_name: !!null 
+      nationality: !!null 
     bw:
       common_name: !!null 
       name: बोत्सवाना
       official_name: !!null 
+      nationality: !!null 
     by:
       common_name: !!null 
       name: बेलारूस
       official_name: !!null 
+      nationality: !!null 
     bz:
       common_name: !!null 
       name: बेलीज
       official_name: !!null 
+      nationality: !!null 
     ca:
       common_name: !!null 
       name: कनाडा
       official_name: !!null 
+      nationality: !!null 
     cc:
       common_name: !!null 
       name: क्रिसमस द्वीप
       official_name: !!null 
+      nationality: !!null 
     cd:
       common_name: !!null 
       name: कांगो लोकतांत्रिक गणराज्य
       official_name: !!null 
+      nationality: !!null 
     cf:
       common_name: !!null 
       name: मध्य अफ्रीकी गणराज्य
       official_name: !!null 
+      nationality: !!null 
     cg:
       common_name: !!null 
       name: कांगो
       official_name: !!null 
+      nationality: !!null 
     ch:
       common_name: !!null 
       name: स्विट्जरलैंड
       official_name: !!null 
+      nationality: !!null 
     ci:
       common_name: !!null 
       name: कोटे डी आइवर
       official_name: !!null 
+      nationality: !!null 
     ck:
       common_name: !!null 
       name: कुक द्वीपसमूह
       official_name: !!null 
+      nationality: !!null 
     cl:
       common_name: !!null 
       name: चिली
       official_name: !!null 
+      nationality: !!null 
     cm:
       common_name: !!null 
       name: कैमरून
       official_name: !!null 
+      nationality: !!null 
     cn:
       common_name: !!null 
       name: चीन
       official_name: !!null 
+      nationality: !!null 
     co:
       common_name: !!null 
       name: कोलम्बिया
       official_name: !!null 
+      nationality: !!null 
     cr:
       common_name: !!null 
       name: कोस्टा रिका
       official_name: !!null 
+      nationality: !!null 
     cu:
       common_name: !!null 
       name: क्यूबा
       official_name: !!null 
+      nationality: !!null 
     cv:
       common_name: !!null 
       name: केप वर्ड
       official_name: !!null 
+      nationality: !!null 
     cx:
       common_name: !!null 
       name: क्रिसमस द्वीप
       official_name: !!null 
+      nationality: !!null 
     cy:
       common_name: !!null 
       name: साइप्रस
       official_name: !!null 
+      nationality: !!null 
     cz:
       common_name: !!null 
       name: चेक गणराज्य
       official_name: !!null 
+      nationality: !!null 
     de:
       common_name: !!null 
       name: जर्मनी
       official_name: !!null 
+      nationality: !!null 
     dj:
       common_name: !!null 
       name: जिबूती
       official_name: !!null 
+      nationality: !!null 
     dk:
       common_name: !!null 
       name: डेनमार्क
       official_name: !!null 
+      nationality: !!null 
     dm:
       common_name: !!null 
       name: डोमिनिका
       official_name: !!null 
+      nationality: !!null 
     do:
       common_name: !!null 
       name: डोमिनिकन गणराज्य
       official_name: !!null 
+      nationality: !!null 
     dz:
       common_name: !!null 
       name: एलजीरिया
       official_name: !!null 
+      nationality: !!null 
     ec:
       common_name: !!null 
       name: इक्वेडोर
       official_name: !!null 
+      nationality: !!null 
     ee:
       common_name: !!null 
       name: एस्तोनिया
       official_name: !!null 
+      nationality: !!null 
     eg:
       common_name: !!null 
       name: मिस्र
       official_name: !!null 
+      nationality: !!null 
     eh:
       common_name: !!null 
       name: पश्चिमी सहारा
       official_name: !!null 
+      nationality: !!null 
     er:
       common_name: !!null 
       name: इरिट्रिया
       official_name: !!null 
+      nationality: !!null 
     es:
       common_name: !!null 
       name: स्पेन
       official_name: !!null 
+      nationality: !!null 
     et:
       common_name: !!null 
       name: इथियोपिया
       official_name: !!null 
+      nationality: !!null 
     fi:
       common_name: !!null 
       name: फिनलैंड
       official_name: !!null 
+      nationality: !!null 
     fj:
       common_name: !!null 
       name: फिजी
       official_name: !!null 
+      nationality: !!null 
     fk:
       common_name: !!null 
       name: फ़ॉकलैंड द्वीप (माल्विनास)
       official_name: !!null 
+      nationality: !!null 
     fm:
       common_name: !!null 
       name: माइक्रोनेशिया, फ़ेडरेटेड राज्यों की
       official_name: !!null 
+      nationality: !!null 
     fo:
       common_name: !!null 
       name: फरो आइलैंड्स
       official_name: !!null 
+      nationality: !!null 
     fr:
       common_name: !!null 
       name: फ्रांस
       official_name: !!null 
+      nationality: !!null 
     ga:
       common_name: !!null 
       name: गैबॉन
       official_name: !!null 
+      nationality: !!null 
     gb:
       common_name: !!null 
       name: यूनाइटेड किंगडम
       official_name: !!null 
+      nationality: !!null 
     gd:
       common_name: !!null 
       name: ग्रेनाडा
       official_name: !!null 
+      nationality: !!null 
     ge:
       common_name: !!null 
       name: जॉर्जिया
       official_name: !!null 
+      nationality: !!null 
     gf:
       common_name: !!null 
       name: फ्रेंच गयाना
       official_name: !!null 
+      nationality: !!null 
     gg:
       common_name: !!null 
       name: ग्वेर्नसे
       official_name: !!null 
+      nationality: !!null 
     gh:
       common_name: !!null 
       name: घाना
       official_name: !!null 
+      nationality: !!null 
     gi:
       common_name: !!null 
       name: जिब्राल्टर
       official_name: !!null 
+      nationality: !!null 
     gl:
       common_name: !!null 
       name: ग्रीनलैंड
       official_name: !!null 
+      nationality: !!null 
     gm:
       common_name: !!null 
       name: गाम्बिया
       official_name: !!null 
+      nationality: !!null 
     gn:
       common_name: !!null 
       name: गिनी
       official_name: !!null 
+      nationality: !!null 
     gp:
       common_name: !!null 
       name: गुआदेलूप
       official_name: !!null 
+      nationality: !!null 
     gq:
       common_name: !!null 
       name: इक्वेटोरियल गिनी
       official_name: !!null 
+      nationality: !!null 
     gr:
       common_name: !!null 
       name: ग्रीस
       official_name: !!null 
+      nationality: !!null 
     gs:
       common_name: !!null 
       name: दक्षिण जॉर्जिया और दक्षिण सैंडविच द्वीप
       official_name: !!null 
+      nationality: !!null 
     gt:
       common_name: !!null 
       name: ग्वाटेमाला
       official_name: !!null 
+      nationality: !!null 
     gu:
       common_name: !!null 
       name: गुआम
       official_name: !!null 
+      nationality: !!null 
     gw:
       common_name: !!null 
       name: गिनी बिसाऊ
       official_name: !!null 
+      nationality: !!null 
     gy:
       common_name: !!null 
       name: गुयाना
       official_name: !!null 
+      nationality: !!null 
     hk:
       common_name: !!null 
       name: हांगकांग
       official_name: !!null 
+      nationality: !!null 
     hm:
       common_name: !!null 
       name: हर्ड आइलैंड और मैकडोनाल्ड आइलैंड्स
       official_name: !!null 
+      nationality: !!null 
     hn:
       common_name: !!null 
       name: होंडुरस
       official_name: !!null 
+      nationality: !!null 
     hr:
       common_name: !!null 
       name: क्रोएशिया
       official_name: !!null 
+      nationality: !!null 
     ht:
       common_name: !!null 
       name: हैती
       official_name: !!null 
+      nationality: !!null 
     hu:
       common_name: !!null 
       name: हंगरी
       official_name: !!null 
+      nationality: !!null 
     id:
       common_name: !!null 
       name: इंडोनेशिया
       official_name: !!null 
+      nationality: !!null 
     ie:
       common_name: !!null 
       name: आयरलैंड
       official_name: !!null 
+      nationality: !!null 
     il:
       common_name: !!null 
       name: इजराइल
       official_name: !!null 
+      nationality: !!null 
     im:
       common_name: !!null 
       name: आइल ऑफ मैन
       official_name: !!null 
+      nationality: !!null 
     in:
       common_name: !!null 
       name: भारत
       official_name: !!null 
+      nationality: !!null 
     io:
       common_name: !!null 
       name: ब्रिटिश हिंद महासागरीय क्षेत्र
       official_name: !!null 
+      nationality: !!null 
     iq:
       common_name: !!null 
       name: इराक
       official_name: !!null 
+      nationality: !!null 
     ir:
       common_name: !!null 
       name: ईरान के इस्लामी गणराज्य
       official_name: !!null 
+      nationality: !!null 
     is:
       common_name: !!null 
       name: आइसलैंड
       official_name: !!null 
+      nationality: !!null 
     it:
       common_name: !!null 
       name: इटली
       official_name: !!null 
+      nationality: !!null 
     je:
       common_name: !!null 
       name: जर्सी
       official_name: !!null 
+      nationality: !!null 
     jm:
       common_name: !!null 
       name: जमैका
       official_name: !!null 
+      nationality: !!null 
     jo:
       common_name: !!null 
       name: जॉर्डन
       official_name: !!null 
+      nationality: !!null 
     jp:
       common_name: !!null 
       name: जापान
       official_name: !!null 
+      nationality: !!null 
     ke:
       common_name: !!null 
       name: केन्या
       official_name: !!null 
+      nationality: !!null 
     kg:
       common_name: !!null 
       name: किर्गिस्तान
       official_name: !!null 
+      nationality: !!null 
     kh:
       common_name: !!null 
       name: कंबोडिया
       official_name: !!null 
+      nationality: !!null 
     ki:
       common_name: !!null 
       name: किरिबाती
       official_name: !!null 
+      nationality: !!null 
     km:
       common_name: !!null 
       name: कोमोरोस
       official_name: !!null 
+      nationality: !!null 
     kn:
       common_name: !!null 
       name: सेंट किट्स और नेविस
       official_name: !!null 
+      nationality: !!null 
     kp:
       common_name: !!null 
       name: कोरिया, डेमोक्रेटिक पीपुल्स रिपब्लिक ऑफ
       official_name: !!null 
+      nationality: !!null 
     kr:
       common_name: !!null 
       name: कोरिया, गणराज्य के
       official_name: !!null 
+      nationality: !!null 
     kv:
       common_name: !!null 
       name: कोसोवो
       official_name: !!null 
+      nationality: !!null 
     kw:
       common_name: !!null 
       name: कुवैत
       official_name: !!null 
+      nationality: !!null 
     ky:
       common_name: !!null 
       name: केमैन आइलैंड्स
       official_name: !!null 
+      nationality: !!null 
     kz:
       common_name: !!null 
       name: कजाखस्तान
       official_name: !!null 
+      nationality: !!null 
     la:
       common_name: !!null 
       name: लाओ जनवादी लोकतांत्रिक गणराज्य
       official_name: !!null 
+      nationality: !!null 
     lb:
       common_name: !!null 
       name: लेबनान
       official_name: !!null 
+      nationality: !!null 
     lc:
       common_name: !!null 
       name: सेंट लूसिया
       official_name: !!null 
+      nationality: !!null 
     li:
       common_name: !!null 
       name: लिकटेंस्टीन
       official_name: !!null 
+      nationality: !!null 
     lk:
       common_name: !!null 
       name: श्रीलंका
       official_name: !!null 
+      nationality: !!null 
     lr:
       common_name: !!null 
       name: लीबेरिअ
       official_name: !!null 
+      nationality: !!null 
     ls:
       common_name: !!null 
       name: लिसोटो
       official_name: !!null 
+      nationality: !!null 
     lt:
       common_name: !!null 
       name: लिथुआनिया
       official_name: !!null 
+      nationality: !!null 
     lu:
       common_name: !!null 
       name: लक्ज़मबर्ग
       official_name: !!null 
+      nationality: !!null 
     lv:
       common_name: !!null 
       name: लातविया
       official_name: !!null 
+      nationality: !!null 
     ly:
       common_name: !!null 
       name: लिबियाई अरब जमहीरिया
       official_name: !!null 
+      nationality: !!null 
     ma:
       common_name: !!null 
       name: मोरक्को
       official_name: !!null 
+      nationality: !!null 
     mc:
       common_name: !!null 
       name: मोनाको
       official_name: !!null 
+      nationality: !!null 
     md:
       common_name: !!null 
       name: मोल्डाविया गणतंत्र का
       official_name: !!null 
+      nationality: !!null 
     me:
       common_name: !!null 
       name: मोंटेनेग्रो
       official_name: !!null 
+      nationality: !!null 
     mg:
       common_name: !!null 
       name: मैडागास्कर
       official_name: !!null 
+      nationality: !!null 
     mh:
       common_name: !!null 
       name: मार्शल द्वीप
       official_name: !!null 
+      nationality: !!null 
     mk:
       common_name: !!null 
       name: मैसिडोनिया, पूर्वयूगोस्लाव गणराज्य
       official_name: !!null 
+      nationality: !!null 
     ml:
       common_name: !!null 
       name: माली
       official_name: !!null 
+      nationality: !!null 
     mn:
       common_name: !!null 
       name: मंगोलिया
       official_name: !!null 
+      nationality: !!null 
     mo:
       common_name: !!null 
       name: मकाऊ
       official_name: !!null 
+      nationality: !!null 
     mp:
       common_name: !!null 
       name: उत्तरी मारियाना द्वीप
       official_name: !!null 
+      nationality: !!null 
     mq:
       common_name: !!null 
       name: मार्टीनिक
       official_name: !!null 
+      nationality: !!null 
     mr:
       common_name: !!null 
       name: मॉरिटानिया
       official_name: !!null 
+      nationality: !!null 
     ms:
       common_name: !!null 
       name: मॉन्ट्सेराट
       official_name: !!null 
+      nationality: !!null 
     mt:
       common_name: !!null 
       name: माल्टा
       official_name: !!null 
+      nationality: !!null 
     mu:
       common_name: !!null 
       name: मॉरिशस
       official_name: !!null 
+      nationality: !!null 
     mv:
       common_name: !!null 
       name: मालदीव
       official_name: !!null 
+      nationality: !!null 
     mw:
       common_name: !!null 
       name: मलावी
       official_name: !!null 
+      nationality: !!null 
     mx:
       common_name: !!null 
       name: मेक्सिको
       official_name: !!null 
+      nationality: !!null 
     my:
       common_name: !!null 
       name: मलेशिया
       official_name: !!null 
+      nationality: !!null 
     mz:
       common_name: !!null 
       name: मोज़ाम्बिक
       official_name: !!null 
+      nationality: !!null 
     na:
       common_name: !!null 
       name: नामीबिया
       official_name: !!null 
+      nationality: !!null 
     nc:
       common_name: !!null 
       name: न्यू कैलेडोनिया
       official_name: !!null 
+      nationality: !!null 
     ne:
       common_name: !!null 
       name: नाइजर
       official_name: !!null 
+      nationality: !!null 
     nf:
       common_name: !!null 
       name: नॉरफ़ॉक द्वीप
       official_name: !!null 
+      nationality: !!null 
     ng:
       common_name: !!null 
       name: नाइजीरिया
       official_name: !!null 
+      nationality: !!null 
     ni:
       common_name: !!null 
       name: निकारागुआ
       official_name: !!null 
+      nationality: !!null 
     nl:
       common_name: !!null 
       name: नीदरलैंड्स
       official_name: !!null 
+      nationality: !!null 
     nm:
       common_name: !!null 
       name: म्यांमार
       official_name: !!null 
+      nationality: !!null 
     'no':
       common_name: !!null 
       name: नॉर्वे
       official_name: !!null 
+      nationality: !!null 
     np:
       common_name: !!null 
       name: नेपाल
       official_name: !!null 
+      nationality: !!null 
     nr:
       common_name: !!null 
       name: नाउरू
       official_name: !!null 
+      nationality: !!null 
     nu:
       common_name: !!null 
       name: नीयू
       official_name: !!null 
+      nationality: !!null 
     nz:
       common_name: !!null 
       name: न्यूजीलैंड
       official_name: !!null 
+      nationality: !!null 
     om:
       common_name: !!null 
       name: ओमान
       official_name: !!null 
+      nationality: !!null 
     pa:
       common_name: !!null 
       name: पनामा
       official_name: !!null 
+      nationality: !!null 
     pe:
       common_name: !!null 
       name: पेरू
       official_name: !!null 
+      nationality: !!null 
     pf:
       common_name: !!null 
       name: फ्रेंच पोलीनेशिया
       official_name: !!null 
+      nationality: !!null 
     pg:
       common_name: !!null 
       name: पापुआ न्यू गिनी
       official_name: !!null 
+      nationality: !!null 
     ph:
       common_name: !!null 
       name: फिलीपींस
       official_name: !!null 
+      nationality: !!null 
     pk:
       common_name: !!null 
       name: पाकिस्तान
       official_name: !!null 
+      nationality: !!null 
     pl:
       common_name: !!null 
       name: पोलैंड
       official_name: !!null 
+      nationality: !!null 
     pm:
       common_name: !!null 
       name: सेंट पियरे और मिकेलॉन
       official_name: !!null 
+      nationality: !!null 
     pn:
       common_name: !!null 
       name: पिटकैर्न
       official_name: !!null 
+      nationality: !!null 
     pr:
       common_name: !!null 
       name: पर्टो रीको
       official_name: !!null 
+      nationality: !!null 
     ps:
       common_name: !!null 
       name: फ़िलिस्तीन, कब्जे
       official_name: !!null 
+      nationality: !!null 
     pt:
       common_name: !!null 
       name: पुर्तगाल
       official_name: !!null 
+      nationality: !!null 
     pw:
       common_name: !!null 
       name: पलाऊ
       official_name: !!null 
+      nationality: !!null 
     py:
       common_name: !!null 
       name: पारागुए
       official_name: !!null 
+      nationality: !!null 
     qa:
       common_name: !!null 
       name: कतर
       official_name: !!null 
+      nationality: !!null 
     re:
       common_name: !!null 
       name: रीयूनियन
       official_name: !!null 
+      nationality: !!null 
     ro:
       common_name: !!null 
       name: रोमानिया
       official_name: !!null 
+      nationality: !!null 
     rs:
       common_name: !!null 
       name: सर्बिया
       official_name: !!null 
+      nationality: !!null 
     ru:
       common_name: !!null 
       name: रूसी संघ
       official_name: !!null 
+      nationality: !!null 
     rwू:
       common_name: !!null 
       name: रवांडा
       official_name: !!null 
+      nationality: !!null 
     sa:
       common_name: !!null 
       name: सऊदी अरब
       official_name: !!null 
+      nationality: !!null 
     sb:
       common_name: !!null 
       name: सोलोमन द्वीप
       official_name: !!null 
+      nationality: !!null 
     sc:
       common_name: !!null 
       name: सेशेल्स
       official_name: !!null 
+      nationality: !!null 
     sd:
       common_name: !!null 
       name: सूडान
       official_name: !!null 
+      nationality: !!null 
     se:
       common_name: !!null 
       name: स्वीडन
       official_name: !!null 
+      nationality: !!null 
     sg:
       common_name: !!null 
       name: सिंगापुर
       official_name: !!null 
+      nationality: !!null 
     sh:
       common_name: !!null 
       name: सेंट हेलेना
       official_name: !!null 
+      nationality: !!null 
     si:
       common_name: !!null 
       name: स्लोवेनिया
       official_name: !!null 
+      nationality: !!null 
     sj:
       common_name: !!null 
       name: स्वालबर्ड और जन मायेन
       official_name: !!null 
+      nationality: !!null 
     sk:
       common_name: !!null 
       name: स्लोवाकिया
       official_name: !!null 
+      nationality: !!null 
     sl:
       common_name: !!null 
       name: सिएरा लियोन
       official_name: !!null 
+      nationality: !!null 
     sm:
       common_name: !!null 
       name: सैन मैरिनो
       official_name: !!null 
+      nationality: !!null 
     sn:
       common_name: !!null 
       name: सेनेगल
       official_name: !!null 
+      nationality: !!null 
     so:
       common_name: !!null 
       name: सोमालिया
       official_name: !!null 
+      nationality: !!null 
     sr:
       common_name: !!null 
       name: सूरीनाम
       official_name: !!null 
+      nationality: !!null 
     st:
       common_name: !!null 
       name: साओ टोम और प्रिंसिपे
       official_name: !!null 
+      nationality: !!null 
     sv:
       common_name: !!null 
       name: अल साल्वाडोर
       official_name: !!null 
+      nationality: !!null 
     sy:
       common_name: !!null 
       name: सीरिया अरब गणराज्य
       official_name: !!null 
+      nationality: !!null 
     sz:
       common_name: !!null 
       name: स्वाज़ीलैंड
       official_name: !!null 
+      nationality: !!null 
     tc:
       common_name: !!null 
       name: तुर्क एंड कोइकोस आइलैंड्स
       official_name: !!null 
+      nationality: !!null 
     td:
       common_name: !!null 
       name: काग़ज़ का टुकड़ा
       official_name: !!null 
+      nationality: !!null 
     tf:
       common_name: !!null 
       name: फ़्रांसीसी दक्षिणी क्षेत्र
       official_name: !!null 
+      nationality: !!null 
     tg:
       common_name: !!null 
       name: टोगो
       official_name: !!null 
+      nationality: !!null 
     th:
       common_name: !!null 
       name: थाईलैंड
       official_name: !!null 
+      nationality: !!null 
     tj:
       common_name: !!null 
       name: ताजिकिस्तान
       official_name: !!null 
+      nationality: !!null 
     tk:
       common_name: !!null 
       name: टोकेलौ
       official_name: !!null 
+      nationality: !!null 
     tl:
       common_name: !!null 
       name: तिमोर-लेस्ते
       official_name: !!null 
+      nationality: !!null 
     tm:
       common_name: !!null 
       name: तुर्कमेनिस्तान
       official_name: !!null 
+      nationality: !!null 
     tn:
       common_name: !!null 
       name: टुनिशिया
       official_name: !!null 
+      nationality: !!null 
     to:
       common_name: !!null 
       name: टोंगा
       official_name: !!null 
+      nationality: !!null 
     tr:
       common_name: !!null 
       name: टर्की
       official_name: !!null 
+      nationality: !!null 
     tt:
       common_name: !!null 
       name: त्रिनिदाद और टोबैगो
       official_name: !!null 
+      nationality: !!null 
     tv:
       common_name: !!null 
       name: तुवालु
       official_name: !!null 
+      nationality: !!null 
     tw:
       common_name: !!null 
       name: ताइवान, चीन के प्रांत
       official_name: !!null 
+      nationality: !!null 
     tz:
       common_name: !!null 
       name: तंजानिया, संयुक्त गणराज्य
       official_name: !!null 
+      nationality: !!null 
     ua:
       common_name: !!null 
       name: यूक्रेन
       official_name: !!null 
+      nationality: !!null 
     ug:
       common_name: !!null 
       name: युगांडा
       official_name: !!null 
+      nationality: !!null 
     um:
       common_name: !!null 
       name: यूनाइटेड स्टेट्स माइनर आउटलाइंग द्वीपसमूह
       official_name: !!null 
+      nationality: !!null 
     us:
       common_name: !!null 
       name: संयुक्त राज्य अमेरिका
       official_name: !!null 
+      nationality: !!null 
     uy:
       common_name: !!null 
       name: उरुग्वे
       official_name: !!null 
+      nationality: !!null 
     uz:
       common_name: !!null 
       name: उजबेकिस्तान
       official_name: !!null 
+      nationality: !!null 
     va:
       common_name: !!null 
       name: होली सी (वैटिकन सिटी राज्य)
       official_name: !!null 
+      nationality: !!null 
     vc:
       common_name: !!null 
       name: सेंट विन्सेंट और ग्रेनाडीन्स
       official_name: !!null 
+      nationality: !!null 
     ve:
       common_name: !!null 
       name: वेनेजुएला
       official_name: !!null 
+      nationality: !!null 
     vg:
       common_name: !!null 
       name: वर्जिन आइलैंड्स, ब्रिटिश
       official_name: !!null 
+      nationality: !!null 
     vi:
       common_name: !!null 
       name: वर्जिन द्वीप समूह, अमेरिका
       official_name: !!null 
+      nationality: !!null 
     vn:
       common_name: !!null 
       name: वियतनाम
       official_name: !!null 
+      nationality: !!null 
     vu:
       common_name: !!null 
       name: वानुअतु
       official_name: !!null 
+      nationality: !!null 
     wf:
       common_name: !!null 
       name: वालिस और फ़्यूचूना
       official_name: !!null 
+      nationality: !!null 
     ws:
       common_name: !!null 
       name: समोआ
       official_name: !!null 
+      nationality: !!null 
     ye:
       common_name: !!null 
       name: यमन
       official_name: !!null 
+      nationality: !!null 
     yt:
       common_name: !!null 
       name: मैयट
       official_name: !!null 
+      nationality: !!null 
     za:
       common_name: !!null 
       name: दक्षिण अफ्रीका
       official_name: !!null 
+      nationality: !!null 
     zm:
       common_name: !!null 
       name: जाम्बिया
       official_name: !!null 
+      nationality: !!null 
     zw:
       common_name: !!null 
       name: जिम्बाब्वे
       official_name: !!null 
+      nationality: !!null 

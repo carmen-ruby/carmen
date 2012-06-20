@@ -173,3 +173,9 @@ set of locale paths used by the backend:
 
 If you are using your own backend, then follow the steps necessary to have it
 load your additional files instead.
+
+## TODO
+
+Fill the missing pieces from the different locales (`common_name`, `name`, `nationality`)
+
+Create the fallback chain for nationality
