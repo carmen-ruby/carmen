@@ -55,6 +55,10 @@ module Carmen
       @subregions = nil
     end
 
+    def <=>(other)
+      name <=> other.name
+    end
+
   private
 
     def subregion_directory

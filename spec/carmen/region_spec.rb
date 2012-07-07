@@ -63,4 +63,24 @@ describe Carmen::Region do
       eastasia.name.must_equal('Eastasia')
     end
   end
+
+  class SortTestRegion < Carmen::Region
+    def initialize(data={}, parent=nil)
+      super
+      @name = data['name']
+    end
+    def name
+      @name
+    end
+  end
+
+  describe "Sorting" do
+    it 'does a comparison' do
+      germany = SortTestRegion.new('name' => 'Germany')
+      guatemala = SortTestRegion.new('name' => 'Guatemala')
+      (germany <=> guatemala).must_equal -1
+      (guatemala <=> germany).must_equal 1
+      (germany <=> germany).must_equal 0
+    end
+  end
 end
