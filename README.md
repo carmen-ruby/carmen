@@ -13,7 +13,6 @@ version of Carmen should you need it for some reason.
 Carmen 1.0 features the following:
 
 * A new, cleaner API
-* Support for the old API via an optional require
 * More complete data via the iso-codes Debian package (idea borrowed from [here](https://github.com/pluginaweek/has_addresses))
 * A sane approach to internationalization
 
