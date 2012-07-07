@@ -56,6 +56,10 @@ describe Carmen::Country do
     it 'has a reasonable inspect value' do
       @oceania.inspect.must_equal '<#Carmen::Country name="Oceania">'
     end
+    
+    it 'has a nationality method' do
+      @oceania.nationality.must_equal 'Oceanic'
+    end
   end
 
 

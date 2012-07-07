@@ -5,887 +5,1109 @@ es:
       common_name: !!null 
       name: Andorra
       official_name: !!null 
+      nationality: !!null 
     ae:
       common_name: !!null 
       name: Emiratos Árabes Unidos
       official_name: !!null 
+      nationality: !!null 
     ag:
       common_name: !!null 
       name: Antigua y Barbuda
       official_name: !!null 
+      nationality: !!null 
     ai:
       common_name: !!null 
       name: Anguila
       official_name: !!null 
+      nationality: !!null 
     al:
       common_name: !!null 
       name: Albania
       official_name: !!null 
+      nationality: !!null 
     am:
       common_name: !!null 
       name: Armenia
       official_name: !!null 
+      nationality: !!null 
     an:
       common_name: !!null 
       name: Antillas Neerlandesas
       official_name: !!null 
+      nationality: !!null 
     ao:
       common_name: !!null 
       name: Angola
       official_name: !!null 
+      nationality: !!null 
     ar:
       common_name: !!null 
       name: Argentina
       official_name: !!null 
+      nationality: !!null 
     as:
       common_name: !!null 
       name: Samoa Estadounidense
       official_name: !!null 
+      nationality: !!null 
     at:
       common_name: !!null 
       name: Austria
       official_name: !!null 
+      nationality: !!null 
     au:
       common_name: !!null 
       name: Australia
       official_name: !!null 
+      nationality: !!null 
     aw:
       common_name: !!null 
       name: Aruba
       official_name: !!null 
+      nationality: !!null 
     ax:
       common_name: !!null 
       name: Åland
       official_name: !!null 
+      nationality: !!null 
     az:
       common_name: !!null 
       name: Azerbaiyán
       official_name: !!null 
+      nationality: !!null 
     ba:
       common_name: !!null 
       name: Bosnia y Herzegovina
       official_name: !!null 
+      nationality: !!null 
     bb:
       common_name: !!null 
       name: Barbados
       official_name: !!null 
+      nationality: !!null 
     bd:
       common_name: !!null 
       name: Bangladés
       official_name: !!null 
+      nationality: !!null 
     be:
       common_name: !!null 
       name: Bélgica
       official_name: !!null 
+      nationality: !!null 
     bf:
       common_name: !!null 
       name: Burkina Faso
       official_name: !!null 
+      nationality: !!null 
     bg:
       common_name: !!null 
       name: Bulgaria
       official_name: !!null 
+      nationality: !!null 
     bh:
       common_name: !!null 
       name: Baréin
       official_name: !!null 
+      nationality: !!null 
     bi:
       common_name: !!null 
       name: Burundi
       official_name: !!null 
+      nationality: !!null 
     bj:
       common_name: !!null 
       name: Benín
       official_name: !!null 
+      nationality: !!null 
     bl:
       common_name: !!null 
       name: San Bartolomé
       official_name: !!null 
+      nationality: !!null 
     bm:
       common_name: !!null 
       name: Bermudas
       official_name: !!null 
+      nationality: !!null 
     bn:
       common_name: !!null 
       name: Brunéi
       official_name: !!null 
+      nationality: !!null 
     bo:
       common_name: !!null 
       name: Bolivia
       official_name: !!null 
+      nationality: !!null 
     br:
       common_name: !!null 
       name: Brasil
       official_name: !!null 
+      nationality: !!null 
     bt:
       common_name: !!null 
       name: Bután
       official_name: !!null 
+      nationality: !!null 
     bv:
       common_name: !!null 
       name: Isla Bouvet
       official_name: !!null 
+      nationality: !!null 
     bw:
       common_name: !!null 
       name: Botsuana
       official_name: !!null 
+      nationality: !!null 
     by:
       common_name: !!null 
       name: Bielorrusia
       official_name: !!null 
+      nationality: !!null 
     bz:
       common_name: !!null 
       name: Belice
       official_name: !!null 
+      nationality: !!null 
     ca:
       common_name: !!null 
       name: Canadá
       official_name: !!null 
+      nationality: !!null 
     cc:
       common_name: !!null 
       name: Islas Cocos
       official_name: !!null 
+      nationality: !!null 
     cd:
       common_name: !!null 
       name: Rep. Dem. del Congo
       official_name: !!null 
+      nationality: !!null 
     cf:
       common_name: !!null 
       name: República Centroafricana
       official_name: !!null 
+      nationality: !!null 
     cg:
       common_name: !!null 
       name: República del Congo
       official_name: !!null 
+      nationality: !!null 
     ch:
       common_name: !!null 
       name: Suiza
       official_name: !!null 
+      nationality: !!null 
     ci:
       common_name: !!null 
       name: Costa de Marfil
       official_name: !!null 
+      nationality: !!null 
     ck:
       common_name: !!null 
       name: Islas Cook
       official_name: !!null 
+      nationality: !!null 
     cl:
       common_name: !!null 
       name: Chile
       official_name: !!null 
+      nationality: !!null 
     cm:
       common_name: !!null 
       name: Camerún
       official_name: !!null 
+      nationality: !!null 
     cn:
       common_name: !!null 
       name: China
       official_name: !!null 
+      nationality: !!null 
     co:
       common_name: !!null 
       name: Colombia
       official_name: !!null 
+      nationality: !!null 
     cr:
       common_name: !!null 
       name: Costa Rica
       official_name: !!null 
+      nationality: !!null 
     cu:
       common_name: !!null 
       name: Cuba
       official_name: !!null 
+      nationality: !!null 
     cx:
       common_name: !!null 
       name: Isla de Navidad
       official_name: !!null 
+      nationality: !!null 
     cy:
       common_name: !!null 
       name: Chipre
       official_name: !!null 
+      nationality: !!null 
     cz:
       common_name: !!null 
       name: República Checa
       official_name: !!null 
+      nationality: !!null 
     de:
       common_name: !!null 
       name: Alemania
       official_name: !!null 
+      nationality: !!null 
     dj:
       common_name: !!null 
       name: Yibuti
       official_name: !!null 
+      nationality: !!null 
     dk:
       common_name: !!null 
       name: Dinamarca
       official_name: !!null 
+      nationality: !!null 
     dm:
       common_name: !!null 
       name: Dominica
       official_name: !!null 
+      nationality: !!null 
     do:
       common_name: !!null 
       name: República Dominicana
       official_name: !!null 
+      nationality: !!null 
     dz:
       common_name: !!null 
       name: Argelia
       official_name: !!null 
+      nationality: !!null 
     ee:
       common_name: !!null 
       name: Estonia
       official_name: !!null 
+      nationality: !!null 
     eg:
       common_name: !!null 
       name: Egipto
       official_name: !!null 
+      nationality: !!null 
     er:
       common_name: !!null 
       name: Eritrea
       official_name: !!null 
+      nationality: !!null 
     es:
       common_name: !!null 
       name: España
       official_name: !!null 
+      nationality: !!null 
     et:
       common_name: !!null 
       name: Etiopía
       official_name: !!null 
+      nationality: !!null 
     fi:
       common_name: !!null 
       name: Finlandia
       official_name: !!null 
+      nationality: !!null 
     fj:
       common_name: !!null 
       name: Fiyi
       official_name: !!null 
+      nationality: !!null 
     fk:
       common_name: !!null 
       name: Islas Malvinas
       official_name: !!null 
+      nationality: !!null 
     fm:
       common_name: !!null 
       name: Micronesia
       official_name: !!null 
+      nationality: !!null 
     fr:
       common_name: !!null 
       name: Francia
       official_name: !!null 
+      nationality: !!null 
     gb:
       common_name: !!null 
       name: Reino Unido
       official_name: !!null 
+      nationality: !!null 
     gd:
       common_name: !!null 
       name: Granada
       official_name: !!null 
+      nationality: !!null 
     ge:
       common_name: !!null 
       name: Georgia
       official_name: !!null 
+      nationality: !!null 
     gf:
       common_name: !!null 
       name: Guayana Francesa
       official_name: !!null 
+      nationality: !!null 
     gg:
       common_name: !!null 
       name: Guernsey
       official_name: !!null 
+      nationality: !!null 
     gh:
       common_name: !!null 
       name: Ghana
       official_name: !!null 
+      nationality: !!null 
     gi:
       common_name: !!null 
       name: Gibraltar
       official_name: !!null 
+      nationality: !!null 
     gl:
       common_name: !!null 
       name: Groenlandia
       official_name: !!null 
+      nationality: !!null 
     gm:
       common_name: !!null 
       name: Gambia
       official_name: !!null 
+      nationality: !!null 
     gn:
       common_name: !!null 
       name: Guinea
       official_name: !!null 
+      nationality: !!null 
     gp:
       common_name: !!null 
       name: Guadalupe
       official_name: !!null 
+      nationality: !!null 
     gq:
       common_name: !!null 
       name: Guinea Ecuatorial
       official_name: !!null 
+      nationality: !!null 
     gr:
       common_name: !!null 
       name: Grecia
       official_name: !!null 
+      nationality: !!null 
     gs:
       common_name: !!null 
       name: Islas Georgias del Sur y Sandwich del Sur
       official_name: !!null 
+      nationality: !!null 
     gt:
       common_name: !!null 
       name: Guatemala
       official_name: !!null 
+      nationality: !!null 
     gu:
       common_name: !!null 
       name: Guam
       official_name: !!null 
+      nationality: !!null 
     gw:
       common_name: !!null 
       name: Guinea-Bissau
       official_name: !!null 
+      nationality: !!null 
     gy:
       common_name: !!null 
       name: Guyana
       official_name: !!null 
+      nationality: !!null 
     hk:
       common_name: !!null 
       name: Hong Kong
       official_name: !!null 
+      nationality: !!null 
     hm:
       common_name: !!null 
       name: Islas Heard y McDonald
       official_name: !!null 
+      nationality: !!null 
     hn:
       common_name: !!null 
       name: Honduras
       official_name: !!null 
+      nationality: !!null 
     hr:
       common_name: !!null 
       name: Croacia
       official_name: !!null 
+      nationality: !!null 
     hu:
       common_name: !!null 
       name: Hungría
       official_name: !!null 
+      nationality: !!null 
     id:
       common_name: !!null 
       name: Indonesia
       official_name: !!null 
+      nationality: !!null 
     ie:
       common_name: !!null 
       name: Irlanda
       official_name: !!null 
+      nationality: !!null 
     il:
       common_name: !!null 
       name: Israel
       official_name: !!null 
+      nationality: !!null 
     im:
       common_name: !!null 
       name: Isla de Man
       official_name: !!null 
+      nationality: !!null 
     io:
       common_name: !!null 
       name: Territorio Británico del Océano Índico
       official_name: !!null 
+      nationality: !!null 
     iq:
       common_name: !!null 
       name: Irak
       official_name: !!null 
+      nationality: !!null 
     ir:
       common_name: !!null 
       name: Irán
       official_name: !!null 
+      nationality: !!null 
     is:
       common_name: !!null 
       name: Islandia
       official_name: !!null 
+      nationality: !!null 
     it:
       common_name: !!null 
       name: Italia
       official_name: !!null 
+      nationality: !!null 
     je:
       common_name: !!null 
       name: Jersey
       official_name: !!null 
+      nationality: !!null 
     jo:
       common_name: !!null 
       name: Jordania
       official_name: !!null 
+      nationality: !!null 
     jp:
       common_name: !!null 
       name: Japón
       official_name: !!null 
+      nationality: !!null 
     ke:
       common_name: !!null 
       name: Kenia
       official_name: !!null 
+      nationality: !!null 
     kg:
       common_name: !!null 
       name: Kirguistán
       official_name: !!null 
+      nationality: !!null 
     kh:
       common_name: !!null 
       name: Camboya
       official_name: !!null 
+      nationality: !!null 
     ki:
       common_name: !!null 
       name: Kiribati
       official_name: !!null 
+      nationality: !!null 
     km:
       common_name: !!null 
       name: Comoras
       official_name: !!null 
+      nationality: !!null 
     kn:
       common_name: !!null 
       name: San Cristóbal y Nieves
       official_name: !!null 
+      nationality: !!null 
     kp:
       common_name: !!null 
       name: Corea del Norte
       official_name: !!null 
+      nationality: !!null 
     kr:
       common_name: !!null 
       name: Corea del Sur
       official_name: !!null 
+      nationality: !!null 
     kw:
       common_name: !!null 
       name: Kuwait
       official_name: !!null 
+      nationality: !!null 
     ky:
       common_name: !!null 
       name: Islas Caimán
       official_name: !!null 
+      nationality: !!null 
     lb:
       common_name: !!null 
       name: Líbano
       official_name: !!null 
+      nationality: !!null 
     lc:
       common_name: !!null 
       name: Santa Lucía
       official_name: !!null 
+      nationality: !!null 
     li:
       common_name: !!null 
       name: Liechtenstein
       official_name: !!null 
+      nationality: !!null 
     lk:
       common_name: !!null 
       name: Sri Lanka
       official_name: !!null 
+      nationality: !!null 
     lr:
       common_name: !!null 
       name: Liberia
       official_name: !!null 
+      nationality: !!null 
     ls:
       common_name: !!null 
       name: Lesoto
       official_name: !!null 
+      nationality: !!null 
     lt:
       common_name: !!null 
       name: Lituania
       official_name: !!null 
+      nationality: !!null 
     lu:
       common_name: !!null 
       name: Luxemburgo
       official_name: !!null 
+      nationality: !!null 
     lv:
       common_name: !!null 
       name: Letonia
       official_name: !!null 
+      nationality: !!null 
     ly:
       common_name: !!null 
       name: Libia
       official_name: !!null 
+      nationality: !!null 
     ma:
       common_name: !!null 
       name: Marruecos
       official_name: !!null 
+      nationality: !!null 
     mc:
       common_name: !!null 
       name: Mónaco
       official_name: !!null 
+      nationality: !!null 
     md:
       common_name: !!null 
       name: Moldavia
       official_name: !!null 
+      nationality: !!null 
     me:
       common_name: !!null 
       name: Montenegro
       official_name: !!null 
+      nationality: !!null 
     mf:
       common_name: !!null 
       name: San Martín
       official_name: !!null 
+      nationality: !!null 
     mg:
       common_name: !!null 
       name: Madagascar
       official_name: !!null 
+      nationality: !!null 
     mh:
       common_name: !!null 
       name: Islas Marshall
       official_name: !!null 
+      nationality: !!null 
     mk:
       common_name: !!null 
       name: República de Macedonia
       official_name: !!null 
+      nationality: !!null 
     ml:
       common_name: !!null 
       name: Malí
       official_name: !!null 
+      nationality: !!null 
     mm:
       common_name: !!null 
       name: Birmania
       official_name: !!null 
+      nationality: !!null 
     mn:
       common_name: !!null 
       name: Mongolia
       official_name: !!null 
+      nationality: !!null 
     mp:
       common_name: !!null 
       name: Islas Marianas del Norte
       official_name: !!null 
+      nationality: !!null 
     mq:
       common_name: !!null 
       name: Martinica
       official_name: !!null 
+      nationality: !!null 
     mr:
       common_name: !!null 
       name: Mauritania
       official_name: !!null 
+      nationality: !!null 
     ms:
       common_name: !!null 
       name: Montserrat
       official_name: !!null 
+      nationality: !!null 
     mt:
       common_name: !!null 
       name: Malta
       official_name: !!null 
+      nationality: !!null 
     mu:
       common_name: !!null 
       name: Mauricio
       official_name: !!null 
+      nationality: !!null 
     mv:
       common_name: !!null 
       name: Maldivas
       official_name: !!null 
+      nationality: !!null 
     mw:
       common_name: !!null 
       name: Malaui
       official_name: !!null 
+      nationality: !!null 
     mx:
       common_name: !!null 
       name: México
       official_name: !!null 
+      nationality: !!null 
     my:
       common_name: !!null 
       name: Malasia
       official_name: !!null 
+      nationality: !!null 
     mz:
       common_name: !!null 
       name: Mozambique
       official_name: !!null 
+      nationality: !!null 
     nc:
       common_name: !!null 
       name: Nueva Caledonia
       official_name: !!null 
+      nationality: !!null 
     ne:
       common_name: !!null 
       name: Níger
       official_name: !!null 
+      nationality: !!null 
     nf:
       common_name: !!null 
       name: Norfolk
       official_name: !!null 
+      nationality: !!null 
     ng:
       common_name: !!null 
       name: Nigeria
       official_name: !!null 
+      nationality: !!null 
     ni:
       common_name: !!null 
       name: Nicaragua
       official_name: !!null 
+      nationality: !!null 
     nl:
       common_name: !!null 
       name: Países Bajos
       official_name: !!null 
+      nationality: !!null 
     'no':
       common_name: !!null 
       name: Noruega
       official_name: !!null 
+      nationality: !!null 
     np:
       common_name: !!null 
       name: Nepal
       official_name: !!null 
+      nationality: !!null 
     nr:
       common_name: !!null 
       name: Nauru
       official_name: !!null 
+      nationality: !!null 
     nu:
       common_name: !!null 
       name: Niue
       official_name: !!null 
+      nationality: !!null 
     nz:
       common_name: !!null 
       name: Nueva Zelanda
       official_name: !!null 
+      nationality: !!null 
     pa:
       common_name: !!null 
       name: Panamá
       official_name: !!null 
+      nationality: !!null 
     pe:
       common_name: !!null 
       name: Perú
       official_name: !!null 
+      nationality: !!null 
     pf:
       common_name: !!null 
       name: Polinesia Francesa
       official_name: !!null 
+      nationality: !!null 
     pg:
       common_name: !!null 
       name: Papúa Nueva Guinea
       official_name: !!null 
+      nationality: !!null 
     ph:
       common_name: !!null 
       name: Filipinas
       official_name: !!null 
+      nationality: !!null 
     pk:
       common_name: !!null 
       name: Pakistán
       official_name: !!null 
+      nationality: !!null 
     pl:
       common_name: !!null 
       name: Polonia
       official_name: !!null 
+      nationality: !!null 
     pm:
       common_name: !!null 
       name: San Pedro y Miquelón
       official_name: !!null 
+      nationality: !!null 
     pn:
       common_name: !!null 
       name: Islas Pitcairn
       official_name: !!null 
+      nationality: !!null 
     pr:
       common_name: !!null 
       name: Puerto Rico
       official_name: !!null 
+      nationality: !!null 
     ps:
       common_name: !!null 
       name: Autoridad Nacional Palestina
       official_name: !!null 
+      nationality: !!null 
     pt:
       common_name: !!null 
       name: Portugal
       official_name: !!null 
+      nationality: !!null 
     pw:
       common_name: !!null 
       name: Palaos
       official_name: !!null 
+      nationality: !!null 
     py:
       common_name: !!null 
       name: Paraguay
       official_name: !!null 
+      nationality: !!null 
     re:
       common_name: !!null 
       name: Reunión
       official_name: !!null 
+      nationality: !!null 
     ro:
       common_name: !!null 
       name: Rumania
       official_name: !!null 
+      nationality: !!null 
     rs:
       common_name: !!null 
       name: Serbia
       official_name: !!null 
+      nationality: !!null 
     ru:
       common_name: !!null 
       name: Rusia
       official_name: !!null 
+      nationality: !!null 
     rw:
       common_name: !!null 
       name: Ruanda
       official_name: !!null 
+      nationality: !!null 
     sa:
       common_name: !!null 
       name: Arabia Saudita
       official_name: !!null 
+      nationality: !!null 
     sb:
       common_name: !!null 
       name: Islas Salomón
       official_name: !!null 
+      nationality: !!null 
     sc:
       common_name: !!null 
       name: Seychelles
       official_name: !!null 
+      nationality: !!null 
     sd:
       common_name: !!null 
       name: Sudán
       official_name: !!null 
+      nationality: !!null 
     se:
       common_name: !!null 
       name: Suecia
       official_name: !!null 
+      nationality: !!null 
     sg:
       common_name: !!null 
       name: Singapur
       official_name: !!null 
+      nationality: !!null 
     sh:
       common_name: !!null 
       name: Santa Helena, A. y T.
       official_name: !!null 
+      nationality: !!null 
     si:
       common_name: !!null 
       name: Eslovenia
       official_name: !!null 
+      nationality: !!null 
     sj:
       common_name: !!null 
       name: Svalbard y Jan Mayen
       official_name: !!null 
+      nationality: !!null 
     sk:
       common_name: !!null 
       name: Eslovaquia
       official_name: !!null 
+      nationality: !!null 
     sl:
       common_name: !!null 
       name: Sierra Leona
       official_name: !!null 
+      nationality: !!null 
     sm:
       common_name: !!null 
       name: San Marino
       official_name: !!null 
+      nationality: !!null 
     sn:
       common_name: !!null 
       name: Senegal
       official_name: !!null 
+      nationality: !!null 
     so:
       common_name: !!null 
       name: Somalia
       official_name: !!null 
+      nationality: !!null 
     sr:
       common_name: !!null 
       name: Surinam
       official_name: !!null 
+      nationality: !!null 
     st:
       common_name: !!null 
       name: Santo Tomé y Príncipe
       official_name: !!null 
+      nationality: !!null 
     sv:
       common_name: !!null 
       name: El Salvador
       official_name: !!null 
+      nationality: !!null 
     sy:
       common_name: !!null 
       name: Siria
       official_name: !!null 
+      nationality: !!null 
     sz:
       common_name: !!null 
       name: Suazilandia
       official_name: !!null 
+      nationality: !!null 
     tc:
       common_name: !!null 
       name: Islas Turcas y Caicos
       official_name: !!null 
+      nationality: !!null 
     td:
       common_name: !!null 
       name: Chad
       official_name: !!null 
+      nationality: !!null 
     tf:
       common_name: !!null 
       name: Territorios Australes Franceses
       official_name: !!null 
+      nationality: !!null 
     tg:
       common_name: !!null 
       name: Togo
       official_name: !!null 
+      nationality: !!null 
     tj:
       common_name: !!null 
       name: Tayikistán
       official_name: !!null 
+      nationality: !!null 
     tk:
       common_name: !!null 
       name: Tokelau
       official_name: !!null 
+      nationality: !!null 
     tl:
       common_name: !!null 
       name: Timor Oriental
       official_name: !!null 
+      nationality: !!null 
     tm:
       common_name: !!null 
       name: Turkmenistán
       official_name: !!null 
+      nationality: !!null 
     tn:
       common_name: !!null 
       name: Túnez
       official_name: !!null 
+      nationality: !!null 
     to:
       common_name: !!null 
       name: Tonga
       official_name: !!null 
+      nationality: !!null 
     tr:
       common_name: !!null 
       name: Turquía
       official_name: !!null 
+      nationality: !!null 
     tt:
       common_name: !!null 
       name: Trinidad y Tobago
       official_name: !!null 
+      nationality: !!null 
     tv:
       common_name: !!null 
       name: Tuvalu
       official_name: !!null 
+      nationality: !!null 
     tw:
       common_name: !!null 
       name: Taiwán
       official_name: !!null 
+      nationality: !!null 
     tz:
       common_name: !!null 
       name: Tanzania
       official_name: !!null 
+      nationality: !!null 
     ug:
       common_name: !!null 
       name: Uganda
       official_name: !!null 
+      nationality: !!null 
     us:
       common_name: !!null 
       name: Estados Unidos
       official_name: !!null 
+      nationality: !!null 
     uy:
       common_name: !!null 
       name: Uruguay
       official_name: !!null 
+      nationality: !!null 
     uz:
       common_name: !!null 
       name: Uzbekistán
       official_name: !!null 
+      nationality: !!null 
     va:
       common_name: !!null 
       name: Ciudad del Vaticano
       official_name: !!null 
+      nationality: !!null 
     vc:
       common_name: !!null 
       name: San Vicente y las Granadinas
       official_name: !!null 
+      nationality: !!null 
     ve:
       common_name: !!null 
       name: Venezuela
       official_name: !!null 
+      nationality: !!null 
     vg:
       common_name: !!null 
       name: Islas Vírgenes Británicas
       official_name: !!null 
+      nationality: !!null 
     vi:
       common_name: !!null 
       name: Islas Vírgenes de los Estados Unidos
       official_name: !!null 
+      nationality: !!null 
     vn:
       common_name: !!null 
       name: Vietnam
       official_name: !!null 
+      nationality: !!null 
     ws:
       common_name: !!null 
       name: Samoa
       official_name: !!null 
+      nationality: !!null 
     yt:
       common_name: !!null 
       name: Mayotte
       official_name: !!null 
+      nationality: !!null 
     za:
       common_name: !!null 
       name: Sudáfrica
       official_name: !!null 
+      nationality: !!null 
     zw:
       common_name: !!null 
       name: Zimbabue
       official_name: !!null 
+      nationality: !!null 
