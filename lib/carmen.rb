@@ -11,7 +11,7 @@ require 'carmen/version'
 module Carmen
   class << self
 
-    # Public: An array of locations where data files for Carmen are stored.
+    # Public: Return the current array of locations where data files are stored.
     #
     # Data in entries that appear later in the array takes precedence.
     #
@@ -21,33 +21,45 @@ module Carmen
     #  |- be.yml   (subregion file for a country)
     #
     # Defaults to only the the `iso_data` directory within the Carmen directory.
-    attr_reader :data_paths
+    def data_paths
+      Thread.current[:carmen_data_paths] ||= []
+    end
 
-    # Public: an object to use as the I18n backend.
-    #
-    # Ths suppiled object must respond to
-    # t(key).
+    # Public: Set the array of paths for Carmen to search for data files.
+    def data_paths=(paths)
+      Thread.current[:carmen_data_paths]= paths
+    end
+
+    # Public: return the current I18n backend.
     #
     # Defaults to an instance of Carmen::I18n::Simple.
-    attr_accessor :i18n_backend
+    def i18n_backend
+      Thread.current[:carmen_i18n_backend]
+    end
 
-    # Private: the Carmen library's root directory.
+    # Public: set an object to use as the I18n backend.
+    #
+    # Ths suppiled object must respond to t(key).
+    def i18n_backend=(backend)
+      Thread.current[:carmen_i18n_backend]= backend
+    end
+
+    # Public: the Carmen library's root directory.
     #
     # Provides a way to find the built-in data and locale files.
     attr_accessor :root_path
 
-    # Public: Set the data path.
+    # Public: Append an additional data path.
     # path - The String path to the data directory.
     def append_data_path(path)
       World.instance.reset!
-      @data_paths << Pathname.new(path)
+      self.data_paths << Pathname.new(path)
     end
 
     # Public: Clear the data_paths array.
-    # path - The String path to the data directory.
     def clear_data_paths
       World.instance.reset!
-      @data_paths = []
+      self.data_paths = []
     end
 
     # Public: Reset the data_paths array to the defaults.
@@ -56,6 +68,7 @@ module Carmen
       append_data_path(root_path + 'iso_data')
     end
 
+    # Public: Reset the i18n_backend to a default backend.
     def reset_i18n_backend
       locale_path = root_path + 'locale'
       self.i18n_backend = Carmen::I18n::Simple.new(locale_path)
