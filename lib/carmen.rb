@@ -95,7 +95,7 @@ module Carmen
   end
 
   # Returns the state name corresponding to the supplied state code within the default country
-  #  Carmen::state_code('New Hampshire') => 'NH'
+  #  Carmen::state_name('NH') => 'New Hampshire'
   def self.state_name(state_code, country_code = Carmen.default_country, options={})
     search_collection(self.states(country_code, options), state_code, 1, 0)
   end
@@ -149,13 +149,21 @@ module Carmen
   def self.search_collection(collection, value, index_to_match, index_to_retrieve)
     value = value.to_s
     return nil if collection.nil? || value =~ /^\s*$/
+
     collection.each do |m|
       return m[index_to_retrieve] if m[index_to_match].downcase == value.downcase
     end
+
+    # If a state code, instead of a name, was passed in as the arg, return the same state code.
+    collection.each do |m|
+      return m[index_to_retrieve] if m[index_to_retrieve].downcase == value.downcase
+    end
+
     # In case we didn't get any results we'll try a broader search (via Regexp)
     collection.each do |m|
       return m[index_to_retrieve] if m[index_to_match].downcase.match(Regexp.escape(value.downcase))
     end
+
     nil
   end
 end

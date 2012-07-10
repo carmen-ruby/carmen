@@ -154,4 +154,12 @@ class TestCarmen < Test::Unit::TestCase
     assert_equal(nil, Carmen::state_code('alabama\\'))
     assert_nil(Carmen::country_code('???'))
   end
+
+  def test_passing_code_to_state_code_returns_state_code_not_random_match
+    assert_equal("MA", Carmen::state_code('MA'))
+    assert_equal("AL", Carmen::state_code('AL'))
+    assert_nil(Carmen::state_code('ZZ'))
+  end
+
 end
+
