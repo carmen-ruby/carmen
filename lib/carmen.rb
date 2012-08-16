@@ -11,6 +11,8 @@ require 'carmen/version'
 module Carmen
   class << self
 
+    attr_accessor :data_paths, :i18n_backend
+
     # Public: Return the current array of locations where data files are stored.
     #
     # Data in entries that appear later in the array takes precedence.
@@ -22,26 +24,26 @@ module Carmen
     #
     # Defaults to only the the `iso_data` directory within the Carmen directory.
     def data_paths
-      Thread.current[:carmen_data_paths] ||= []
+      @data_paths
     end
 
     # Public: Set the array of paths for Carmen to search for data files.
     def data_paths=(paths)
-      Thread.current[:carmen_data_paths]= paths
+      @data_paths = paths
     end
 
     # Public: return the current I18n backend.
     #
     # Defaults to an instance of Carmen::I18n::Simple.
     def i18n_backend
-      Thread.current[:carmen_i18n_backend]
+      @i18n_backend
     end
 
     # Public: set an object to use as the I18n backend.
     #
     # Ths suppiled object must respond to t(key).
     def i18n_backend=(backend)
-      Thread.current[:carmen_i18n_backend]= backend
+      @i18n_backend = backend
     end
 
     # Public: the Carmen library's root directory.

@@ -62,6 +62,10 @@ describe "I18n::Simple" do
       @i18n.available_locales.must_equal ['en', 'zz']
     end
 
+    it 'stores the current locale' do
+      @i18n.locale.must_equal 'zz'
+    end
+
     it 'can override the names of countries' do
       @i18n.t('world.es.official_name').must_equal('The Zonderous Zountry of Zeastasia')
     end

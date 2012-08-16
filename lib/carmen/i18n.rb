@@ -1,5 +1,4 @@
 require 'yaml'
-require 'pp'
 require 'carmen/utils'
 
 module Carmen
@@ -11,15 +10,13 @@ module Carmen
       DEFAULT_LOCALE = 'en'
 
       attr_accessor :cache
-      attr_reader :locale
       attr_reader :fallback_locale
       attr_reader :locale_paths
 
       def initialize(*initial_locale_paths)
-        @locale = DEFAULT_LOCALE
+        self.locale = DEFAULT_LOCALE
         @fallback_locale = DEFAULT_LOCALE
         @locale_paths = []
-        @cache = nil
         initial_locale_paths.each do |path|
           append_locale_path(path)
         end
@@ -34,8 +31,11 @@ module Carmen
       #
       # Calling this method will clear the cache.
       def locale=(locale)
-        reset!
-        @locale = locale.to_s
+        Thread.current[:carmen_locale] = locale.to_s
+      end
+
+      def locale
+        Thread.current[:carmen_locale]
       end
 
       # Retrieve a translation for a key in the following format: 'a.b.c'
@@ -58,7 +58,7 @@ module Carmen
       end
 
       def inspect
-        "<##{self.class} locale=#{locale}>"
+        "<##{self.class} locale=#{self.locale}>"
       end
 
       def available_locales
@@ -70,8 +70,8 @@ module Carmen
 
       def read(key)
         load_cache_if_needed
-        translated = read_from_hash(key, @cache[@locale])
-        translated ||= read_from_hash(key, @cache[@fallback_locale]) if @locale != @fallback_locale
+        translated = read_from_hash(key, @cache[self.locale])
+        translated ||= read_from_hash(key, @cache[@fallback_locale]) if self.locale != @fallback_locale
         translated
       end
 
@@ -81,8 +81,8 @@ module Carmen
         }
       end
 
-      # Load all files located at the @locale_path, merge them, and store the
-      # result in @cache.
+      # Load all files located in @locale_paths, merge them, and store the result
+      # in @cache.
       def load_cache_if_needed
         return unless @cache.nil?
         hashes = load_hashes_for_paths(@locale_paths)
