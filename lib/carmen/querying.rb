@@ -26,7 +26,7 @@ module Carmen
     # Returns a region with the supplied name, or nil if none if found.
     def named(name, options={})
       query_collection.find do |region|
-        name === region.name
+        name.downcase === region.name.downcase
       end
     end
 
