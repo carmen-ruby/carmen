@@ -972,7 +972,7 @@ es:
     vu:
       common_name: !!null 
       name: Vanuatu
-      official_name: Republic of Vanuatu
+      official_name: !!null
     wf:
       common_name: !!null 
       name: Wallis y Futuna
@@ -996,7 +996,7 @@ es:
     zm:
       common_name: !!null 
       name: Zambia
-      official_name: Republic of Zambia
+      official_name: !!null
     zw:
       common_name: !!null 
       name: Zimbabue
