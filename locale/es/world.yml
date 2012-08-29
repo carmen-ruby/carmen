@@ -9,6 +9,10 @@ es:
       common_name: !!null 
       name: Emiratos Árabes Unidos
       official_name: !!null 
+    af:
+      common_name: !!null 
+      name: Afganistán
+      official_name: !!null 
     ag:
       common_name: !!null 
       name: Antigua y Barbuda
@@ -32,6 +36,10 @@ es:
     ao:
       common_name: !!null 
       name: Angola
+      official_name: !!null 
+    aq:
+      common_name: !!null 
+      name: Antártida
       official_name: !!null 
     ar:
       common_name: !!null 
@@ -113,9 +121,17 @@ es:
       common_name: !!null 
       name: Bolivia
       official_name: !!null 
+    bq:
+      common_name: !!null 
+      name: Bonaire, San Eustaquio y Saba
+      official_name: !!null
     br:
       common_name: !!null 
       name: Brasil
+      official_name: !!null 
+    bs:
+      common_name: !!null 
+      name: Bahamas
       official_name: !!null 
     bt:
       common_name: !!null 
@@ -193,6 +209,14 @@ es:
       common_name: !!null 
       name: Cuba
       official_name: !!null 
+    cv:
+      common_name: !!null 
+      name: Cabo Verde
+      official_name: !!null
+    cw:
+      common_name: !!null 
+      name: Curaçao
+      official_name: !!null
     cx:
       common_name: !!null 
       name: Isla de Navidad
@@ -229,6 +253,10 @@ es:
       common_name: !!null 
       name: Argelia
       official_name: !!null 
+    ec:
+      common_name: !!null 
+      name: Ecuador
+      official_name: !!null
     ee:
       common_name: !!null 
       name: Estonia
@@ -236,6 +264,10 @@ es:
     eg:
       common_name: !!null 
       name: Egipto
+      official_name: !!null 
+    eh:
+      common_name: !!null 
+      name: Sáhara Occidental
       official_name: !!null 
     er:
       common_name: !!null 
@@ -265,10 +297,18 @@ es:
       common_name: !!null 
       name: Micronesia
       official_name: !!null 
+    fo:
+      common_name: !!null 
+      name: Islas Faroe
+      official_name: !!null 
     fr:
       common_name: !!null 
       name: Francia
       official_name: !!null 
+    ga:
+      common_name: !!null 
+      name: Gabón
+      official_name: !!null
     gb:
       common_name: !!null 
       name: Reino Unido
@@ -357,6 +397,10 @@ es:
       common_name: !!null 
       name: Croacia
       official_name: !!null 
+    ht:
+      common_name: !!null 
+      name: Haití
+      official_name: !!null
     hu:
       common_name: !!null 
       name: Hungría
@@ -377,6 +421,10 @@ es:
       common_name: !!null 
       name: Isla de Man
       official_name: !!null 
+    in:
+      common_name: !!null 
+      name: India
+      official_name: !!null
     io:
       common_name: !!null 
       name: Territorio Británico del Océano Índico
@@ -400,6 +448,10 @@ es:
     je:
       common_name: !!null 
       name: Jersey
+      official_name: !!null 
+    jm:
+      common_name: !!null 
+      name: Jamaica
       official_name: !!null 
     jo:
       common_name: !!null 
@@ -449,6 +501,14 @@ es:
       common_name: !!null 
       name: Islas Caimán
       official_name: !!null 
+    kz:
+      common_name: !!null 
+      name: Kazajistán
+      official_name: !!null
+    la:
+      common_name: !!null 
+      name: Laos
+      official_name: República Democrática Popular Lao
     lb:
       common_name: !!null 
       name: Líbano
@@ -533,6 +593,10 @@ es:
       common_name: !!null 
       name: Mongolia
       official_name: !!null 
+    mo:
+      common_name: !!null 
+      name: Macao
+      official_name: !!null
     mp:
       common_name: !!null 
       name: Islas Marianas del Norte
@@ -577,6 +641,10 @@ es:
       common_name: !!null 
       name: Mozambique
       official_name: !!null 
+    na:
+      common_name: !!null 
+      name: Namibia
+      official_name: !!null
     nc:
       common_name: !!null 
       name: Nueva Caledonia
@@ -621,6 +689,10 @@ es:
       common_name: !!null 
       name: Nueva Zelanda
       official_name: !!null 
+    om:
+      common_name: !!null 
+      name: Omán
+      official_name: !!null
     pa:
       common_name: !!null 
       name: Panamá
@@ -677,6 +749,10 @@ es:
       common_name: !!null 
       name: Paraguay
       official_name: !!null 
+    qa:
+      common_name: !!null 
+      name: Qatar
+      official_name: !!null
     re:
       common_name: !!null 
       name: Reunión
@@ -757,6 +833,10 @@ es:
       common_name: !!null 
       name: Surinam
       official_name: !!null 
+    ss:
+      common_name: !!null 
+      name: Sudán del Sur
+      official_name: !!null
     st:
       common_name: !!null 
       name: Santo Tomé y Príncipe
@@ -765,6 +845,10 @@ es:
       common_name: !!null 
       name: El Salvador
       official_name: !!null 
+    sx:
+      common_name: !!null 
+      name: San Martín (parte holandesa)
+      official_name: !!null
     sy:
       common_name: !!null 
       name: Siria
@@ -788,6 +872,10 @@ es:
     tg:
       common_name: !!null 
       name: Togo
+      official_name: !!null 
+    th:
+      common_name: !!null 
+      name: Tailandia
       official_name: !!null 
     tj:
       common_name: !!null 
@@ -833,9 +921,17 @@ es:
       common_name: !!null 
       name: Tanzania
       official_name: !!null 
+    ua:
+      common_name: !!null 
+      name: Ucrania
+      official_name: !!null 
     ug:
       common_name: !!null 
       name: Uganda
+      official_name: !!null 
+    um:
+      common_name: !!null 
+      name: Islas ultramarinas de Estados Unidos
       official_name: !!null 
     us:
       common_name: !!null 
@@ -873,10 +969,22 @@ es:
       common_name: !!null 
       name: Vietnam
       official_name: !!null 
+    vu:
+      common_name: !!null 
+      name: Vanuatu
+      official_name: Republic of Vanuatu
+    wf:
+      common_name: !!null 
+      name: Wallis y Futuna
+      official_name: !!null 
     ws:
       common_name: !!null 
       name: Samoa
       official_name: !!null 
+    ye:
+      common_name: !!null 
+      name: Yemen
+      official_name: !!null
     yt:
       common_name: !!null 
       name: Mayotte
@@ -885,6 +993,10 @@ es:
       common_name: !!null 
       name: Sudáfrica
       official_name: !!null 
+    zm:
+      common_name: !!null 
+      name: Zambia
+      official_name: Republic of Zambia
     zw:
       common_name: !!null 
       name: Zimbabue
