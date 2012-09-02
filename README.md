@@ -87,14 +87,14 @@ respectively.
 
 ## Overriding structural data
 
-You might want to tweak the data that Carmen provides for a variety of reasons.
-Carmen provides an `overlay_path` which can be set to point to a set of data that will be
-overlayed on top of the standard data. The structure of the files in this directory should mirror those in the data path that Carmen ships with.
+You might want to tweak the data that Carmen provides for a variety of reasons. Carmen
+maintains an array of paths to laod data from in: `Carmen.data_paths`. The structure of
+files in each of these paths should mirror those in the `iso_data` path Carmen ships with.
 
-To adda new country to the system, you would create a directory (let's use `my_data` as an example), and create a `world.yml` file inside it. Then set Carmen to use the
-new overlay path:
+To add a new country to the system, you would create a directory (let's use `my_data` as an example),
+and create a `world.yml` file inside it. Then add the path to Carman:
 
-    Carmen.overlay_path = File.expand_path('../my_data', __FILE___)
+    Carmen.append_data_path File.expand_path('../my_data', __FILE___)
 
 Elements within the data files are identified using their `code` values (or, in the case of countries, `alpha_2_code`). Create a new block for the country you wish to add inside `my_data/world.yml`:
 
