@@ -6,7 +6,6 @@ $LOAD_PATH.unshift(lib_path)
 
 require 'carmen/country'
 require 'carmen/i18n'
-require 'carmen/version'
 
 module Carmen
   class << self
