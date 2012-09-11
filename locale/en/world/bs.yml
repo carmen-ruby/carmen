@@ -48,6 +48,8 @@ en:
         name: North Eleuthera
       'no':
         name: North Abaco
+      np:
+        name: New Providence
       ns:
         name: North Andros
       rc:
