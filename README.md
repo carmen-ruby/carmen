@@ -10,6 +10,9 @@ Rails, you should check out the
 The [0.2.x branch](https://github.com/jim/carmen/tree/0.2.x) contains the previous
 version of Carmen should you need it for some reason.
 
+**Carmen now requires Ruby 1.9.** The [ruby-18 branch](https://github.com/jim/carmen/tree/ruby-18) contains the
+last stable version of Carmen that will run on Ruby 1.8.x.
+
 Carmen 1.0 features the following:
 
 * A new, cleaner API
