@@ -45,6 +45,8 @@
   type: district
 - code: 'NO'
   type: district
+- code: NP
+  type: district
 - code: NS
   type: district
 - code: RC
