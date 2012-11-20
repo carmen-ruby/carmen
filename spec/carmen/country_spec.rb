@@ -7,9 +7,32 @@ describe Carmen::Country do
     countries.size.must_equal 3
   end
 
-  it "provides an API for finding countries by name" do
-    eastasia = Carmen::Country.named('Eastasia')
-    eastasia.instance_of?(Carmen::Country).must_equal true
+  describe "API for finding countries by name" do
+    it "provides exact matching" do
+      eastasia = Carmen::Country.named('Eastasia')
+      eastasia.instance_of?(Carmen::Country).must_equal true
+    end
+
+    it "provides case-insensitive searches by default" do
+      eurasia = Carmen::Country.named('eUrAsIa')
+      eurasia.instance_of?(Carmen::Country).must_equal true
+      eurasia.name.must_equal 'Eurasia'
+    end
+
+    it "provides case-sensitive searches optionally" do
+      oceania = Carmen::Country.named('oCeAnIa', :case => true)
+      oceania.must_equal nil
+      oceania = Carmen::Country.named('Oceania', :case => true)
+      oceania.instance_of?(Carmen::Country).must_equal true
+      oceania.name.must_equal 'Oceania'
+    end
+
+    it "provides fuzzy (substring) matching optionally" do
+      eastasia = Carmen::Country.named('East', :fuzzy => true)
+      eastasia.instance_of?(Carmen::Country).must_equal true
+      eastasia.name.must_equal 'Eastasia'
+    end
+
   end
 
   it "provides an API for finding countries by code" do
