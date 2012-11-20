@@ -53,6 +53,26 @@ describe Carmen::Region do
       eastasia.name.must_equal('Eastasia')
     end
 
+    it "can find subregions by case-insensitive search by default" do
+      eurasia = @world.subregions.named('eUrAsIa')
+      eurasia.instance_of?(Carmen::Country).must_equal true
+      eurasia.name.must_equal 'Eurasia'
+    end
+
+    it "can find subregions optionally case-sensitively" do
+      oceania = @world.subregions.named('oCeAnIa', :case => true)
+      oceania.must_equal nil
+      oceania = @world.subregions.named('Oceania', :case => true)
+      oceania.instance_of?(Carmen::Country).must_equal true
+      oceania.name.must_equal 'Oceania'
+    end
+
+    it "can find subregions with fuzzy (substring) matching optionally" do
+      eastasia = @world.subregions.named('East', :fuzzy => true)
+      eastasia.instance_of?(Carmen::Country).must_equal true
+      eastasia.name.must_equal 'Eastasia'
+    end
+
     it 'can find subregions by name using a regex' do
       eastasia = @world.subregions.named(/Eastasia/)
       eastasia.name.must_equal('Eastasia')
