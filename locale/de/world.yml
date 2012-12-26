@@ -56,7 +56,7 @@ de:
     at:
       common_name: !!null
       name: Österreich
-      official_name: !!null
+      official_name: Republik Österreich
     au:
       common_name: !!null
       name: Australien
@@ -188,7 +188,7 @@ de:
     ch:
       common_name: !!null
       name: Schweiz
-      official_name: !!null
+      official_name: Schweizerische Eidgenossenschaft
     ci:
       common_name: !!null
       name: Côte d'Ivoire (Elfenbeinküste)
@@ -247,12 +247,12 @@ de:
       official_name: !!null
     cz:
       common_name: !!null
-      name: Tschechische Republik
-      official_name: !!null
+      name: Tschechien
+      official_name: Tschechische Republik
     de:
       common_name: !!null
       name: Deutschland
-      official_name: !!null
+      official_name: Bundesrepublik Deutschland
     dg:
       common_name: !!null
       name: Diego Garcia
@@ -336,7 +336,7 @@ de:
     fr:
       common_name: !!null
       name: Frankreich
-      official_name: !!null
+      official_name: Französische Republik
     fx:
       common_name: !!null
       name: Frankreich (ohne Übersee-Départements)
@@ -347,8 +347,8 @@ de:
       official_name: !!null
     gb:
       common_name: !!null
-      name: Vereinigtes Königreich Großbritannien und Nordirland
-      official_name: !!null
+      name: Vereinigtes Königreich
+      official_name: Vereinigtes Königreich Großbritannien und Nordirland
     gd:
       common_name: !!null
       name: Grenada
