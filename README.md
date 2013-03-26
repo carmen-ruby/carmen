@@ -1,3 +1,9 @@
+# Looking for maintainers
+
+I haven't had enough time to properly support Carmen for many months. If you'd like to help maintain the library and its partner carmen-rails, please get in touch!
+
+-------
+
 # Carmen- A repository of geographic regions for Ruby
 
 [![Build Status](https://secure.travis-ci.org/jim/carmen.png?branch=master)](http://travis-ci.org/jim/carmen)
