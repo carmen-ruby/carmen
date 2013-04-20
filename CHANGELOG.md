@@ -1,3 +1,7 @@
+###1.0.0
+* Updated version numbering and pushed 1.0.0pre to v1.0.0.
+* Merged in updates to German locations, via a patch from @leifg
+
 ### 1.0.0pre
 * Complete rewrite. New data source and API. Extracting Rails view
   helpers into seperate gem.
