@@ -8,10 +8,8 @@ I haven't had enough time to properly support Carmen for many months. If you'd l
 
 [![Build Status](https://secure.travis-ci.org/jim/carmen.png?branch=master)](http://travis-ci.org/jim/carmen)
 
-Carmen 1.0 is a rewrite of the library, seperating out the geographic
-components from the Rails-specific view helpers. If you are using Carmen with
-Rails, you should check out the
-[carmen-rails](http://github.com/jim/carmen-rails) library.
+Carmen 1.0.0 is now out, after more than a year in beta.  This release is a rewrite of the library, seperating out the geographic
+components from the Rails-specific view helpers. If you are using Carmen with Rails, you should check out the [carmen-rails](http://github.com/jim/carmen-rails) library.
 
 The [0.2.x branch](https://github.com/jim/carmen/tree/0.2.x) contains the previous
 version of Carmen should you need it for some reason.
