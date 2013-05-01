@@ -2,8 +2,7 @@
 
 [![Build Status](https://secure.travis-ci.org/jim/carmen.png?branch=master)](http://travis-ci.org/jim/carmen)
 
-Carmen 1.0.0 is now out, after more than a year in beta.  This release is a rewrite of the library, seperating out the geographic
-components from the Rails-specific view helpers. If you are using Carmen with Rails, you should check out the [carmen-rails](http://github.com/jim/carmen-rails) library.
+Carmen 1.0.0 is now out, after more than a year in beta.  This release is a rewrite of the library, separating out the geographic components from the Rails-specific view helpers. If you are using Carmen with Rails, you should check out the [carmen-rails](http://github.com/jim/carmen-rails) library.
 
 The [0.2.x branch](https://github.com/jim/carmen/tree/0.2.x) contains the previous
 version of Carmen should you need it for some reason.
@@ -82,14 +81,14 @@ Some subregions may contain additional subregions. An example of this is Spain:
 ## How Carmen organizes data
 
 In order to facilitate support for I18n, Carmen stores the structure of regions
-seperately from the strings that represent a region's names. The defualt data
+separately from the strings that represent a region's names. The default data
 that ships with Carmen is in the iso_data and locale directories,
 respectively.
 
 ## Overriding structural data
 
 You might want to tweak the data that Carmen provides for a variety of reasons. Carmen
-maintains an array of paths to laod data from in: `Carmen.data_paths`. The structure of
+maintains an array of paths to load data from in: `Carmen.data_paths`. The structure of
 files in each of these paths should mirror those in the `iso_data` path Carmen ships with.
 
 To add a new country to the system, you would create a directory (let's use `my_data` as an example),
@@ -125,7 +124,7 @@ a new file at the correct overlay path, and modifying the values as desired.
 It is also possible to remove an element from the dataset by setting its `_enabled` value to [anything YAML considers false](http://yaml.org/type/bool.html), such as 'false' or 'no':
 
     - alpha_2_code: EU
-	  _enabled: false
+      _enabled: false
 
 This will cause Carmen to not return that element from any query:
 
