@@ -1,3 +1,5 @@
+# -*- encoding: utf-8 -*-
+
 require 'spec_helper'
 
 describe Carmen::Region do
@@ -81,6 +83,29 @@ describe Carmen::Region do
     it 'can find subregions by name using a case-insensitive regex' do
       eastasia = @world.subregions.named(/eastasia/i)
       eastasia.name.must_equal('Eastasia')
+    end
+
+    describe 'unicode character handling' do
+      before do
+        Carmen.i18n_backend.locale = :de
+      end
+
+      after do
+        Carmen.i18n_backend.locale = :en
+      end
+
+      it 'can find a country using unicode characters' do
+        large = @world.subregions.named('Das großartige Staat von Eurasia')
+        large.instance_of?(Carmen::Country).must_equal true
+        large.name.must_equal('Das großartige Staat von Eurasia')
+      end
+
+      it 'can find a country using unicode characters' do
+        large = @world.subregions.named('gross', :fuzzy => true)
+        large.instance_of?(Carmen::Country).must_equal true
+        large.name.must_equal('Das großartige Staat von Eurasia')
+      end
+
     end
   end
 

@@ -18,7 +18,7 @@ describe "I18n::Simple" do
   end
 
   it 'knows which locales are available' do
-    @i18n.available_locales.must_equal ['en']
+    @i18n.available_locales.must_equal ['de', 'en']
   end
 
   it "loads and merges yaml files" do
@@ -59,7 +59,7 @@ describe "I18n::Simple" do
     end
 
     it 'retains existing locales' do
-      @i18n.available_locales.must_equal ['en', 'zz']
+      @i18n.available_locales.must_equal ['de', 'en', 'zz']
     end
 
     it 'stores the current locale' do
