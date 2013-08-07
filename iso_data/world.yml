@@ -723,10 +723,6 @@
   alpha_3_code: PCN
   numeric_code: '612'
   type: country
-- alpha_2_code: PR
-  alpha_3_code: PRI
-  numeric_code: '630'
-  type: country
 - alpha_2_code: PS
   alpha_3_code: PSE
   numeric_code: '275'
