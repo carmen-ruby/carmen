@@ -16,6 +16,12 @@ describe "Data overlaying" do
     sealand.type.must_equal('fort')
   end
 
+  it 'verifies overlay exists in before loading yaml file' do
+    oceana = Carmen::Country.coded('OC')
+    oceana.instance_of?(Carmen::Country).must_equal true
+    oceana.type.must_equal('country')
+  end
+
   it 'removes elements that have _enabled set to false' do
     Carmen::World.instance.subregions.size.must_equal(3)
     Carmen::Country.named('Eurasia').must_equal nil
