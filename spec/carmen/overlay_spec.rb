@@ -16,7 +16,7 @@ describe "Data overlaying" do
     sealand.type.must_equal('fort')
   end
 
-  it 'verifies overlay exists in before loading yaml file' do
+  it 'still finds values that exist in non-overlay files' do
     oceana = Carmen::Country.coded('OC')
     oceana.instance_of?(Carmen::Country).must_equal true
     oceana.type.must_equal('country')
