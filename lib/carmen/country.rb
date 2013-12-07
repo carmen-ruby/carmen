@@ -26,6 +26,10 @@ module Carmen
       Carmen.i18n_backend.translate(path('official_name'))
     end
 
+    def demonym
+      Carmen.i18n_backend.translate(path('demonym'))
+    end
+
     def self.all
       World.instance.subregions
     end
