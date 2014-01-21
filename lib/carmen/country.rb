@@ -47,7 +47,13 @@ module Carmen
   private
 
     def self.attribute_to_search_for_code(code)
-      code.to_s.size == 2 ? :alpha_2_code : :alpha_3_code
+      if code.to_s.size == 2
+        :alpha_2_code
+      elsif code =~ /\d{3}/
+        :numeric_code
+      else
+        :alpha_3_code
+      end
     end
 
     def subregion_directory

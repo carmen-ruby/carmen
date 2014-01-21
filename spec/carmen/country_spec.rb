@@ -40,6 +40,12 @@ describe Carmen::Country do
     eurasia.instance_of?(Carmen::Country).must_equal true
   end
 
+  it "provides an API for finding countries by numeric code" do
+    oceania = Carmen::Country.coded('001')
+    oceania.instance_of?(Carmen::Country).must_equal true
+    oceania.name.must_equal 'Oceania'
+  end
+
   describe "basic attributes" do
     before do
       @oceania = Carmen::Country.coded('OC')
