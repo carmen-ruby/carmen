@@ -869,6 +869,10 @@ sv:
       common_name: !!null 
       name: Surinam
       official_name: !!null 
+    ss:
+      common_name: !!null
+      name: Sydsudan
+      official_name: Republiken Sydsudan
     st:
       common_name: !!null 
       name: São Tomé och Príncipe
