@@ -16,6 +16,12 @@ describe "Data overlaying" do
     sealand.type.must_equal('fort')
   end
 
+  it 'still finds values that exist in non-overlay elements' do
+    oceania = Carmen::Country.coded('OC')
+    oceania.instance_of?(Carmen::Country).must_equal true
+    oceania.type.must_equal('country')
+  end
+
   it 'removes elements that have _enabled set to false' do
     Carmen::World.instance.subregions.size.must_equal(3)
     Carmen::Country.named('Eurasia').must_equal nil
