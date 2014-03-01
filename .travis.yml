@@ -1,7 +1,5 @@
 rvm:
   - 1.9.2
   - 1.9.3
-
-branches:
-  only:
-    - master
+  - 2.0.0
+  - 2.1.0
