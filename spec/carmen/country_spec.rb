@@ -60,6 +60,10 @@ describe Carmen::Country do
       @oceania.common_name.must_equal 'Oceania'
     end
 
+    it "has a demonym" do
+      @oceania.demonym.must_equal 'Oceanian'
+    end
+
     it "has a 2 character code" do
       @oceania.alpha_2_code.must_equal 'OC'
     end
