@@ -173,3 +173,8 @@ set of locale paths used by the backend:
 
 If you are using your own backend, then follow the steps necessary to have it
 load your additional files instead.
+
+
+## Extensions
+
+[Jacob Morris](https://github.com/jacobsimeon) has created [a plugin for Carmen that adds support for demonyms](https://github.com/jacobsimeon/carmen-demonyms).
