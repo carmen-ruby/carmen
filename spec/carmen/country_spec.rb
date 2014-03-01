@@ -72,6 +72,10 @@ describe Carmen::Country do
       @oceania.code.must_equal 'OC'
     end
 
+    it "has a numeric code" do
+      @oceania.numeric_code.must_equal '001'
+    end
+
     it "has the world as a parent" do
       @oceania.parent.must_equal Carmen::World.instance
     end
