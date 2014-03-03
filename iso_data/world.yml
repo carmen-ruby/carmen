@@ -27,6 +27,9 @@
   alpha_3_code: ARM
   numeric_code: '051'
   type: country
+- alpha_2_code: AN
+  alpha_3_code: ANT
+  numeric_code: '530'
 - alpha_2_code: AO
   alpha_3_code: AGO
   numeric_code: '024'
