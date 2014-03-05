@@ -139,7 +139,7 @@ I18n backend:
     Carmen.i18n_backend = YourI18nBackend.new
 
 The object used as a backend must respond to `t` with a single argument (the
-key being looked up). This key will look something like `en.world.us.il.name`.
+key being looked up). This key will look something like `world.us.il.name`.
 
 ## Setting the locale
 
