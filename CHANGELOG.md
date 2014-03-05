@@ -1,4 +1,12 @@
-###1.0.0
+### HEAD
+* Avoid raising an exception when calling Querying#coded with a nil code
+* Fix a bug where adding additional data paths caused an error when looking up localized names in the base locale data (seangaffney)
+* Add Country#numeric_code (stevenharman)
+* Fix the name of Lima (goddamnhippie)
+* Add south Sudan Swedish translation (barsoom)
+* Add Russian translations of Russian Federation (Envek)
+
+### 1.0.0 (April 20, 2013)
 * Updated version numbering and pushed 1.0.0pre to v1.0.0.
 * Merged in updates to German locations, via a patch from @leifg
 
