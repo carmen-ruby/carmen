@@ -6,8 +6,9 @@ module Carmen
     #
     # code - The String code to search for
     #
-    # Returns a region with the supplied code, or nil ir none is found.
+    # Returns a region with the supplied code, or nil if none is found.
     def coded(code)
+      return nil if code.nil?
       attribute = attribute_to_search_for_code(code)
       if attribute.nil?
         fail "could not find an attribute to search for code '#{code}'"

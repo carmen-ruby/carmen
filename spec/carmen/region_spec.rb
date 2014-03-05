@@ -88,6 +88,14 @@ describe Carmen::Region do
       eastasia.name.must_equal('Eastasia')
     end
 
+    it 'handles querying for a nil code safely' do
+      @world.subregions.coded(nil).must_equal nil
+    end
+
+    it 'handles querying for a nil name safely' do
+      @world.subregions.named(nil).must_equal nil
+    end
+
     describe 'unicode character handling' do
       before do
         Carmen.i18n_backend.locale = :de
