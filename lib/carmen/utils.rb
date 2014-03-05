@@ -2,8 +2,11 @@ module Carmen
   module Utils
     # Merge an array of hashes deeply.
     #
-    # When a conflict occurs and either the old value or the new value don't
-    # respond_to? :merge, the new value is used.
+    # When a conflict occurs:
+    #   - if both the old value and the new value respond_to? :merge, they
+    #   are recursively passed to deep_merge_hash and the result used.
+    #   - if either doesn't respond_to? :merge, then the new value is used if
+    #   it is not nil. If the new value is nil, the old value is used.
     #
     # Returns a meged hash.
     def self.deep_hash_merge(hashes)
@@ -14,7 +17,7 @@ module Carmen
           if old_value.respond_to?(:merge) && new_value.respond_to?(:merge)
             deep_hash_merge([old_value, new_value])
           else
-            new_value
+            new_value || old_value
           end
         }
       }
@@ -23,7 +26,7 @@ module Carmen
     # Merge arrays of hashes using the specified keys.
     #
     # If two hashes have the same value for a key, they are merged together.
-    # Otherwise, a new hash is appened to the array.
+    # Otherwise, a new hash is appended to the array.
     #
     # Matching arrays uses the keys in the order they are provided.
     #

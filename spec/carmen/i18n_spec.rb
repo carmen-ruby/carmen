@@ -79,4 +79,21 @@ describe "I18n::Simple" do
     end
   end
 
+  describe 'overlaying empty files onto a locale' do
+    before do
+      @i18n.append_locale_path(carmen_spec_overlay_locale_path)
+      @i18n.locale = 'de'
+    end
+
+    after do
+      @i18n.locale = Carmen::I18n::Simple::DEFAULT_LOCALE
+      @i18n.reset!
+    end
+
+    it 'still has access to the base locale data' do
+      @i18n.t('world.eu.official_name').must_equal('Das großartige Staat von Eurasia')
+    end
+
+  end
+
 end
