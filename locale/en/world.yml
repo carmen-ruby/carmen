@@ -911,8 +911,8 @@ en:
       official_name: !!null 
     tw:
       common_name: Taiwan
-      name: Taiwan, Province of China
-      official_name: Taiwan, Province of China
+      name: Taiwan
+      official_name: Taiwan
     tz:
       common_name: !!null 
       name: Tanzania, United Republic of

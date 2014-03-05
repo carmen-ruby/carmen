@@ -5,6 +5,7 @@
 * Fix the name of Lima (goddamnhippie)
 * Add south Sudan Swedish translation (barsoom)
 * Add Russian translations of Russian Federation (Envek)
+* Fix a regression in the localization of Taiwan from the 1.0 rewrite
 
 ### 1.0.0 (April 20, 2013)
 * Updated version numbering and pushed 1.0.0pre to v1.0.0.
