@@ -7,6 +7,9 @@
 * Add Russian translations of Russian Federation (Envek)
 * Fix a regression in the localization of Taiwan from the 1.0 rewrite.
 * Fix a bug where empty locale files would prevent access to the base data.
+* Add a way to ship overlayed data sets with Carmen to allow for differences from the upstream data source.
+* Remove Puerto Rico from the list of countries as it is a subregion.
+* Restore the naming of Taiwan after a regression to an outdated name.
 
 ### 1.0.0 (April 20, 2013)
 * Updated version numbering and pushed 1.0.0pre to v1.0.0.
