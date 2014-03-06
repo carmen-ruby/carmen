@@ -11,6 +11,7 @@
 * Remove Puerto Rico from the list of countries as it is a subregion.
 * Restore the naming of Taiwan after a regression to an outdated name.
 * Added La Rioja to the list of subregions of Argentina (njacobs1)
+* Added APO states to US subregions.
 
 ### 1.0.0 (April 20, 2013)
 * Updated version numbering and pushed 1.0.0pre to v1.0.0.

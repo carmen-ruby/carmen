@@ -1,0 +1,10 @@
+---
+en:
+  world:
+    us:
+      aa:
+        name: Armed Forces Americas (except Canada)
+      ae:
+        name: Armed Forces Africa, Canada, Europe, Middle East
+      ap:
+        name: Armed Forces Pacific
