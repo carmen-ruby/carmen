@@ -1,4 +1,4 @@
-### HEAD
+### 1.0.1
 * Avoid raising an exception when calling Querying#coded with a nil code
 * Fix a bug where adding additional data paths caused an error when looking up localized names in the base locale data (seangaffney)
 * Add Country#numeric_code (stevenharman)
