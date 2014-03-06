@@ -67,13 +67,16 @@ module Carmen
     # Public: Reset the data_paths array to the defaults.
     def reset_data_paths
       clear_data_paths
-      append_data_path(root_path + 'iso_data')
+      append_data_path(root_path + 'iso_data/base')
+      append_data_path(root_path + 'iso_data/overlay')
     end
 
     # Public: Reset the i18n_backend to a default backend.
     def reset_i18n_backend
-      locale_path = root_path + 'locale'
-      self.i18n_backend = Carmen::I18n::Simple.new(locale_path)
+      base_locale_path = root_path + 'locale/base'
+      override_locale_path = root_path + 'locale/overlay'
+      self.i18n_backend = Carmen::I18n::Simple.new(base_locale_path,
+                                                   override_locale_path)
     end
   end
 
