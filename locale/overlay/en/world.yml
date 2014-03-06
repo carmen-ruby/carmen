@@ -1,0 +1,8 @@
+# This file is used to overlay modifications to the base locale data set
+---
+en:
+  world:
+    tw:
+      common_name: Taiwan
+      name: Taiwan
+      official_name: Taiwan
