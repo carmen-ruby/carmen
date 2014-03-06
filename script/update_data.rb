@@ -34,8 +34,8 @@ def write_data_to_path_as_yaml(data, path)
     { path => hash }
   }
 
-  write_file(data, 'iso_data/' + path)
-  write_file(wrapped_locale_data, 'locale/en/' + path)
+  write_file(data, 'iso_data/base/' + path)
+  write_file(wrapped_locale_data, 'locale/base/en/' + path)
 end
 
 def write_regions_to_path_as_yaml(regions_data, path)
@@ -52,7 +52,7 @@ end
 
 puts "Downloading data"
 
-data_path = Pathname.new(File.expand_path('../../iso_data', __FILE__))
+data_path = Pathname.new(File.expand_path('../../iso_data/base', __FILE__))
 tmp_path = data_path + 'tmp'
 
 FileUtils.mkdir_p(tmp_path)
