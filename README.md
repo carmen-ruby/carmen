@@ -35,11 +35,38 @@ A Country object has some attributes that may be useful:
     us.alpha_3_code
     => 'USA'
 
+    us.numeric_code
+    => '840'
+
     us.code # alias for alpha_2_code
     => 'US'
 
     us.official_name
     => "United States of America"
+
+You can use separate finder methods for searching by each attribute (recommended):
+
+    gb = Country.alpha_2_coded('GB')
+    => <#Carmen::Country name="United Kingdom">
+
+    ru = Country.alpha_3_coded('RUS')
+    => <#Carmen::Country name="Russian Federation">
+
+    ad = Country.numeric_coded('020') # Note a string here! Alias: numerically_coded
+    => <#Carmen::Country name="Andorra">
+
+__NOTICE:__ Please note, that in `numeric_coded` you should pass a 3-symbol zero padded string. Be aware of the fact, that Ruby interprets integers with leading zero as octal number (`020 == 16 # => true`).
+
+You can query country by any code in single method (not recommended, and will be deprecated):
+
+    us = Country.coded('US')
+    => <#Carmen::Country name="United States">
+
+    us = Country.coded('USA')
+    => <#Carmen::Country name="United States">
+
+    us = Country.coded('840') # Note a string here
+    => <#Carmen::Country name="United States">
 
 A `Country` (and its subregions) can contain subregions. In the US these are states, but other countries have other types of regions:
 

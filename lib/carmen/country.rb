@@ -36,6 +36,18 @@ module Carmen
       all
     end
 
+    class << self
+      %w(numeric alpha_2 alpha_3).each do |attr|
+        define_method "#{attr}_coded" do |code|
+          code = code.to_s.downcase
+          query_collection.find do |region|
+            region.send("#{attr}_code").downcase == code
+          end
+        end
+      end
+      alias_method :numerically_coded, :numeric_coded
+    end
+
     def inspect
       %(<##{self.class} name="#{name}">)
     end
