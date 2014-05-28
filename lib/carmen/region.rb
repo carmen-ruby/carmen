@@ -101,15 +101,10 @@ module Carmen
     #
     # Returns a single merged array of hashes.
     def flatten_data(arrays)
-
       keys = %w(code alpha_2_code)
-      flattened = Utils.merge_arrays_by_keys(arrays, keys)
-
-      flattened.each do |hash|
-        flattened.delete(hash) if hash['_enabled'] == false
+      Utils.merge_arrays_by_keys(arrays, keys).reject do |hash|
+        hash['_enabled'] == false
       end
-
-      flattened
     end
   end
 end
