@@ -19,6 +19,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency('minitest', ["= 2.6.1"])
   s.add_development_dependency('nokogiri')
   s.add_development_dependency('rake', '0.9.2.2')
-  s.add_development_dependency('debugger')
+  s.add_development_dependency('byebug')
   s.add_dependency('unicode_utils', '~> 1.4.0')
 end
