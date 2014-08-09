@@ -5,7 +5,7 @@ require 'minitest/autorun'
 require 'bundler/setup'
 require 'carmen'
 
-require 'debugger'
+require 'byebug'
 
 def setup_carmen_test_data_path
   Carmen.clear_data_paths

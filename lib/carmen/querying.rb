@@ -1,4 +1,4 @@
-require 'unicode_utils'
+require 'unicode_utils/casefold'
 
 module Carmen
   module Querying
