@@ -94,7 +94,7 @@ files in each of these paths should mirror those in the `iso_data` path Carmen s
 To add a new country to the system, you would create a directory (let's use `my_data` as an example),
 and create a `world.yml` file inside it. Then add the path to Carman:
 
-    Carmen.append_data_path File.expand_path('../my_data', __FILE___)
+    Carmen.append_data_path File.expand_path('../my_data', __FILE__)
 
 Elements within the data files are identified using their `code` values (or, in the case of countries, `alpha_2_code`). Create a new block for the country you wish to add inside `my_data/world.yml`:
 
