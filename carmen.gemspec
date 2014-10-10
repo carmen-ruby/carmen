@@ -21,5 +21,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency('rake', '0.9.2.2')
   s.add_development_dependency('debugger')
   s.add_development_dependency('i18n')
-  s.add_dependency('activesupport', '~> 3.0.0')
+  s.add_dependency('activesupport', '>= 3.0.0')
 end
