@@ -63,6 +63,8 @@
   type: state
 - code: TR
   type: state
+- code: TS
+  type: state
 - code: UL
   type: state
 - code: UP
