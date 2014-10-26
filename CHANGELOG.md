@@ -3,6 +3,8 @@
 * Update data from upstream sources.
 * Fix spelling errors for French subregions (hugolantaume)
 * Fix spelling errors for Spanish subregions (nudzg)
+* Added missing nl translations for bq, cw, ss and sx (brtdv)
+* Moved translations into locale/overlay from locale/base. Base is only for data from iso_codes.
 
 ### 1.0.1
 * Avoid raising an exception when calling Querying#coded with a nil code
