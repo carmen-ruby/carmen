@@ -178,3 +178,4 @@ load your additional files instead.
 ## Extensions
 
 [Jacob Morris](https://github.com/jacobsimeon) has created [a plugin for Carmen that adds support for demonyms](https://github.com/jacobsimeon/carmen-demonyms).
+[Cyle Hunter](https://github.com/nozpheratu) has created [a plugin that adds ISO 4217 currency names to Carmen::Country](https://github.com/nozpheratu/carmen-iso-4217).
