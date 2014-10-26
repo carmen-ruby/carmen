@@ -5,8 +5,8 @@
 * Fix spelling errors for Spanish subregions (nudzg)
 * Added missing nl translations for bq, cw, ss and sx (brtdv)
 * Moved translations into locale/overlay from locale/base. Base is only for data from iso_codes.
-* Changed the official name of Taiwan to Republic of China
-*
+* Changed the official name of Taiwan to Republic of China.
+* Fixed the name of Vietnam.
 
 ### 1.0.1
 * Avoid raising an exception when calling Querying#coded with a nil code
