@@ -175,7 +175,12 @@ If you are using your own backend, then follow the steps necessary to have it
 load your additional files instead.
 
 
+## Contributing to Carmen
+
+Please read [Contributing Data](https://github.com/jim/carmen/wiki/Contributing-Data) before making any changes to the project's data. It will save you (and me) a bunch of time!
+
 ## Extensions
 
 [Jacob Morris](https://github.com/jacobsimeon) has created [a plugin for Carmen that adds support for demonyms](https://github.com/jacobsimeon/carmen-demonyms).
+
 [Cyle Hunter](https://github.com/nozpheratu) has created [a plugin that adds ISO 4217 currency names to Carmen::Country](https://github.com/nozpheratu/carmen-iso-4217).
