@@ -4,19 +4,15 @@ en:
     qa:
       da:
         name: Ad Dawhah
-      gh:
-        name: Al Ghuwayriyah
-      jb:
-        name: Jariyan al Batnah
-      ju:
-        name: Al Jumayliyah
       kh:
-        name: Al Khawr
+        name: Al Khawr wa adh Dhakhīrah
       ms:
-        name: Madinat ash Shamal
+        name: Ash Shamal
       ra:
         name: Ar Rayyan
       us:
         name: Umm Salal
       wa:
         name: Al Wakrah
+      za:
+        name: Az̧ Z̧a‘āyin

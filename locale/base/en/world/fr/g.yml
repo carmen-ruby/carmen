@@ -3,7 +3,7 @@ en:
   world:
     fr:
       g:
-        '08':
+        08:
           name: Ardennes
         '10':
           name: Aube

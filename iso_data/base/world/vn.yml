@@ -13,7 +13,7 @@
   type: province
 - code: '07'
   type: province
-- code: '09'
+- code: 09
   type: province
 - code: '13'
   type: province
@@ -75,8 +75,6 @@
   type: province
 - code: '47'
   type: province
-- code: '48'
-  type: province
 - code: '49'
   type: province
 - code: '50'
@@ -99,17 +97,9 @@
   type: province
 - code: '59'
   type: province
-- code: '60'
-  type: province
 - code: '61'
   type: province
-- code: '62'
-  type: province
 - code: '63'
-  type: province
-- code: '64'
-  type: province
-- code: '65'
   type: province
 - code: '66'
   type: province
@@ -127,3 +117,13 @@
   type: province
 - code: '73'
   type: province
+- code: CT
+  type: municipality
+- code: DN
+  type: municipality
+- code: HN
+  type: municipality
+- code: HP
+  type: municipality
+- code: SG
+  type: municipality

@@ -1,6 +1,4 @@
 ---
-- code: AB
-  type: city
 - code: ABS
   type: rayon
 - code: AGA
@@ -16,7 +14,7 @@
 - code: AST
   type: rayon
 - code: BA
-  type: city
+  type: municipality
 - code: BAL
   type: rayon
 - code: BAR
@@ -31,17 +29,17 @@
   type: rayon
 - code: DAS
   type: rayon
-- code: DAV
-  type: rayon
 - code: FUZ
   type: rayon
 - code: GA
-  type: city
+  type: municipality
 - code: GAD
   type: rayon
 - code: GOR
   type: rayon
 - code: GOY
+  type: rayon
+- code: GYG
   type: rayon
 - code: HAC
   type: rayon
@@ -54,7 +52,7 @@
 - code: KUR
   type: rayon
 - code: LA
-  type: city
+  type: municipality
 - code: LAC
   type: rayon
 - code: LAN
@@ -64,9 +62,9 @@
 - code: MAS
   type: rayon
 - code: MI
-  type: city
+  type: municipality
 - code: NA
-  type: city
+  type: municipality
 - code: NEF
   type: rayon
 - code: NX
@@ -88,7 +86,7 @@
 - code: QUS
   type: rayon
 - code: SA
-  type: city
+  type: municipality
 - code: SAB
   type: rayon
 - code: SAK
@@ -97,18 +95,20 @@
   type: rayon
 - code: SAT
   type: rayon
+- code: SBN
+  type: rayon
 - code: SIY
   type: rayon
 - code: SKR
   type: rayon
 - code: SM
-  type: city
+  type: municipality
 - code: SMI
   type: rayon
 - code: SMX
   type: rayon
-- code: SS
-  type: city
+- code: SR
+  type: municipality
 - code: SUS
   type: rayon
 - code: TAR
@@ -118,10 +118,8 @@
 - code: UCA
   type: rayon
 - code: XA
-  type: city
+  type: municipality
 - code: XAC
-  type: rayon
-- code: XAN
   type: rayon
 - code: XCI
   type: rayon
@@ -132,7 +130,7 @@
 - code: YAR
   type: rayon
 - code: YE
-  type: city
+  type: municipality
 - code: YEV
   type: rayon
 - code: ZAN

@@ -5,7 +5,7 @@ en:
       bal:
         name: Balkh
       bam:
-        name: Bāmīān
+        name: Bāmyān
       bdg:
         name: Bādghīs
       bds:
@@ -13,7 +13,7 @@ en:
       bgl:
         name: Baghlān
       day:
-        name: Dāykondī
+        name: Dāykundī
       fra:
         name: Farāh
       fyb:
@@ -21,7 +21,7 @@ en:
       gha:
         name: Ghaznī
       gho:
-        name: Ghowr
+        name: Ghōr
       hel:
         name: Helmand
       her:
@@ -29,44 +29,44 @@ en:
       jow:
         name: Jowzjān
       kab:
-        name: Kābul [Kābol]
+        name: Kābul
       kan:
         name: Kandahār
       kap:
         name: Kāpīsā
       kdz:
-        name: Kondoz [Kunduz]
+        name: Kunduz
       kho:
-        name: Khowst
+        name: Khōst
       knr:
-        name: Konar [Kunar]
+        name: Kunar
       lag:
         name: Laghmān
-      low:
-        name: Lowgar
+      log:
+        name: Lōgar
       nan:
-        name: Nangrahār [Nangarhār]
+        name: Nangarhār
       nim:
-        name: Nīmrūz
+        name: Nīmrōz
       nur:
-        name: Nūrestān
-      oru:
-        name: Orūzgān [Urūzgān]
+        name: Nūristān
       pan:
-        name: Panjshīr
+        name: Panjshayr
       par:
         name: Parwān
       pia:
-        name: Paktīā
+        name: Paktiyā
       pka:
         name: Paktīkā
       sam:
         name: Samangān
       sar:
-        name: Sar-e Pol
+        name: Sar-e Pul
       tak:
         name: Takhār
+      uru:
+        name: Uruzgān
       war:
-        name: Wardak [Wardag]
+        name: Wardak
       zab:
-        name: Zābol [Zābul]
+        name: Zābul

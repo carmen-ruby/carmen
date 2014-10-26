@@ -2,21 +2,7 @@
 en:
   world:
     gq:
-      an:
-        name: Annobón
-      bn:
-        name: Bioko Norte
-      bs:
-        name: Bioko Sur
       c:
         name: Región Continental
-      cs:
-        name: Centro Sur
       i:
         name: Región Insular
-      kn:
-        name: Kié-Ntem
-      li:
-        name: Litoral
-      wn:
-        name: Wele-Nzás

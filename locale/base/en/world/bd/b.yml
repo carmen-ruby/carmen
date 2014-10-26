@@ -1,0 +1,27 @@
+---
+en:
+  world:
+    bd:
+      b:
+        '01':
+          name: Bandarban
+        '04':
+          name: Brahmanbaria
+        09:
+          name: Chandpur
+        '10':
+          name: Chittagong
+        08:
+          name: Comilla
+        '11':
+          name: Cox's Bazar
+        '16':
+          name: Feni
+        '29':
+          name: Khagrachari
+        '31':
+          name: Lakshmipur
+        '47':
+          name: Noakhali
+        '56':
+          name: Rangamati

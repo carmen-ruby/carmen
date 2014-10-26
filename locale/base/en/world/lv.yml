@@ -2,69 +2,241 @@
 en:
   world:
     lv:
-      ai:
-        name: Aizkraukle Apriņķis
-      al:
-        name: Alūksne Apriņķis
-      bl:
-        name: Balvi Apriņķis
-      bu:
-        name: Bauska Apriņķis
-      ce:
-        name: Cēsis Apriņķis
-      da:
-        name: Daugavpils Apriņķis
+      '001':
+        name: Aglonas novads
+      '002':
+        name: Aizkraukles novads
+      '003':
+        name: Aizputes novads
+      '004':
+        name: Aknīstes novads
+      '005':
+        name: Alojas novads
+      '006':
+        name: Alsungas novads
+      '007':
+        name: Alūksnes novads
+      008:
+        name: Amatas novads
+      009:
+        name: Apes novads
+      '010':
+        name: Auces novads
+      '011':
+        name: "Ādažu novads"
+      '012':
+        name: Babītes novads
+      '013':
+        name: Baldones novads
+      '014':
+        name: Baltinavas novads
+      '015':
+        name: Balvu novads
+      '016':
+        name: Bauskas novads
+      '017':
+        name: Beverīnas novads
+      018:
+        name: Brocēnu novads
+      019:
+        name: Burtnieku novads
+      '020':
+        name: Carnikavas novads
+      '021':
+        name: Cesvaines novads
+      '022':
+        name: Cēsu novads
+      '023':
+        name: Ciblas novads
+      '024':
+        name: Dagdas novads
+      '025':
+        name: Daugavpils novads
+      '026':
+        name: Dobeles novads
+      '027':
+        name: Dundagas novads
+      028:
+        name: Durbes novads
+      029:
+        name: Engures novads
+      '030':
+        name: "Ērgļu novads"
+      '031':
+        name: Garkalnes novads
+      '032':
+        name: Grobiņas novads
+      '033':
+        name: Gulbenes novads
+      '034':
+        name: Iecavas novads
+      '035':
+        name: Ikšķiles novads
+      '036':
+        name: Ilūkstes novads
+      '037':
+        name: Inčukalna novads
+      038:
+        name: Jaunjelgavas novads
+      039:
+        name: Jaunpiebalgas novads
+      '040':
+        name: Jaunpils novads
+      '041':
+        name: Jelgavas novads
+      '042':
+        name: Jēkabpils novads
+      '043':
+        name: Kandavas novads
+      '044':
+        name: Kārsavas novads
+      '045':
+        name: Kocēnu novads
+      '046':
+        name: Kokneses novads
+      '047':
+        name: Krāslavas novads
+      048:
+        name: Krimuldas novads
+      049:
+        name: Krustpils novads
+      '050':
+        name: Kuldīgas novads
+      '051':
+        name: "Ķeguma novads"
+      '052':
+        name: "Ķekavas novads"
+      '053':
+        name: Lielvārdes novads
+      '054':
+        name: Limbažu novads
+      '055':
+        name: Līgatnes novads
+      '056':
+        name: Līvānu novads
+      '057':
+        name: Lubānas novads
+      058:
+        name: Ludzas novads
+      059:
+        name: Madonas novads
+      '060':
+        name: Mazsalacas novads
+      '061':
+        name: Mālpils novads
+      '062':
+        name: Mārupes novads
+      '063':
+        name: Mērsraga novads
+      '064':
+        name: Naukšēnu novads
+      '065':
+        name: Neretas novads
+      '066':
+        name: Nīcas novads
+      '067':
+        name: Ogres novads
+      068:
+        name: Olaines novads
+      069:
+        name: Ozolnieku novads
+      '070':
+        name: Pārgaujas novads
+      '071':
+        name: Pāvilostas novads
+      '072':
+        name: Pļaviņu novads
+      '073':
+        name: Preiļu novads
+      '074':
+        name: Priekules novads
+      '075':
+        name: Priekuļu novads
+      '076':
+        name: Raunas novads
+      '077':
+        name: Rēzeknes novads
+      078:
+        name: Riebiņu novads
+      079:
+        name: Rojas novads
+      080:
+        name: Ropažu novads
+      081:
+        name: Rucavas novads
+      082:
+        name: Rugāju novads
+      083:
+        name: Rundāles novads
+      084:
+        name: Rūjienas novads
+      085:
+        name: Salas novads
+      086:
+        name: Salacgrīvas novads
+      087:
+        name: Salaspils novads
+      088:
+        name: Saldus novads
+      089:
+        name: Saulkrastu novads
+      090:
+        name: Sējas novads
+      091:
+        name: Siguldas novads
+      092:
+        name: Skrīveru novads
+      093:
+        name: Skrundas novads
+      094:
+        name: Smiltenes novads
+      095:
+        name: Stopiņu novads
+      096:
+        name: Strenču novads
+      097:
+        name: Talsu novads
+      098:
+        name: Tērvetes novads
+      099:
+        name: Tukuma novads
+      '100':
+        name: Vaiņodes novads
+      '101':
+        name: Valkas novads
+      '102':
+        name: Varakļānu novads
+      '103':
+        name: Vārkavas novads
+      '104':
+        name: Vecpiebalgas novads
+      '105':
+        name: Vecumnieku novads
+      '106':
+        name: Ventspils novads
+      '107':
+        name: Viesītes novads
+      '108':
+        name: Viļakas novads
+      '109':
+        name: Viļānu novads
+      '110':
+        name: Zilupes novads
       dgv:
         name: Daugavpils
-      do:
-        name: Dobele Apriņķis
-      gu:
-        name: Gulbene Apriņķis
       jel:
         name: Jelgava
-      jk:
-        name: Jēkabpils Apriņķis
-      jl:
-        name: Jelgava Apriņķis
+      jkb:
+        name: Jēkabpils
       jur:
         name: Jūrmala
-      kr:
-        name: Krāslava Apriņķis
-      ku:
-        name: Kuldīga Apriņķis
-      le:
-        name: Liepāja Apriņķis
-      lm:
-        name: Limbaži Apriņķis
       lpx:
         name: Liepāja
-      lu:
-        name: Ludza Apriņķis
-      ma:
-        name: Madona Apriņķis
-      og:
-        name: Ogre Apriņķis
-      pr:
-        name: Preiļi Apriņķis
-      re:
-        name: Rēzekne Apriņķis
       rez:
         name: Rēzekne
-      ri:
-        name: Rīga Apriņķis
       rix:
         name: Rīga
-      sa:
-        name: Saldus Apriņķis
-      ta:
-        name: Talsi Apriņķis
-      tu:
-        name: Tukums Apriņķis
-      ve:
-        name: Ventspils Apriņķis
       ven:
         name: Ventspils
-      vk:
-        name: Valka Apriņķis
-      vm:
-        name: Valmiera Apriņķis
+      vmr:
+        name: Valmiera

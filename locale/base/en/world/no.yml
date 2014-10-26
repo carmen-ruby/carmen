@@ -3,7 +3,7 @@ en:
   world:
     'no':
       '01':
-        name: Østfold
+        name: "Østfold"
       '02':
         name: Akershus
       '03':
@@ -16,9 +16,9 @@ en:
         name: Buskerud
       '07':
         name: Vestfold
-      '08':
+      08:
         name: Telemark
-      '09':
+      09:
         name: Aust-Agder
       '10':
         name: Vest-Agder
@@ -41,6 +41,6 @@ en:
       '20':
         name: Finnmark
       '21':
-        name: Svalbard
+        name: Svalbard (Arctic Region)
       '22':
-        name: Jan Mayen
+        name: Jan Mayen (Arctic Region)

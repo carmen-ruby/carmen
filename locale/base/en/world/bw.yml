@@ -14,11 +14,9 @@ en:
         name: Kweneng
       ne:
         name: North-East
-      ng:
-        name: Ngamiland
       nw:
-        name: North-West (Botswana)
+        name: North-West
       se:
         name: South-East
       so:
-        name: Southern (Botswana)
+        name: Southern

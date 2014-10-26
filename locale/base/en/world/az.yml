@@ -2,8 +2,6 @@
 en:
   world:
     az:
-      ab:
-        name: Əli Bayramlı
       abs:
         name: Abşeron
       aga:
@@ -34,8 +32,6 @@ en:
         name: Cəlilabab
       das:
         name: Daşkəsən
-      dav:
-        name: Dəvəçi
       fuz:
         name: Füzuli
       ga:
@@ -46,12 +42,14 @@ en:
         name: Goranboy
       goy:
         name: Göyçay
+      gyg:
+        name: Göygöl
       hac:
         name: Hacıqabul
       imi:
-        name: İmişli
+        name: "İmişli"
       ism:
-        name: İsmayıllı
+        name: "İsmayıllı"
       kal:
         name: Kəlbəcər
       kur:
@@ -91,29 +89,31 @@ en:
       qus:
         name: Qusar
       sa:
-        name: Şəki
+        name: "Şəki"
       sab:
         name: Sabirabad
       sak:
-        name: Şəki
+        name: "Şəki"
       sal:
         name: Salyan
       sat:
         name: Saatlı
+      sbn:
+        name: "Şabran"
       siy:
         name: Siyəzən
       skr:
-        name: Şəmkir
+        name: "Şəmkir"
       sm:
         name: Sumqayıt
       smi:
-        name: Şamaxı
+        name: "Şamaxı"
       smx:
         name: Samux
-      ss:
-        name: Şuşa
+      sr:
+        name: "Şirvan"
       sus:
-        name: Şuşa
+        name: "Şuşa"
       tar:
         name: Tərtər
       tov:
@@ -124,8 +124,6 @@ en:
         name: Xankəndi
       xac:
         name: Xaçmaz
-      xan:
-        name: Xanlar
       xci:
         name: Xocalı
       xiz:

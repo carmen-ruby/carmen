@@ -3,7 +3,7 @@ en:
   world:
     to:
       '01':
-        name: ! '''Eua'
+        name: "'Eua"
       '02':
         name: Ha'apai
       '03':

@@ -1,4 +1,10 @@
 ---
 en:
   world:
-    sh: {}
+    sh:
+      ac:
+        name: Ascension
+      hl:
+        name: Saint Helena
+      ta:
+        name: Tristan da Cunha

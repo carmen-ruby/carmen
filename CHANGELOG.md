@@ -1,5 +1,6 @@
 ### 1.1 (master)
 * Replace use of UnicodeUtils with ActiveSupport (eikes)
+* Update data from upstream sources.
 
 ### 1.0.1
 * Avoid raising an exception when calling Querying#coded with a nil code

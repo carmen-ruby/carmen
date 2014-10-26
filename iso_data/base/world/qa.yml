@@ -1,12 +1,6 @@
 ---
 - code: DA
   type: municipality
-- code: GH
-  type: municipality
-- code: JB
-  type: municipality
-- code: JU
-  type: municipality
 - code: KH
   type: municipality
 - code: MS
@@ -16,4 +10,6 @@
 - code: US
   type: municipality
 - code: WA
+  type: municipality
+- code: ZA
   type: municipality

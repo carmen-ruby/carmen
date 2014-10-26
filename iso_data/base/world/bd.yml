@@ -1,13 +1,15 @@
 ---
-- code: '1'
+- code: A
   type: division
-- code: '2'
+- code: B
   type: division
-- code: '3'
+- code: C
   type: division
-- code: '4'
+- code: D
   type: division
-- code: '5'
+- code: E
   type: division
-- code: '6'
+- code: F
+  type: division
+- code: G
   type: division

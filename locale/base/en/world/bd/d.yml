@@ -1,0 +1,25 @@
+---
+en:
+  world:
+    bd:
+      d:
+        '05':
+          name: Bagerhat
+        '12':
+          name: Chuadanga
+        '22':
+          name: Jessore
+        '23':
+          name: Jhenaidah
+        '27':
+          name: Khulna
+        '30':
+          name: Kushtia
+        '37':
+          name: Magura
+        '39':
+          name: Meherpur
+        '43':
+          name: Narail
+        '58':
+          name: Satkhira

@@ -3,15 +3,19 @@ en:
   world:
     az:
       nx:
+        nv:
+          name: Naxçıvan
         bab:
           name: Babək
         cul:
           name: Culfa
+        kan:
+          name: Kǝngǝrli
         ord:
           name: Ordubad
         sad:
           name: Sədərək
         sah:
-          name: Şahbuz
+          name: "Şahbuz"
         sar:
-          name: Şərur
+          name: "Şərur"

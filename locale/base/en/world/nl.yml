@@ -2,6 +2,16 @@
 en:
   world:
     nl:
+      aw:
+        name: Aruba
+      bq1:
+        name: Bonaire
+      bq2:
+        name: Saba
+      bq3:
+        name: Sint Eustatius
+      cw:
+        name: Curaçao
       dr:
         name: Drenthe
       fl:
@@ -20,6 +30,8 @@ en:
         name: Noord-Holland
       ov:
         name: Overijssel
+      sx:
+        name: Sint Maarten
       ut:
         name: Utrecht
       ze:

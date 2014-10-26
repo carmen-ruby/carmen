@@ -13,12 +13,12 @@ en:
       '05':
         name: Al Qaşīm
       '06':
-        name: Ḥā'il
+        name: "Ḥā'il"
       '07':
         name: Tabūk
-      '08':
+      08:
         name: Al Ḥudūd ash Shamāliyah
-      '09':
+      09:
         name: Jīzan
       '10':
         name: Najrān
@@ -27,4 +27,4 @@ en:
       '12':
         name: Al Jawf
       '14':
-        name: ! '`Asīr'
+        name: "`Asīr"

@@ -1,4 +1,36 @@
 ---
 en:
   world:
-    ps: {}
+    ps:
+      bth:
+        name: Bethlehem
+      deb:
+        name: Deir El Balah
+      gza:
+        name: Gaza
+      hbn:
+        name: Hebron
+      jem:
+        name: Jerusalem
+      jen:
+        name: Jenin
+      jrh:
+        name: Jericho - Al Aghwar
+      kys:
+        name: Khan Yunis
+      nbs:
+        name: Nablus
+      ngz:
+        name: North Gaza
+      qqa:
+        name: Qalqilya
+      rbh:
+        name: Ramallah
+      rfh:
+        name: Rafah
+      slt:
+        name: Salfit
+      tbs:
+        name: Tubas
+      tkm:
+        name: Tulkarm

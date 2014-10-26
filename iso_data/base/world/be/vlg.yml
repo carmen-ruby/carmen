@@ -1,0 +1,11 @@
+---
+- code: VAN
+  type: province
+- code: VLI
+  type: province
+- code: VOV
+  type: province
+- code: VBR
+  type: province
+- code: VWV
+  type: province

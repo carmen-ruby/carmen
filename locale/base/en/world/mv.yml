@@ -2,43 +2,19 @@
 en:
   world:
     mv:
-      '01':
-        name: Seenu
-      '02':
-        name: Alif
-      '03':
-        name: Lhaviyani
-      '04':
-        name: Vaavu
-      '05':
-        name: Laamu
-      '07':
-        name: Haa Alif
-      '08':
-        name: Thaa
-      '12':
-        name: Meemu
-      '13':
-        name: Raa
-      '14':
-        name: Faafu
-      '17':
-        name: Dhaalu
-      '20':
-        name: Baa
-      '23':
-        name: Haa Dhaalu
-      '24':
-        name: Shaviyani
-      '25':
-        name: Noonu
-      '26':
-        name: Kaafu
-      '27':
-        name: Gaafu Aliff
-      '28':
-        name: Gaafu Daalu
-      '29':
-        name: Gnaviyani
+      ce:
+        name: Central
       mle:
         name: Male
+      nc:
+        name: North Central
+      'no':
+        name: North
+      sc:
+        name: South Central
+      su:
+        name: South
+      un:
+        name: Upper North
+      us:
+        name: Upper South

@@ -1,0 +1,38 @@
+---
+en:
+  world:
+    mc:
+      cl:
+        name: La Colle
+      co:
+        name: La Condamine
+      fo:
+        name: Fontvieille
+      ga:
+        name: La Gare
+      je:
+        name: Jardin Exotique
+      la:
+        name: Larvotto
+      ma:
+        name: Malbousquet
+      mc:
+        name: Monte-Carlo
+      mg:
+        name: Moneghetti
+      mo:
+        name: Monaco-Ville
+      mu:
+        name: Moulins
+      ph:
+        name: Port-Hercule
+      sd:
+        name: Sainte-Dévote
+      so:
+        name: La Source
+      sp:
+        name: Spélugues
+      sr:
+        name: Saint-Roman
+      vr:
+        name: Vallon de la Rousse

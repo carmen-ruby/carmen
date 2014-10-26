@@ -1,0 +1,21 @@
+---
+en:
+  world:
+    bd:
+      f:
+        '14':
+          name: Dinajpur
+        '19':
+          name: Gaibandha
+        '28':
+          name: Kurigram
+        '32':
+          name: Lalmonirhat
+        '46':
+          name: Nilphamari
+        '52':
+          name: Panchagarh
+        '55':
+          name: Rangpur
+        '64':
+          name: Thakurgaon

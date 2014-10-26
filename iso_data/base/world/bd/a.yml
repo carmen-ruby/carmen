@@ -1,0 +1,13 @@
+---
+- code: '02'
+  type: district
+- code: '06'
+  type: district
+- code: '07'
+  type: district
+- code: '25'
+  type: district
+- code: '51'
+  type: district
+- code: '50'
+  type: district

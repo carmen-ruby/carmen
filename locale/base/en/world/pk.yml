@@ -4,14 +4,14 @@ en:
     pk:
       ba:
         name: Balochistan
+      gb:
+        name: Gilgit-Baltistan
       is:
         name: Islamabad
       jk:
         name: Azad Kashmir
-      na:
-        name: Northern Areas
-      nw:
-        name: North-West Frontier
+      kp:
+        name: Khyber Pakhtunkhwa
       pb:
         name: Punjab
       sd:

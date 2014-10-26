@@ -1,0 +1,17 @@
+---
+en:
+  world:
+    bd:
+      a:
+        '02':
+          name: Barguna
+        '06':
+          name: Barisal
+        '07':
+          name: Bhola
+        '25':
+          name: Jhalakati
+        '51':
+          name: Patuakhali
+        '50':
+          name: Pirojpur

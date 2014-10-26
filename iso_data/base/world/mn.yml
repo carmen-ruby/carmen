@@ -3,7 +3,7 @@
   type: municipality
 - code: '037'
   type: municipality
-- code: '039'
+- code: 039
   type: province
 - code: '041'
   type: province
@@ -13,7 +13,7 @@
   type: province
 - code: '047'
   type: province
-- code: '049'
+- code: 049
   type: province
 - code: '051'
   type: province
@@ -23,7 +23,7 @@
   type: province
 - code: '057'
   type: province
-- code: '059'
+- code: 059
   type: province
 - code: '061'
   type: province
@@ -35,7 +35,7 @@
   type: province
 - code: '067'
   type: province
-- code: '069'
+- code: 069
   type: province
 - code: '071'
   type: province

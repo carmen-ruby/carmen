@@ -3,8 +3,6 @@
   type: town council
 - code: NIT
   type: island council
-- code: NIU
-  type: island council
 - code: NKF
   type: island council
 - code: NKL
@@ -12,6 +10,8 @@
 - code: NMA
   type: island council
 - code: NMG
+  type: island council
+- code: NUI
   type: island council
 - code: VAI
   type: island council

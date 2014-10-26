@@ -1,0 +1,15 @@
+---
+en:
+  world:
+    be:
+      wal:
+        wbr:
+          name: Brabant wallon
+        wht:
+          name: Hainaut
+        wlg:
+          name: Liège
+        wlx:
+          name: Luxembourg
+        wna:
+          name: Namur

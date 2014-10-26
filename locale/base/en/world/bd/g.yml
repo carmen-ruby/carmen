@@ -1,0 +1,13 @@
+---
+en:
+  world:
+    bd:
+      g:
+        '20':
+          name: Habiganj
+        '38':
+          name: Moulvibazar
+        '61':
+          name: Sunamganj
+        '60':
+          name: Sylhet

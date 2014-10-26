@@ -7,7 +7,7 @@ en:
       '02':
         name: Adıyaman
       '03':
-        name: Afyon
+        name: Afyonkarahisar
       '04':
         name: Ağrı
       '05':
@@ -16,9 +16,9 @@ en:
         name: Ankara
       '07':
         name: Antalya
-      '08':
+      08:
         name: Artvin
-      '09':
+      09:
         name: Aydın
       '10':
         name: Balıkesir
@@ -35,11 +35,11 @@ en:
       '16':
         name: Bursa
       '17':
-        name: Çanakkale
+        name: "Çanakkale"
       '18':
-        name: Çankırı
+        name: "Çankırı"
       '19':
-        name: Çorum
+        name: "Çorum"
       '20':
         name: Denizli
       '21':
@@ -67,11 +67,11 @@ en:
       '32':
         name: Isparta
       '33':
-        name: İçel
+        name: Mersin
       '34':
-        name: İstanbul
+        name: "İstanbul"
       '35':
-        name: İzmir
+        name: "İzmir"
       '36':
         name: Kars
       '37':
@@ -127,7 +127,7 @@ en:
       '62':
         name: Tunceli
       '63':
-        name: Şanlıurfa
+        name: "Şanlıurfa"
       '64':
         name: Uşak
       '65':
@@ -147,7 +147,7 @@ en:
       '72':
         name: Batman
       '73':
-        name: Şırnak
+        name: "Şırnak"
       '74':
         name: Bartın
       '75':

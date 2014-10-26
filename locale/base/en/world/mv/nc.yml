@@ -1,0 +1,13 @@
+---
+en:
+  world:
+    mv:
+      nc:
+        '02':
+          name: Alifu Alifu
+        '00':
+          name: Alifu Dhaalu
+        '26':
+          name: Kaafu
+        '04':
+          name: Vaavu

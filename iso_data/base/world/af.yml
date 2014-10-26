@@ -39,15 +39,13 @@
   type: province
 - code: LAG
   type: province
-- code: LOW
+- code: LOG
   type: province
 - code: NAN
   type: province
 - code: NIM
   type: province
 - code: NUR
-  type: province
-- code: ORU
   type: province
 - code: PAN
   type: province
@@ -62,6 +60,8 @@
 - code: SAR
   type: province
 - code: TAK
+  type: province
+- code: URU
   type: province
 - code: WAR
   type: province

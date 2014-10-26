@@ -2,53 +2,37 @@
 en:
   world:
     sd:
-      '01':
-        name: Ash Shamālīyah
-      '02':
+      dc:
+        name: Zalingei
+      de:
+        name: Sharq Dārfūr
+      dn:
         name: Shamāl Dārfūr
-      '03':
-        name: Al Kharţūm
-      '04':
-        name: An Nīl
-      '05':
-        name: Kassalā
-      '06':
-        name: Al Qaḑārif
-      '07':
-        name: Al Jazīrah
-      '08':
-        name: An Nīl al Abyaḑ
-      '09':
-        name: Shamāl Kurdufān
-      '11':
+      ds:
         name: Janūb Dārfūr
-      '12':
+      dw:
         name: Gharb Dārfūr
-      '13':
+      gd:
+        name: Al Qaḑārif
+      gz:
+        name: Al Jazīrah
+      ka:
+        name: Kassalā
+      kh:
+        name: Al Kharţūm
+      kn:
+        name: Shamāl Kurdufān
+      ks:
         name: Janūb Kurdufān
-      '14':
-        name: Gharb Baḩr al Ghazāl
-      '15':
-        name: Shamāl Baḩr al Ghazāl
-      '16':
-        name: Gharb al Istiwā'īyah
-      '17':
-        name: Baḩr al Jabal
-      '18':
-        name: Al Buḩayrāt
-      '19':
-        name: Sharq al Istiwā'īyah
-      '20':
-        name: Jūnqalī
-      '21':
-        name: Wārāb
-      '22':
-        name: Al Waḩdah
-      '23':
-        name: A‘ālī an Nīl
-      '24':
+      nb:
         name: An Nīl al Azraq
-      '25':
-        name: Sinnār
-      '26':
+      'no':
+        name: Ash Shamālīyah
+      nr:
+        name: An Nīl
+      nw:
+        name: An Nīl al Abyaḑ
+      rs:
         name: Al Baḩr al Aḩmar
+      si:
+        name: Sinnār

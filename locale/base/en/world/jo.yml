@@ -3,21 +3,21 @@ en:
   world:
     jo:
       aj:
-        name: ! '`Ajlun'
+        name: "‘Ajlūn"
       am:
-        name: Amman
+        name: "‘Ammān (Al ‘Aşimah)"
       aq:
-        name: Al `Aqabah
+        name: Al ‘Aqabah
       at:
         name: Aţ Ţafīlah
       az:
         name: Az Zarqā'
       ba:
         name: Al Balqā'
+      ir:
+        name: Irbid
       ja:
         name: Jarash
-      jr:
-        name: Irbid
       ka:
         name: Al Karak
       ma:
@@ -25,4 +25,4 @@ en:
       md:
         name: Mādabā
       mn:
-        name: Ma`ān
+        name: Ma‘ān

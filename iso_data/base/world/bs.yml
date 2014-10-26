@@ -1,5 +1,5 @@
 ---
-- code: AC
+- code: AK
   type: district
 - code: BI
   type: district
@@ -25,8 +25,6 @@
   type: district
 - code: GC
   type: district
-- code: GT
-  type: district
 - code: HI
   type: district
 - code: HT
@@ -44,8 +42,6 @@
 - code: NE
   type: district
 - code: 'NO'
-  type: district
-- code: NP
   type: district
 - code: NS
   type: district

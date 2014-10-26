@@ -15,10 +15,10 @@ en:
       '06':
         name: Coimbra
       '07':
-        name: Évora
-      '08':
+        name: "Évora"
+      08:
         name: Faro
-      '09':
+      09:
         name: Guarda
       '10':
         name: Leiria

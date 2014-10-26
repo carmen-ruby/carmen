@@ -6,7 +6,7 @@ en:
         name: Orhon
       '037':
         name: Darhan uul
-      '039':
+      039:
         name: Hentiy
       '041':
         name: Hövsgöl
@@ -16,17 +16,17 @@ en:
         name: Uvs
       '047':
         name: Töv
-      '049':
+      049:
         name: Selenge
       '051':
         name: Sühbaatar
       '053':
-        name: Ömnögovi
+        name: "Ömnögovi"
       '055':
-        name: Övörhangay
+        name: "Övörhangay"
       '057':
         name: Dzavhan
-      '059':
+      059:
         name: Dundgovi
       '061':
         name: Dornod
@@ -38,7 +38,7 @@ en:
         name: Govi-Altay
       '067':
         name: Bulgan
-      '069':
+      069:
         name: Bayanhongor
       '071':
         name: Bayan-Ölgiy

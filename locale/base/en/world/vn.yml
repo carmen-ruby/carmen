@@ -16,7 +16,7 @@ en:
         name: Yên Bái
       '07':
         name: Tuyên Quang
-      '09':
+      09:
         name: Lạng Sơn
       '13':
         name: Quảng Ninh
@@ -53,7 +53,7 @@ en:
       '32':
         name: Phú Yên
       '33':
-        name: Đắc Lắk
+        name: "Đắc Lắk"
       '34':
         name: Khánh Hòa
       '35':
@@ -63,23 +63,21 @@ en:
       '37':
         name: Tây Ninh
       '39':
-        name: Đồng Nai
+        name: "Đồng Nai"
       '40':
         name: Bình Thuận
       '41':
         name: Long An
       '43':
-        name: Bà Rịa - Vũng Tàu
+        name: Bà Rịa-Vũng Tàu
       '44':
         name: An Giang
       '45':
-        name: Đồng Tháp
+        name: "Đồng Tháp"
       '46':
         name: Tiền Giang
       '47':
         name: Kiên Giang
-      '48':
-        name: Cần Thơ
       '49':
         name: Vĩnh Long
       '50':
@@ -102,18 +100,10 @@ en:
         name: Bình Phước
       '59':
         name: Cà Mau
-      '60':
-        name: Đà Nẵng, thành phố
       '61':
         name: Hải Duong
-      '62':
-        name: Hải Phòng, thành phố
       '63':
         name: Hà Nam
-      '64':
-        name: Hà Nội, thủ đô
-      '65':
-        name: Hồ Chí Minh, thành phố [Sài Gòn]
       '66':
         name: Hưng Yên
       '67':
@@ -125,8 +115,18 @@ en:
       '70':
         name: Vĩnh Phúc
       '71':
-        name: Điện Biên
+        name: "Điện Biên"
       '72':
-        name: Đắk Nông
+        name: "Đắk Nông"
       '73':
         name: Hậu Giang
+      ct:
+        name: Cần Thơ
+      dn:
+        name: "Đà Nẵng"
+      hn:
+        name: Hà Nội
+      hp:
+        name: Hải Phòng
+      sg:
+        name: Hồ Chí Minh [Sài Gòn]

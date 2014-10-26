@@ -6,8 +6,6 @@ en:
         name: Funafuti
       nit:
         name: Niutao
-      niu:
-        name: Nui
       nkf:
         name: Nukufetau
       nkl:
@@ -16,5 +14,7 @@ en:
         name: Nanumea
       nmg:
         name: Nanumanga
+      nui:
+        name: Nui
       vai:
         name: Vaitupu

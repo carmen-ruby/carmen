@@ -27,8 +27,8 @@
   type: province
 - code: NPP
   type: province
-- code: NSA
-  type: province
+- code: NSB
+  type: autonomous region
 - code: SAN
   type: province
 - code: SHM

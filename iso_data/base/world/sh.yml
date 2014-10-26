@@ -1,1 +1,7 @@
---- []
+---
+- code: AC
+  type: geographical entity
+- code: HL
+  type: geographical entity
+- code: TA
+  type: geographical entity

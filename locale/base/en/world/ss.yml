@@ -1,0 +1,24 @@
+---
+en:
+  world:
+    ss:
+      bn:
+        name: Northern Bahr el-Ghazal
+      bw:
+        name: Western Bahr el-Ghazal
+      ec:
+        name: Central Equatoria
+      ee8:
+        name: Eastern Equatoria
+      ew:
+        name: Western Equatoria
+      jg:
+        name: Jonglei
+      lk:
+        name: Lakes
+      nu:
+        name: Upper Nile
+      uy:
+        name: Unity
+      wr:
+        name: Warrap

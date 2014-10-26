@@ -16,9 +16,9 @@ en:
         name: Bogovinje
       '07':
         name: Bosilovo
-      '08':
+      08:
         name: Brvenica
-      '09':
+      09:
         name: Butel
       '10':
         name: Valandovo
@@ -61,7 +61,7 @@ en:
       '29':
         name: Gjorče Petrov
       '30':
-        name: Želino
+        name: "Želino"
       '31':
         name: Zajas
       '32':
@@ -159,14 +159,14 @@ en:
       '78':
         name: Centar Župa
       '79':
-        name: Čair
+        name: "Čair"
       '80':
-        name: Čaška
+        name: "Čaška"
       '81':
-        name: Češinovo-Obleševo
+        name: "Češinovo-Obleševo"
       '82':
-        name: Čučer Sandevo
+        name: "Čučer Sandevo"
       '83':
-        name: Štip
+        name: "Štip"
       '84':
-        name: Šuto Orizari
+        name: "Šuto Orizari"

@@ -1,4 +1,14 @@
 ---
+- code: AW
+  type: country
+- code: BQ1
+  type: special municipality
+- code: BQ2
+  type: special municipality
+- code: BQ3
+  type: special municipality
+- code: CW
+  type: country
 - code: DR
   type: province
 - code: FL
@@ -17,6 +27,8 @@
   type: province
 - code: OV
   type: province
+- code: SX
+  type: country
 - code: UT
   type: province
 - code: ZE

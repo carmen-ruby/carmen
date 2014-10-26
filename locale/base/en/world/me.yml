@@ -16,9 +16,9 @@ en:
         name: Cetinje
       '07':
         name: Danilovgrad
-      '08':
+      08:
         name: Herceg-Novi
-      '09':
+      09:
         name: Kolašin
       '10':
         name: Kotor
@@ -37,10 +37,10 @@ en:
       '17':
         name: Rožaje
       '18':
-        name: Šavnik
+        name: "Šavnik"
       '19':
         name: Tivat
       '20':
         name: Ulcinj
       '21':
-        name: Žabljak
+        name: "Žabljak"

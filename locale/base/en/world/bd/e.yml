@@ -1,0 +1,21 @@
+---
+en:
+  world:
+    bd:
+      e:
+        '03':
+          name: Bogra
+        '24':
+          name: Jaipurhat
+        '48':
+          name: Naogaon
+        '44':
+          name: Natore
+        '45':
+          name: Nawabganj
+        '49':
+          name: Pabna
+        '54':
+          name: Rajshahi
+        '59':
+          name: Sirajganj

@@ -9,7 +9,7 @@ en:
           name: Hercegovačko-neretvanski kanton
         '10':
           name: Kanton br. 10 (Livanjski kanton)
-        '09':
+        09:
           name: Kanton Sarajevo
         '02':
           name: Posavski kanton
@@ -19,7 +19,7 @@ en:
           name: Tuzlanski kanton
         '01':
           name: Unsko-sanski kanton
-        '08':
+        08:
           name: Zapadnohercegovački kanton
         '04':
           name: Zeničko-dobojski kanton

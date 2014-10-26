@@ -5,9 +5,9 @@ en:
       ab:
         name: Abyān
       ad:
-        name: ! '''Adan'
+        name: "'Adan"
       am:
-        name: ! '''Amrān'
+        name: "'Amrān"
       ba:
         name: Al Bayḑā'
       da:
@@ -15,9 +15,9 @@ en:
       dh:
         name: Dhamār
       hd:
-        name: Ḩaḑramawt
+        name: "Ḩaḑramawt"
       hj:
-        name: Ḩajjah
+        name: "Ḩajjah"
       ib:
         name: Ibb
       ja:
@@ -35,10 +35,10 @@ en:
       ra:
         name: Raymah
       sd:
-        name: Şa'dah
+        name: "Şa'dah"
       sh:
         name: Shabwah
       sn:
-        name: Şan'ā'
+        name: "Şan'ā'"
       ta:
         name: Tā'izz

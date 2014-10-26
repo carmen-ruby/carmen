@@ -1,0 +1,21 @@
+---
+- code: BN
+  type: state
+- code: BW
+  type: state
+- code: EC
+  type: state
+- code: EE8
+  type: state
+- code: EW
+  type: state
+- code: JG
+  type: state
+- code: LK
+  type: state
+- code: NU
+  type: state
+- code: UY
+  type: state
+- code: WR
+  type: state

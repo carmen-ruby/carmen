@@ -7,43 +7,43 @@ en:
       ap:
         name: Andhra Pradesh
       ar:
-        name: Arunāchal Pradesh
+        name: Arunachal Pradesh
       as:
         name: Assam
       br:
-        name: Bihār
+        name: Bihar
       ch:
-        name: Chandīgarh
+        name: Chandigarh
       ct:
-        name: Chhattīsgarh
+        name: Chhattisgarh
       dd:
-        name: Damān and Diu
+        name: Damen and Diu
       dl:
         name: Delhi
       dn:
-        name: Dādra and Nagar Haveli
+        name: Dadra and Nagar Haveli
       ga:
         name: Goa
       gj:
-        name: Gujarāt
+        name: Gujarat
       hp:
-        name: Himāchal Pradesh
+        name: Himachal Pradesh
       hr:
-        name: Haryāna
+        name: Haryana
       jh:
         name: Jharkhand
       jk:
-        name: Jammu and Kashmīr
+        name: Jammu and Kashmir
       ka:
-        name: Karnātaka
+        name: Karnataka
       kl:
         name: Kerala
       ld:
         name: Lakshadweep
       mh:
-        name: Mahārāshtra
+        name: Maharashtra
       ml:
-        name: Meghālaya
+        name: Meghalaya
       mn:
         name: Manipur
       mp:
@@ -51,24 +51,24 @@ en:
       mz:
         name: Mizoram
       nl:
-        name: Nāgāland
+        name: Nagaland
       or:
         name: Orissa
       pb:
         name: Punjab
       py:
-        name: Pondicherry
+        name: Puducherry
       rj:
-        name: Rājasthān
+        name: Rajasthan
       sk:
         name: Sikkim
       tn:
-        name: Tamil Nādu
+        name: Tamil Nadu
       tr:
         name: Tripura
-      ul:
-        name: Uttaranchal
       up:
         name: Uttar Pradesh
+      ut:
+        name: Uttarakhand
       wb:
         name: West Bengal

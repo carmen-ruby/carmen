@@ -2,10 +2,10 @@
 en:
   world:
     bs:
-      ac:
-        name: Acklins Islands
+      ak:
+        name: Acklins
       bi:
-        name: Bimini and Cat Cay
+        name: Bimini
       bp:
         name: Black Point
       by:
@@ -28,8 +28,6 @@ en:
         name: City of Freeport
       gc:
         name: Grand Cay
-      gt:
-        name: Green Turtle Cay
       hi:
         name: Harbour Island
       ht:
@@ -48,8 +46,6 @@ en:
         name: North Eleuthera
       'no':
         name: North Abaco
-      np:
-        name: New Providence
       ns:
         name: North Andros
       rc:

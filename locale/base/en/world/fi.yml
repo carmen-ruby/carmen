@@ -2,15 +2,41 @@
 en:
   world:
     fi:
-      al:
-        name: Ahvenanmaan lääni
-      es:
-        name: Etelä-Suomen lääni
-      is:
-        name: Itä-Suomen lääni
-      ll:
-        name: Lapin lääni
-      ls:
-        name: Länsi-Suomen lääni
-      ol:
-        name: Oulun lääni
+      '01':
+        name: Ahvenanmaan maakunta
+      '02':
+        name: Etelä-Karjala
+      '03':
+        name: Etelä-Pohjanmaa
+      '04':
+        name: Etelä-Savo
+      '05':
+        name: Kainuu
+      '06':
+        name: Kanta-Häme
+      '07':
+        name: Keski-Pohjanmaa
+      08:
+        name: Keski-Suomi
+      09:
+        name: Kymenlaakso
+      '10':
+        name: Lappi
+      '11':
+        name: Pirkanmaa
+      '12':
+        name: Pohjanmaa
+      '13':
+        name: Pohjois-Karjala
+      '14':
+        name: Pohjois-Pohjanmaa
+      '15':
+        name: Pohjois-Savo
+      '16':
+        name: Päijät-Häme
+      '17':
+        name: Satakunta
+      '18':
+        name: Uusimaa
+      '19':
+        name: Varsinais-Suomi

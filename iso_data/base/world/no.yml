@@ -13,9 +13,9 @@
   type: county
 - code: '07'
   type: county
-- code: '08'
+- code: 08
   type: county
-- code: '09'
+- code: 09
   type: county
 - code: '10'
   type: county
@@ -38,6 +38,6 @@
 - code: '20'
   type: county
 - code: '21'
-  type: county
+  type: arctic region
 - code: '22'
-  type: county
+  type: arctic region

@@ -1,1 +1,33 @@
---- []
+---
+- code: BTH
+  type: governorate
+- code: DEB
+  type: governorate
+- code: GZA
+  type: governorate
+- code: HBN
+  type: governorate
+- code: JEM
+  type: governorate
+- code: JEN
+  type: governorate
+- code: JRH
+  type: governorate
+- code: KYS
+  type: governorate
+- code: NBS
+  type: governorate
+- code: NGZ
+  type: governorate
+- code: QQA
+  type: governorate
+- code: RBH
+  type: governorate
+- code: RFH
+  type: governorate
+- code: SLT
+  type: governorate
+- code: TBS
+  type: governorate
+- code: TKM
+  type: governorate

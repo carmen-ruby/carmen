@@ -1,51 +1,35 @@
 ---
-- code: '01'
+- code: DC
   type: state
-- code: '02'
+- code: DE
   type: state
-- code: '03'
+- code: DN
   type: state
-- code: '04'
+- code: DS
   type: state
-- code: '05'
+- code: DW
   type: state
-- code: '06'
+- code: GD
   type: state
-- code: '07'
+- code: GZ
   type: state
-- code: '08'
+- code: KA
   type: state
-- code: '09'
+- code: KH
   type: state
-- code: '11'
+- code: KN
   type: state
-- code: '12'
+- code: KS
   type: state
-- code: '13'
+- code: NB
   type: state
-- code: '14'
+- code: 'NO'
   type: state
-- code: '15'
+- code: NR
   type: state
-- code: '16'
+- code: NW
   type: state
-- code: '17'
+- code: RS
   type: state
-- code: '18'
-  type: state
-- code: '19'
-  type: state
-- code: '20'
-  type: state
-- code: '21'
-  type: state
-- code: '22'
-  type: state
-- code: '23'
-  type: state
-- code: '24'
-  type: state
-- code: '25'
-  type: state
-- code: '26'
+- code: SI
   type: state
