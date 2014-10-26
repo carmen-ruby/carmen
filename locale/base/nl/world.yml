@@ -121,6 +121,10 @@ nl:
       common_name: !!null 
       name: Bolivia
       official_name: !!null 
+    bq:
+      common_name: !!null
+      name: Bonaire, Sint Eustatius en Saba
+      official_name: !!null
     br:
       common_name: !!null 
       name: Brazilië
@@ -213,6 +217,10 @@ nl:
       common_name: !!null 
       name: Kaapverdië
       official_name: !!null 
+    cw:
+      common_name: !!null
+      name: Curaçao
+      official_name: !!null
     cx:
       common_name: !!null 
       name: Christmaseiland
@@ -837,6 +845,10 @@ nl:
       common_name: !!null 
       name: Suriname
       official_name: !!null 
+    ss:
+      common_name: !!null
+      name: Zuid-Soedan
+      official_name: Republic of South Sudan
     st:
       common_name: !!null 
       name: Sao Tomé en Principe
@@ -845,6 +857,10 @@ nl:
       common_name: !!null 
       name: El Salvador
       official_name: !!null 
+    sx:
+      common_name: !!null
+      name: Sint Maarten (Nederlands deel)
+      official_name: !!null
     sy:
       common_name: !!null 
       name: Syrië
