@@ -1,4 +1,4 @@
-# NO LONGER ACTIVELY MAINTAINED
+# NOT ACTIVELY MAINTAINED
 
 I haven't time in over a year to properly support this project.
 
