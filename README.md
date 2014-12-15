@@ -1,3 +1,7 @@
+# NO LONGER ACTIVELY MAINTAINED
+
+I haven't time in over a year to properly support this project.
+
 # Carmen- A repository of geographic regions for Ruby
 
 [![Build Status](https://secure.travis-ci.org/jim/carmen.png?branch=master)](http://travis-ci.org/jim/carmen)
