@@ -12,6 +12,10 @@ describe Carmen::Region do
     it 'has a reasonable inspect value' do
       @airstrip_one.inspect.must_equal '<#Carmen::Region name="Airstrip One" type="province">'
     end
+    
+    it 'has a reasonable explicit string conversion' do
+      "#{@airstrip_one}".must_equal 'Airstrip One'
+    end
 
     it "has the correct subregion path" do
       @airstrip_one.subregion_data_path.must_equal "world/oc/ao.yml"
