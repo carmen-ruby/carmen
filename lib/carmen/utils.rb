@@ -8,7 +8,7 @@ module Carmen
     #   - if either doesn't respond_to? :merge, then the new value is used if
     #   it is not nil. If the new value is nil, the old value is used.
     #
-    # Returns a meged hash.
+    # Returns a merged hash.
     def self.deep_hash_merge(hashes)
       return hashes.first if hashes.size == 1
 
