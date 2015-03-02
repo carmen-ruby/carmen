@@ -1,0 +1,999 @@
+---
+bn:
+  world:
+    ad:
+      common_name: !!null
+      name: এ্যান্ডোরা
+      official_name: Principality of Andorra
+    ae:
+      common_name: !!null
+      name: সংযুক্ত আরব আমিরাত
+      official_name: !!null
+    af:
+      common_name: !!null
+      name: আফগানিস্তান
+      official_name: Islamic Republic of Afghanistan
+    ag:
+      common_name: !!null
+      name: অ্যান্টিগুয়া ও বার্বুডা
+      official_name: !!null
+    ai:
+      common_name: !!null
+      name: এ্যাঙ্গুইলা
+      official_name: !!null
+    al:
+      common_name: !!null
+      name: আল্বেনিয়া
+      official_name: Republic of Albania
+    am:
+      common_name: !!null
+      name: আরমেনিয়া
+      official_name: Republic of Armenia
+    ao:
+      common_name: !!null
+      name: অ্যাঙ্গোলা
+      official_name: Republic of Angola
+    aq:
+      common_name: !!null
+      name: এন্টার্কটিকা
+      official_name: !!null
+    ar:
+      common_name: !!null
+      name: আর্জিণ্টিনা
+      official_name: Argentine Republic
+    as:
+      common_name: !!null
+      name: আমেরিকান সামোয়া
+      official_name: !!null
+    at:
+      common_name: !!null
+      name: অস্ট্রিয়া
+      official_name: Republic of Austria
+    au:
+      common_name: !!null
+      name: অস্ট্রেলিয়া
+      official_name: !!null
+    aw:
+      common_name: !!null
+      name: আরুবা
+      official_name: !!null
+    ax:
+      common_name: !!null
+      name: অলান্দ দ্বীপপুঞ্জ
+      official_name: !!null
+    az:
+      common_name: !!null
+      name: আজেরবাইজান
+      official_name: Republic of Azerbaijan
+    ba:
+      common_name: !!null
+      name: বসনিয়া ও হার্জেগোভিনা
+      official_name: Republic of Bosnia and Herzegovina
+    bb:
+      common_name: !!null
+      name: বার্বাডোস
+      official_name: !!null
+    bd:
+      common_name: !!null
+      name: বাংলাদেশ
+      official_name: People's Republic of Bangladesh
+    be:
+      common_name: !!null
+      name: বেলজিয়াম
+      official_name: Kingdom of Belgium
+    bf:
+      common_name: !!null
+      name: বুর্কিনা ফাসো
+      official_name: !!null
+    bg:
+      common_name: !!null
+      name: বুলগেরিয়া
+      official_name: Republic of Bulgaria
+    bh:
+      common_name: 
+      name: বাহরাইন
+      official_name: Kingdom of Bahrain
+    bi:
+      common_name: !!null
+      name: বুরুন্ডি
+      official_name: Republic of Burundi
+    bj:
+      common_name: !!null
+      name: বেনিন
+      official_name: Republic of Benin
+    bl:
+      common_name: !!null
+      name: সেন্ট
+      official_name: !!null
+    bm:
+      common_name: !!null
+      name: বারমুডা
+      official_name: !!null
+    bn:
+      common_name: !!null
+      name: ব্রুনেই দারুসসালাম
+      official_name: !!null
+    bo:
+      common_name: বোলিভিয়া
+      name: বলিভিয়া , বহুজাতিক রাষ্ট্র
+      official_name: Plurinational State of Bolivia
+    bq:
+      common_name: !!null
+      name: বনারে , প্রাকৃতিক সম্পদ এবং সাবা
+      official_name: বনারে , প্রাকৃতিক সম্পদ এবং সাবা
+    br:
+      common_name: !!null
+      name: ব্রাজিল
+      official_name: Federative Republic of Brazil
+    bs:
+      common_name: !!null
+      name: বাহামা
+      official_name: Commonwealth of the Bahamas
+    bt:
+      common_name: !!null
+      name: ভুটান
+      official_name: Kingdom of Bhutan
+    bv:
+      common_name: !!null
+      name: বোভেট দ্বীপ
+      official_name: !!null
+    bw:
+      common_name: !!null
+      name: বোট্স্বানা
+      official_name: Republic of Botswana
+    by:
+      common_name: !!null
+      name: বেলারুশ
+      official_name: Republic of Belarus
+    bz:
+      common_name: !!null
+      name: বেলিজ
+      official_name: !!null
+    ca:
+      common_name: !!null
+      name: কানাডা
+      official_name: !!null
+    cc:
+      common_name: !!null
+      name: কোকোস (কিলিং) দ্বীপপুঞ্জ
+      official_name: !!null
+    cd:
+      common_name: !!null
+      name: কঙ্গো, গণতান্ত্রিক প্রজাতন্ত্র
+      official_name: !!null
+    cf:
+      common_name: !!null
+      name: মধ্য আফ্রিকান প্রজাতন্ত্র
+      official_name: !!null
+    cg:
+      common_name: !!null
+      name: কঙ্গো
+      official_name: Republic of the Congo
+    ch:
+      common_name: !!null
+      name: সুইজারল্যান্ড
+      official_name: Swiss Confederation
+    ci:
+      common_name: !!null
+      name: আইভরি কোস্ট
+      official_name: Republic of Côte d'Ivoire
+    ck:
+      common_name: !!null
+      name: কুক দ্বীপপুঞ্জ
+      official_name: !!null
+    cl:
+      common_name: !!null
+      name: চিলি
+      official_name: Republic of Chile
+    cm:
+      common_name: !!null
+      name: ক্যামেরুন
+      official_name: Republic of Cameroon
+    cn:
+      common_name: !!null
+      name: চীন
+      official_name: People's Republic of China
+    co:
+      common_name: !!null
+      name: কলোমবিয়া
+      official_name: Republic of Colombia
+    cr:
+      common_name: !!null
+      name: কোস্টা রিকা
+      official_name: Republic of Costa Rica
+    cu:
+      common_name: !!null
+      name: কুবা
+      official_name: Republic of Cuba
+    cv:
+      common_name: !!null
+      name: কেপ ভার্দে
+      official_name: Republic of Cape Verde
+    cw:
+      common_name: !!null
+      name: কিউরাসাও
+      official_name: Curaçao
+    cx:
+      common_name: !!null
+      name: ক্রিসমাস দ্বীপ
+      official_name: !!null
+    cy:
+      common_name: !!null
+      name: সাইপ্রাসদ্বিপ
+      official_name: Republic of Cyprus
+    cz:
+      common_name: !!null
+      name: চেক প্রজাতন্ত্র
+      official_name: !!null
+    de:
+      common_name: !!null
+      name: জার্মানি
+      official_name: Federal Republic of Germany
+    dj:
+      common_name: !!null
+      name: জিবুতি
+      official_name: Republic of Djibouti
+    dk:
+      common_name: !!null
+      name: ডেন্মার্ক্
+      official_name: Kingdom of Denmark
+    dm:
+      common_name: !!null
+      name: ডোমিনিকা
+      official_name: Commonwealth of Dominica
+    do:
+      common_name: !!null
+      name: ডোমিনিকান প্রজাতন্ত্র
+      official_name: !!null
+    dz:
+      common_name: !!null
+      name: আলজেরিয়া
+      official_name: People's Democratic Republic of Algeria
+    ec:
+      common_name: !!null
+      name: ইকোয়াডর
+      official_name: Republic of Ecuador
+    ee:
+      common_name: !!null
+      name: এস্তোনিয়াদেশ
+      official_name: Republic of Estonia
+    eg:
+      common_name: !!null
+      name: মিশর
+      official_name: Arab Republic of Egypt
+    eh:
+      common_name: !!null
+      name: পশ্চিম সাহারা
+      official_name: !!null
+    er:
+      common_name: !!null
+      name: ইরিত্রিয়া
+      official_name: the State of Eritrea
+    es:
+      common_name: !!null
+      name: স্পেন
+      official_name: Kingdom of Spain
+    et:
+      common_name: !!null
+      name: ইথিওপিয়া
+      official_name: Federal Democratic Republic of Ethiopia
+    fi:
+      common_name: !!null
+      name: ফিনল্যাণ্ড
+      official_name: Republic of Finland
+    fj:
+      common_name: !!null
+      name: ফিজি
+      official_name: Republic of Fiji
+    fk:
+      common_name: !!null
+      name: ফকল্যান্ড দ্বীপপুঞ্জ (নিলিং)
+      official_name: !!null
+    fm:
+      common_name: !!null
+      name: মাইক্রোনেশিয়া , ফেডারেটেড স্টেটস অব
+      official_name: Federated States of Micronesia
+    fo:
+      common_name: !!null
+      name: ফারো দ্বীপপুঞ্জ
+      official_name: !!null
+    fr:
+      common_name: !!null
+      name: ফ্রান্স
+      official_name: French Republic
+    ga:
+      common_name: !!null
+      name: গাবোন
+      official_name: Gabonese Republic
+    gb:
+      common_name: !!null
+      name: যুক্তরাজ্য
+      official_name: গ্রেট ব্রিটেন এবং উত্তর আয়ারল্যান্ডের যুক্তরাজ্য
+    gd:
+      common_name: !!null
+      name: গ্রানাডা
+      official_name: !!null
+    ge:
+      common_name: !!null
+      name: জর্জিয়া
+      official_name: !!null
+    gf:
+      common_name: !!null
+      name: ফরাসি গায়ানা
+      official_name: !!null
+    gg:
+      common_name: !!null
+      name: গেঁজি
+      official_name: !!null
+    gh:
+      common_name: !!null
+      name: ঘানা
+      official_name: Republic of Ghana
+    gi:
+      common_name: !!null
+      name: জিব্রালটার
+      official_name: !!null
+    gl:
+      common_name: !!null
+      name: গ্রীনল্যাণ্ড
+      official_name: !!null
+    gm:
+      common_name: !!null
+      name: গাম্বিয়াদেশ
+      official_name: Republic of the Gambia
+    gn:
+      common_name: !!null
+      name: গিনি
+      official_name: Republic of Guinea
+    gp:
+      common_name: !!null
+      name: গুয়াডেলোপ
+      official_name: !!null
+    gq:
+      common_name: !!null
+      name: নিরক্ষীয় গিনি
+      official_name: Republic of Equatorial Guinea
+    gr:
+      common_name: !!null
+      name: গ্রীস
+      official_name: Hellenic Republic
+    gs:
+      common_name: !!null
+      name: দক্ষিণ জর্জিয়া ও দক্ষিণ স্যান্ডউইচ দ্বীপপুঞ্জ
+      official_name: !!null
+    gt:
+      common_name: !!null
+      name: গুয়াটেমালা
+      official_name: Republic of Guatemala
+    gu:
+      common_name: !!null
+      name: গুয়াম
+      official_name: !!null
+    gw:
+      common_name: !!null
+      name: গিনি -বিসাউ
+      official_name: Republic of Guinea-Bissau
+    gy:
+      common_name: !!null
+      name: গিয়ানা
+      official_name: Republic of Guyana
+    hk:
+      common_name: !!null
+      name: হংকং
+      official_name: Hong Kong Special Administrative Region of China
+    hm:
+      common_name: !!null
+      name: হার্ড দ্বীপ এবং ম্যাকডোনাল্ড দ্বীপপুঞ্জ
+      official_name: !!null
+    hn:
+      common_name: !!null
+      name: হন্ডুরাস
+      official_name: Republic of Honduras
+    hr:
+      common_name: !!null
+      name: ক্রোয়েশিয়া
+      official_name: Republic of Croatia
+    ht:
+      common_name: !!null
+      name: হাইতি
+      official_name: Republic of Haiti
+    hu:
+      common_name: !!null
+      name: হাঙ্গেরি
+      official_name: Hungary
+    id:
+      common_name: !!null
+      name: ইন্দোনেশিয়া
+      official_name: Republic of Indonesia
+    ie:
+      common_name: !!null
+      name: আয়ারল্যাণ্ড
+      official_name: !!null
+    il:
+      common_name: !!null
+      name: ইসরাইল
+      official_name: State of Israel
+    im:
+      common_name: !!null
+      name: আইল অব ম্যান
+      official_name: !!null
+    in:
+      common_name: !!null
+      name: ভারত
+      official_name: Republic of India
+    io:
+      common_name: !!null
+      name: ব্রিটিশ ভারত মহাসাগরীয় অঞ্চল
+      official_name: !!null
+    iq:
+      common_name: !!null
+      name: ইরাক
+      official_name: Republic of Iraq
+    ir:
+      common_name: !!null
+      name: ইরান, ইসলামী প্রজাতন্ত্র
+      official_name: Islamic Republic of Iran
+    is:
+      common_name: !!null
+      name: আইস্ল্যাণ্ড
+      official_name: Republic of Iceland
+    it:
+      common_name: !!null
+      name: ইতালি
+      official_name: Italian Republic
+    je:
+      common_name: !!null
+      name: জার্সি
+      official_name: !!null
+    jm:
+      common_name: !!null
+      name: জ্যামাইকা
+      official_name: !!null
+    jo:
+      common_name: !!null
+      name: জর্দান
+      official_name: Hashemite Kingdom of Jordan
+    jp:
+      common_name: !!null
+      name: জাপান
+      official_name: !!null
+    ke:
+      common_name: !!null
+      name: কেনিয়া
+      official_name: Republic of Kenya
+    kg:
+      common_name: !!null
+      name: কিরগিজস্তান
+      official_name: Kyrgyz Republic
+    kh:
+      common_name: !!null
+      name: কম্বোডিয়া
+      official_name: Kingdom of Cambodia
+    ki:
+      common_name: !!null
+      name: কিরিবাতি
+      official_name: Republic of Kiribati
+    km:
+      common_name: !!null
+      name: কমোরোস
+      official_name: Union of the Comoros
+    kn:
+      common_name: !!null
+      name: সেন্ট কিটস ও নেভিস
+      official_name: !!null
+    kp:
+      common_name: !!null
+      name: কোরিয়া, গণতান্ত্রিক গণপ্রজাতন্ত্রী
+      official_name: Democratic People's Republic of Korea
+    kr:
+      common_name: !!null
+      name: কোরিয়া, প্রজাতন্ত্র
+      official_name: !!null
+    kw:
+      common_name: !!null
+      name: কুয়েত
+      official_name: State of Kuwait
+    ky:
+      common_name: !!null
+      name: কেম্যান দ্বীপপুঞ্জ
+      official_name: !!null
+    kz:
+      common_name: !!null
+      name: কাজাকস্থান
+      official_name: Republic of Kazakhstan
+    la:
+      common_name: !!null
+      name: লাও পিপলস ডেমোক্রেটিক রিপাবলিক
+      official_name: !!null
+    lb:
+      common_name: !!null
+      name: লেবানন
+      official_name: Lebanese Republic
+    lc:
+      common_name: !!null
+      name: সেন্ট লুসিয়া
+      official_name: !!null
+    li:
+      common_name: !!null
+      name: লিচেনস্টাইন
+      official_name: Principality of Liechtenstein
+    lk:
+      common_name: !!null
+      name: শ্রীলঙ্কা
+      official_name: Democratic Socialist Republic of Sri Lanka
+    lr:
+      common_name: !!null
+      name: লাইবেরিয়া
+      official_name: Republic of Liberia
+    ls:
+      common_name: !!null
+      name: লেসোথো
+      official_name: Kingdom of Lesotho
+    lt:
+      common_name: !!null
+      name: লিত্ভা
+      official_name: Republic of Lithuania
+    lu:
+      common_name: !!null
+      name: লাক্সেমবার্গ
+      official_name: Grand Duchy of Luxembourg
+    lv:
+      common_name: !!null
+      name: ল্যাট্ভিআ
+      official_name: Republic of Latvia
+    ly:
+      common_name: !!null
+      name: লিবিয়া
+      official_name: Libya
+    ma:
+      common_name: !!null
+      name: মরক্কো
+      official_name: Kingdom of Morocco
+    mc:
+      common_name: !!null
+      name: মোনাকো
+      official_name: Principality of Monaco
+    md:
+      common_name: Moldova
+      name: মোল্দাভিয়া, প্রজাতন্ত্রের
+      official_name: Republic of Moldova
+    me:
+      common_name: !!null
+      name: মন্টিনিগ্রো
+      official_name: Montenegro
+    mf:
+      common_name: !!null
+      name: সেন্ট মার্টিন ( ফরাসি অংশ)
+      official_name: !!null
+    mg:
+      common_name: !!null
+      name: ম্যাডাগ্যাস্কার
+      official_name: Republic of Madagascar
+    mh:
+      common_name: !!null
+      name: মার্শাল দ্বীপপুঞ্জ
+      official_name: Republic of the Marshall Islands
+    mk:
+      common_name: !!null
+      name: ম্যাসেডোনিয়া, প্রজাতন্ত্র
+      official_name: The Former Yugoslav Republic of Macedonia
+    ml:
+      common_name: !!null
+      name: মালি
+      official_name: Republic of Mali
+    mm:
+      common_name: !!null
+      name: মিয়ানমার
+      official_name: Republic of Myanmar
+    mn:
+      common_name: !!null
+      name: মঙ্গোলিআ
+      official_name: !!null
+    mo:
+      common_name: !!null
+      name: ম্যাকাও
+      official_name: Macao Special Administrative Region of China
+    mp:
+      common_name: !!null
+      name: উত্তরাঞ্চলীয় মারিয়ানা দ্বীপপুঞ্জ
+      official_name: Commonwealth of the Northern Mariana Islands
+    mq:
+      common_name: !!null
+      name: মার্টিনিক
+      official_name: !!null
+    mr:
+      common_name: !!null
+      name: মৌরিতানিয়া
+      official_name: Islamic Republic of Mauritania
+    ms:
+      common_name: !!null
+      name: মন্টসেরাট
+      official_name: !!null
+    mt:
+      common_name: !!null
+      name: মালটা
+      official_name: Republic of Malta
+    mu:
+      common_name: !!null
+      name: মরিশাস
+      official_name: Republic of Mauritius
+    mv:
+      common_name: !!null
+      name: মালদ্বীপ
+      official_name: Republic of Maldives
+    mw:
+      common_name: !!null
+      name: মালাউই
+      official_name: Republic of Malawi
+    mx:
+      common_name: !!null
+      name: মেক্সিকো
+      official_name: United Mexican States
+    my:
+      common_name: !!null
+      name: মালয়েশিয়া
+      official_name: !!null
+    mz:
+      common_name: !!null
+      name: মোজাম্বিক
+      official_name: Republic of Mozambique
+    na:
+      common_name: !!null
+      name: নামিবিয়া
+      official_name: Republic of Namibia
+    nc:
+      common_name: !!null
+      name: নিউ ক্যালেডোনিয়া
+      official_name: !!null
+    ne:
+      common_name: !!null
+      name: নাইজার
+      official_name: Republic of the Niger
+    nf:
+      common_name: !!null
+      name: নরফোক দ্বীপ
+      official_name: !!null
+    ng:
+      common_name: !!null
+      name: নাইজিরিয়াদেশ
+      official_name: Federal Republic of Nigeria
+    ni:
+      common_name: !!null
+      name: নিক্যার্যাগিউআদেশ
+      official_name: Republic of Nicaragua
+    nl:
+      common_name: !!null
+      name: নেদারল্যান্ডস
+      official_name: Kingdom of the Netherlands
+    'no':
+      common_name: !!null
+      name: নরওয়ে
+      official_name: Kingdom of Norway
+    np:
+      common_name: !!null
+      name: নেপাল
+      official_name: Federal Democratic Republic of Nepal
+    nr:
+      common_name: !!null
+      name: নাউরু
+      official_name: Republic of Nauru
+    nu:
+      common_name: !!null
+      name: নিউই
+      official_name: Niue
+    nz:
+      common_name: !!null
+      name: নিউজিল্যান্ড
+      official_name: !!null
+    om:
+      common_name: !!null
+      name: ওমান
+      official_name: Sultanate of Oman
+    pa:
+      common_name: !!null
+      name: পানামা
+      official_name: Republic of Panama
+    pe:
+      common_name: !!null
+      name: পেরু
+      official_name: Republic of Peru
+    pf:
+      common_name: !!null
+      name: ফরাসি পলিনেশিয়া
+      official_name: !!null
+    pg:
+      common_name: !!null
+      name: পাপুয়া নিউ গিনি
+      official_name: Independent State of Papua New Guinea
+    ph:
+      common_name: !!null
+      name: ফিলিপাইন
+      official_name: Republic of the Philippines
+    pk:
+      common_name: !!null
+      name: পাকিস্তান
+      official_name: Islamic Republic of Pakistan
+    pl:
+      common_name: !!null
+      name: পোল্যান্ড
+      official_name: Republic of Poland
+    pm:
+      common_name: !!null
+      name: সেন্ট পিয়ের ও মিকেলন
+      official_name: !!null
+    pn:
+      common_name: !!null
+      name: পিটকেয়ার্ন
+      official_name: !!null
+    pr:
+      common_name: !!null
+      name: পুয়ের্তো রিকো
+      official_name: !!null
+    ps:
+      common_name: !!null
+      name: ফিলিস্তিন, রাজ্য
+      official_name: the State of Palestine
+    pt:
+      common_name: !!null
+      name: পর্তুগাল
+      official_name: Portuguese Republic
+    pw:
+      common_name: !!null
+      name: পালাউ
+      official_name: Republic of Palau
+    py:
+      common_name: !!null
+      name: প্যারাগুয়ে
+      official_name: Republic of Paraguay
+    qa:
+      common_name: !!null
+      name: কাতার
+      official_name: State of Qatar
+    re:
+      common_name: !!null
+      name: রিইউনিয়ন
+      official_name: !!null
+    ro:
+      common_name: !!null
+      name: রোমানিয়া
+      official_name: !!null
+    rs:
+      common_name: !!null
+      name: সার্বিয়া
+      official_name: Republic of Serbia
+    ru:
+      common_name: !!null
+      name: রাশিয়ান ফেডারেশন
+      official_name: !!null
+    rw:
+      common_name: !!null
+      name: রুয়ান্ডা
+      official_name: Rwandese Republic
+    sa:
+      common_name: !!null
+      name: সৌদি আরব
+      official_name: Kingdom of Saudi Arabia
+    sb:
+      common_name: !!null
+      name: সলোমন দ্বীপপুঞ্জ
+      official_name: !!null
+    sc:
+      common_name: !!null
+      name: সিসিলি
+      official_name: Republic of Seychelles
+    sd:
+      common_name: !!null
+      name: সুদান
+      official_name: Republic of the Sudan
+    se:
+      common_name: !!null
+      name: সুইডেন
+      official_name: Kingdom of Sweden
+    sg:
+      common_name: !!null
+      name: সিঙ্গাপুর
+      official_name: Republic of Singapore
+    sh:
+      common_name: !!null
+      name: সেন্ট হেলেনা , আসেনশন ও ত্রিস্তান দা কুনিয়া
+      official_name: !!null
+    si:
+      common_name: !!null
+      name: স্লোভেনিয়া
+      official_name: Republic of Slovenia
+    sj:
+      common_name: !!null
+      name: স্বালবার্ড ও জান মেয়েন
+      official_name: !!null
+    sk:
+      common_name: !!null
+      name: স্লোভাকিয়া
+      official_name: Slovak Republic
+    sl:
+      common_name: !!null
+      name: সিয়েরা লিওন
+      official_name: Republic of Sierra Leone
+    sm:
+      common_name: !!null
+      name: সান মারিনো
+      official_name: Republic of San Marino
+    sn:
+      common_name: !!null
+      name: সেনেগাল
+      official_name: Republic of Senegal
+    so:
+      common_name: !!null
+      name: সোমালিয়া
+      official_name: Federal Republic of Somalia
+    sr:
+      common_name: !!null
+      name: সুরিনাম
+      official_name: Republic of Suriname
+    ss:
+      common_name: !!null
+      name: দক্ষিণ সুদান
+      official_name: Republic of South Sudan
+    st:
+      common_name: !!null
+      name: সাও টোমে এবং প্রিন্সিপে
+      official_name: Democratic Republic of Sao Tome and Principe
+    sv:
+      common_name: !!null
+      name: এল সালভাদর
+      official_name: Republic of El Salvador
+    sx:
+      common_name: !!null
+      name: সিন্ট মার্টেন (ডাচ অংশ)
+      official_name: Sint Maarten (Dutch part)
+    sy:
+      common_name: !!null
+      name: সিরিয় আরব প্রজাতন্ত্র
+      official_name: !!null
+    sz:
+      common_name: !!null
+      name: সোয়াজিল্যান্ড
+      official_name: Kingdom of Swaziland
+    tc:
+      common_name: !!null
+      name: টার্কস্ ও কেইকোস দ্বীপপুঞ্জ
+      official_name: !!null
+    td:
+      common_name: !!null
+      name: চাদ
+      official_name: Republic of Chad
+    tf:
+      common_name: !!null
+      name: ফরাসি দক্ষিণ অঞ্চল
+      official_name: !!null
+    tg:
+      common_name: !!null
+      name: টোগো
+      official_name: Togolese Republic
+    th:
+      common_name: !!null
+      name: থাইল্যান্ড
+      official_name: Kingdom of Thailand
+    tj:
+      common_name: !!null
+      name: তাজিকিস্তান
+      official_name: Republic of Tajikistan
+    tk:
+      common_name: !!null
+      name: টোকেলাউ
+      official_name: !!null
+    tl:
+      common_name: !!null
+      name: পূর্ব তিমুর
+      official_name: Democratic Republic of Timor-Leste
+    tm:
+      common_name: !!null
+      name: তুর্কমেনিস্তান
+      official_name: !!null
+    tn:
+      common_name: !!null
+      name: টিউনিস্
+      official_name: Republic of Tunisia
+    to:
+      common_name: !!null
+      name: টাঙ্গা
+      official_name: Kingdom of Tonga
+    tr:
+      common_name: !!null
+      name: তুরস্ক
+      official_name: Republic of Turkey
+    tt:
+      common_name: !!null
+      name: ত্রিনিদাদ ও টোবাগো
+      official_name: Republic of Trinidad and Tobago
+    tv:
+      common_name: !!null
+      name: টুভালু
+      official_name: !!null
+    tw:
+      common_name: Taiwan
+      name: চীন এর তাইওয়ান, প্রদেশ
+      official_name: Taiwan, Province of China
+    tz:
+      common_name: !!null
+      name: তাঞ্জানিয়া, ইউনাইটেড প্রজাতন্ত্রের
+      official_name: United Republic of Tanzania
+    ua:
+      common_name: !!null
+      name: ইউক্রেইন্
+      official_name: !!null
+    ug:
+      common_name: !!null
+      name: উগান্ডা
+      official_name: Republic of Uganda
+    um:
+      common_name: !!null
+      name: মার্কিন যুক্তরাষ্ট্র ক্ষুদ্র ও পার্শ্ববর্তী দ্বীপপুঞ্জ
+      official_name: 
+    us:
+      common_name: !!null
+      name: মার্কিন যুক্তরাষ্ট্র
+      official_name: United States of America
+    uy:
+      common_name: !!null
+      name: উরুগুয়ে
+      official_name: Eastern Republic of Uruguay
+    uz:
+      common_name: !!null
+      name: উজবেকিস্তান
+      official_name: Republic of Uzbekistan
+    va:
+      common_name: !!null
+      name: হোলি সি (ভ্যাটিকান সিটি)
+      official_name: !!null
+    vc:
+      common_name: !!null
+      name: সেন্ট ভিনসেন্ট ও গ্রেনাডাইন দ্বীপপুঞ্জ
+      official_name: !!null
+    ve:
+      common_name: Venezuela
+      name: ভেনিজুয়েলা, বলিভারিও প্রজাতন্ত্র
+      official_name: Bolivarian Republic of Venezuela
+    vg:
+      common_name: !!null
+      name: ভার্জিন আইল্যান্ডস, ব্রিটিশ
+      official_name: British Virgin Islands
+    vi:
+      common_name: !!null
+      name: ভার্জিন দ্বীপপুঞ্জ, মার্কিন
+      official_name: Virgin Islands of the United States
+    vn:
+      common_name: !!null
+      name: ভিয়েতনামে
+      official_name: Socialist Republic of Viet Nam
+    vu:
+      common_name: !!null
+      name: ভানুয়াতু
+      official_name: Republic of Vanuatu
+    wf:
+      common_name: !!null
+      name: ওয়ালিস এবং ফুটুনা
+      official_name: !!null
+    ws:
+      common_name: !!null
+      name: সামোয়া
+      official_name: Independent State of Samoa
+    ye:
+      common_name: !!null
+      name: ইয়েমেন
+      official_name: Republic of Yemen
+    yt:
+      common_name: !!null
+      name: মায়োত্তে
+      official_name: !!null
+    za:
+      common_name: !!null
+      name: দক্ষিণ আফ্রিকা
+      official_name: Republic of South Africa
+    zm:
+      common_name: !!null
+      name: জাম্বিয়া
+      official_name: Republic of Zambia
+    zw:
+      common_name: !!null
+      name: জিম্বাবুয়ে
+      official_name: Republic of Zimbabwe

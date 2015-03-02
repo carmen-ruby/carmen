@@ -1,0 +1,18 @@
+---
+bn:
+  world:
+    bd:
+      a:
+        name: বরিশাল
+      b:
+        name: চট্টগ্রাম
+      c:
+        name: ঢাকা
+      d:
+        name: খুলনা
+      e:
+        name: রাজশাহী
+      f:
+        name: রংপুর
+      g:
+        name: সিলেট
