@@ -1,4 +1,4 @@
-### 1.1 (master)
+### 1.0.2
 * Replace use of UnicodeUtils with ActiveSupport (eikes)
 * Update data from upstream sources.
 * Fix spelling errors for French subregions (hugolantaume)
