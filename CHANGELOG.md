@@ -1,3 +1,7 @@
+### 1.0.3 (Pending Release)
+* Add Rangpur bibha, Bangladesh
+* Add Telegana, India
+
 ### 1.0.2
 * Replace use of UnicodeUtils with ActiveSupport (eikes)
 * Update data from upstream sources.
