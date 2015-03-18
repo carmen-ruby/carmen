@@ -1,6 +1,6 @@
 ### 1.0.3 (Pending Release)
-* Add Rangpur bibha, Bangladesh
-* Add Telegana, India
+* Add Rangpur bibha, Bangladesh (ecbypi)
+* Add Telegana, India (ecbypi)
 
 ### 1.0.2
 * Replace use of UnicodeUtils with ActiveSupport (eikes)
