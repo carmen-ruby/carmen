@@ -28,7 +28,7 @@ describe Carmen::Continent do
     it 'gets the continent with the given code' do
       continent = Carmen::Continent.coded('003')
       continent.name.must_equal 'Waterworld'
-      continent.continent_code.must_equal '003'
+      continent.code.must_equal '003'
 
       continent.sub_continents.count.must_equal 2
       continent.countries.count.must_equal 0
@@ -48,8 +48,8 @@ describe Carmen::Continent do
   describe '#sub_continents' do
     it 'returns the sub_continents of the given continent' do
       Carmen::Continent.coded('001').sub_continents.count.must_equal 2
-      Carmen::Continent.coded('001').sub_continents[0].continent_code.must_equal "002"
-      Carmen::Continent.coded('001').sub_continents[1].continent_code.must_equal "003"
+      Carmen::Continent.coded('001').sub_continents[0].code.must_equal "002"
+      Carmen::Continent.coded('001').sub_continents[1].code.must_equal "003"
     end
   end
 

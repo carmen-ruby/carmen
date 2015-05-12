@@ -3,17 +3,17 @@ require 'carmen/country'
 module Carmen
   class Continent
 
-    attr_reader :continent_code
+    attr_reader :code
     attr_reader :parent
 
     def initialize(data={}, parent=nil)
-      @continent_code = data['territory']
+      @code = data['territory']
       @contains = data['contains'].split(' ')
       @parent = parent
     end
 
     def name
-      Carmen.i18n_backend.translate("continents.#{self.continent_code}.name")
+      Carmen.i18n_backend.translate("continents.#{self.code}.name")
     end
 
     def sub_continents
@@ -29,7 +29,7 @@ module Carmen
     end
 
     def self.coded(code)
-      Continent.all.detect { |c| c.continent_code == code }
+      Continent.all.detect { |c| c.code == code }
     end
 
     def self.all
@@ -37,7 +37,7 @@ module Carmen
     end
 
     def world?
-      continent_code == "001"
+      code == "001"
     end
 
     private 
