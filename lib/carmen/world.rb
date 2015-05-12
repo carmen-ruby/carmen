@@ -21,6 +21,10 @@ module Carmen
       Continent.all.detect { |c| c.world? }.sub_continents
     end
 
+    def countries
+      Continent.all.detect { |c| c.world? }.countries
+    end
+
     def path
       'world'
     end

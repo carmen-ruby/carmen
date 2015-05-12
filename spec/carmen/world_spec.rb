@@ -14,4 +14,8 @@ describe Carmen::World do
     Carmen::World.instance.continents.size.must_equal(2)
   end
 
+  it 'has 3 countries' do
+    Carmen::World.instance.countries.size.must_equal(3)
+  end
+
 end
