@@ -40,6 +40,12 @@ describe Carmen::Country do
     eurasia.instance_of?(Carmen::Country).must_equal true
   end
 
+  describe '#continent' do
+    it 'provides access to the continent it belongs to' do
+      Carmen::Country.coded('OC').continent.must_equal Carmen::Continent.coded('004')
+    end
+  end
+
   describe "basic attributes" do
     before do
       @oceania = Carmen::Country.coded('OC')

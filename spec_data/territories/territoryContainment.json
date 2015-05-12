@@ -1,0 +1,28 @@
+{
+  "territoryContainment": [
+    {
+      "territory": "001",
+      "contains": "002 003"
+    },
+    {
+      "territory": "002",
+      "contains": "004 005"
+    },
+    {
+      "territory": "003",
+      "contains": "006 007"
+    },
+    {
+      "territory": "004",
+      "contains": "OC EU ES"
+    },
+    {
+      "territory": "006",
+      "contains": ""
+    },
+    {
+      "territory": "007",
+      "contains": ""
+    }
+  ]
+}

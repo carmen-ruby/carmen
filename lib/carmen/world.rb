@@ -1,5 +1,5 @@
 require 'singleton'
-
+require 'json'
 require 'carmen/region'
 
 module Carmen
@@ -15,6 +15,10 @@ module Carmen
 
     def subregion_class
       Country
+    end
+
+    def continents
+      Continent.all.detect { |c| c.world? }.sub_continents
     end
 
     def path
