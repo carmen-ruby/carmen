@@ -1,5 +1,4 @@
 require 'singleton'
-require 'json'
 require 'carmen/region'
 
 module Carmen

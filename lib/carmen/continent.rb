@@ -1,3 +1,4 @@
+require 'json'
 require 'carmen/country'
 
 module Carmen
