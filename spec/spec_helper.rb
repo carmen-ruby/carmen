@@ -3,7 +3,6 @@ require 'minitest/spec'
 require 'minitest/autorun'
 
 require 'bundler/setup'
-require 'pry-byebug'
 require 'carmen'
 
 def setup_carmen_test_data_path
