@@ -73,7 +73,7 @@ module Carmen
       if Carmen.data_paths.any? {|path| (path + subregion_data_path).exist? }
         load_subregions_from_path(subregion_data_path, self)
       else
-        []
+        RegionCollection.new([])
       end
     end
 
