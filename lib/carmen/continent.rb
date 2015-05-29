@@ -1,4 +1,4 @@
-require 'json'
+require 'yaml'
 require 'carmen/country'
 
 module Carmen
@@ -9,7 +9,7 @@ module Carmen
 
     def initialize(data={}, parent=nil)
       @code = data['territory']
-      @contains = data['contains'].split(' ')
+      @contains = data['contains']
       @parent = parent
     end
 
@@ -44,7 +44,11 @@ module Carmen
     private 
 
     def contained_continents_or_countries
-      @contains.map { |c| code_to_object(c) }
+      if @contains.present?
+        @contains.map { |c| code_to_object(c) } 
+      else
+        []
+      end
     end
 
     def code_to_object(code)
@@ -56,11 +60,11 @@ module Carmen
     end
 
     def self.continents
-      @continents ||= load_territory_containment.map { |tc| Continent.new(tc) }
+      @continents ||= load_territory_containment["territoryContainment"].map { |tc| Continent.new(tc) }
     end
 
     def self.load_territory_containment
-      JSON.parse(File.read(Carmen.territories_path))["territoryContainment"]
+      YAML.load_file(Carmen.territories_path)
     end
 
   end

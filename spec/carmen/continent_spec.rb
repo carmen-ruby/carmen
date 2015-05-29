@@ -5,7 +5,7 @@ describe Carmen::Continent do
   describe "#initialize when given a string of contained-country-codes" do
 
     it "will interpret them as carmen-countries and set them as contained_continents_or_countries" do
-      continent = Carmen::Continent.new({'territory' => '001', 'contains' => '002 003 004'})
+      continent = Carmen::Continent.new({'territory' => '001', 'contains' => ['002', '003', '004']})
 
       continent.sub_continents.count.must_equal 3
       continent.sub_continents[0].class.must_equal Carmen::Continent
@@ -16,7 +16,7 @@ describe Carmen::Continent do
 
   describe "#initialize when given a string of contained-continent-codes" do
     it "will interpret them as carmen-continents and set them as contained_continents_or_countries" do
-      continent = Carmen::Continent.new({'territory' => '011', 'contains' => 'OC EU'})
+      continent = Carmen::Continent.new({'territory' => '011', 'contains' => ['OC','EU']})
 
       continent.countries.count.must_equal 2
       continent.countries[0].class.must_equal Carmen::Country

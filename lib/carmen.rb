@@ -45,7 +45,7 @@ module Carmen
     end
 
     def territories_path
-      @territories_path || (Carmen.root_path + 'iso_data/territories/territoryContainment.json')
+      @territories_path || (Carmen.root_path + 'iso_data/territories/territories.yml')
     end
 
     # Public: set an object to use as the I18n backend.
