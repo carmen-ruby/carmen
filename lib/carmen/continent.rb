@@ -3,14 +3,11 @@ require 'carmen/country'
 
 module Carmen
   class Continent
-
     attr_reader :code
-    attr_reader :parent
 
-    def initialize(data={}, parent=nil)
+    def initialize(data={})
       @code = data['territory']
       @contains = data['contains']
-      @parent = parent
     end
 
     def name
@@ -34,7 +31,11 @@ module Carmen
     end
 
     def self.all
-      continents
+      continents.reject { |c| c.world? }
+    end
+
+    def self.world
+      continents.select { |c| c.world? }.first
     end
 
     def world?

@@ -22,6 +22,9 @@
         - "EU" 
         - "ES"
     - 
+      territory: "005"
+      contains: 
+    - 
       territory: "006"
       contains: 
     - 

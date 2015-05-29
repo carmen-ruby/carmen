@@ -47,9 +47,9 @@ describe Carmen::Continent do
 
   describe '#sub_continents' do
     it 'returns the sub_continents of the given continent' do
-      Carmen::Continent.coded('001').sub_continents.count.must_equal 2
-      Carmen::Continent.coded('001').sub_continents[0].code.must_equal "002"
-      Carmen::Continent.coded('001').sub_continents[1].code.must_equal "003"
+      Carmen::Continent.coded('002').sub_continents.count.must_equal 2
+      Carmen::Continent.coded('002').sub_continents[0].code.must_equal "004"
+      Carmen::Continent.coded('002').sub_continents[1].code.must_equal "005"
     end
   end
 
@@ -59,12 +59,12 @@ describe Carmen::Continent do
     end
 
     it 'finds all countries of all sub_continents if some are present' do
-      Carmen::Continent.coded('001').countries.count.must_equal 3
+      Carmen::Continent.coded('002').countries.count.must_equal 3
     end
   end
 
   describe '#all' do
-    it 'returns all existing continents of all hierachies' do
+    it 'returns all existing continents of all hierachies without world' do
       Carmen::Continent.all.count.must_equal 6
     end
   end

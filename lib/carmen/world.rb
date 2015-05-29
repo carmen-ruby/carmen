@@ -17,11 +17,11 @@ module Carmen
     end
 
     def continents
-      Continent.all.detect { |c| c.world? }.sub_continents
+      Continent.world.sub_continents
     end
 
     def countries
-      Continent.all.detect { |c| c.world? }.countries
+      Continent.world.countries
     end
 
     def path
