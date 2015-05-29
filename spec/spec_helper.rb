@@ -1,7 +1,6 @@
 require 'minitest/unit'
 require 'minitest/spec'
 require 'minitest/autorun'
-require 'pry-byebug'
 
 require 'bundler/setup'
 require 'carmen'
