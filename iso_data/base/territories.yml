@@ -170,7 +170,9 @@
         - "NL"
     - 
       territory: "155"
-      contains: "DD FX"
+      contains: 
+        - "DD" 
+        - "FX"
       status: "deprecated"
     - 
       territory: "017"
@@ -186,7 +188,8 @@
         - "TD"
     - 
       territory: "017"
-      contains: "ZR"
+      contains: 
+        - "ZR"
       status: "deprecated"
     - 
       territory: "018"
