@@ -63,6 +63,12 @@ describe Carmen::Continent do
     end
   end
 
+  describe '#continent' do
+    it 'returns the parent-continent for this continent' do
+      Carmen::Continent.coded('004').continent.code.must_equal '002'
+    end
+  end
+
   describe '#all' do
     it 'returns all existing continents of all hierachies without world' do
       Carmen::Continent.all.count.must_equal 6

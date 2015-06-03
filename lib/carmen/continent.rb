@@ -26,6 +26,10 @@ module Carmen
       end      
     end
 
+    def continent
+      Carmen::Continent.all.detect { |c| c.sub_continents.include?(self) }
+    end
+
     def self.coded(code)
       Continent.all.detect { |c| c.code == code }
     end
