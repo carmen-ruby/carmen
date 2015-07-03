@@ -2,9 +2,20 @@ require 'spec_helper'
 
 describe Carmen::Country do
 
-  it "provides access to all countries" do
-    countries = Carmen::Country.all
-    countries.size.must_equal 3
+  describe "all" do
+    before do
+      @countries = countries = Carmen::Country.all
+    end
+
+    it "provides access to all countries" do
+      @countries.size.must_equal 3
+    end
+
+    it "denies modification of countries" do
+      assert_raises RuntimeError do
+        @countries.clear
+      end
+    end
   end
 
   describe "API for finding countries by name" do

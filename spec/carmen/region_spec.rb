@@ -30,6 +30,16 @@ describe Carmen::Region do
     end
 
     describe "subregions" do
+      it "is frozen" do
+        subregions = Carmen::Country.coded('OC').subregions
+
+        assert_raises RuntimeError do
+          subregions.clear
+        end
+      end
+    end
+
+    describe "subregion" do
       before do
         @london = @airstrip_one.subregions.first
       end
