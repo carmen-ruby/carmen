@@ -1,3 +1,5 @@
 ---
+- code: MDX
+  type: province
 - code: WIL
   type: province
