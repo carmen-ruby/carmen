@@ -1,0 +1,166 @@
+---
+tr:
+  world:
+    tr:
+      '01':
+        name: Adana
+      '02':
+        name: Adıyaman
+      '03':
+        name: Afyonkarahisar
+      '04':
+        name: Ağrı
+      '05':
+        name: Amasya
+      '06':
+        name: Ankara
+      '07':
+        name: Antalya
+      08:
+        name: Artvin
+      09:
+        name: Aydın
+      '10':
+        name: Balıkesir
+      '11':
+        name: Bilecik
+      '12':
+        name: Bingöl
+      '13':
+        name: Bitlis
+      '14':
+        name: Bolu
+      '15':
+        name: Burdur
+      '16':
+        name: Bursa
+      '17':
+        name: "Çanakkale"
+      '18':
+        name: "Çankırı"
+      '19':
+        name: "Çorum"
+      '20':
+        name: Denizli
+      '21':
+        name: Diyarbakır
+      '22':
+        name: Edirne
+      '23':
+        name: Elazığ
+      '24':
+        name: Erzincan
+      '25':
+        name: Erzurum
+      '26':
+        name: Eskişehir
+      '27':
+        name: Gaziantep
+      '28':
+        name: Giresun
+      '29':
+        name: Gümüşhane
+      '30':
+        name: Hakkâri
+      '31':
+        name: Hatay
+      '32':
+        name: Isparta
+      '33':
+        name: Mersin
+      '34':
+        name: "İstanbul"
+      '35':
+        name: "İzmir"
+      '36':
+        name: Kars
+      '37':
+        name: Kastamonu
+      '38':
+        name: Kayseri
+      '39':
+        name: Kırklareli
+      '40':
+        name: Kırşehir
+      '41':
+        name: Kocaeli
+      '42':
+        name: Konya
+      '43':
+        name: Kütahya
+      '44':
+        name: Malatya
+      '45':
+        name: Manisa
+      '46':
+        name: Kahramanmaraş
+      '47':
+        name: Mardin
+      '48':
+        name: Muğla
+      '49':
+        name: Muş
+      '50':
+        name: Nevşehir
+      '51':
+        name: Niğde
+      '52':
+        name: Ordu
+      '53':
+        name: Rize
+      '54':
+        name: Sakarya
+      '55':
+        name: Samsun
+      '56':
+        name: Siirt
+      '57':
+        name: Sinop
+      '58':
+        name: Sivas
+      '59':
+        name: Tekirdağ
+      '60':
+        name: Tokat
+      '61':
+        name: Trabzon
+      '62':
+        name: Tunceli
+      '63':
+        name: "Şanlıurfa"
+      '64':
+        name: Uşak
+      '65':
+        name: Van
+      '66':
+        name: Yozgat
+      '67':
+        name: Zonguldak
+      '68':
+        name: Aksaray
+      '69':
+        name: Bayburt
+      '70':
+        name: Karaman
+      '71':
+        name: Kırıkkale
+      '72':
+        name: Batman
+      '73':
+        name: "Şırnak"
+      '74':
+        name: Bartın
+      '75':
+        name: Ardahan
+      '76':
+        name: Iğdır
+      '77':
+        name: Yalova
+      '78':
+        name: Karabük
+      '79':
+        name: Kilis
+      '80':
+        name: Osmaniye
+      '81':
+        name: Düzce
