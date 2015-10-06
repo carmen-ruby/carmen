@@ -413,6 +413,8 @@
   type: unitary authority (england)
 - code: SWK
   type: london borough
+- code: SYK
+  type: metropolitan district
 - code: TAM
   type: metropolitan district
 - code: TFW
@@ -469,6 +471,8 @@
   type: london borough
 - code: WSX
   type: two-tier county
+- code: WYK
+  type: metropolitan district
 - code: YOR
   type: unitary authority (england)
 - code: ZET

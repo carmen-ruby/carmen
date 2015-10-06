@@ -416,6 +416,8 @@ en:
         name: Swindon
       swk:
         name: Southwark
+      syk:
+        name: South Yorkshire
       tam:
         name: Tameside
       tfw:
@@ -472,6 +474,8 @@ en:
         name: Westminster
       wsx:
         name: West Sussex
+      wyk:
+        name: West Yorkshire
       yor:
         name: York
       zet:
