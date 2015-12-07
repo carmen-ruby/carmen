@@ -121,6 +121,10 @@ cs:
       common_name: !!null 
       name: Bolívie
       official_name: !!null 
+    bq:
+      common_name: !!null 
+      name: Bonaire
+      official_name: !!null 
     br:
       common_name: !!null 
       name: Brazílie
@@ -189,10 +193,18 @@ cs:
       common_name: !!null 
       name: Kamerun
       official_name: !!null 
+    cn:
+      common_name: !!null 
+      name: Čína
+      official_name: Čínská lidová republika
     co:
       common_name: !!null 
       name: Kolumbie
       official_name: !!null 
+    cr:
+      common_name: !!null 
+      name: Kostarika
+      official_name: Kostarická republika
     cu:
       common_name: !!null 
       name: Kuba
@@ -200,6 +212,10 @@ cs:
     cv:
       common_name: !!null 
       name: Cape Verde
+      official_name: !!null 
+    cw:
+      common_name: !!null 
+      name: Curaçao
       official_name: !!null 
     cx:
       common_name: !!null 
@@ -237,6 +253,10 @@ cs:
       common_name: !!null 
       name: Alžírsko
       official_name: !!null 
+    ec:
+      common_name: !!null 
+      name: Ekvádor
+      official_name: Ekvádorská republika
     ee:
       common_name: !!null 
       name: Estonsko
@@ -276,6 +296,10 @@ cs:
     fm:
       common_name: !!null 
       name: Mikronésie, Federativní státy
+      official_name: !!null 
+    fo:
+      common_name: !!null 
+      name: Faerské ostrovy
       official_name: !!null 
     fr:
       common_name: !!null 
@@ -459,7 +483,7 @@ cs:
       official_name: !!null 
     kn:
       common_name: !!null 
-      name: Čína
+      name: Svatý Kryštof a Nevis
       official_name: !!null 
     kp:
       common_name: !!null 
@@ -817,6 +841,10 @@ cs:
       common_name: !!null 
       name: Surinam
       official_name: !!null 
+    ss:
+      common_name: !!null 
+      name: Jižní Sudán
+      official_name: Jihosudánská republika
     st:
       common_name: !!null 
       name: Svatý Tomáš a Princův
@@ -825,6 +853,10 @@ cs:
       common_name: !!null 
       name: El Salvador
       official_name: !!null 
+    sx:
+      common_name: !!null 
+      name: Svatý Martin
+      official_name: Konstituční země Svatý Martin
     sy:
       common_name: !!null 
       name: Syrská arabská republika
@@ -909,7 +941,7 @@ cs:
       common_name: !!null 
       name: Spojené státy Menší odlehlé ostrovy
       official_name: !!null 
-    usa:
+    us:
       common_name: !!null 
       name: Spojené státy americké
       official_name: !!null 
@@ -976,8 +1008,4 @@ cs:
     zw:
       common_name: !!null 
       name: Zimbabwe
-      official_name: !!null 
-    Čr:
-      common_name: !!null 
-      name: Costa Rica
       official_name: !!null 
