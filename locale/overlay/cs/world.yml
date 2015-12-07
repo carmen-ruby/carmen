@@ -483,7 +483,7 @@ cs:
       official_name: !!null 
     kn:
       common_name: !!null 
-      name: Čína
+      name: Svatý Kryštof a Nevis
       official_name: !!null 
     kp:
       common_name: !!null 
@@ -941,7 +941,7 @@ cs:
       common_name: !!null 
       name: Spojené státy Menší odlehlé ostrovy
       official_name: !!null 
-    usa:
+    us:
       common_name: !!null 
       name: Spojené státy americké
       official_name: !!null 
@@ -1008,8 +1008,4 @@ cs:
     zw:
       common_name: !!null 
       name: Zimbabwe
-      official_name: !!null 
-    Čr:
-      common_name: !!null 
-      name: Costa Rica
       official_name: !!null 
