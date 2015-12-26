@@ -55,6 +55,11 @@ similarly to a `Country` to find, for instance, a specific state:
     illinois = us.subregions.coded('IL')
     => <#Carmen::Region "Illinois">
 
+You can also find all subregions with a specific type:
+
+    states = us.subregions.typed('state')
+    => [<#Carmen::Region name="Alaska" type="state">, <#Carmen::Region name="Alabama" type="state">, ...]
+
 Subregions support a smaller set of attributes than countries:
 
     illinois.name

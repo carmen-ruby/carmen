@@ -16,6 +16,17 @@ module Carmen
   class RegionCollection < Array
     include Querying
 
+    # Filters the regions in this collection by type.
+    #
+    # type - The String type to filter by
+    #
+    # Returns a region collection containing all the regions with the supplied
+    # type.
+    def typed(type)
+      results = select{ |r| r.type.downcase == type.downcase }
+      Carmen::RegionCollection.new(results)
+    end
+
   private
 
     def query_collection
