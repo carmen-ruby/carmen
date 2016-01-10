@@ -23,7 +23,8 @@ module Carmen
     # Returns a region collection containing all the regions with the supplied
     # type.
     def typed(type)
-      results = select{ |r| r.type.downcase == type.downcase }
+      downcased_type = type.downcase
+      results = select{ |r| r.type == downcased_type }
       Carmen::RegionCollection.new(results)
     end
 
