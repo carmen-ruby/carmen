@@ -11,7 +11,7 @@ describe "default data sanity check" do
     setup_carmen_test_data_path
   end
 
-  it "has 249 countries" do
+  it "has 248 countries" do
     Carmen::Country.all.size.must_equal 248
   end
 
