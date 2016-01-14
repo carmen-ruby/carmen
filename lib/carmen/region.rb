@@ -21,7 +21,7 @@ module Carmen
     end
 
     def subregions
-      @subregions ||= load_subregions
+      @subregions ||= load_subregions.freeze
     end
 
     def subregions?
