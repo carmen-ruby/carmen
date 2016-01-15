@@ -1,20 +1,18 @@
-# Carmen- A repository of geographic regions for Ruby
+# Carmen
+
+> A repository of geographic regions for Ruby
 
 [![Build Status](https://secure.travis-ci.org/jim/carmen.png?branch=master)](http://travis-ci.org/jim/carmen)
 
-Carmen 1.0.0 is now out, after more than a year in beta.  This release is a rewrite of the library, separating out the geographic components from the Rails-specific view helpers. If you are using Carmen with Rails, you should check out the [carmen-rails](http://github.com/jim/carmen-rails) library.
+Carmen features the following:
 
-The [0.2.x branch](https://github.com/jim/carmen/tree/0.2.x) contains the previous
-version of Carmen should you need it for some reason.
-
-**Carmen now requires Ruby 1.9.3 The [ruby-18 branch](https://github.com/jim/carmen/tree/ruby-18) contains the
-last stable version of Carmen that will run on Ruby 1.8.x.
-
-Carmen 1.0 features the following:
-
-* A new, cleaner API
-* More complete data via the iso-codes Debian package (idea borrowed from [here](https://github.com/pluginaweek/has_addresses))
+* Clean API
+* Complete countries & regions data from the iso-codes Debian package
 * A sane approach to internationalization
+
+## Ruby on Rails
+
+If you are using Carmen with Rails, you should check out the [carmen-rails](http://github.com/jim/carmen-rails) library.
 
 # How to Use Carmen
 
