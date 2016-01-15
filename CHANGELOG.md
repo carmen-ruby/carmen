@@ -1,4 +1,6 @@
 ### 1.0.3 (Pending Release)
+* Add region search by type with Carmen::RegionCollection#typed (alessandro1997)
+* Freeze regions arrays (j15e)
 * Add Rangpur bibha, Bangladesh (ecbypi)
 * Add Telegana, India (ecbypi)
 
