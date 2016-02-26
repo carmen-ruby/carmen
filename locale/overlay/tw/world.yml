@@ -1,0 +1,967 @@
+---
+tw:
+  world:
+    ad:
+      common_name: !!null
+      name: 安道爾共和國
+      official_name: !!null
+    ae:
+      common_name: !!null
+      name: 阿拉伯聯合大公國
+      official_name: !!null
+    af:
+      common_name: !!null
+      name: 阿富汗
+      official_name: !!null
+    ag:
+      common_name: !!null
+      name: 安地卡及巴布達
+      official_name: !!null
+    ai:
+      common_name: !!null
+      name: 安圭拉島
+      official_name: !!null
+    al:
+      common_name: !!null
+      name: 阿爾巴尼亞
+      official_name: !!null
+    am:
+      common_name: !!null
+      name: 亞美尼亞
+      official_name: !!null
+    an:
+      common_name: !!null
+      name: 荷屬安德烈斯群島
+      official_name: !!null
+    ao:
+      common_name: !!null
+      name: 安哥拉
+      official_name: !!null
+    aq:
+      common_name: !!null
+      name: 南極洲
+      official_name: !!null
+    ar:
+      common_name: !!null
+      name: 阿根廷
+      official_name: !!null
+    as:
+      common_name: !!null
+      name: 美屬薩摩亞
+      official_name: !!null
+    at:
+      common_name: !!null
+      name: 奧地利
+      official_name: !!null
+    au:
+      common_name: !!null
+      name: 澳大利亞
+      official_name: !!null
+    aw:
+      common_name: !!null
+      name: 阿魯巴島
+      official_name: !!null
+    ax:
+      common_name: !!null
+      name: 奧蘭群島
+      official_name: !!null
+    az:
+      common_name: !!null
+      name: 阿塞拜疆
+      official_name: !!null
+    ba:
+      common_name: !!null
+      name: 波士尼亞與赫塞哥維納
+      official_name: !!null
+    bb:
+      common_name: !!null
+      name: 巴貝多
+      official_name: !!null
+    bd:
+      common_name: !!null
+      name: 孟加拉
+      official_name: !!null
+    be:
+      common_name: !!null
+      name: 比利時
+      official_name: !!null
+    bf:
+      common_name: !!null
+      name: 布吉納法索
+      official_name: !!null
+    bg:
+      common_name: !!null
+      name: 保加利亞
+      official_name: !!null
+    bh:
+      common_name: !!null
+      name: 巴林
+      official_name: !!null
+    bi:
+      common_name: !!null
+      name: 布隆迪
+      official_name: !!null
+    bj:
+      common_name: !!null
+      name: 貝南
+      official_name: !!null
+    bl:
+      common_name: !!null
+      name: 聖巴泰勒米
+      official_name: !!null
+    bm:
+      common_name: !!null
+      name: 百慕達群島
+      official_name: !!null
+    bn:
+      common_name: !!null
+      name: 汶萊
+      official_name: !!null
+    bo:
+      common_name: !!null
+      name: 玻利維亞
+      official_name: !!null
+    br:
+      common_name: !!null
+      name: 巴西
+      official_name: !!null
+    bs:
+      common_name: !!null
+      name: 巴哈馬群島
+      official_name: !!null
+    bt:
+      common_name: !!null
+      name: 不丹
+      official_name: !!null
+    bv:
+      common_name: !!null
+      name: 布威島
+      official_name: !!null
+    bw:
+      common_name: !!null
+      name: 波札那
+      official_name: !!null
+    by:
+      common_name: !!null
+      name: 白俄羅斯
+      official_name: !!null
+    bz:
+      common_name: !!null
+      name: 貝里斯
+      official_name: !!null
+    ca:
+      common_name: !!null
+      name: 加拿大
+      official_name: !!null
+    cc:
+      common_name: !!null
+      name: 科科斯(基林)群島
+      official_name: !!null
+    cf:
+      common_name: !!null
+      name: 中非共和國
+      official_name: !!null
+    cg:
+      common_name: !!null
+      name: 剛果
+      official_name: !!null
+    ch:
+      common_name: !!null
+      name: 瑞士
+      official_name: !!null
+    ci:
+      common_name: !!null
+      name: 象牙海岸
+      official_name: !!null
+    ck:
+      common_name: !!null
+      name: 庫克群島
+      official_name: !!null
+    cl:
+      common_name: !!null
+      name: 智利
+      official_name: !!null
+    cm:
+      common_name: !!null
+      name: 喀麥隆
+      official_name: !!null
+    cn:
+      common_name: !!null
+      name: 中國
+      official_name: !!null
+    co:
+      common_name: !!null
+      name: 哥倫比亞
+      official_name: !!null
+    cr:
+      common_name: !!null
+      name: 哥斯大黎加
+      official_name: !!null
+    cu:
+      common_name: !!null
+      name: 古巴
+      official_name: !!null
+    cv:
+      common_name: !!null
+      name: 維德角
+      official_name: !!null
+    cx:
+      common_name: !!null
+      name: 聖誕島
+      official_name: !!null
+    cy:
+      common_name: !!null
+      name: 賽普勒斯
+      official_name: !!null
+    cz:
+      common_name: !!null
+      name: 捷克共和國
+      official_name: !!null
+    de:
+      common_name: !!null
+      name: 德國
+      official_name: !!null
+    dj:
+      common_name: !!null
+      name: 吉布地
+      official_name: !!null
+    dk:
+      common_name: !!null
+      name: 丹麥
+      official_name: !!null
+    dm:
+      common_name: !!null
+      name: 多米尼克
+      official_name: !!null
+    do:
+      common_name: !!null
+      name: 多明尼加
+      official_name: !!null
+    dz:
+      common_name: !!null
+      name: 阿爾及利亞
+      official_name: !!null
+    ec:
+      common_name: !!null
+      name: 厄瓜多爾
+      official_name: !!null
+    ee:
+      common_name: !!null
+      name: 愛沙尼亞
+      official_name: !!null
+    eg:
+      common_name: !!null
+      name: 埃及
+      official_name: !!null
+    eh:
+      common_name: !!null
+      name: 西撒哈拉
+      official_name: !!null
+    er:
+      common_name: !!null
+      name: 厄利垂亞
+      official_name: !!null
+    es:
+      common_name: !!null
+      name: 西班牙
+      official_name: !!null
+    et:
+      common_name: !!null
+      name: 埃塞俄比亞
+      official_name: !!null
+    fi:
+      common_name: !!null
+      name: 芬蘭
+      official_name: !!null
+    fj:
+      common_name: !!null
+      name: 斐濟
+      official_name: !!null
+    fk:
+      common_name: !!null
+      name: 福克蘭群島
+      official_name: !!null
+    fm:
+      common_name: !!null
+      name: 密克羅尼西亞聯邦
+      official_name: !!null
+    fo:
+      common_name: !!null
+      name: 法羅群島
+      official_name: !!null
+    fr:
+      common_name: !!null
+      name: 法國
+      official_name: !!null
+    ga:
+      common_name: !!null
+      name: 加蓬
+      official_name: !!null
+    gb:
+      common_name: !!null
+      name: 英國
+      official_name: !!null
+    gd:
+      common_name: !!null
+      name: 格林納達
+      official_name: !!null
+    ge:
+      common_name: !!null
+      name: 格魯吉亞
+      official_name: !!null
+    gf:
+      common_name: !!null
+      name: 法屬圭亞那
+      official_name: !!null
+    gg:
+      common_name: !!null
+      name: 格恩西
+      official_name: !!null
+    gh:
+      common_name: !!null
+      name: 加納
+      official_name: !!null
+    gi:
+      common_name: !!null
+      name: 直布羅陀
+      official_name: !!null
+    gl:
+      common_name: !!null
+      name: 格陵蘭
+      official_name: !!null
+    gm:
+      common_name: !!null
+      name: 岡比亞
+      official_name: !!null
+    gn:
+      common_name: !!null
+      name: 幾內亞
+      official_name: !!null
+    gp:
+      common_name: !!null
+      name: 瓜德羅普
+      official_name: !!null
+    gq:
+      common_name: !!null
+      name: 赤道幾內亞
+      official_name: !!null
+    gr:
+      common_name: !!null
+      name: 希腊
+      official_name: !!null
+    gs:
+      common_name: !!null
+      name: 南喬治亞島和南桑威奇群島
+      official_name: !!null
+    gt:
+      common_name: !!null
+      name: 瓜地馬拉
+      official_name: !!null
+    gu:
+      common_name: !!null
+      name: 關島
+      official_name: !!null
+    gw:
+      common_name: !!null
+      name: 幾內亞比索
+      official_name: !!null
+    gy:
+      common_name: !!null
+      name: 圭亞那
+      official_name: !!null
+    hk:
+      common_name: !!null
+      name: 香港
+      official_name: !!null
+    hm:
+      common_name: !!null
+      name: 赫德島和麥克唐納群島
+      official_name: !!null
+    hn:
+      common_name: !!null
+      name: 洪都拉斯
+      official_name: !!null
+    hr:
+      common_name: !!null
+      name: 克羅地亞
+      official_name: !!null
+    ht:
+      common_name: !!null
+      name: 海地
+      official_name: !!null
+    hu:
+      common_name: !!null
+      name: 匈牙利
+      official_name: !!null
+    id:
+      common_name: !!null
+      name: 印度尼西亞
+      official_name: !!null
+    ie:
+      common_name: !!null
+      name: 愛爾蘭
+      official_name: !!null
+    il:
+      common_name: !!null
+      name: 以色列
+      official_name: !!null
+    im:
+      common_name: !!null
+      name: 馬恩島
+      official_name: !!null
+    in:
+      common_name: !!null
+      name: 印度
+      official_name: !!null
+    iq:
+      common_name: !!null
+      name: 伊拉克
+      official_name: !!null
+    is:
+      common_name: !!null
+      name: 冰島
+      official_name: !!null
+    it:
+      common_name: !!null
+      name: 義大利
+      official_name: !!null
+    je:
+      common_name: !!null
+      name: 澤西
+      official_name: !!null
+    jm:
+      common_name: !!null
+      name: 牙買加
+      official_name: !!null
+    jo:
+      common_name: !!null
+      name: 約旦
+      official_name: !!null
+    jp:
+      common_name: !!null
+      name: 日本
+      official_name: !!null
+    ke:
+      common_name: !!null
+      name: 肯尼亞
+      official_name: !!null
+    kg:
+      common_name: !!null
+      name: 吉爾吉斯斯坦
+      official_name: !!null
+    kh:
+      common_name: !!null
+      name: 柬埔寨
+      official_name: !!null
+    ki:
+      common_name: !!null
+      name: 吉里巴斯
+      official_name: !!null
+    km:
+      common_name: !!null
+      name: 科摩羅
+      official_name: !!null
+    kn:
+      common_name: !!null
+      name: 聖克里斯多福及尼維斯
+      official_name: !!null
+    kp:
+      common_name: !!null
+      name: 韓國
+      official_name: !!null
+    kv:
+      common_name: !!null
+      name: 科索沃
+      official_name: !!null
+    kw:
+      common_name: !!null
+      name: 科威特
+      official_name: !!null
+    ky:
+      common_name: !!null
+      name: 開曼群島
+      official_name: !!null
+    kz:
+      common_name: !!null
+      name: 哈薩克斯坦
+      official_name: !!null
+    la:
+      common_name: !!null
+      name: 寮國
+      official_name: !!null
+    lb:
+      common_name: !!null
+      name: 黎巴嫩
+      official_name: !!null
+    lc:
+      common_name: !!null
+      name: 聖露西亞
+      official_name: !!null
+    li:
+      common_name: !!null
+      name: 列支敦斯登
+      official_name: !!null
+    lk:
+      common_name: !!null
+      name: 斯裡蘭卡
+      official_name: !!null
+    lr:
+      common_name: !!null
+      name: 賴比瑞亞
+      official_name: !!null
+    ls:
+      common_name: !!null
+      name: 賴索托
+      official_name: !!null
+    lt:
+      common_name: !!null
+      name: 立陶宛
+      official_name: !!null
+    lu:
+      common_name: !!null
+      name: 盧森堡
+      official_name: !!null
+    lv:
+      common_name: !!null
+      name: 拉脫維亞
+      official_name: !!null
+    ly:
+      common_name: !!null
+      name: 利比亞
+      official_name: !!null
+    ma:
+      common_name: !!null
+      name: 摩洛哥
+      official_name: !!null
+    mc:
+      common_name: !!null
+      name: 摩納哥
+      official_name: !!null
+    md:
+      common_name: !!null
+      name: 摩爾多瓦共和國
+      official_name: !!null
+    me:
+      common_name: !!null
+      name: 蒙特內哥羅
+      official_name: !!null
+    mf:
+      common_name: !!null
+      name: 聖馬丁
+      official_name: !!null
+    mg:
+      common_name: !!null
+      name: 馬達加斯加
+      official_name: !!null
+    mh:
+      common_name: !!null
+      name: 馬紹爾群島
+      official_name: !!null
+    mk:
+      common_name: !!null
+      name: 馬其頓
+      official_name: !!null
+    ml:
+      common_name: !!null
+      name: 馬利
+      official_name: !!null
+    mm:
+      common_name: !!null
+      name: 緬甸
+      official_name: !!null
+    mo:
+      common_name: !!null
+      name: 澳門
+      official_name: !!null
+    mp:
+      common_name: !!null
+      name: 北馬利亞納群島
+      official_name: !!null
+    mq:
+      common_name: !!null
+      name: 馬丁尼克
+      official_name: !!null
+    mr:
+      common_name: !!null
+      name: 茅利塔尼亞
+      official_name: !!null
+    ms:
+      common_name: !!null
+      name: 蒙特塞拉特
+      official_name: !!null
+    mt:
+      common_name: !!null
+      name: 馬耳他
+      official_name: !!null
+    mu:
+      common_name: !!null
+      name: 模里西斯
+      official_name: !!null
+    mv:
+      common_name: !!null
+      name: 馬爾地夫
+      official_name: !!null
+    mw:
+      common_name: !!null
+      name: 馬拉威
+      official_name: !!null
+    mx:
+      common_name: !!null
+      name: 墨西哥
+      official_name: !!null
+    my:
+      common_name: !!null
+      name: 馬來西亞
+      official_name: !!null
+    mz:
+      common_name: !!null
+      name: 莫三比克
+      official_name: !!null
+    na:
+      common_name: !!null
+      name: 納米比亞
+      official_name: !!null
+    nc:
+      common_name: !!null
+      name: 新喀裡多尼亞
+      official_name: !!null
+    ne:
+      common_name: !!null
+      name: 尼日爾
+      official_name: !!null
+    nf:
+      common_name: !!null
+      name: 諾福克島
+      official_name: !!null
+    ng:
+      common_name: !!null
+      name: 奈及利亞
+      official_name: !!null
+    ni:
+      common_name: !!null
+      name: 尼加拉瓜
+      official_name: !!null
+    nl:
+      common_name: !!null
+      name: 荷蘭
+      official_name: !!null
+    'no':
+      common_name: !!null
+      name: 挪威
+      official_name: !!null
+    np:
+      common_name: !!null
+      name: 尼泊爾
+      official_name: !!null
+    nr:
+      common_name: !!null
+      name: 諾魯
+      official_name: !!null
+    nu:
+      common_name: !!null
+      name: 紐埃
+      official_name: !!null
+    nz:
+      common_name: !!null
+      name: 紐西蘭
+      official_name: !!null
+    om:
+      common_name: !!null
+      name: 阿曼
+      official_name: !!null
+    pa:
+      common_name: !!null
+      name: 巴拿馬
+      official_name: !!null
+    pe:
+      common_name: !!null
+      name: 秘魯
+      official_name: !!null
+    pf:
+      common_name: !!null
+      name: 法屬波利尼西亞
+      official_name: !!null
+    pg:
+      common_name: !!null
+      name: 巴布亞新幾內亞
+      official_name: !!null
+    ph:
+      common_name: !!null
+      name: 菲律賓
+      official_name: !!null
+    pk:
+      common_name: !!null
+      name: 巴基斯坦
+      official_name: !!null
+    pl:
+      common_name: !!null
+      name: 波蘭
+      official_name: !!null
+    pm:
+      common_name: !!null
+      name: 聖皮埃爾和密克隆
+      official_name: !!null
+    pn:
+      common_name: !!null
+      name: 皮特凱恩
+      official_name: !!null
+    pr:
+      common_name: !!null
+      name: 波多黎各
+      official_name: !!null
+    pt:
+      common_name: !!null
+      name: 葡萄牙
+      official_name: !!null
+    pw:
+      common_name: !!null
+      name: 帛琉
+      official_name: !!null
+    py:
+      common_name: !!null
+      name: 巴拉圭
+      official_name: !!null
+    qa:
+      common_name: !!null
+      name: 卡塔爾
+      official_name: !!null
+    re:
+      common_name: !!null
+      name: 留尼旺
+      official_name: !!null
+    ro:
+      common_name: !!null
+      name: 羅馬尼亞
+      official_name: !!null
+    rs:
+      common_name: !!null
+      name: 塞爾維亞
+      official_name: !!null
+    ru:
+      common_name: !!null
+      name: 俄羅斯聯邦
+      official_name: !!null
+    rw:
+      common_name: !!null
+      name: 盧安達
+      official_name: !!null
+    sa:
+      common_name: !!null
+      name: 沙烏地阿拉伯
+      official_name: !!null
+    sb:
+      common_name: !!null
+      name: 所羅門群島
+      official_name: !!null
+    sc:
+      common_name: !!null
+      name: 塞席爾
+      official_name: !!null
+    sd:
+      common_name: !!null
+      name: 蘇丹
+      official_name: !!null
+    se:
+      common_name: !!null
+      name: 瑞典
+      official_name: !!null
+    sg:
+      common_name: !!null
+      name: 新加坡
+      official_name: !!null
+    sh:
+      common_name: !!null
+      name: 聖赫勒拿
+      official_name: !!null
+    si:
+      common_name: !!null
+      name: 斯洛維尼亞
+      official_name: !!null
+    sj:
+      common_name: !!null
+      name: 斯瓦爾巴島和揚馬延島
+      official_name: !!null
+    sk:
+      common_name: !!null
+      name: 斯洛伐克
+      official_name: !!null
+    sl:
+      common_name: !!null
+      name: 獅子山共和國
+      official_name: !!null
+    sm:
+      common_name: !!null
+      name: 聖馬力諾
+      official_name: !!null
+    sn:
+      common_name: !!null
+      name: 塞內加爾
+      official_name: !!null
+    so:
+      common_name: !!null
+      name: 索馬利亞
+      official_name: !!null
+    sr:
+      common_name: !!null
+      name: 蘇利南
+      official_name: !!null
+    ss:
+      common_name: !!null
+      name: 南蘇丹
+      official_name: !!null
+    st:
+      common_name: !!null
+      name: 聖多美普林西比
+      official_name: !!null
+    sv:
+      common_name: !!null
+      name: 薩爾瓦多
+      official_name: !!null
+    sy:
+      common_name: !!null
+      name: 敘利亞
+      official_name: !!null
+    sz:
+      common_name: !!null
+      name: 史瓦濟蘭
+      official_name: !!null
+    tc:
+      common_name: !!null
+      name: 土克凱可群島
+      official_name: !!null
+    td:
+      common_name: !!null
+      name: 查德
+      official_name: !!null
+    tf:
+      common_name: !!null
+      name: 法國南部領土
+      official_name: !!null
+    tg:
+      common_name: !!null
+      name: 多哥
+      official_name: !!null
+    th:
+      common_name: !!null
+      name: 泰國
+      official_name: !!null
+    tj:
+      common_name: !!null
+      name: 塔吉克
+      official_name: !!null
+    tk:
+      common_name: !!null
+      name: 托克勞
+      official_name: !!null
+    tl:
+      common_name: !!null
+      name: 東帝汶
+      official_name: !!null
+    tm:
+      common_name: !!null
+      name: 土庫曼斯坦
+      official_name: !!null
+    tn:
+      common_name: !!null
+      name: 突尼斯
+      official_name: !!null
+    to:
+      common_name: !!null
+      name: 東加
+      official_name: !!null
+    tr:
+      common_name: !!null
+      name: 土耳其
+      official_name: !!null
+    tt:
+      common_name: !!null
+      name: 千里達及托巴哥
+      official_name: !!null
+    tv:
+      common_name: !!null
+      name: 吐瓦魯
+      official_name: !!null
+    tw:
+      common_name: !!null
+      name: 台灣
+      official_name: !!null
+    tz:
+      common_name: !!null
+      name: 坦桑尼亞共和國
+      official_name: !!null
+    ua:
+      common_name: !!null
+      name: 烏克蘭
+      official_name: !!null
+    ug:
+      common_name: !!null
+      name: 烏干達
+      official_name: !!null
+    um:
+      common_name: !!null
+      name: 美國本土外小島嶼
+      official_name: !!null
+    us:
+      common_name: !!null
+      name: 美國
+      official_name: !!null
+    uy:
+      common_name: !!null
+      name: 烏拉圭
+      official_name: !!null
+    uz:
+      common_name: !!null
+      name: 烏茲別克
+      official_name: !!null
+    va:
+      common_name: !!null
+      name: 羅馬教廷
+      official_name: !!null
+    vc:
+      common_name: !!null
+      name: 聖文森特和格林納丁斯
+      official_name: !!null
+    ve:
+      common_name: !!null
+      name: 委內瑞拉
+      official_name: !!null
+    vg:
+      common_name: !!null
+      name: 英屬維京群島
+      official_name: !!null
+    vi:
+      common_name: !!null
+      name: 美屬維爾京群島
+      official_name: !!null
+    vn:
+      common_name: !!null
+      name: 越南
+      official_name: !!null
+    vu:
+      common_name: !!null
+      name: 瓦努阿圖
+      official_name: !!null
+    ws:
+      common_name: !!null
+      name: 薩摩亞
+      official_name: !!null
+    ye:
+      common_name: !!null
+      name: 葉門
+      official_name: !!null
+    yt:
+      common_name: !!null
+      name: 馬約特
+      official_name: !!null
+    za:
+      common_name: !!null
+      name: 南非
+      official_name: !!null
+    zm:
+      common_name: !!null
+      name: 尚比亞
+      official_name: !!null
+    zw:
+      common_name: !!null
+      name: 辛巴威
+      official_name: !!null
