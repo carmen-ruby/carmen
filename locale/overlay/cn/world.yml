@@ -120,7 +120,11 @@ cn:
     bo:
       common_name: !!null 
       name: 玻利维亚
-      official_name: !!null 
+      official_name: !!null
+    bq:
+      common_name: !!null
+      name: 博内尔岛，圣尤斯特歇斯和萨巴
+      official_name: !!null
     br:
       common_name: !!null 
       name: 巴西
@@ -156,7 +160,11 @@ cn:
     cc:
       common_name: !!null 
       name: 科科斯(基林)群岛
-      official_name: !!null 
+      official_name: !!null
+    cd:
+      common_name: !!null
+      name: 刚果共和国民主
+      official_name: !!null
     cf:
       common_name: !!null 
       name: 中非共和国
@@ -212,7 +220,11 @@ cn:
     cy:
       common_name: !!null 
       name: 塞浦路斯
-      official_name: !!null 
+      official_name: !!null
+    cw:
+      common_name: !!null
+      name: 库拉索
+      official_name: !!null
     cz:
       common_name: !!null 
       name: 捷克共和国
@@ -412,11 +424,19 @@ cn:
     in:
       common_name: !!null 
       name: 印度
-      official_name: !!null 
+      official_name: !!null
+    io:
+      common_name: !!null
+      name: 英属印度洋领地
+      official_name: !!null
     iq:
       common_name: !!null 
       name: 伊拉克
-      official_name: !!null 
+      official_name: !!null
+    ir:
+      common_name: !!null
+      name: 伊朗伊斯兰共和国
+      official_name: !!null
     is:
       common_name: !!null 
       name: 冰岛
@@ -468,7 +488,11 @@ cn:
     kp:
       common_name: !!null 
       name: 韩国
-      official_name: !!null 
+      official_name: !!null
+    kr:
+      common_name: !!null
+      name: 韩国
+      official_name: !!null
     kv:
       common_name: !!null 
       name: 科索沃
@@ -568,7 +592,11 @@ cn:
     mm:
       common_name: !!null 
       name: 缅甸
-      official_name: !!null 
+      official_name: !!null
+    mn:
+      common_name:
+      name: 蒙古
+      official_name:
     mo:
       common_name: !!null 
       name: 澳门
@@ -708,7 +736,11 @@ cn:
     pr:
       common_name: !!null 
       name: 波多黎各
-      official_name: !!null 
+      official_name: !!null
+    ps:
+      common_name: !!null
+      name: 巴勒斯坦的国家
+      official_name: !!null
     pt:
       common_name: !!null 
       name: 葡萄牙
@@ -804,7 +836,11 @@ cn:
     sr:
       common_name: !!null 
       name: 苏里南
-      official_name: !!null 
+      official_name: !!null
+    ss:
+      common_name: !!null
+      name: 南苏丹
+      official_name: !!null
     st:
       common_name: !!null 
       name: 圣多美和普林西比
@@ -812,7 +848,11 @@ cn:
     sv:
       common_name: !!null 
       name: 萨尔瓦多
-      official_name: !!null 
+      official_name: !!null
+    sx:
+       common_name: !!null
+       name: 圣马丁岛（荷兰的一部分）
+       official_name: !!null
     sy:
       common_name: !!null 
       name: 阿拉伯叙利亚共和国
@@ -936,7 +976,11 @@ cn:
     vu:
       common_name: !!null 
       name: 瓦努阿图
-      official_name: !!null 
+      official_name: !!null
+    wf:
+      common_name: !!null
+      name: 瓦利斯和富图纳群岛
+      official_name: !!null
     ws:
       common_name: !!null 
       name: 萨摩亚
