@@ -1,0 +1,255 @@
+---
+en:
+  world:
+    mx:
+      jal:
+        '001':
+          name: Acatic
+        '002':
+          name: Acatlan de Juarez
+        '003':
+          name: Ahualulco de Mercado
+        '004':
+          name: Amacueca
+        '005':
+          name: Amatitan
+        '006':
+          name: Ameca
+        '007':
+          name: San Juanito de Escobedo
+        '008':
+          name: Arandas
+        '009':
+          name: El Arenal
+        '010':
+          name: Atemajac de Brizuela
+        '011':
+          name: Atengo
+        '012':
+          name: Atenguillo
+        '013':
+          name: Atotonilco el Alto
+        '014':
+          name: Atoyac
+        '015':
+          name: Autlan de Navarro
+        '016':
+          name: Ayotlan
+        '017':
+          name: Ayutla
+        '018':
+          name: La Barca
+        '019':
+          name: Bola
+        '020':
+          name: Cabo Corrientes
+        '021':
+          name: Casimiro Castillo
+        '022':
+          name: Cihuatlan
+        '023':
+          name: Zapotlan el Grande
+        '024':
+          name: Cocula
+        '025':
+          name: Colotlan
+        '026':
+          name: Concepcion de Buenos Aires
+        '027':
+          name: Cuautitlan de Garcia Barragan
+        '028':
+          name: Cuautla
+        '029':
+          name: Cuquio
+        '030':
+          name: Chapala
+        '031':
+          name: Chimaltitan
+        '032':
+          name: Chiquilistlan
+        '033':
+          name: Degollado
+        '034':
+          name: Ejutla
+        '035':
+          name: Encarnacion de Diaz
+        '036':
+          name: Etzatlan
+        '037':
+          name: El Grullo
+        '038':
+          name: Guachinango
+        '039':
+          name: Guadalajara
+        '040':
+          name: Hostotipaquillo
+        '041':
+          name: Huejucar
+        '042':
+          name: Huejuquilla el Alto
+        '043':
+          name: La Huerta
+        '044':
+          name: Ixtlahuacan de los Membrillos
+        '045':
+          name: Ixtlahuacan del Rio
+        '046':
+          name: Jalostotitlan
+        '047':
+          name: Jamay
+        '048':
+          name: Jesus Maria
+        '049':
+          name: Jilotlan de los Dolores
+        '050':
+          name: Jocotepec
+        '051':
+          name: Juanacatlan
+        '052':
+          name: Juchitlan
+        '053':
+          name: Lagos de Moreno
+        '054':
+          name: El Limon
+        '055':
+          name: Magdalena
+        '056':
+          name: Santa Maria del Oro
+        '057':
+          name: La Manzanilla de la Paz
+        '058':
+          name: Mascota
+        '059':
+          name: Mazamitla
+        '060':
+          name: Mexticacan
+        '061':
+          name: Mezquitic
+        '062':
+          name: Mixtlan
+        '063':
+          name: Ocotlan
+        '064':
+          name: Ojuelos de Jalisco
+        '065':
+          name: Pihuamo
+        '066':
+          name: Poncitlan
+        '067':
+          name: Puerto Vallarta
+        '068':
+          name: Villa Purificacion
+        '069':
+          name: Quitupan
+        '070':
+          name: El Salto
+        '071':
+          name: San Cristobal de la Barranca
+        '072':
+          name: San Diego de Alejandria
+        '073':
+          name: San Juan de los Lagos
+        '074':
+          name: San Julian
+        '075':
+          name: San Marcos
+        '076':
+          name: San Martin de Bola
+        '077':
+          name: San Martin Hidalgo
+        '078':
+          name: San Miguel el Alto
+        '079':
+          name: Gomez Farias
+        '080':
+          name: San Sebastian del Oeste
+        '081':
+          name: Santa Maria de los Angeles
+        '082':
+          name: Sayula
+        '083':
+          name: Tala
+        '084':
+          name: Talpa de Allende
+        '085':
+          name: Tamazula de Gordiano
+        '086':
+          name: Tapalpa
+        '087':
+          name: Tecalitlan
+        '088':
+          name: Tecolotlan
+        '089':
+          name: Techaluta de Montenegro
+        '090':
+          name: Tenamaxtlan
+        '091':
+          name: Teocaltiche
+        '092':
+          name: Teocuitatlan de Corona
+        '093':
+          name: Tepatitlan de Morelos
+        '094':
+          name: Tequila
+        '095':
+          name: Teuchitlan
+        '096':
+          name: Tizapan el Alto
+        '097':
+          name: Tlajomulco de Zu
+        '098':
+          name: San Pedro Tlaquepaque
+        '099':
+          name: Toliman
+        '100':
+          name: Tomatlan
+        '101':
+          name: Tonala
+        '102':
+          name: Tonaya
+        '103':
+          name: Tonila
+        '104':
+          name: Totatiche
+        '105':
+          name: Tototlan
+        '106':
+          name: Tuxcacuesco
+        '107':
+          name: Tuxcueca
+        '108':
+          name: Tuxpan
+        '109':
+          name: Union de San Antonio
+        '110':
+          name: Union de Tula
+        '111':
+          name: Valle de Guadalupe
+        '112':
+          name: Valle de Juarez
+        '113':
+          name: San Gabriel
+        '114':
+          name: Villa Corona
+        '115':
+          name: Villa Guerrero
+        '116':
+          name: Villa Hidalgo
+        '117':
+          name: Canadas de Obregon
+        '118':
+          name: Yahualica de Gonzalez Gallo
+        '119':
+          name: Zacoalco de Torres
+        '120':
+          name: Zapopan
+        '121':
+          name: Zapotiltic
+        '122':
+          name: Zapotitlan de Vadillo
+        '123':
+          name: Zapotlan del Rey
+        '124':
+          name: Zapotlanejo
+        '125':
+          name: San Ignacio Cerro Gordo

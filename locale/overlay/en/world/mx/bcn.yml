@@ -1,0 +1,15 @@
+---
+en:
+  world:
+    mx:
+      bcn:
+        '001':
+          name: Ensenada
+        '002':
+          name: Mexicali
+        '003':
+          name: Tecate
+        '004':
+          name: Tijuana
+        '005':
+          name: Playas de Rosarito

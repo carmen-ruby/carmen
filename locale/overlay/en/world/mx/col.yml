@@ -1,0 +1,25 @@
+---
+en:
+  world:
+    mx:
+      col:
+        '001':
+          name: Armeria
+        '002':
+          name: Colima
+        '003':
+          name: Comala
+        '004':
+          name: Coquimatlan
+        '005':
+          name: Cuauhtemoc
+        '006':
+          name: Ixtlahuacan
+        '007':
+          name: Manzanillo
+        '008':
+          name: Minatitlan
+        '009':
+          name: Tecoman
+        '010':
+          name: Villa de Alvarez
