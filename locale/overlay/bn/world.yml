@@ -90,7 +90,7 @@ bn:
       name: বুলগেরিয়া
       official_name: Republic of Bulgaria
     bh:
-      common_name: 
+      common_name:
       name: বাহরাইন
       official_name: Kingdom of Bahrain
     bi:
@@ -911,8 +911,8 @@ bn:
       official_name: !!null
     tw:
       common_name: Taiwan
-      name: চীন এর তাইওয়ান, প্রদেশ
-      official_name: Taiwan, Province of China
+      name: তাইওয়ান
+      official_name: Taiwan
     tz:
       common_name: !!null
       name: তাঞ্জানিয়া, ইউনাইটেড প্রজাতন্ত্রের
@@ -928,7 +928,7 @@ bn:
     um:
       common_name: !!null
       name: মার্কিন যুক্তরাষ্ট্র ক্ষুদ্র ও পার্শ্ববর্তী দ্বীপপুঞ্জ
-      official_name: 
+      official_name:
     us:
       common_name: !!null
       name: মার্কিন যুক্তরাষ্ট্র
