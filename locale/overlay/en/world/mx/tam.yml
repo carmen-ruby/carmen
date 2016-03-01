@@ -24,21 +24,21 @@ en:
         '010':
           name: Cruillas
         '011':
-          name: Gomez Farias
+          name: Gómez Farias
         '012':
-          name: Gonzalez
+          name: González
         '013':
           name: Guemez
         '014':
           name: Guerrero
         '015':
-          name: Gustavo Diaz Ordaz
+          name: Gustavo Díaz Ordaz
         '016':
           name: Hidalgo
         '017':
           name: Jaumave
         '018':
-          name: Jimenez
+          name: Jiménez
         '019':
           name: Llera
         '020':
@@ -48,11 +48,11 @@ en:
         '022':
           name: Matamoros
         '023':
-          name: Mendez
+          name: Méndez
         '024':
           name: Mier
         '025':
-          name: Miguel Aleman
+          name: Miguel Alemán
         '026':
           name: Miquihuana
         '027':
@@ -68,7 +68,7 @@ en:
         '032':
           name: Reynosa
         '033':
-          name: Rio Bravo
+          name: Río Bravo
         '034':
           name: San Carlos
         '035':

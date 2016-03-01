@@ -6,7 +6,7 @@ en:
         '001':
           name: Azcapotzalco
         '002':
-          name: Coyoacan
+          name: Coyoacán
         '003':
           name: Cuajimalpa de Morelos
         '004':
@@ -20,7 +20,7 @@ en:
         '008':
           name: Milpa Alta
         '009':
-          name: Alvaro Obregon
+          name: Álvaro Obregón
         '010':
           name: Tlahuac
         '011':
@@ -28,9 +28,9 @@ en:
         '012':
           name: Xochimilco
         '013':
-          name: Benito Juarez
+          name: Benito Juárez
         '014':
-          name: Cuauhtemoc
+          name: Cuauhtémoc
         '015':
           name: Miguel Hidalgo
         '016':

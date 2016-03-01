@@ -6,7 +6,7 @@ en:
         '001':
           name: Acajete
         '002':
-          name: Acatlan
+          name: Acatlán
         '003':
           name: Acayucan
         '004':
@@ -16,23 +16,23 @@ en:
         '006':
           name: Acultzingo
         '007':
-          name: Camaron de Tejeda
+          name: Camarón de Tejeda
         '008':
           name: Alpatlahuac
         '009':
-          name: Alto Lucero de Gutierrez Barrios
+          name: Alto Lucero de Gutiérrez Barrios
         '010':
           name: Altotonga
         '011':
           name: Alvarado
         '012':
-          name: Amatitlan
+          name: Amatitlán
         '013':
           name: Naranjos Amatlan
         '014':
           name: Amatlan de los Reyes
         '015':
-          name: Angel R. Cabada
+          name: Ángel R. Cabada
         '016':
           name: La Antigua
         '017':
@@ -46,7 +46,7 @@ en:
         '021':
           name: Atoyac
         '022':
-          name: Atzacan
+          name: Atzacán
         '023':
           name: Atzalan
         '024':
@@ -56,9 +56,9 @@ en:
         '026':
           name: Banderilla
         '027':
-          name: Benito Juarez
+          name: Benito Juárez
         '028':
-          name: Boca del Rio
+          name: Boca del Río
         '029':
           name: Calcahualco
         '030':
@@ -90,7 +90,7 @@ en:
         '043':
           name: Comapa
         '044':
-          name: Cordoba
+          name: Córdoba
         '045':
           name: Cosamaloapan de Carpio
         '046':
@@ -108,7 +108,7 @@ en:
         '052':
           name: Cuichapa
         '053':
-          name: Cuitlahuac
+          name: Cuitláhuac
         '054':
           name: Chacaltianguis
         '055':
@@ -126,11 +126,11 @@ en:
         '061':
           name: Las Choapas
         '062':
-          name: Chocaman
+          name: Chocamán
         '063':
           name: Chontla
         '064':
-          name: Chumatlan
+          name: Chumatlán
         '065':
           name: Emiliano Zapata
         '066':
@@ -138,11 +138,11 @@ en:
         '067':
           name: Filomeno Mata
         '068':
-          name: Fortin
+          name: Fortín
         '069':
-          name: Gutierrez Zamora
+          name: Gutiérrez Zamora
         '070':
-          name: Hidalgotitlan
+          name: Hidalgotitlán
         '071':
           name: Huatusco
         '072':
@@ -150,27 +150,27 @@ en:
         '073':
           name: Hueyapan de Ocampo
         '074':
-          name: Huiloapan de Cuauhtemoc
+          name: Huiloapan de Cuauhtémoc
         '075':
           name: Ignacio de la Llave
         '076':
-          name: Ilamatlan
+          name: Ilamatlán
         '077':
           name: Isla
         '078':
           name: Ixcatepec
         '079':
-          name: Ixhuacan de los Reyes
+          name: Ixhuacán de los Reyes
         '080':
-          name: Ixhuatlan del Cafe
+          name: Ixhuatlán del Café
         '081':
           name: Ixhuatlancillo
         '082':
-          name: Ixhuatlan del Sureste
+          name: Ixhuatlán del Sureste
         '083':
-          name: Ixhuatlan de Madero
+          name: Ixhuatlán de Madero
         '084':
-          name: Ixmatlahuacan
+          name: Ixmatlahuacán
         '085':
           name: Ixtaczoquitlan
         '086':
@@ -180,17 +180,17 @@ en:
         '088':
           name: Jalcomulco
         '089':
-          name: Jaltipan
+          name: Jáltipan
         '090':
           name: Jamapa
         '091':
-          name: Jesus Carranza
+          name: Jesús Carranza
         '092':
           name: Xico
         '093':
           name: Jilotepec
         '094':
-          name: Juan Rodriguez Clara
+          name: Juan Rodríguez Clara
         '095':
           name: Juchique de Ferrer
         '096':
@@ -204,9 +204,9 @@ en:
         '100':
           name: Manlio Fabio Altamirano
         '101':
-          name: Mariano Escobedo
+          name: Maríano Escobedo
         '102':
-          name: Martinez de la Torre
+          name: Martínez de la Torre
         '103':
           name: Mecatlan
         '104':
@@ -218,13 +218,13 @@ en:
         '107':
           name: Las Minas
         '108':
-          name: Minatitlan
+          name: Minatitlán
         '109':
           name: Misantla
         '110':
           name: Mixtla de Altamirano
         '111':
-          name: Moloacan
+          name: Moloacán
         '112':
           name: Naolinco
         '113':
@@ -240,7 +240,7 @@ en:
         '118':
           name: Orizaba
         '119':
-          name: Otatitlan
+          name: Otatitlán
         '120':
           name: Oteapan
         '121':
@@ -260,7 +260,7 @@ en:
         '128':
           name: Perote
         '129':
-          name: Platon Sanchez
+          name: Platón Sanchez
         '130':
           name: Playa Vicente
         '131':
@@ -278,19 +278,19 @@ en:
         '137':
           name: Los Reyes
         '138':
-          name: Rio Blanco
+          name: Río Blanco
         '139':
           name: Saltabarranca
         '140':
-          name: San Andres Tenejapan
+          name: San Andrés Tenejapan
         '141':
-          name: San Andres Tuxtla
+          name: San Andrés Tuxtla
         '142':
-          name: San Juan Evangelista
+          name: San Juan EvÁngelista
         '143':
           name: Santiago Tuxtla
         '144':
-          name: Sayula de Aleman
+          name: Sayula de Alemán
         '145':
           name: Soconusco
         '146':
@@ -328,13 +328,13 @@ en:
         '162':
           name: Tenampa
         '163':
-          name: Tenochtitlan
+          name: Tenochtitlán
         '164':
           name: Teocelo
         '165':
           name: Tepatlaxco
         '166':
-          name: Tepetlan
+          name: Tepetlán
         '167':
           name: Tepetzintla
         '168':
@@ -344,7 +344,7 @@ en:
         '170':
           name: Texcatepec
         '171':
-          name: Texhuacan
+          name: Texhuacán
         '172':
           name: Texistepec
         '173':
@@ -360,7 +360,7 @@ en:
         '178':
           name: Tlacotalpan
         '179':
-          name: Tlacotepec de Mejia
+          name: Tlacotepec de Mejía
         '180':
           name: Tlachichilco
         '181':
@@ -406,7 +406,7 @@ en:
         '201':
           name: Zongolica
         '202':
-          name: Zontecomatlan de Lopez y Fuentes
+          name: Zontecomatlan de López y Fuentes
         '203':
           name: Zozocolco de Hidalgo
         '204':
@@ -414,13 +414,13 @@ en:
         '205':
           name: El Higo
         '206':
-          name: Nanchital de Lazaro Cardenas del Rio
+          name: Nanchital de Lazaro Cárdenas del Río
         '207':
           name: Tres Valles
         '208':
           name: Carlos A. Carrillo
         '209':
-          name: Tatahuicapan de Juarez
+          name: Tatahuicapan de Juárez
         '210':
           name: Uxpanapa
         '211':

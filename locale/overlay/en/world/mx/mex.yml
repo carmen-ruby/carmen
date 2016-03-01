@@ -12,9 +12,9 @@ en:
         '004':
           name: Almoloya de Alquisiras
         '005':
-          name: Almoloya de Juarez
+          name: Almoloya de Juárez
         '006':
-          name: Almoloya del Rio
+          name: Almoloya del Río
         '007':
           name: Amanalco
         '008':
@@ -26,9 +26,9 @@ en:
         '011':
           name: Atenco
         '012':
-          name: Atizapan
+          name: ATizapán
         '013':
-          name: Atizapan de Zaragoza
+          name: ATizapán de Zaragoza
         '014':
           name: Atlacomulco
         '015':
@@ -42,15 +42,15 @@ en:
         '019':
           name: Capulhuac
         '020':
-          name: Coacalco de Berriozabal
+          name: Coacalco de Berriozábal
         '021':
           name: Coatepec Harinas
         '022':
-          name: Cocotitlan
+          name: Cocotitlán
         '023':
           name: Coyotepec
         '024':
-          name: Cuautitlan
+          name: Cuautitlán
         '025':
           name: Chalco
         '026':
@@ -64,7 +64,7 @@ en:
         '030':
           name: Chiconcuac
         '031':
-          name: Chimalhuacan
+          name: Chimalhuacán
         '032':
           name: Donato Guerra
         '033':
@@ -98,7 +98,7 @@ en:
         '047':
           name: Jiquipilco
         '048':
-          name: Jocotitlan
+          name: Jocotitlán
         '049':
           name: Joquicingo
         '050':
@@ -116,7 +116,7 @@ en:
         '056':
           name: Morelos
         '057':
-          name: Naucalpan de Juarez
+          name: Naucalpan de Juárez
         '058':
           name: Nezahualcoyotl
         '059':
@@ -144,23 +144,23 @@ en:
         '070':
           name: La Paz
         '071':
-          name: Polotitlan
+          name: Polotitlán
         '072':
-          name: Rayon
+          name: Rayón
         '073':
           name: San Antonio la Isla
         '074':
           name: San Felipe del Progreso
         '075':
-          name: San Martin de las Piramides
+          name: San Martín de las Piramides
         '076':
           name: San Mateo Atenco
         '077':
-          name: San Simon de Guerrero
+          name: San Simón de Guerrero
         '078':
           name: Santo Tomas
         '079':
-          name: Soyaniquilpan de Juarez
+          name: Soyaniquilpan de Juárez
         '080':
           name: Sultepec
         '081':
@@ -186,7 +186,7 @@ en:
         '091':
           name: Teoloyucan
         '092':
-          name: Teotihuacan
+          name: Teotihuacán
         '093':
           name: Tepetlaoxtoc
         '094':
@@ -196,7 +196,7 @@ en:
         '096':
           name: Tequixquiac
         '097':
-          name: Texcaltitlan
+          name: Texcaltitlán
         '098':
           name: Texcalyacac
         '099':
@@ -220,19 +220,19 @@ en:
         '108':
           name: Tultepec
         '109':
-          name: Tultitlan
+          name: Tultitlán
         '110':
           name: Valle de Bravo
         '111':
           name: Villa de Allende
         '112':
-          name: Villa del Carbon
+          name: Villa del Carbón
         '113':
           name: Villa Guerrero
         '114':
           name: Villa Victoria
         '115':
-          name: Xonacatlan
+          name: Xonacatlán
         '116':
           name: Zacazonapan
         '117':
@@ -240,16 +240,16 @@ en:
         '118':
           name: Zinacantepec
         '119':
-          name: Zumpahuacan
+          name: Zumpahuacán
         '120':
           name: Zumpango
         '121':
-          name: Cuautitlan Izcalli
+          name: Cuautitlán Izcalli
         '122':
           name: Valle de Chalco Solidaridad
         '123':
           name: Luvianos
         '124':
-          name: San Jose del Rincon
+          name: San Jose del Rincón
         '125':
           name: Tonanitla

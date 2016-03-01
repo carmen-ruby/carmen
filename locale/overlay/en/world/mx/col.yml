@@ -4,22 +4,22 @@ en:
     mx:
       col:
         '001':
-          name: Armeria
+          name: Armería
         '002':
           name: Colima
         '003':
           name: Comala
         '004':
-          name: Coquimatlan
+          name: Coquimatlán
         '005':
-          name: Cuauhtemoc
+          name: Cuauhtémoc
         '006':
-          name: Ixtlahuacan
+          name: Ixtlahuacán
         '007':
           name: Manzanillo
         '008':
-          name: Minatitlan
+          name: Minatitlán
         '009':
-          name: Tecoman
+          name: Tecomán
         '010':
-          name: Villa de Alvarez
+          name: Villa de Álvarez

@@ -4,7 +4,7 @@ en:
     mx:
       hid:
         '001':
-          name: Acatlan
+          name: Acatlán
         '002':
           name: Acaxochitlan
         '003':
@@ -38,7 +38,7 @@ en:
         '017':
           name: Chapantongo
         '018':
-          name: Chapulhuacan
+          name: Chapulhuacán
         '019':
           name: Chilcuautla
         '020':
@@ -68,23 +68,23 @@ en:
         '032':
           name: Jaltocan
         '033':
-          name: Juarez Hidalgo
+          name: Juárez Hidalgo
         '034':
           name: Lolotla
         '035':
           name: Metepec
         '036':
-          name: San Agustin Metzquititlan
+          name: San Agustin Metzquititlán
         '037':
-          name: Metztitlan
+          name: Metztitlán
         '038':
           name: Mineral del Chico
         '039':
           name: Mineral del Monte
         '040':
-          name: La Mision
+          name: La Misión
         '041':
-          name: Mixquiahuala de Juarez
+          name: Mixquiahuala de Juárez
         '042':
           name: Molango de Escamilla
         '043':
@@ -92,7 +92,7 @@ en:
         '044':
           name: Nopala de Villagran
         '045':
-          name: Omitlan de Juarez
+          name: Omitlan de Juárez
         '046':
           name: San Felipe Orizatlan
         '047':
@@ -102,7 +102,7 @@ en:
         '049':
           name: Pisaflores
         '050':
-          name: Progreso de Obregon
+          name: Progreso de Obregón
         '051':
           name: Mineral de la Reforma
         '052':
@@ -126,11 +126,11 @@ en:
         '061':
           name: Tepeapulco
         '062':
-          name: Tepehuacan de Guerrero
+          name: Tepehuacán de Guerrero
         '063':
-          name: Tepeji del Rio de Ocampo
+          name: Tepeji del Río de Ocampo
         '064':
-          name: Tepetitlan
+          name: Tepetitlán
         '065':
           name: Tetepango
         '066':
@@ -164,9 +164,9 @@ en:
         '080':
           name: Yahualica
         '081':
-          name: Zacualtipan de Angeles
+          name: Zacualtipan de Ángeles
         '082':
-          name: Zapotlan de Juarez
+          name: Zapotlan de Juárez
         '083':
           name: Zempoala
         '084':

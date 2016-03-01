@@ -10,21 +10,21 @@ en:
         '003':
           name: Atolinga
         '004':
-          name: Benito Juarez
+          name: Benito Juárez
         '005':
           name: Calera
         '006':
           name: Canitas de Felipe Pescador
         '007':
-          name: Concepcion del Oro
+          name: Concepción del Oro
         '008':
-          name: Cuauhtemoc
+          name: Cuauhtémoc
         '009':
           name: Chalchihuites
         '010':
           name: Fresnillo
         '011':
-          name: Trinidad Garcia de la Cadena
+          name: Trinidad García de la Cadena
         '012':
           name: Genaro Codina
         '013':
@@ -32,7 +32,7 @@ en:
         '014':
           name: General Francisco R. Murguia
         '015':
-          name: El Plateado de Joaquin Amaro
+          name: El Plateado de Joaquín Amaro
         '016':
           name: General Panfilo Natera
         '017':
@@ -44,7 +44,7 @@ en:
         '020':
           name: Jerez
         '021':
-          name: Jimenez del Teul
+          name: Jiménez del Teul
         '022':
           name: Juan Aldama
         '023':
@@ -70,9 +70,9 @@ en:
         '033':
           name: Moyahua de Estrada
         '034':
-          name: Nochistlan de Mejia
+          name: Nochistlan de Mejía
         '035':
-          name: Noria de Angeles
+          name: Noria de Ángeles
         '036':
           name: Ojocaliente
         '037':
@@ -80,7 +80,7 @@ en:
         '038':
           name: Pinos
         '039':
-          name: Rio Grande
+          name: Río Grande
         '040':
           name: Sain Alto
         '041':
@@ -88,7 +88,7 @@ en:
         '042':
           name: Sombrerete
         '043':
-          name: Susticacan
+          name: Susticacán
         '044':
           name: Tabasco
         '045':
@@ -96,19 +96,19 @@ en:
         '046':
           name: Tepetongo
         '047':
-          name: Teul de Gonzalez Ortega
+          name: Teul de González Ortega
         '048':
-          name: Tlaltenango de Sanchez Roman
+          name: Tlaltenango de Sanchez Román
         '049':
-          name: Valparaiso
+          name: Valparaíso
         '050':
           name: Vetagrande
         '051':
           name: Villa de Cos
         '052':
-          name: Villa Garcia
+          name: Villa García
         '053':
-          name: Villa Gonzalez Ortega
+          name: Villa González Ortega
         '054':
           name: Villa Hidalgo
         '055':
@@ -118,4 +118,4 @@ en:
         '057':
           name: Trancoso
         '058':
-          name: Santa Maria de la Paz
+          name: Santa María de la Paz

@@ -8,11 +8,11 @@ en:
         '002':
           name: Alaquines
         '003':
-          name: Aquismon
+          name: Aquismón
         '004':
           name: Armadillo de los Infante
         '005':
-          name: Cardenas
+          name: Cárdenas
         '006':
           name: Catorce
         '007':
@@ -22,9 +22,9 @@ en:
         '009':
           name: Cerro de San Pedro
         '010':
-          name: Ciudad del Maiz
+          name: Ciudad del Maíz
         '011':
-          name: Ciudad Fernandez
+          name: Ciudad Fernández
         '012':
           name: Tancanhuitz
         '013':
@@ -38,7 +38,7 @@ en:
         '017':
           name: Guadalcazar
         '018':
-          name: Huehuetlan
+          name: Huehuetlán
         '019':
           name: Lagunillas
         '020':
@@ -48,9 +48,9 @@ en:
         '022':
           name: Moctezuma
         '023':
-          name: Rayon
+          name: Rayón
         '024':
-          name: Rioverde
+          name: Ríoverde
         '025':
           name: Salinas
         '026':
@@ -60,13 +60,13 @@ en:
         '028':
           name: San Luis Potosi
         '029':
-          name: San Martin Chalchicuautla
+          name: San Martín Chalchicuautla
         '030':
           name: San Nicolas Tolentino
         '031':
           name: Santa Catarina
         '032':
-          name: Santa Maria del Rio
+          name: Santa María del Río
         '033':
           name: Santo Domingo
         '034':
@@ -78,9 +78,9 @@ en:
         '037':
           name: Tamazunchale
         '038':
-          name: Tampacan
+          name: Tampacán
         '039':
-          name: Tampamolon Corona
+          name: Tampamolón Corona
         '040':
           name: Tamuin
         '041':
@@ -106,7 +106,7 @@ en:
         '051':
           name: Villa Hidalgo
         '052':
-          name: Villa Juarez
+          name: Villa Juárez
         '053':
           name: Axtla de Terrazas
         '054':

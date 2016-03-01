@@ -6,7 +6,7 @@ en:
         '001':
           name: Acatic
         '002':
-          name: Acatlan de Juarez
+          name: Acatlán de Juárez
         '003':
           name: Ahualulco de Mercado
         '004':
@@ -54,9 +54,9 @@ en:
         '025':
           name: Colotlan
         '026':
-          name: Concepcion de Buenos Aires
+          name: Concepción de Buenos Aires
         '027':
-          name: Cuautitlan de Garcia Barragan
+          name: Cuautitlán de García Barragan
         '028':
           name: Cuautla
         '029':
@@ -72,7 +72,7 @@ en:
         '034':
           name: Ejutla
         '035':
-          name: Encarnacion de Diaz
+          name: Encarnación de Díaz
         '036':
           name: Etzatlan
         '037':
@@ -90,31 +90,31 @@ en:
         '043':
           name: La Huerta
         '044':
-          name: Ixtlahuacan de los Membrillos
+          name: Ixtlahuacán de los Membrillos
         '045':
-          name: Ixtlahuacan del Rio
+          name: Ixtlahuacán del Río
         '046':
-          name: Jalostotitlan
+          name: Jalostotitlán
         '047':
           name: Jamay
         '048':
-          name: Jesus Maria
+          name: Jesús María
         '049':
           name: Jilotlan de los Dolores
         '050':
           name: Jocotepec
         '051':
-          name: Juanacatlan
+          name: Juanacatlán
         '052':
           name: Juchitlan
         '053':
           name: Lagos de Moreno
         '054':
-          name: El Limon
+          name: El Limón
         '055':
           name: Magdalena
         '056':
-          name: Santa Maria del Oro
+          name: Santa María del Oro
         '057':
           name: La Manzanilla de la Paz
         '058':
@@ -122,13 +122,13 @@ en:
         '059':
           name: Mazamitla
         '060':
-          name: Mexticacan
+          name: Mexticacán
         '061':
           name: Mezquitic
         '062':
-          name: Mixtlan
+          name: Mixtlán
         '063':
-          name: Ocotlan
+          name: Ocotlán
         '064':
           name: Ojuelos de Jalisco
         '065':
@@ -138,13 +138,13 @@ en:
         '067':
           name: Puerto Vallarta
         '068':
-          name: Villa Purificacion
+          name: Villa Purificación
         '069':
           name: Quitupan
         '070':
           name: El Salto
         '071':
-          name: San Cristobal de la Barranca
+          name: San Cristóbal de la Barranca
         '072':
           name: San Diego de Alejandria
         '073':
@@ -154,17 +154,17 @@ en:
         '075':
           name: San Marcos
         '076':
-          name: San Martin de Bola
+          name: San Martín de Bola
         '077':
-          name: San Martin Hidalgo
+          name: San Martín Hidalgo
         '078':
           name: San Miguel el Alto
         '079':
-          name: Gomez Farias
+          name: Gómez Farias
         '080':
-          name: San Sebastian del Oeste
+          name: San Sebastián del Oeste
         '081':
-          name: Santa Maria de los Angeles
+          name: Santa María de los Ángeles
         '082':
           name: Sayula
         '083':
@@ -176,31 +176,31 @@ en:
         '086':
           name: Tapalpa
         '087':
-          name: Tecalitlan
+          name: Tecalitlán
         '088':
-          name: Tecolotlan
+          name: Tecolotlán
         '089':
           name: Techaluta de Montenegro
         '090':
-          name: Tenamaxtlan
+          name: Tenamaxtlán
         '091':
           name: Teocaltiche
         '092':
-          name: Teocuitatlan de Corona
+          name: Teocuitatlán de Corona
         '093':
-          name: Tepatitlan de Morelos
+          name: Tepatitlán de Morelos
         '094':
           name: Tequila
         '095':
           name: Teuchitlan
         '096':
-          name: Tizapan el Alto
+          name: Tizapán el Alto
         '097':
           name: Tlajomulco de Zu
         '098':
           name: San Pedro Tlaquepaque
         '099':
-          name: Toliman
+          name: Tolimán
         '100':
           name: Tomatlan
         '101':
@@ -220,13 +220,13 @@ en:
         '108':
           name: Tuxpan
         '109':
-          name: Union de San Antonio
+          name: Unión de San Antonio
         '110':
-          name: Union de Tula
+          name: Unión de Tula
         '111':
           name: Valle de Guadalupe
         '112':
-          name: Valle de Juarez
+          name: Valle de Juárez
         '113':
           name: San Gabriel
         '114':
@@ -236,9 +236,9 @@ en:
         '116':
           name: Villa Hidalgo
         '117':
-          name: Canadas de Obregon
+          name: Canadas de Obregón
         '118':
-          name: Yahualica de Gonzalez Gallo
+          name: Yahualica de González Gallo
         '119':
           name: Zacoalco de Torres
         '120':
@@ -246,7 +246,7 @@ en:
         '121':
           name: Zapotiltic
         '122':
-          name: Zapotitlan de Vadillo
+          name: Zapotitlán de Vadillo
         '123':
           name: Zapotlan del Rey
         '124':
