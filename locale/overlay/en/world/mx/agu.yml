@@ -1,0 +1,27 @@
+---
+en:
+  world:
+    mx:
+      agu:
+        '001':
+          name: Aguascalientes
+        '002':
+          name: Asientos
+        '003':
+          name: Calvillo
+        '004':
+          name: Cosio
+        '005':
+          name: Jesús María
+        '006':
+          name: Pabellón de Arteaga
+        '007':
+          name: Rincón de Romos
+        '008':
+          name: San José de Gracia
+        '009':
+          name: Tepezala
+        '010':
+          name: El Llano
+        '011':
+          name: San Francisco de los Romo

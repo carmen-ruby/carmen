@@ -1,0 +1,429 @@
+---
+en:
+  world:
+    mx:
+      ver:
+        '001':
+          name: Acajete
+        '002':
+          name: Acatlán
+        '003':
+          name: Acayucan
+        '004':
+          name: Actopan
+        '005':
+          name: Acula
+        '006':
+          name: Acultzingo
+        '007':
+          name: Camarón de Tejeda
+        '008':
+          name: Alpatlahuac
+        '009':
+          name: Alto Lucero de Gutiérrez Barrios
+        '010':
+          name: Altotonga
+        '011':
+          name: Alvarado
+        '012':
+          name: Amatitlán
+        '013':
+          name: Naranjos Amatlan
+        '014':
+          name: Amatlan de los Reyes
+        '015':
+          name: Ángel R. Cabada
+        '016':
+          name: La Antigua
+        '017':
+          name: Apazapan
+        '018':
+          name: Aquila
+        '019':
+          name: Astacinga
+        '020':
+          name: Atlahuilco
+        '021':
+          name: Atoyac
+        '022':
+          name: Atzacán
+        '023':
+          name: Atzalan
+        '024':
+          name: Tlaltetela
+        '025':
+          name: Ayahualulco
+        '026':
+          name: Banderilla
+        '027':
+          name: Benito Juárez
+        '028':
+          name: Boca del Río
+        '029':
+          name: Calcahualco
+        '030':
+          name: Camerino Z. Mendoza
+        '031':
+          name: Carrillo Puerto
+        '032':
+          name: Catemaco
+        '033':
+          name: Cazones de Herrera
+        '034':
+          name: Cerro Azul
+        '035':
+          name: Citlaltepetl
+        '036':
+          name: Coacoatzintla
+        '037':
+          name: Coahuitlan
+        '038':
+          name: Coatepec
+        '039':
+          name: Coatzacoalcos
+        '040':
+          name: Coatzintla
+        '041':
+          name: Coetzala
+        '042':
+          name: Colipa
+        '043':
+          name: Comapa
+        '044':
+          name: Córdoba
+        '045':
+          name: Cosamaloapan de Carpio
+        '046':
+          name: Cosautlan de Carvajal
+        '047':
+          name: Coscomatepec
+        '048':
+          name: Cosoleacaque
+        '049':
+          name: Cotaxtla
+        '050':
+          name: Coxquihui
+        '051':
+          name: Coyutla
+        '052':
+          name: Cuichapa
+        '053':
+          name: Cuitláhuac
+        '054':
+          name: Chacaltianguis
+        '055':
+          name: Chalma
+        '056':
+          name: Chiconamel
+        '057':
+          name: Chiconquiaco
+        '058':
+          name: Chicontepec
+        '059':
+          name: Chinameca
+        '060':
+          name: Chinampa de Gorostiza
+        '061':
+          name: Las Choapas
+        '062':
+          name: Chocamán
+        '063':
+          name: Chontla
+        '064':
+          name: Chumatlán
+        '065':
+          name: Emiliano Zapata
+        '066':
+          name: Espinal
+        '067':
+          name: Filomeno Mata
+        '068':
+          name: Fortín
+        '069':
+          name: Gutiérrez Zamora
+        '070':
+          name: Hidalgotitlán
+        '071':
+          name: Huatusco
+        '072':
+          name: Huayacocotla
+        '073':
+          name: Hueyapan de Ocampo
+        '074':
+          name: Huiloapan de Cuauhtémoc
+        '075':
+          name: Ignacio de la Llave
+        '076':
+          name: Ilamatlán
+        '077':
+          name: Isla
+        '078':
+          name: Ixcatepec
+        '079':
+          name: Ixhuacán de los Reyes
+        '080':
+          name: Ixhuatlán del Café
+        '081':
+          name: Ixhuatlancillo
+        '082':
+          name: Ixhuatlán del Sureste
+        '083':
+          name: Ixhuatlán de Madero
+        '084':
+          name: Ixmatlahuacán
+        '085':
+          name: Ixtaczoquitlan
+        '086':
+          name: Jalacingo
+        '087':
+          name: Xalapa
+        '088':
+          name: Jalcomulco
+        '089':
+          name: Jáltipan
+        '090':
+          name: Jamapa
+        '091':
+          name: Jesús Carranza
+        '092':
+          name: Xico
+        '093':
+          name: Jilotepec
+        '094':
+          name: Juan Rodríguez Clara
+        '095':
+          name: Juchique de Ferrer
+        '096':
+          name: Landero y Coss
+        '097':
+          name: Lerdo de Tejada
+        '098':
+          name: Magdalena
+        '099':
+          name: Maltrata
+        '100':
+          name: Manlio Fabio Altamirano
+        '101':
+          name: Maríano Escobedo
+        '102':
+          name: Martínez de la Torre
+        '103':
+          name: Mecatlan
+        '104':
+          name: Mecayapan
+        '105':
+          name: Medellin
+        '106':
+          name: Miahuatlan
+        '107':
+          name: Las Minas
+        '108':
+          name: Minatitlán
+        '109':
+          name: Misantla
+        '110':
+          name: Mixtla de Altamirano
+        '111':
+          name: Moloacán
+        '112':
+          name: Naolinco
+        '113':
+          name: Naranjal
+        '114':
+          name: Nautla
+        '115':
+          name: Nogales
+        '116':
+          name: Oluta
+        '117':
+          name: Omealca
+        '118':
+          name: Orizaba
+        '119':
+          name: Otatitlán
+        '120':
+          name: Oteapan
+        '121':
+          name: Ozuluama de Mascare
+        '122':
+          name: Pajapan
+        '123':
+          name: Panuco
+        '124':
+          name: Papantla
+        '125':
+          name: Paso del Macho
+        '126':
+          name: Paso de Ovejas
+        '127':
+          name: La Perla
+        '128':
+          name: Perote
+        '129':
+          name: Platón Sanchez
+        '130':
+          name: Playa Vicente
+        '131':
+          name: Poza Rica de Hidalgo
+        '132':
+          name: Las Vigas de Ramirez
+        '133':
+          name: Pueblo Viejo
+        '134':
+          name: Puente Nacional
+        '135':
+          name: Rafael Delgado
+        '136':
+          name: Rafael Lucio
+        '137':
+          name: Los Reyes
+        '138':
+          name: Río Blanco
+        '139':
+          name: Saltabarranca
+        '140':
+          name: San Andrés Tenejapan
+        '141':
+          name: San Andrés Tuxtla
+        '142':
+          name: San Juan EvÁngelista
+        '143':
+          name: Santiago Tuxtla
+        '144':
+          name: Sayula de Alemán
+        '145':
+          name: Soconusco
+        '146':
+          name: Sochiapa
+        '147':
+          name: Soledad Atzompa
+        '148':
+          name: Soledad de Doblado
+        '149':
+          name: Soteapan
+        '150':
+          name: Tamalin
+        '151':
+          name: Tamiahua
+        '152':
+          name: Tampico Alto
+        '153':
+          name: Tancoco
+        '154':
+          name: Tantima
+        '155':
+          name: Tantoyuca
+        '156':
+          name: Tatatila
+        '157':
+          name: Castillo de Teayo
+        '158':
+          name: Tecolutla
+        '159':
+          name: Tehuipango
+        '160':
+          name: Alamo Temapache
+        '161':
+          name: Tempoal
+        '162':
+          name: Tenampa
+        '163':
+          name: Tenochtitlán
+        '164':
+          name: Teocelo
+        '165':
+          name: Tepatlaxco
+        '166':
+          name: Tepetlán
+        '167':
+          name: Tepetzintla
+        '168':
+          name: Tequila
+        '169':
+          name: Jose Azueta
+        '170':
+          name: Texcatepec
+        '171':
+          name: Texhuacán
+        '172':
+          name: Texistepec
+        '173':
+          name: Tezonapa
+        '174':
+          name: Tierra Blanca
+        '175':
+          name: Tihuatlan
+        '176':
+          name: Tlacojalpan
+        '177':
+          name: Tlacolulan
+        '178':
+          name: Tlacotalpan
+        '179':
+          name: Tlacotepec de Mejía
+        '180':
+          name: Tlachichilco
+        '181':
+          name: Tlalixcoyan
+        '182':
+          name: Tlalnelhuayocan
+        '183':
+          name: Tlapacoyan
+        '184':
+          name: Tlaquilpa
+        '185':
+          name: Tlilapan
+        '186':
+          name: Tomatlan
+        '187':
+          name: Tonayan
+        '188':
+          name: Totutla
+        '189':
+          name: Tuxpan
+        '190':
+          name: Tuxtilla
+        '191':
+          name: Ursulo Galvan
+        '192':
+          name: Vega de Alatorre
+        '193':
+          name: Veracruz
+        '194':
+          name: Villa Aldama
+        '195':
+          name: Xoxocotla
+        '196':
+          name: Yanga
+        '197':
+          name: Yecuatla
+        '198':
+          name: Zacualpan
+        '199':
+          name: Zaragoza
+        '200':
+          name: Zentla
+        '201':
+          name: Zongolica
+        '202':
+          name: Zontecomatlan de López y Fuentes
+        '203':
+          name: Zozocolco de Hidalgo
+        '204':
+          name: Agua Dulce
+        '205':
+          name: El Higo
+        '206':
+          name: Nanchital de Lazaro Cárdenas del Río
+        '207':
+          name: Tres Valles
+        '208':
+          name: Carlos A. Carrillo
+        '209':
+          name: Tatahuicapan de Juárez
+        '210':
+          name: Uxpanapa
+        '211':
+          name: San Rafael
+        '212':
+          name: Santiago Sochiapan

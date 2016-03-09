@@ -1,0 +1,107 @@
+---
+en:
+  world:
+    mx:
+      nle:
+        '001':
+          name: Abasolo
+        '002':
+          name: Agualeguas
+        '003':
+          name: Los Aldamas
+        '004':
+          name: Allende
+        '005':
+          name: Anahuac
+        '006':
+          name: Apodaca
+        '007':
+          name: Aramberri
+        '008':
+          name: Bustamante
+        '009':
+          name: Cadereyta Jiménez
+        '010':
+          name: Carmen
+        '011':
+          name: Cerralvo
+        '012':
+          name: Ciénega de Flores
+        '013':
+          name: China
+        '014':
+          name: Dr. Arroyo
+        '015':
+          name: Dr. Coss
+        '016':
+          name: Dr. González
+        '017':
+          name: Galeana
+        '018':
+          name: García
+        '019':
+          name: San Pedro Garza García
+        '020':
+          name: Gral. Bravo
+        '021':
+          name: Gral. Escobedo
+        '022':
+          name: Gral. Teran
+        '023':
+          name: Gral. Trevino
+        '024':
+          name: Gral. Zaragoza
+        '025':
+          name: Gral. Zuazua
+        '026':
+          name: Guadalupe
+        '027':
+          name: Los Herreras
+        '028':
+          name: Higueras
+        '029':
+          name: Hualahuises
+        '030':
+          name: Iturbide
+        '031':
+          name: Juárez
+        '032':
+          name: Lampazos de Naranjo
+        '033':
+          name: Linares
+        '034':
+          name: Marin
+        '035':
+          name: Melchor Ocampo
+        '036':
+          name: Mier y Noriega
+        '037':
+          name: Mina
+        '038':
+          name: Montemorelos
+        '039':
+          name: Monterrey
+        '040':
+          name: Paras
+        '041':
+          name: Pesqueria
+        '042':
+          name: Los Ramones
+        '043':
+          name: Rayones
+        '044':
+          name: Sabinas Hidalgo
+        '045':
+          name: Salinas Victoria
+        '046':
+          name: San Nicolas de los Garza
+        '047':
+          name: Hidalgo
+        '048':
+          name: Santa Catarina
+        '049':
+          name: Santiago
+        '050':
+          name: Vallecillo
+        '051':
+          name: Villaldama

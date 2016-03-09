@@ -1,0 +1,149 @@
+---
+en:
+  world:
+    mx:
+      son:
+        '001':
+          name: Aconchi
+        '002':
+          name: Agua Prieta
+        '003':
+          name: Alamos
+        '004':
+          name: Altar
+        '005':
+          name: Arivechi
+        '006':
+          name: Arizpe
+        '007':
+          name: Atil
+        '008':
+          name: Bacadehuachi
+        '009':
+          name: Bacanora
+        '010':
+          name: Bacerac
+        '011':
+          name: Bacoachi
+        '012':
+          name: Bacum
+        '013':
+          name: Banamichi
+        '014':
+          name: Baviacora
+        '015':
+          name: Bavispe
+        '016':
+          name: Benjamin Hill
+        '017':
+          name: Caborca
+        '018':
+          name: Cajeme
+        '019':
+          name: Cananea
+        '020':
+          name: Carbo
+        '021':
+          name: La Colorada
+        '022':
+          name: Cucurpe
+        '023':
+          name: Cumpas
+        '024':
+          name: Divisaderos
+        '025':
+          name: Empalme
+        '026':
+          name: Etchojoa
+        '027':
+          name: Fronteras
+        '028':
+          name: Granados
+        '029':
+          name: Guaymas
+        '030':
+          name: Hermosillo
+        '031':
+          name: Huachinera
+        '032':
+          name: Huasabas
+        '033':
+          name: Huatabampo
+        '034':
+          name: Huepac
+        '035':
+          name: Imuris
+        '036':
+          name: Magdalena
+        '037':
+          name: Mazatan
+        '038':
+          name: Moctezuma
+        '039':
+          name: Naco
+        '040':
+          name: Nacori Chico
+        '041':
+          name: Nacozari de García
+        '042':
+          name: Navojoa
+        '043':
+          name: Nogales
+        '044':
+          name: Onavas
+        '045':
+          name: Opodepe
+        '046':
+          name: Oquitoa
+        '047':
+          name: Pitiquito
+        '048':
+          name: Puerto Pe
+        '049':
+          name: Quiriego
+        '050':
+          name: Rayón
+        '051':
+          name: Rosario
+        '052':
+          name: Sahuaripa
+        '053':
+          name: San Felipe de Jesús
+        '054':
+          name: San Javier
+        '055':
+          name: San Luis Río Colorado
+        '056':
+          name: San Miguel de Horcasitas
+        '057':
+          name: San Pedro de la Cueva
+        '058':
+          name: Santa Ana
+        '059':
+          name: Santa Cruz
+        '060':
+          name: Saric
+        '061':
+          name: Soyopa
+        '062':
+          name: Suaqui Grande
+        '063':
+          name: Tepache
+        '064':
+          name: Trincheras
+        '065':
+          name: Tubutama
+        '066':
+          name: Ures
+        '067':
+          name: Villa Hidalgo
+        '068':
+          name: Villa Pesqueira
+        '069':
+          name: Yecora
+        '070':
+          name: General Plutarco Elias Calles
+        '071':
+          name: Benito Juárez
+        '072':
+          name: San Ignacio Río Muerto

@@ -1,0 +1,121 @@
+---
+en:
+  world:
+    mx:
+      slp:
+        '001':
+          name: Ahualulco
+        '002':
+          name: Alaquines
+        '003':
+          name: Aquismón
+        '004':
+          name: Armadillo de los Infante
+        '005':
+          name: Cárdenas
+        '006':
+          name: Catorce
+        '007':
+          name: Cedral
+        '008':
+          name: Cerritos
+        '009':
+          name: Cerro de San Pedro
+        '010':
+          name: Ciudad del Maíz
+        '011':
+          name: Ciudad Fernández
+        '012':
+          name: Tancanhuitz
+        '013':
+          name: Ciudad Valles
+        '014':
+          name: Coxcatlan
+        '015':
+          name: Charcas
+        '016':
+          name: Ebano
+        '017':
+          name: Guadalcazar
+        '018':
+          name: Huehuetlán
+        '019':
+          name: Lagunillas
+        '020':
+          name: Matehuala
+        '021':
+          name: Mexquitic de Carmona
+        '022':
+          name: Moctezuma
+        '023':
+          name: Rayón
+        '024':
+          name: Ríoverde
+        '025':
+          name: Salinas
+        '026':
+          name: San Antonio
+        '027':
+          name: San Ciro de Acosta
+        '028':
+          name: San Luis Potosi
+        '029':
+          name: San Martín Chalchicuautla
+        '030':
+          name: San Nicolas Tolentino
+        '031':
+          name: Santa Catarina
+        '032':
+          name: Santa María del Río
+        '033':
+          name: Santo Domingo
+        '034':
+          name: San Vicente Tancuayalab
+        '035':
+          name: Soledad de Graciano Sanchez
+        '036':
+          name: Tamasopo
+        '037':
+          name: Tamazunchale
+        '038':
+          name: Tampacán
+        '039':
+          name: Tampamolón Corona
+        '040':
+          name: Tamuin
+        '041':
+          name: Tanlajas
+        '042':
+          name: Tanquian de Escobedo
+        '043':
+          name: Tierra Nueva
+        '044':
+          name: Vanegas
+        '045':
+          name: Venado
+        '046':
+          name: Villa de Arriaga
+        '047':
+          name: Villa de Guadalupe
+        '048':
+          name: Villa de la Paz
+        '049':
+          name: Villa de Ramos
+        '050':
+          name: Villa de Reyes
+        '051':
+          name: Villa Hidalgo
+        '052':
+          name: Villa Juárez
+        '053':
+          name: Axtla de Terrazas
+        '054':
+          name: Xilitla
+        '055':
+          name: Zaragoza
+        '056':
+          name: Villa de Arista
+        '057':
+          name: Matlapa
+        '058':
+          name: El Naranjo

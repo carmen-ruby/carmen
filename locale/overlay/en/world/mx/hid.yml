@@ -1,0 +1,173 @@
+---
+en:
+  world:
+    mx:
+      hid:
+        '001':
+          name: Acatlán
+        '002':
+          name: Acaxochitlan
+        '003':
+          name: Actopan
+        '004':
+          name: Agua Blanca de Iturbide
+        '005':
+          name: Ajacuba
+        '006':
+          name: Alfajayucan
+        '007':
+          name: Almoloya
+        '008':
+          name: Apan
+        '009':
+          name: El Arenal
+        '010':
+          name: Atitalaquia
+        '011':
+          name: Atlapexco
+        '012':
+          name: Atotonilco el Grande
+        '013':
+          name: Atotonilco de Tula
+        '014':
+          name: Calnali
+        '015':
+          name: Cardonal
+        '016':
+          name: Cuautepec de Hinojosa
+        '017':
+          name: Chapantongo
+        '018':
+          name: Chapulhuacán
+        '019':
+          name: Chilcuautla
+        '020':
+          name: Eloxochitlan
+        '021':
+          name: Emiliano Zapata
+        '022':
+          name: Epazoyucan
+        '023':
+          name: Francisco I. Madero
+        '024':
+          name: Huasca de Ocampo
+        '025':
+          name: Huautla
+        '026':
+          name: Huazalingo
+        '027':
+          name: Huehuetla
+        '028':
+          name: Huejutla de Reyes
+        '029':
+          name: Huichapan
+        '030':
+          name: Ixmiquilpan
+        '031':
+          name: Jacala de Ledezma
+        '032':
+          name: Jaltocan
+        '033':
+          name: Juárez Hidalgo
+        '034':
+          name: Lolotla
+        '035':
+          name: Metepec
+        '036':
+          name: San Agustin Metzquititlán
+        '037':
+          name: Metztitlán
+        '038':
+          name: Mineral del Chico
+        '039':
+          name: Mineral del Monte
+        '040':
+          name: La Misión
+        '041':
+          name: Mixquiahuala de Juárez
+        '042':
+          name: Molango de Escamilla
+        '043':
+          name: Nicolas Flores
+        '044':
+          name: Nopala de Villagran
+        '045':
+          name: Omitlan de Juárez
+        '046':
+          name: San Felipe Orizatlan
+        '047':
+          name: Pacula
+        '048':
+          name: Pachuca de Soto
+        '049':
+          name: Pisaflores
+        '050':
+          name: Progreso de Obregón
+        '051':
+          name: Mineral de la Reforma
+        '052':
+          name: San Agustin Tlaxiaca
+        '053':
+          name: San Bartolo Tutotepec
+        '054':
+          name: San Salvador
+        '055':
+          name: Santiago de Anaya
+        '056':
+          name: Santiago Tulantepec de Lugo Guerrero
+        '057':
+          name: Singuilucan
+        '058':
+          name: Tasquillo
+        '059':
+          name: Tecozautla
+        '060':
+          name: Tenango de Doria
+        '061':
+          name: Tepeapulco
+        '062':
+          name: Tepehuacán de Guerrero
+        '063':
+          name: Tepeji del Río de Ocampo
+        '064':
+          name: Tepetitlán
+        '065':
+          name: Tetepango
+        '066':
+          name: Villa de Tezontepec
+        '067':
+          name: Tezontepec de Aldama
+        '068':
+          name: Tianguistengo
+        '069':
+          name: Tizayuca
+        '070':
+          name: Tlahuelilpan
+        '071':
+          name: Tlahuiltepa
+        '072':
+          name: Tlanalapa
+        '073':
+          name: Tlanchinol
+        '074':
+          name: Tlaxcoapan
+        '075':
+          name: Tolcayuca
+        '076':
+          name: Tula de Allende
+        '077':
+          name: Tulancingo de Bravo
+        '078':
+          name: Xochiatipan
+        '079':
+          name: Xochicoatlan
+        '080':
+          name: Yahualica
+        '081':
+          name: Zacualtipan de Ángeles
+        '082':
+          name: Zapotlan de Juárez
+        '083':
+          name: Zempoala
+        '084':
+          name: Zimapan

@@ -1,0 +1,125 @@
+---
+en:
+  world:
+    mx:
+      tla:
+        '001':
+          name: Amaxac de Guerrero
+        '002':
+          name: Apetatitlán de Antonio Carvajal
+        '003':
+          name: Atlangatepec
+        '004':
+          name: Atltzayanca
+        '005':
+          name: Apizaco
+        '006':
+          name: Calpulalpan
+        '007':
+          name: El Carmen Tequexquitla
+        '008':
+          name: Cuapiaxtla
+        '009':
+          name: Cuaxomulco
+        '010':
+          name: Chiautempan
+        '011':
+          name: Munoz
+        '012':
+          name: Espanita
+        '013':
+          name: Huamantla
+        '014':
+          name: Hueyotlipan
+        '015':
+          name: Ixtacuixtla de Maríano Matamoros
+        '016':
+          name: Ixtenco
+        '017':
+          name: Mazatecochco de Jose María Morelos
+        '018':
+          name: Contla de Juan Cuamatzi
+        '019':
+          name: Tepetitla de Lardizabal
+        '020':
+          name: Sanctorum de Lazaro Cárdenas
+        '021':
+          name: Nanacamilpa de Maríano Arista
+        '022':
+          name: Acuamanala de Miguel Hidalgo
+        '023':
+          name: Nativitas
+        '024':
+          name: Panotla
+        '025':
+          name: San Pablo del Monte
+        '026':
+          name: Santa Cruz Tlaxcala
+        '027':
+          name: Tenancingo
+        '028':
+          name: Teolocholco
+        '029':
+          name: Tepeyanco
+        '030':
+          name: Terrenate
+        '031':
+          name: Tetla de la Solidaridad
+        '032':
+          name: Tetlatlahuca
+        '033':
+          name: Tlaxcala
+        '034':
+          name: Tlaxco
+        '035':
+          name: Tocatlan
+        '036':
+          name: Totolac
+        '037':
+          name: Ziltlaltepec de Trinidad Sanchez Santos
+        '038':
+          name: Tzompantepec
+        '039':
+          name: Xaloztoc
+        '040':
+          name: Xaltocan
+        '041':
+          name: Papalotla de Xicohtencatl
+        '042':
+          name: Xicohtzinco
+        '043':
+          name: Yauhquemehcan
+        '044':
+          name: Zacatelco
+        '045':
+          name: Benito Juárez
+        '046':
+          name: Emiliano Zapata
+        '047':
+          name: Lazaro Cárdenas
+        '048':
+          name: La Magdalena Tlaltelulco
+        '049':
+          name: San Damian Texoloc
+        '050':
+          name: San Francisco Tetlanohcan
+        '051':
+          name: San Jeronimo Zacualpan
+        '052':
+          name: San Jose Teacalco
+        '053':
+          name: San Juan Huactzinco
+        '054':
+          name: San Lorenzo Axocomanitla
+        '055':
+          name: San Lucas Tecopilco
+        '056':
+          name: Santa Ana Nopalucan
+        '057':
+          name: Santa Apolonia Teacalco
+        '058':
+          name: Santa Catarina Ayometla
+        '059':
+          name: Santa Cruz Quilehtla
+        '060':
+          name: Santa Isabel Xiloxoxtla

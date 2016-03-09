@@ -1,0 +1,27 @@
+---
+en:
+  world:
+    mx:
+      cam:
+        '001':
+          name: Calkini
+        '002':
+          name: Campeche
+        '003':
+          name: Carmen
+        '004':
+          name: Champotón
+        '005':
+          name: Hecelchakan
+        '006':
+          name: Hopelchen
+        '007':
+          name: Palizada
+        '008':
+          name: Tenabo
+        '009':
+          name: Escarcega
+        '010':
+          name: Calakmul
+        '011':
+          name: Candelaria

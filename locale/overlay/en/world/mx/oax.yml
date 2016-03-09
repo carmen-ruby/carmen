@@ -1,0 +1,1145 @@
+---
+en:
+  world:
+    mx:
+      oax:
+        '001':
+          name: Abejones
+        '002':
+          name: Acatlán de Perez Figueroa
+        '003':
+          name: Asunción Cacalotepec
+        '004':
+          name: Asunción Cuyotepeji
+        '005':
+          name: Asunción Ixtaltepec
+        '006':
+          name: Asunción Nochixtlan
+        '007':
+          name: Asunción Ocotlan
+        '008':
+          name: Asunción Tlacolulita
+        '009':
+          name: Ayotzintepec
+        '010':
+          name: El Barrio de la Soledad
+        '011':
+          name: Calihuala
+        '012':
+          name: Candelaria Loxicha
+        '013':
+          name: Ciénega de Zimatlan
+        '014':
+          name: Ciudad Ixtepec
+        '015':
+          name: Coatecas Altas
+        '016':
+          name: Coicoyan de las Flores
+        '017':
+          name: La Compa
+        '018':
+          name: Concepción Buenavista
+        '019':
+          name: Concepción Papalo
+        '020':
+          name: Constancia del Rosrio
+        '021':
+          name: Cosolapa
+        '022':
+          name: Cosoltepec
+        '023':
+          name: Cuilapam de Guerrero
+        '024':
+          name: Cuyamecalco Villa de Zaragoza
+        '025':
+          name: Chahuites
+        '026':
+          name: Chalcatongo de Hidalgo
+        '027':
+          name: Chiquihuitlan de Benito Juárez
+        '028':
+          name: Heroica Ciudad de Ejutla de Crespo
+        '029':
+          name: Eloxochitlán de Flores Magón
+        '030':
+          name: El Espinal
+        '031':
+          name: Tamazulapam del Espiritu Santo
+        '032':
+          name: Fresnillo de Trujano
+        '033':
+          name: Guadalupe Etla
+        '034':
+          name: Guadalupe de Ramirez
+        '035':
+          name: Guelatao de Juárez
+        '036':
+          name: Guevea de Humboldt
+        '037':
+          name: Mesones Hidalgo
+        '038':
+          name: Villa Hidalgo
+        '039':
+          name: Heroica Ciudad de Huajuapan de León
+        '040':
+          name: Huautepec
+        '041':
+          name: Huautla de Jiménez
+        '042':
+          name: Ixtlan de Juárez
+        '043':
+          name: Heroica Ciudad de Juchitan de Zaragoza
+        '044':
+          name: Loma Bonita
+        '045':
+          name: Magdalena Apasco
+        '046':
+          name: Magdalena Jaltepec
+        '047':
+          name: Santa Magdalena Jicotlán
+        '048':
+          name: Magdalena Mixtepec
+        '049':
+          name: Magdalena Ocotlan
+        '050':
+          name: Magdalena Penasco
+        '051':
+          name: Magdalena Teitipac
+        '052':
+          name: Magdalena Tequisistlan
+        '053':
+          name: Magdalena Tlacotepec
+        '054':
+          name: Magdalena Zahuatlán
+        '055':
+          name: Mariscala de Juárez
+        '056':
+          name: Martires de Tacubaya
+        '057':
+          name: Matias Romero Avenda
+        '058':
+          name: Mazatlan Villa de Flores
+        '059':
+          name: Miahuatlan de Porfirio Díaz
+        '060':
+          name: Mixistlan de la Reforma
+        '061':
+          name: Monjas
+        '062':
+          name: Natividad
+        '063':
+          name: Nazareno Etla
+        '064':
+          name: Nejapa de Madero
+        '065':
+          name: Ixpantepec Nieves
+        '066':
+          name: Santiago Niltepec
+        '067':
+          name: Oaxaca de Juárez
+        '068':
+          name: Ocotlan de Morelos
+        '069':
+          name: La Pe
+        '070':
+          name: Pinotepa de Dón Luis
+        '071':
+          name: Pluma Hidalgo
+        '072':
+          name: San Jose del Progreso
+        '073':
+          name: Putla Villa de Guerrero
+        '074':
+          name: Santa Catarina Quioquitani
+        '075':
+          name: Reforma de Pineda
+        '076':
+          name: La Reforma
+        '077':
+          name: Reyes Etla
+        '078':
+          name: Rojas de Cuauhtémoc
+        '079':
+          name: Salina Cruz
+        '080':
+          name: San Agustin Amatengo
+        '081':
+          name: San Agustin Atenango
+        '082':
+          name: San Agustin Chayuco
+        '083':
+          name: San Agustin de las Juntas
+        '084':
+          name: San Agustin Etla
+        '085':
+          name: San Agustin Loxicha
+        '086':
+          name: San Agustin Tlacotepec
+        '087':
+          name: San Agustin Yatareni
+        '088':
+          name: San Andrés Cabecera Nueva
+        '089':
+          name: San Andrés Dinicuiti
+        '090':
+          name: San Andrés Huaxpaltepec
+        '091':
+          name: San Andrés Huayapam
+        '092':
+          name: San Andrés Ixtlahuaca
+        '093':
+          name: San Andrés Lagunas
+        '094':
+          name: San Andrés Nuxi
+        '095':
+          name: San Andrés Paxtlan
+        '096':
+          name: San Andrés Sinaxtla
+        '097':
+          name: San Andrés Solaga
+        '098':
+          name: San Andrés Teotilalpam
+        '099':
+          name: San Andrés Tepetlapa
+        '100':
+          name: San Andrés Yaa
+        '101':
+          name: San Andrés Zabache
+        '102':
+          name: San Andrés Zautla
+        '103':
+          name: San Antonino Castillo Velasco
+        '104':
+          name: San Antonino el Alto
+        '105':
+          name: San Antonino Monte Verde
+        '106':
+          name: San Antonio Acutla
+        '107':
+          name: San Antonio de la Cal
+        '108':
+          name: San Antonio Huitepec
+        '109':
+          name: San Antonio Nanahuatipam
+        '110':
+          name: San Antonio Sinicahua
+        '111':
+          name: San Antonio Tepetlapa
+        '112':
+          name: San Baltazar Chichicapam
+        '113':
+          name: San Baltazar Loxicha
+        '114':
+          name: San Baltazar Yatzachi el Bajo
+        '115':
+          name: San Bartolo Coyotepec
+        '116':
+          name: San Bartolome Ayautla
+        '117':
+          name: San Bartolome Loxicha
+        '118':
+          name: San Bartolome Quialana
+        '119':
+          name: San Bartolome Yucua
+        '120':
+          name: San Bartolome Zoogocho
+        '121':
+          name: San Bartolo Soyaltepec
+        '122':
+          name: San Bartolo Yautepec
+        '123':
+          name: San Bernardo Mixtepec
+        '124':
+          name: San Blas Atempa
+        '125':
+          name: San Carlos Yautepec
+        '126':
+          name: San Cristóbal Amatlan
+        '127':
+          name: San Cristóbal Amoltepec
+        '128':
+          name: San Cristóbal Lachrioag
+        '129':
+          name: San Cristóbal Suchixtlahuaca
+        '130':
+          name: San Dionisio del Mar
+        '131':
+          name: San Dionisio Ocotepec
+        '132':
+          name: San Dionisio Ocotlan
+        '133':
+          name: San Esteban Atatlahuca
+        '134':
+          name: San Felipe Jalapa de Díaz
+        '135':
+          name: San Felipe Tejalapam
+        '136':
+          name: San Felipe Usila
+        '137':
+          name: San Francisco Cahuacua
+        '138':
+          name: San Francisco Cajonos
+        '139':
+          name: San Francisco Chapulapa
+        '140':
+          name: San Francisco Chindua
+        '141':
+          name: San Francisco del Mar
+        '142':
+          name: San Francisco Huehuetlán
+        '143':
+          name: San Francisco Ixhuatan
+        '144':
+          name: San Francisco Jaltepetongo
+        '145':
+          name: San Francisco Lachigolo
+        '146':
+          name: San Francisco Logueche
+        '147':
+          name: San Francisco Nuxa
+        '148':
+          name: San Francisco Ozolotepec
+        '149':
+          name: San Francisco Sola
+        '150':
+          name: San Francisco Telixtlahuaca
+        '151':
+          name: San Francisco Teopan
+        '152':
+          name: San Francisco Tlapancingo
+        '153':
+          name: San Gabriel Mixtepec
+        '154':
+          name: San Ildefonso Amatlan
+        '155':
+          name: San Ildefonso Sola
+        '156':
+          name: San Ildefonso Villa Alta
+        '157':
+          name: San Jacinto Amilpas
+        '158':
+          name: San Jacinto Tlacotepec
+        '159':
+          name: San Jeronimo Coatlan
+        '160':
+          name: San Jeronimo Silacayoapilla
+        '161':
+          name: San Jeronimo Sosola
+        '162':
+          name: San Jeronimo Taviche
+        '163':
+          name: San Jeronimo Tecoatl
+        '164':
+          name: San Jorge Nuchita
+        '165':
+          name: San Jose Ayuquila
+        '166':
+          name: San Jose Chiltepec
+        '167':
+          name: San Jose del Penasco
+        '168':
+          name: San Jose Estancia Grande
+        '169':
+          name: San Jose Independencia
+        '170':
+          name: San Jose Lachiguiri
+        '171':
+          name: San Jose Tenango
+        '172':
+          name: San Juan Achiutla
+        '173':
+          name: San Juan Atepec
+        '174':
+          name: Animas Trujano
+        '175':
+          name: San Juan Bautista Atatlahuca
+        '176':
+          name: San Juan Bautista Coixtlahuaca
+        '177':
+          name: San Juan Bautista Cuicatlan
+        '178':
+          name: San Juan Bautista Guelache
+        '179':
+          name: San Juan Bautista Jayacatlán
+        '180':
+          name: San Juan Bautista Lo de Soto
+        '181':
+          name: San Juan Bautista Suchitepec
+        '182':
+          name: San Juan Bautista Tlacoatzintepec
+        '183':
+          name: San Juan Bautista Tlachichilco
+        '184':
+          name: San Juan Bautista Tuxtepec
+        '185':
+          name: San Juan Cacahuatepec
+        '186':
+          name: San Juan Cieneguilla
+        '187':
+          name: San Juan Coatzospam
+        '188':
+          name: San Juan Colorado
+        '189':
+          name: San Juan Comaltepec
+        '190':
+          name: San Juan Cotzocón
+        '191':
+          name: San Juan Chicomezuchil
+        '192':
+          name: San Juan Chilateca
+        '193':
+          name: San Juan del Estado
+        '194':
+          name: San Juan del Río
+        '195':
+          name: San Juan Diuxi
+        '196':
+          name: San Juan EvÁngelista Analco
+        '197':
+          name: San Juan Guelavia
+        '198':
+          name: San Juan Guichicovi
+        '199':
+          name: San Juan Ihualtepec
+        '200':
+          name: San Juan Juquila Mixes
+        '201':
+          name: San Juan Juquila Vijanos
+        '202':
+          name: San Juan Lachao
+        '203':
+          name: San Juan Lachigalla
+        '204':
+          name: San Juan Lajarcia
+        '205':
+          name: San Juan Lalana
+        '206':
+          name: San Juan de los Cues
+        '207':
+          name: San Juan Mazatlan
+        '208':
+          name: San Juan Mixtepec -Dto. 08 -
+        '209':
+          name: San Juan Mixtepec -Dto. 26 -
+        '210':
+          name: San Juan
+        '211':
+          name: San Juan Ozolotepec
+        '212':
+          name: San Juan Petlapa
+        '213':
+          name: San Juan Quiahije
+        '214':
+          name: San Juan Quiotepec
+        '215':
+          name: San Juan Sayultepec
+        '216':
+          name: San Juan Tabaa
+        '217':
+          name: San Juan Tamazola
+        '218':
+          name: San Juan Teita
+        '219':
+          name: San Juan Teitipac
+        '220':
+          name: San Juan Tepeuxila
+        '221':
+          name: San Juan Teposcolula
+        '222':
+          name: San Juan Yaee
+        '223':
+          name: San Juan Yatzona
+        '224':
+          name: San Juan Yucuita
+        '225':
+          name: San Lorenzo
+        '226':
+          name: San Lorenzo Albarradas
+        '227':
+          name: San Lorenzo Cacaotepec
+        '228':
+          name: San Lorenzo Cuaunecuiltitla
+        '229':
+          name: San Lorenzo Texmelucan
+        '230':
+          name: San Lorenzo Victoria
+        '231':
+          name: San Lucas Camotlan
+        '232':
+          name: San Lucas Ojitlan
+        '233':
+          name: San Lucas Quiavini
+        '234':
+          name: San Lucas Zoquiapam
+        '235':
+          name: San Luis Amatlan
+        '236':
+          name: San Marcial Ozolotepec
+        '237':
+          name: San Marcos Arteaga
+        '238':
+          name: San Martín de los Cansecos
+        '239':
+          name: San Martín Huamelulpam
+        '240':
+          name: San Martín Itunyoso
+        '241':
+          name: San Martín Lachila
+        '242':
+          name: San Martín Peras
+        '243':
+          name: San Martín Tilcajete
+        '244':
+          name: San Martín Toxpalan
+        '245':
+          name: San Martín Zacatepec
+        '246':
+          name: San Mateo Cajonos
+        '247':
+          name: Capulalpam de Méndez
+        '248':
+          name: San Mateo del Mar
+        '249':
+          name: San Mateo Yoloxochitlan
+        '250':
+          name: San Mateo Etlatongo
+        '251':
+          name: San Mateo Nejapam
+        '252':
+          name: San Mateo Penasco
+        '253':
+          name: San Mateo Pinas
+        '254':
+          name: San Mateo Río Hondo
+        '255':
+          name: San Mateo Sindihui
+        '256':
+          name: San Mateo Tlapiltepec
+        '257':
+          name: San Melchor Betaza
+        '258':
+          name: San Miguel Achiutla
+        '259':
+          name: San Miguel Ahuehuetitlán
+        '260':
+          name: San Miguel Aloapam
+        '261':
+          name: San Miguel Amatitlán
+        '262':
+          name: San Miguel Amatlan
+        '263':
+          name: San Miguel Coatlan
+        '264':
+          name: San Miguel Chicahua
+        '265':
+          name: San Miguel Chimalapa
+        '266':
+          name: San Miguel del Puerto
+        '267':
+          name: San Miguel del Río
+        '268':
+          name: San Miguel Ejutla
+        '269':
+          name: San Miguel el Grande
+        '270':
+          name: San Miguel Huautla
+        '271':
+          name: San Miguel Mixtepec
+        '272':
+          name: San Miguel Panixtlahuaca
+        '273':
+          name: San Miguel Peras
+        '274':
+          name: San Miguel Piedras
+        '275':
+          name: San Miguel Quetzaltepec
+        '276':
+          name: San Miguel Santa Flor
+        '277':
+          name: Villa Sola de Vega
+        '278':
+          name: San Miguel Soyaltepec
+        '279':
+          name: San Miguel Suchixtepec
+        '280':
+          name: Villa Talea de Castro
+        '281':
+          name: San Miguel Tecomatlan
+        '282':
+          name: San Miguel Tenango
+        '283':
+          name: San Miguel Tequixtepec
+        '284':
+          name: San Miguel Tilquiapam
+        '285':
+          name: San Miguel Tlacamama
+        '286':
+          name: San Miguel Tlacotepec
+        '287':
+          name: San Miguel Tulancingo
+        '288':
+          name: San Miguel Yotao
+        '289':
+          name: San Nicolas
+        '290':
+          name: San Nicolas Hidalgo
+        '291':
+          name: San Pablo Coatlan
+        '292':
+          name: San Pablo Cuatro Venados
+        '293':
+          name: San Pablo Etla
+        '294':
+          name: San Pablo Huitzo
+        '295':
+          name: San Pablo Huixtepec
+        '296':
+          name: San Pablo Macuiltianguis
+        '297':
+          name: San Pablo Tijaltepec
+        '298':
+          name: San Pablo Villa de Mitla
+        '299':
+          name: San Pablo Yaganiza
+        '300':
+          name: San Pedro Amuzgos
+        '301':
+          name: San Pedro Apostol
+        '302':
+          name: San Pedro Atoyac
+        '303':
+          name: San Pedro Cajonos
+        '304':
+          name: San Pedro Coxcaltepec Cantaros
+        '305':
+          name: San Pedro Comitancillo
+        '306':
+          name: San Pedro el Alto
+        '307':
+          name: San Pedro Huamelula
+        '308':
+          name: San Pedro Huilotepec
+        '309':
+          name: San Pedro Ixcatlan
+        '310':
+          name: San Pedro Ixtlahuaca
+        '311':
+          name: San Pedro Jaltepetongo
+        '312':
+          name: San Pedro Jicayan
+        '313':
+          name: San Pedro Jocotipac
+        '314':
+          name: San Pedro Juchatengo
+        '315':
+          name: San Pedro Martir
+        '316':
+          name: San Pedro Martir Quiechapa
+        '317':
+          name: San Pedro Martir Yucuxaco
+        '318':
+          name: San Pedro Mixtepec -Dto. 22 -
+        '319':
+          name: San Pedro Mixtepec -Dto. 26 -
+        '320':
+          name: San Pedro Molinos
+        '321':
+          name: San Pedro Nopala
+        '322':
+          name: San Pedro Ocopetatillo
+        '323':
+          name: San Pedro Ocotepec
+        '324':
+          name: San Pedro Pochutla
+        '325':
+          name: San Pedro Quiatoni
+        '326':
+          name: San Pedro Sochiapam
+        '327':
+          name: San Pedro Tapanatepec
+        '328':
+          name: San Pedro Taviche
+        '329':
+          name: San Pedro Teozacoalco
+        '330':
+          name: San Pedro Teutila
+        '331':
+          name: San Pedro Tidaa
+        '332':
+          name: San Pedro Topiltepec
+        '333':
+          name: San Pedro Totolapam
+        '334':
+          name: Villa de Tututepec de Melchor Ocampo
+        '335':
+          name: San Pedro Yaneri
+        '336':
+          name: San Pedro Yolox
+        '337':
+          name: San Pedro y San Pablo Ayutla
+        '338':
+          name: Villa de Etla
+        '339':
+          name: San Pedro y San Pablo Teposcolula
+        '340':
+          name: San Pedro y San Pablo Tequixtepec
+        '341':
+          name: San Pedro Yucunama
+        '342':
+          name: San Raymundo Jalpan
+        '343':
+          name: San Sebastián Abasolo
+        '344':
+          name: San Sebastián Coatlan
+        '345':
+          name: San Sebastián Ixcapa
+        '346':
+          name: San Sebastián Nicananduta
+        '347':
+          name: San Sebastián Río Hondo
+        '348':
+          name: San Sebastián Tecomaxtlahuaca
+        '349':
+          name: San Sebastián Teitipac
+        '350':
+          name: San Sebastián Tutla
+        '351':
+          name: San Simón Almolongas
+        '352':
+          name: San Simón Zahuatlan
+        '353':
+          name: Santa Ana
+        '354':
+          name: Santa Ana Ateixtlahuaca
+        '355':
+          name: Santa Ana Cuauhtémoc
+        '356':
+          name: Santa Ana del Valle
+        '357':
+          name: Santa Ana Tavela
+        '358':
+          name: Santa Ana Tlapacoyan
+        '359':
+          name: Santa Ana Yareni
+        '360':
+          name: Santa Ana Zegache
+        '361':
+          name: Santa Catalina Quieri
+        '362':
+          name: Santa Catarina Cuixtla
+        '363':
+          name: Santa Catarina Ixtepeji
+        '364':
+          name: Santa Catarina Juquila
+        '365':
+          name: Santa Catarina Lachatao
+        '366':
+          name: Santa Catarina Loxicha
+        '367':
+          name: Santa Catarina Mechoacán
+        '368':
+          name: Santa Catarina Minas
+        '369':
+          name: Santa Catarina Quiane
+        '370':
+          name: Santa Catarina Tayata
+        '371':
+          name: Santa Catarina Ticua
+        '372':
+          name: Santa Catarina Yosonotu
+        '373':
+          name: Santa Catarina Zapoquila
+        '374':
+          name: Santa Cruz Acatepec
+        '375':
+          name: Santa Cruz Amilpas
+        '376':
+          name: Santa Cruz de Bravo
+        '377':
+          name: Santa Cruz Itundujia
+        '378':
+          name: Santa Cruz Mixtepec
+        '379':
+          name: Santa Cruz Nundaco
+        '380':
+          name: Santa Cruz Papalutla
+        '381':
+          name: Santa Cruz Tacache de Mina
+        '382':
+          name: Santa Cruz Tacahua
+        '383':
+          name: Santa Cruz Tayata
+        '384':
+          name: Santa Cruz Xitla
+        '385':
+          name: Santa Cruz Xoxocotlan
+        '386':
+          name: Santa Cruz Zenzontepec
+        '387':
+          name: Santa Gertrudis
+        '388':
+          name: Santa Ines del Monte
+        '389':
+          name: Santa Ines Yatzeche
+        '390':
+          name: Santa Lucia del Camino
+        '391':
+          name: Santa Lucia Miahuatlan
+        '392':
+          name: Santa Lucia Monteverde
+        '393':
+          name: Santa Lucia Ocotlan
+        '394':
+          name: Santa María Alotepec
+        '395':
+          name: Santa María Apazco
+        '396':
+          name: Santa María la Asunción
+        '397':
+          name: Heroica Ciudad de Tlaxiaco
+        '398':
+          name: Ayoquezco de Aldama
+        '399':
+          name: Santa María Atzompa
+        '400':
+          name: Santa María Camotlan
+        '401':
+          name: Santa María Colotepec
+        '402':
+          name: Santa María Cortijo
+        '403':
+          name: Santa María Coyotepec
+        '404':
+          name: Santa María Chachoapam
+        '405':
+          name: Villa de Chilapa de Díaz
+        '406':
+          name: Santa María Chilchotla
+        '407':
+          name: Santa María Chimalapa
+        '408':
+          name: Santa María del Rosrio
+        '409':
+          name: Santa María del Tule
+        '410':
+          name: Santa María Ecatepec
+        '411':
+          name: Santa María Guelace
+        '412':
+          name: Santa María Guienagati
+        '413':
+          name: Santa María Huatulco
+        '414':
+          name: Santa María Huazolotitlán
+        '415':
+          name: Santa María Ipalapa
+        '416':
+          name: Santa María Ixcatlan
+        '417':
+          name: Santa María Jacatepec
+        '418':
+          name: Santa María Jalapa del Marqués
+        '419':
+          name: Santa María Jaltianguis
+        '420':
+          name: Santa María Lachixio
+        '421':
+          name: Santa María Mixtequilla
+        '422':
+          name: Santa María Nativitas
+        '423':
+          name: Santa María Nduayaco
+        '424':
+          name: Santa María Ozolotepec
+        '425':
+          name: Santa María Papalo
+        '426':
+          name: Santa María Pe
+        '427':
+          name: Santa María Petapa
+        '428':
+          name: Santa María Quiegolani
+        '429':
+          name: Santa María Sola
+        '430':
+          name: Santa María Tataltepec
+        '431':
+          name: Santa María Tecomavaca
+        '432':
+          name: Santa María Temaxcalapa
+        '433':
+          name: Santa María Temaxcaltepec
+        '434':
+          name: Santa María Teopoxco
+        '435':
+          name: Santa María Tepantlali
+        '436':
+          name: Santa María Texcatitlán
+        '437':
+          name: Santa María Tlahuitoltepec
+        '438':
+          name: Santa María Tlalixtac
+        '439':
+          name: Santa María Tonameca
+        '440':
+          name: Santa María Totolapilla
+        '441':
+          name: Santa María Xadani
+        '442':
+          name: Santa María Yalina
+        '443':
+          name: Santa María Yavesia
+        '444':
+          name: Santa María Yolotepec
+        '445':
+          name: Santa María Yosoyua
+        '446':
+          name: Santa María Yucuhiti
+        '447':
+          name: Santa María Zacatepec
+        '448':
+          name: Santa María Zaniza
+        '449':
+          name: Santa María Zoquitlan
+        '450':
+          name: Santiago Amoltepec
+        '451':
+          name: Santiago Apoala
+        '452':
+          name: Santiago Apostol
+        '453':
+          name: Santiago Astata
+        '454':
+          name: Santiago Atitlán
+        '455':
+          name: Santiago Ayuquililla
+        '456':
+          name: Santiago Cacaloxtepec
+        '457':
+          name: Santiago Camotlan
+        '458':
+          name: Santiago Comaltepec
+        '459':
+          name: Santiago Chazumba
+        '460':
+          name: Santiago Choapam
+        '461':
+          name: Santiago del Río
+        '462':
+          name: Santiago Huajolotitlán
+        '463':
+          name: Santiago Huauclilla
+        '464':
+          name: Santiago Ihuitlan Plumas
+        '465':
+          name: Santiago Ixcuintepec
+        '466':
+          name: Santiago Ixtayutla
+        '467':
+          name: Santiago Jamiltepec
+        '468':
+          name: Santiago Jocotepec
+        '469':
+          name: Santiago Juxtlahuaca
+        '470':
+          name: Santiago Lachiguiri
+        '471':
+          name: Santiago Lalopa
+        '472':
+          name: Santiago Laollaga
+        '473':
+          name: Santiago Laxopa
+        '474':
+          name: Santiago Llano Grande
+        '475':
+          name: Santiago Matatlan
+        '476':
+          name: Santiago Miltepec
+        '477':
+          name: Santiago Minas
+        '478':
+          name: Santiago Nacaltepec
+        '479':
+          name: Santiago Nejapilla
+        '480':
+          name: Santiago Nundiche
+        '481':
+          name: Santiago Nuyoo
+        '482':
+          name: Santiago Pinotepa Nacional
+        '483':
+          name: Santiago Suchilquitongo
+        '484':
+          name: Santiago Tamazola
+        '485':
+          name: Santiago Tapextla
+        '486':
+          name: Villa Tejupam de la Unión
+        '487':
+          name: Santiago Tenango
+        '488':
+          name: Santiago Tepetlapa
+        '489':
+          name: Santiago Tetepec
+        '490':
+          name: Santiago Texcalcingo
+        '491':
+          name: Santiago Textitlán
+        '492':
+          name: Santiago Tilantongo
+        '493':
+          name: Santiago Tillo
+        '494':
+          name: Santiago Tlazoyaltepec
+        '495':
+          name: Santiago Xanica
+        '496':
+          name: Santiago Xiacui
+        '497':
+          name: Santiago Yaitepec
+        '498':
+          name: Santiago Yaveo
+        '499':
+          name: Santiago Yolomecatl
+        '500':
+          name: Santiago Yosondua
+        '501':
+          name: Santiago Yucuyachi
+        '502':
+          name: Santiago Zacatepec
+        '503':
+          name: Santiago Zoochila
+        '504':
+          name: Nuevo Zoquiapam
+        '505':
+          name: Santo Domingo Ingenio
+        '506':
+          name: Santo Domingo Albarradas
+        '507':
+          name: Santo Domingo Armenta
+        '508':
+          name: Santo Domingo Chihuitan
+        '509':
+          name: Santo Domingo de Morelos
+        '510':
+          name: Santo Domingo Ixcatlan
+        '511':
+          name: Santo Domingo Nuxaa
+        '512':
+          name: Santo Domingo Ozolotepec
+        '513':
+          name: Santo Domingo Petapa
+        '514':
+          name: Santo Domingo Roayaga
+        '515':
+          name: Santo Domingo Tehuantepec
+        '516':
+          name: Santo Domingo Teojomulco
+        '517':
+          name: Santo Domingo Tepuxtepec
+        '518':
+          name: Santo Domingo Tlatayapam
+        '519':
+          name: Santo Domingo Tomaltepec
+        '520':
+          name: Santo Domingo Tonala
+        '521':
+          name: Santo Domingo Tonaltepec
+        '522':
+          name: Santo Domingo Xagacia
+        '523':
+          name: Santo Domingo Yanhuitlan
+        '524':
+          name: Santo Domingo Yodohino
+        '525':
+          name: Santo Domingo Zanatepec
+        '526':
+          name: Santos Reyes Nopala
+        '527':
+          name: Santos Reyes Papalo
+        '528':
+          name: Santos Reyes Tepejillo
+        '529':
+          name: Santos Reyes Yucuna
+        '530':
+          name: Santo Tomas Jalieza
+        '531':
+          name: Santo Tomas Mazaltepec
+        '532':
+          name: Santo Tomas Ocotepec
+        '533':
+          name: Santo Tomas Tamazulapan
+        '534':
+          name: San Vicente Coatlan
+        '535':
+          name: San Vicente Lachixio
+        '536':
+          name: San Vicente Nu
+        '537':
+          name: Silacayoapam
+        '538':
+          name: Sitio de Xitlapehua
+        '539':
+          name: Soledad Etla
+        '540':
+          name: Villa de Tamazulapam del Progreso
+        '541':
+          name: Tanetze de Zaragoza
+        '542':
+          name: Taniche
+        '543':
+          name: Tataltepec de Valdes
+        '544':
+          name: Teococuilco de Marcos Perez
+        '545':
+          name: Teotitlán de Flores Magón
+        '546':
+          name: Teotitlán del Valle
+        '547':
+          name: Teotongo
+        '548':
+          name: Tepelmeme Villa de Morelos
+        '549':
+          name: Heroica Villa Tezoatlan de Segura y Luna, Cuna de la Independenc
+        '550':
+          name: San Jeronimo Tlacochahuaya
+        '551':
+          name: Tlacolula de Matamoros
+        '552':
+          name: Tlacotepec Plumas
+        '553':
+          name: Tlalixtac de Cabrera
+        '554':
+          name: Totontepec Villa de Morelos
+        '555':
+          name: Trinidad Zaachila
+        '556':
+          name: La Trinidad Vista Hermosa
+        '557':
+          name: Unión Hidalgo
+        '558':
+          name: Valrio Trujano
+        '559':
+          name: San Juan Bautista Valle Nacional
+        '560':
+          name: Villa Díaz Ordaz
+        '561':
+          name: Yaxe
+        '562':
+          name: Magdalena Yodocono de Porfrio Díaz
+        '563':
+          name: Yogana
+        '564':
+          name: Yutanduchi de Guerrero
+        '565':
+          name: Villa de Zaachila
+        '566':
+          name: San Mateo Yucutindo
+        '567':
+          name: Zapotitlán Lagunas
+        '568':
+          name: Zapotitlán Palmas
+        '569':
+          name: Santa Ines de Zaragoza
+        '570':
+          name: Zimatlan de Álvarez

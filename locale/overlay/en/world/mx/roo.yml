@@ -1,0 +1,25 @@
+---
+en:
+  world:
+    mx:
+      roo:
+        '001':
+          name: Cozumel
+        '002':
+          name: Felipe Carrillo Puerto
+        '003':
+          name: Isla Mujeres
+        '004':
+          name: Othón P. Blanco
+        '005':
+          name: Benito Juárez
+        '006':
+          name: Jose María Morelos
+        '007':
+          name: Lazaro Cárdenas
+        '008':
+          name: Solidaridad
+        '009':
+          name: Tulum
+        '010':
+          name: Bacalar

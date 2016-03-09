@@ -1,0 +1,231 @@
+---
+en:
+  world:
+    mx:
+      mic:
+        '001':
+          name: Acuitzio
+        '002':
+          name: Aguililla
+        '003':
+          name: Alvaro Obregón
+        '004':
+          name: Angamacutiro
+        '005':
+          name: Angangueo
+        '006':
+          name: Apatzingan
+        '007':
+          name: Aporo
+        '008':
+          name: Aquila
+        '009':
+          name: ARío
+        '010':
+          name: Arteaga
+        '011':
+          name: Brise
+        '012':
+          name: Buenavista
+        '013':
+          name: Caracuaro
+        '014':
+          name: Coahuayana
+        '015':
+          name: Coalcoman de Vazquez Pallares
+        '016':
+          name: Coeneo
+        '017':
+          name: Contepec
+        '018':
+          name: Copandaro
+        '019':
+          name: Cotija
+        '020':
+          name: Cuitzeo
+        '021':
+          name: Charapan
+        '022':
+          name: Charo
+        '023':
+          name: Chavinda
+        '024':
+          name: Cheran
+        '025':
+          name: Chilchota
+        '026':
+          name: Chinicuila
+        '027':
+          name: Chucandiro
+        '028':
+          name: Churintzio
+        '029':
+          name: Churumuco
+        '030':
+          name: Ecuandureo
+        '031':
+          name: Epitacio Huerta
+        '032':
+          name: Erongaricuaro
+        '033':
+          name: Gabriel Zamora
+        '034':
+          name: Hidalgo
+        '035':
+          name: La huacána
+        '036':
+          name: Huandacareo
+        '037':
+          name: Huaniqueo
+        '038':
+          name: Huetamo
+        '039':
+          name: Huiramba
+        '040':
+          name: Indaparapeo
+        '041':
+          name: Irimbo
+        '042':
+          name: Ixtlan
+        '043':
+          name: Jacona
+        '044':
+          name: Jiménez
+        '045':
+          name: Jiquilpan
+        '046':
+          name: Juárez
+        '047':
+          name: Jungapeo
+        '048':
+          name: Lagunillas
+        '049':
+          name: Madero
+        '050':
+          name: Maravatio
+        '051':
+          name: Marcos Castellanos
+        '052':
+          name: Lazaro Cárdenas
+        '053':
+          name: Morelia
+        '054':
+          name: Morelos
+        '055':
+          name: Mugica
+        '056':
+          name: Nahuatzen
+        '057':
+          name: Nocupetaro
+        '058':
+          name: Nuevo Parangaricutiro
+        '059':
+          name: Nuevo Urecho
+        '060':
+          name: Numaran
+        '061':
+          name: Ocampo
+        '062':
+          name: Pajacuaran
+        '063':
+          name: Panindicuaro
+        '064':
+          name: Paracuaro
+        '065':
+          name: Paracho
+        '066':
+          name: Patzcuaro
+        '067':
+          name: Penjamillo
+        '068':
+          name: Periban
+        '069':
+          name: La Piedad
+        '070':
+          name: Purepero
+        '071':
+          name: Puruandiro
+        '072':
+          name: Querendaro
+        '073':
+          name: Quiroga
+        '074':
+          name: Cojumatlan de Regules
+        '075':
+          name: Los Reyes
+        '076':
+          name: Sahuayo
+        '077':
+          name: San Lucas
+        '078':
+          name: Santa Ana Maya
+        '079':
+          name: Salvador Escalante
+        '080':
+          name: Senguio
+        '081':
+          name: Susupuato
+        '082':
+          name: Tacambaro
+        '083':
+          name: Tancitaro
+        '084':
+          name: Tangamandapio
+        '085':
+          name: Tangancicuaro
+        '086':
+          name: Tanhuato
+        '087':
+          name: Taretan
+        '088':
+          name: Tarimbaro
+        '089':
+          name: Tepalcatepec
+        '090':
+          name: Tingambato
+        '091':
+          name: Ting
+        '092':
+          name: Tiquicheo de Nicolas Romero
+        '093':
+          name: Tlalpujahua
+        '094':
+          name: Tlazazalca
+        '095':
+          name: Tocumbo
+        '096':
+          name: Tumbiscatio
+        '097':
+          name: Turicato
+        '098':
+          name: Tuxpan
+        '099':
+          name: Tuzantla
+        '100':
+          name: Tzintzuntzan
+        '101':
+          name: Tzitzio
+        '102':
+          name: Uruapan
+        '103':
+          name: Venustiano Carranza
+        '104':
+          name: Villamar
+        '105':
+          name: Vista Hermosa
+        '106':
+          name: Yurecuaro
+        '107':
+          name: Zacapu
+        '108':
+          name: Zamora
+        '109':
+          name: Zinaparo
+        '110':
+          name: Zinapecuaro
+        '111':
+          name: Ziracuaretiro
+        '112':
+          name: Zitacuaro
+        '113':
+          name: Jose Sixto Verduzco

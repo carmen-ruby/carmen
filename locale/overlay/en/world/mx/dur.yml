@@ -1,0 +1,37 @@
+---
+en:
+  world:
+    mx:
+      dur:
+        '001':
+          name: Canatlán
+        '002':
+          name: Canelas
+        '003':
+          name: Coneto de Comonfort
+        '004':
+          name: Cuencame
+        '005':
+          name: Durango
+        '006':
+          name: General Simón Bolívar
+        '007':
+          name: Gómez Palacio
+        '008':
+          name: Guadalupe Victoria
+        '009':
+          name: Guanacevi
+        '010':
+          name: Hidalgo
+        '011':
+          name: Inde
+        '012':
+          name: Lerdo
+        '013':
+          name: Mapimi
+        '014':
+          name: Mezquital
+        '015':
+          name: Nazas
+        '016':
+          name: Nombre de Dios

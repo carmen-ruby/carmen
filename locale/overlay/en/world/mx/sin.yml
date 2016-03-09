@@ -1,0 +1,41 @@
+---
+en:
+  world:
+    mx:
+      sin:
+        '001':
+          name: Ahome
+        '002':
+          name: Angostura
+        '003':
+          name: Badiraguato
+        '004':
+          name: Concordia
+        '005':
+          name: Cosala
+        '006':
+          name: Culiacán
+        '007':
+          name: Choix
+        '008':
+          name: Elota
+        '009':
+          name: Escuinapa
+        '010':
+          name: El Fuerte
+        '011':
+          name: Guasave
+        '012':
+          name: Mazatlan
+        '013':
+          name: Mocorito
+        '014':
+          name: Rosario
+        '015':
+          name: Salvador Alvarado
+        '016':
+          name: San Ignacio
+        '017':
+          name: Sinaloa
+        '018':
+          name: Navolato

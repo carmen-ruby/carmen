@@ -1,0 +1,37 @@
+---
+en:
+  world:
+    mx:
+      dif:
+        '001':
+          name: Azcapotzalco
+        '002':
+          name: Coyoacán
+        '003':
+          name: Cuajimalpa de Morelos
+        '004':
+          name: Gustavo A. Madero
+        '005':
+          name: Iztacalco
+        '006':
+          name: Iztapalapa
+        '007':
+          name: La Magdalena Contreras
+        '008':
+          name: Milpa Alta
+        '009':
+          name: Álvaro Obregón
+        '010':
+          name: Tlahuac
+        '011':
+          name: Tlalpan
+        '012':
+          name: Xochimilco
+        '013':
+          name: Benito Juárez
+        '014':
+          name: Cuauhtémoc
+        '015':
+          name: Miguel Hidalgo
+        '016':
+          name: Venustiano Carranza

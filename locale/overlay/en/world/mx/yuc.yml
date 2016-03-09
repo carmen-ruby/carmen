@@ -1,0 +1,217 @@
+---
+en:
+  world:
+    mx:
+      yuc:
+        '001':
+          name: Abala
+        '002':
+          name: Acanceh
+        '003':
+          name: Akil
+        '004':
+          name: Baca
+        '005':
+          name: Bokoba
+        '006':
+          name: Buctzotz
+        '007':
+          name: Cacalchen
+        '008':
+          name: Calotmul
+        '009':
+          name: Cansahcab
+        '010':
+          name: Cantamayec
+        '011':
+          name: Celestun
+        '012':
+          name: Cenotillo
+        '013':
+          name: Conkal
+        '014':
+          name: Cuncunul
+        '015':
+          name: Cuzama
+        '016':
+          name: Chacsinkin
+        '017':
+          name: Chankom
+        '018':
+          name: Chapab
+        '019':
+          name: Chemax
+        '020':
+          name: Chicxulub Pueblo
+        '021':
+          name: Chichimila
+        '022':
+          name: Chikindzonot
+        '023':
+          name: Chochola
+        '024':
+          name: Chumayel
+        '025':
+          name: Dzan
+        '026':
+          name: Dzemul
+        '027':
+          name: Dzidzantun
+        '028':
+          name: Dzilam de Bravo
+        '029':
+          name: Dzilam González
+        '030':
+          name: Dzitas
+        '031':
+          name: Dzoncauich
+        '032':
+          name: Espita
+        '033':
+          name: Halacho
+        '034':
+          name: Hocaba
+        '035':
+          name: Hoctun
+        '036':
+          name: Homun
+        '037':
+          name: Huhi
+        '038':
+          name: Hunucma
+        '039':
+          name: Ixil
+        '040':
+          name: Izamal
+        '041':
+          name: Kanasin
+        '042':
+          name: Kantunil
+        '043':
+          name: Kaua
+        '044':
+          name: Kinchil
+        '045':
+          name: Kopoma
+        '046':
+          name: Mama
+        '047':
+          name: Mani
+        '048':
+          name: Maxcanu
+        '049':
+          name: Mayapan
+        '050':
+          name: Merida
+        '051':
+          name: Mococha
+        '052':
+          name: Motul
+        '053':
+          name: Muna
+        '054':
+          name: Muxupip
+        '055':
+          name: Opichen
+        '056':
+          name: Oxkutzcab
+        '057':
+          name: Panaba
+        '058':
+          name: Peto
+        '059':
+          name: Progreso
+        '060':
+          name: Quintana Roo
+        '061':
+          name: Río Lagartos
+        '062':
+          name: Sacalum
+        '063':
+          name: Samahil
+        '064':
+          name: Sanahcat
+        '065':
+          name: San Felipe
+        '066':
+          name: Santa Elena
+        '067':
+          name: Seye
+        '068':
+          name: Sinanche
+        '069':
+          name: Sotuta
+        '070':
+          name: Sucila
+        '071':
+          name: Sudzal
+        '072':
+          name: Suma
+        '073':
+          name: Tahdziu
+        '074':
+          name: Tahmek
+        '075':
+          name: Teabo
+        '076':
+          name: Tecoh
+        '077':
+          name: Tekal de Venegas
+        '078':
+          name: Tekanto
+        '079':
+          name: Tekax
+        '080':
+          name: Tekit
+        '081':
+          name: Tekom
+        '082':
+          name: Telchac Pueblo
+        '083':
+          name: Telchac Puerto
+        '084':
+          name: Temax
+        '085':
+          name: Temozón
+        '086':
+          name: Tepakan
+        '087':
+          name: Tetiz
+        '088':
+          name: Teya
+        '089':
+          name: Ticul
+        '090':
+          name: Timucuy
+        '091':
+          name: Tinum
+        '092':
+          name: Tixcacalcupul
+        '093':
+          name: Tixkokob
+        '094':
+          name: Tixmehuac
+        '095':
+          name: Tixpehual
+        '096':
+          name: Tizimin
+        '097':
+          name: Tunkas
+        '098':
+          name: Tzucacab
+        '099':
+          name: Uayma
+        '100':
+          name: Ucu
+        '101':
+          name: Umán
+        '102':
+          name: Valladolid
+        '103':
+          name: Xocchel
+        '104':
+          name: Yaxcaba
+        '105':
+          name: Yaxkukul
+        '106':
+          name: Yobain

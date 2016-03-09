@@ -1,0 +1,241 @@
+---
+en:
+  world:
+    mx:
+      chp:
+        '001':
+          name: Acacoyagua
+        '002':
+          name: Acala
+        '003':
+          name: Acapetahua
+        '004':
+          name: Altamirano
+        '005':
+          name: Amatán
+        '006':
+          name: Amatenango de la Frontera
+        '007':
+          name: Amatenango del Valle
+        '008':
+          name: Ángel Albino Corzo
+        '009':
+          name: Arriaga
+        '010':
+          name: Bejucal de Ocampo
+        '011':
+          name: Bella Vista
+        '012':
+          name: Berriozábal
+        '013':
+          name: Bochil
+        '014':
+          name: El Bosque
+        '015':
+          name: Cacahoatán
+        '016':
+          name: Catazaja
+        '017':
+          name: Cintalapa
+        '018':
+          name: Coapilla
+        '019':
+          name: Comitán de Domínguez
+        '020':
+          name: La Concordia
+        '021':
+          name: Copainala
+        '022':
+          name: Chalchihuitán
+        '023':
+          name: Chamula
+        '024':
+          name: Chanal
+        '025':
+          name: Chapultenango
+        '026':
+          name: Chenalho
+        '027':
+          name: Chiapa de Corzo
+        '028':
+          name: Chiapilla
+        '029':
+          name: Chicoasen
+        '030':
+          name: Chicomuselo
+        '031':
+          name: Chilón
+        '032':
+          name: Escuintla
+        '033':
+          name: Francisco León
+        '034':
+          name: Frontera Comalapa
+        '035':
+          name: Frontera Hidalgo
+        '036':
+          name: La Grandeza
+        '037':
+          name: Huehuetán
+        '038':
+          name: Huixtan
+        '039':
+          name: Huitiupán
+        '040':
+          name: Huixtla
+        '041':
+          name: La Independencia
+        '042':
+          name: Ixhuatán
+        '043':
+          name: Ixtacomitán
+        '044':
+          name: Ixtapa
+        '045':
+          name: Ixtapangajoya
+        '046':
+          name: Jiquipilas
+        '047':
+          name: Jitotol
+        '048':
+          name: Juárez
+        '049':
+          name: Larrainzar
+        '050':
+          name: La Libertad
+        '051':
+          name: Mapastepec
+        '052':
+          name: Las Margaritas
+        '053':
+          name: Mazapa de Madero
+        '054':
+          name: Mazatán
+        '055':
+          name: Metapa
+        '056':
+          name: Mitontic
+        '057':
+          name: Motozintla
+        '058':
+          name: Nicolas Ruiz
+        '059':
+          name: Ocosingo
+        '060':
+          name: Ocotepec
+        '061':
+          name: Ocozocoautla de Espinosa
+        '062':
+          name: Ostuacán
+        '063':
+          name: Osumacinta
+        '064':
+          name: Oxchuc
+        '065':
+          name: Palenque
+        '066':
+          name: Pantelho
+        '067':
+          name: Pantepec
+        '068':
+          name: Pichucalco
+        '069':
+          name: Pijijiapan
+        '070':
+          name: El Porvenir
+        '071':
+          name: Villa Comaltitlán
+        '072':
+          name: Pueblo Nuevo Solistahuacán
+        '073':
+          name: Rayón
+        '074':
+          name: Reforma
+        '075':
+          name: Las Rosas
+        '076':
+          name: Sabanilla
+        '077':
+          name: Salto de Agua
+        '078':
+          name: San Cristóbal de las Casas
+        '079':
+          name: San Fernando
+        '080':
+          name: Siltepec
+        '081':
+          name: Simojovel
+        '082':
+          name: Sitala
+        '083':
+          name: Socoltenango
+        '084':
+          name: Solosuchiapa
+        '085':
+          name: Soyalo
+        '086':
+          name: Suchiapa
+        '087':
+          name: Suchiate
+        '088':
+          name: Sunuapa
+        '089':
+          name: Tapachula
+        '090':
+          name: Tapalapa
+        '091':
+          name: Tapilula
+        '092':
+          name: Tecpatan
+        '093':
+          name: Tenejapa
+        '094':
+          name: Teopisca
+        '096':
+          name: Tila
+        '097':
+          name: Tonalá
+        '098':
+          name: Totolapa
+        '099':
+          name: La Trinitaria
+        '100':
+          name: Tumbala
+        '101':
+          name: Tuxtla Gutiérrez
+        '102':
+          name: Tuxtla Chico
+        '103':
+          name: Tuzantan
+        '104':
+          name: Tzimol
+        '105':
+          name: Unión Juárez
+        '106':
+          name: Venustiano Carranza
+        '107':
+          name: Villa Corzo
+        '108':
+          name: Villaflores
+        '109':
+          name: Yajalón
+        '110':
+          name: San Lucas
+        '111':
+          name: Zinacantán
+        '112':
+          name: San Juan Cancuc
+        '113':
+          name: Aldama
+        '114':
+          name: Benemérito de las Américas
+        '115':
+          name: Maravilla Tenejapa
+        '116':
+          name: Marqués de Comillas
+        '117':
+          name: Montecristo de Guerrero
+        '118':
+          name: San Andrés Duraznal
+        '119':
+          name: Santiago el Pinar

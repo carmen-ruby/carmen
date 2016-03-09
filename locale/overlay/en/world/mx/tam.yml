@@ -1,0 +1,91 @@
+---
+en:
+  world:
+    mx:
+      tam:
+        '001':
+          name: Abasolo
+        '002':
+          name: Aldama
+        '003':
+          name: Altamira
+        '004':
+          name: Antiguo Morelos
+        '005':
+          name: Burgos
+        '006':
+          name: Bustamante
+        '007':
+          name: Camargo
+        '008':
+          name: Casas
+        '009':
+          name: Ciudad Madero
+        '010':
+          name: Cruillas
+        '011':
+          name: Gómez Farias
+        '012':
+          name: González
+        '013':
+          name: Guemez
+        '014':
+          name: Guerrero
+        '015':
+          name: Gustavo Díaz Ordaz
+        '016':
+          name: Hidalgo
+        '017':
+          name: Jaumave
+        '018':
+          name: Jiménez
+        '019':
+          name: Llera
+        '020':
+          name: Mainero
+        '021':
+          name: El Mante
+        '022':
+          name: Matamoros
+        '023':
+          name: Méndez
+        '024':
+          name: Mier
+        '025':
+          name: Miguel Alemán
+        '026':
+          name: Miquihuana
+        '027':
+          name: Nuevo Laredo
+        '028':
+          name: Nuevo Morelos
+        '029':
+          name: Ocampo
+        '030':
+          name: Padilla
+        '031':
+          name: Palmillas
+        '032':
+          name: Reynosa
+        '033':
+          name: Río Bravo
+        '034':
+          name: San Carlos
+        '035':
+          name: San Fernando
+        '036':
+          name: San Nicolas
+        '037':
+          name: Soto la Marina
+        '038':
+          name: Tampico
+        '039':
+          name: Tula
+        '040':
+          name: Valle Hermoso
+        '041':
+          name: Victoria
+        '042':
+          name: Villagran
+        '043':
+          name: Xicotencatl

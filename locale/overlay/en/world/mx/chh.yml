@@ -1,0 +1,139 @@
+---
+en:
+  world:
+    mx:
+      chh:
+        '001':
+          name: Ahumada
+        '002':
+          name: Aldama
+        '003':
+          name: Allende
+        '004':
+          name: Aquiles Serdán
+        '005':
+          name: Ascensión
+        '006':
+          name: Bachiniva
+        '007':
+          name: Balleza
+        '008':
+          name: Batopilas
+        '009':
+          name: Bocoyna
+        '010':
+          name: Buenaventura
+        '011':
+          name: Camargo
+        '012':
+          name: Carichí
+        '013':
+          name: Casas Grandes
+        '014':
+          name: Coronado
+        '015':
+          name: Coyame del Sotol
+        '016':
+          name: La Cruz
+        '017':
+          name: Cuauhtémoc
+        '018':
+          name: Cusihuiriachi
+        '019':
+          name: Chihuahua
+        '020':
+          name: Chinipas
+        '021':
+          name: Delicias
+        '022':
+          name: Dr. Belisario Domínguez
+        '023':
+          name: Galeana
+        '024':
+          name: Santa Isabel
+        '025':
+          name: Gómez Farias
+        '026':
+          name: Gran Morelos
+        '027':
+          name: Guachochi
+        '028':
+          name: Guadalupe
+        '029':
+          name: Guadalupe y Calvo
+        '030':
+          name: Guazapares
+        '031':
+          name: Guerrero
+        '032':
+          name: Hidalgo del Parral
+        '033':
+          name: Huejotitán
+        '034':
+          name: Ignacio Zaragoza
+        '035':
+          name: Janos
+        '036':
+          name: Jiménez
+        '037':
+          name: Juárez
+        '038':
+          name: Julimes
+        '039':
+          name: López
+        '040':
+          name: Madera
+        '041':
+          name: Maguarichi
+        '042':
+          name: Manuel Benavides
+        '043':
+          name: Matachi
+        '044':
+          name: Matamoros
+        '045':
+          name: Meoqui
+        '046':
+          name: Morelos
+        '047':
+          name: Moris
+        '048':
+          name: Namiquipa
+        '049':
+          name: Nonoava
+        '050':
+          name: Nuevo Casas Grandes
+        '051':
+          name: Ocampo
+        '052':
+          name: Ojinaga
+        '053':
+          name: Praxedis G. Guerrero
+        '054':
+          name: Riva Palacio
+        '055':
+          name: Rosales
+        '056':
+          name: Rosario
+        '057':
+          name: San Francisco de Borja
+        '058':
+          name: San Francisco de Conchos
+        '059':
+          name: San Francisco del Oro
+        '060':
+          name: Santa Barbara
+        '061':
+          name: Satevo
+        '062':
+          name: Saucillo
+        '063':
+          name: Temosachic
+        '064':
+          name: El Tule
+        '065':
+          name: Urique
+        '066':
+          name: Uruachi
+        '067':
+          name: Valle de Zaragoza

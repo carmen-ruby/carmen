@@ -1,0 +1,121 @@
+---
+en:
+  world:
+    mx:
+      zac:
+        '001':
+          name: Apozol
+        '002':
+          name: Apulco
+        '003':
+          name: Atolinga
+        '004':
+          name: Benito Juárez
+        '005':
+          name: Calera
+        '006':
+          name: Canitas de Felipe Pescador
+        '007':
+          name: Concepción del Oro
+        '008':
+          name: Cuauhtémoc
+        '009':
+          name: Chalchihuites
+        '010':
+          name: Fresnillo
+        '011':
+          name: Trinidad García de la Cadena
+        '012':
+          name: Genaro Codina
+        '013':
+          name: General Enrique Estrada
+        '014':
+          name: General Francisco R. Murguia
+        '015':
+          name: El Plateado de Joaquín Amaro
+        '016':
+          name: General Panfilo Natera
+        '017':
+          name: Guadalupe
+        '018':
+          name: Huanusco
+        '019':
+          name: Jalpa
+        '020':
+          name: Jerez
+        '021':
+          name: Jiménez del Teul
+        '022':
+          name: Juan Aldama
+        '023':
+          name: Juchipila
+        '024':
+          name: Loreto
+        '025':
+          name: Luis Moya
+        '026':
+          name: Mazapil
+        '027':
+          name: Melchor Ocampo
+        '028':
+          name: Mezquital del Oro
+        '029':
+          name: Miguel Auza
+        '030':
+          name: Momax
+        '031':
+          name: Monte Escobedo
+        '032':
+          name: Morelos
+        '033':
+          name: Moyahua de Estrada
+        '034':
+          name: Nochistlan de Mejía
+        '035':
+          name: Noria de Ángeles
+        '036':
+          name: Ojocaliente
+        '037':
+          name: Panuco
+        '038':
+          name: Pinos
+        '039':
+          name: Río Grande
+        '040':
+          name: Sain Alto
+        '041':
+          name: El Salvador
+        '042':
+          name: Sombrerete
+        '043':
+          name: Susticacán
+        '044':
+          name: Tabasco
+        '045':
+          name: Tepechitlan
+        '046':
+          name: Tepetongo
+        '047':
+          name: Teul de González Ortega
+        '048':
+          name: Tlaltenango de Sanchez Román
+        '049':
+          name: Valparaíso
+        '050':
+          name: Vetagrande
+        '051':
+          name: Villa de Cos
+        '052':
+          name: Villa García
+        '053':
+          name: Villa González Ortega
+        '054':
+          name: Villa Hidalgo
+        '055':
+          name: Villanueva
+        '056':
+          name: Zacatecas
+        '057':
+          name: Trancoso
+        '058':
+          name: Santa María de la Paz

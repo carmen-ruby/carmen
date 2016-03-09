@@ -1,0 +1,15 @@
+---
+en:
+  world:
+    mx:
+      bcs:
+        '001':
+          name: Comondú
+        '002':
+          name: Mulege
+        '003':
+          name: La Paz
+        '004':
+          name: Los Cabos
+        '005':
+          name: Loreto

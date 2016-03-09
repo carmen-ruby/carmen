@@ -1,0 +1,167 @@
+---
+en:
+  world:
+    mx:
+      gro:
+        '001':
+          name: Acapulco de Juárez
+        '002':
+          name: Ahuacuotzingo
+        '003':
+          name: Ajuchitlán del Progreso
+        '004':
+          name: Alcozauca de Guerrero
+        '005':
+          name: Alpoyeca
+        '006':
+          name: Apaxtla
+        '007':
+          name: Arcelia
+        '008':
+          name: Atenango del Río
+        '009':
+          name: Atlamajalcingo del Monte
+        '010':
+          name: Atlixtac
+        '011':
+          name: Atoyac de Álvarez
+        '012':
+          name: Ayutla de los Libres
+        '013':
+          name: Azoyu
+        '014':
+          name: Benito Juárez
+        '015':
+          name: Buenavista de Cuellar
+        '016':
+          name: Coahuayutla de Jose María Izazaga
+        '017':
+          name: Cocula
+        '018':
+          name: Copala
+        '019':
+          name: Copalillo
+        '020':
+          name: Copanatoyac
+        '021':
+          name: Coyuca de Benítez
+        '022':
+          name: Coyuca de Catalán
+        '023':
+          name: Cuajinicuilapa
+        '024':
+          name: Cualac
+        '025':
+          name: Cuautepec
+        '026':
+          name: Cuetzala del Progreso
+        '027':
+          name: Cutzamala de Pinzón
+        '028':
+          name: Chilapa de Álvarez
+        '029':
+          name: Chilpancingo de los Bravo
+        '030':
+          name: Florencio Villarreal
+        '031':
+          name: General Canuto A. Neri
+        '032':
+          name: General Heliodoro Castillo
+        '033':
+          name: Huamuxtitlán
+        '034':
+          name: Huitzuco de los Figueroa
+        '035':
+          name: Iguala de la Independencia
+        '036':
+          name: Igualapa
+        '037':
+          name: Ixcateopan de Cuauhtémoc
+        '038':
+          name: Zihuatanejo de Azueta
+        '039':
+          name: Juan R. Escudero
+        '040':
+          name: Leonardo Bravo
+        '041':
+          name: Malinaltepec
+        '042':
+          name: Martir de Cuilapan
+        '043':
+          name: Metlatonoc
+        '044':
+          name: Mochitlán
+        '045':
+          name: Olinala
+        '046':
+          name: Ometepec
+        '047':
+          name: Pedro Ascencio Alquisiras
+        '048':
+          name: Petatlán
+        '049':
+          name: Pilcaya
+        '050':
+          name: Pungarabato
+        '051':
+          name: Quechultenango
+        '052':
+          name: San Luis Acatlán
+        '053':
+          name: San Marcos
+        '054':
+          name: San Miguel Totolapan
+        '055':
+          name: Taxco de Alarcón
+        '056':
+          name: Tecoanapa
+        '057':
+          name: Tecpan de Galeana
+        '058':
+          name: Teloloapan
+        '059':
+          name: Tepecoacuilco de Trujano
+        '060':
+          name: Tetipac
+        '061':
+          name: Tixtla de Guerrero
+        '062':
+          name: Tlacoachistlahuaca
+        '063':
+          name: Tlacoapa
+        '064':
+          name: Tlalchapa
+        '065':
+          name: Tlalixtaquilla de Maldonado
+        '066':
+          name: Tlapa de Comonfort
+        '067':
+          name: Tlapehuala
+        '068':
+          name: La Unión de Isidoro Montes de Oca
+        '069':
+          name: Xalpatlahuac
+        '070':
+          name: Xochihuehuetlán
+        '071':
+          name: Xochistlahuaca
+        '072':
+          name: Zapotitlán Tablas
+        '073':
+          name: Zirandaro
+        '074':
+          name: Zitlala
+        '075':
+          name: Eduardo Neri
+        '076':
+          name: Acatepec
+        '077':
+          name: Marquelia
+        '078':
+          name: Cochoapa el Grande
+        '079':
+          name: Jose Joaquín de Herrera
+        '080':
+          name: Juchitan
+        '081':
+          name: Iliatenco

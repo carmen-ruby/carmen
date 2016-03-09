@@ -1,0 +1,81 @@
+---
+en:
+  world:
+    mx:
+      coa:
+        '001':
+          name: Abasolo
+        '002':
+          name: Acuña
+        '003':
+          name: Allende
+        '004':
+          name: Arteaga
+        '005':
+          name: Candela
+        '006':
+          name: Casta
+        '007':
+          name: Cuatro Ciénegas
+        '008':
+          name: Escobedo
+        '009':
+          name: Francisco I. Madero
+        '010':
+          name: Frontera
+        '011':
+          name: General Cepeda
+        '012':
+          name: Guerrero
+        '013':
+          name: Hidalgo
+        '014':
+          name: Jiménez
+        '015':
+          name: Juárez
+        '016':
+          name: Lamadrid
+        '017':
+          name: Matamoros
+        '018':
+          name: Monclova
+        '019':
+          name: Morelos
+        '020':
+          name: Múzquiz
+        '021':
+          name: Nadadores
+        '022':
+          name: Nava
+        '023':
+          name: Ocampo
+        '024':
+          name: Parras
+        '025':
+          name: Piedras Negras
+        '026':
+          name: Progreso
+        '027':
+          name: Ramos Arizpe
+        '028':
+          name: Sabinas
+        '029':
+          name: Sacramento
+        '030':
+          name: Saltillo
+        '031':
+          name: San Buenaventura
+        '032':
+          name: San Juan de Sabinas
+        '033':
+          name: San Pedro
+        '034':
+          name: Sierra Mojada
+        '035':
+          name: Torreón
+        '036':
+          name: Viesca
+        '037':
+          name: Villa Unión
+        '038':
+          name: Zaragoza

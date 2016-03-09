@@ -1,0 +1,97 @@
+---
+en:
+  world:
+    mx:
+      gua:
+        '001':
+          name: Abasolo
+        '002':
+          name: Acambaro
+        '003':
+          name: San Miguel de Allende
+        '004':
+          name: Apaseo el Alto
+        '005':
+          name: Apaseo el Grande
+        '006':
+          name: Atarjea
+        '007':
+          name: Celaya
+        '008':
+          name: Manuel Doblado
+        '009':
+          name: Comonfort
+        '010':
+          name: Coroneo
+        '011':
+          name: Cortazar
+        '012':
+          name: Cueramaro
+        '013':
+          name: Doctor Mora
+        '014':
+          name: Dolores Hidalgo Cuna de la Independencia Nacional
+        '015':
+          name: Guanajuato
+        '016':
+          name: Huanimaro
+        '017':
+          name: Irapuato
+        '018':
+          name: Jaral del Progreso
+        '019':
+          name: Jerecuaro
+        '020':
+          name: León
+        '021':
+          name: Moroleón
+        '022':
+          name: Ocampo
+        '023':
+          name: Penjamo
+        '024':
+          name: Pueblo Nuevo
+        '025':
+          name: Purisima del Rincón
+        '026':
+          name: Romita
+        '027':
+          name: Salamanca
+        '028':
+          name: Salvatierra
+        '029':
+          name: San Diego de la Unión
+        '030':
+          name: San Felipe
+        '031':
+          name: San Francisco del Rincón
+        '032':
+          name: San Jose Iturbide
+        '033':
+          name: San Luis de la Paz
+        '034':
+          name: Santa Catarina
+        '035':
+          name: Santa Cruz de Juventino Rosas
+        '036':
+          name: Santiago Maravatio
+        '037':
+          name: Silao
+        '038':
+          name: Tarandacuao
+        '039':
+          name: Tarimoro
+        '040':
+          name: Tierra Blanca
+        '041':
+          name: Uriangato
+        '042':
+          name: Valle de Santiago
+        '043':
+          name: Victoria
+        '044':
+          name: Villagran
+        '045':
+          name: Xichu
+        '046':
+          name: Yuriria

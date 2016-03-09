@@ -1,0 +1,255 @@
+---
+en:
+  world:
+    mx:
+      mex:
+        '001':
+          name: Acambay
+        '002':
+          name: Acolman
+        '003':
+          name: Aculco
+        '004':
+          name: Almoloya de Alquisiras
+        '005':
+          name: Almoloya de Juárez
+        '006':
+          name: Almoloya del Río
+        '007':
+          name: Amanalco
+        '008':
+          name: Amatepec
+        '009':
+          name: Amecameca
+        '010':
+          name: Apaxco
+        '011':
+          name: Atenco
+        '012':
+          name: ATizapán
+        '013':
+          name: ATizapán de Zaragoza
+        '014':
+          name: Atlacomulco
+        '015':
+          name: Atlautla
+        '016':
+          name: Axapusco
+        '017':
+          name: Ayapango
+        '018':
+          name: Calimaya
+        '019':
+          name: Capulhuac
+        '020':
+          name: Coacalco de Berriozábal
+        '021':
+          name: Coatepec Harinas
+        '022':
+          name: Cocotitlán
+        '023':
+          name: Coyotepec
+        '024':
+          name: Cuautitlán
+        '025':
+          name: Chalco
+        '026':
+          name: Chapa de Mota
+        '027':
+          name: Chapultepec
+        '028':
+          name: Chiautla
+        '029':
+          name: Chicoloapan
+        '030':
+          name: Chiconcuac
+        '031':
+          name: Chimalhuacán
+        '032':
+          name: Donato Guerra
+        '033':
+          name: Ecatepec de Morelos
+        '034':
+          name: Ecatzingo
+        '035':
+          name: Huehuetoca
+        '036':
+          name: Hueypoxtla
+        '037':
+          name: Huixquilucan
+        '038':
+          name: Isidro Fabela
+        '039':
+          name: Ixtapaluca
+        '040':
+          name: Ixtapan de la Sal
+        '041':
+          name: Ixtapan del Oro
+        '042':
+          name: Ixtlahuaca
+        '043':
+          name: Xalatlaco
+        '044':
+          name: Jaltenco
+        '045':
+          name: Jilotepec
+        '046':
+          name: Jilotzingo
+        '047':
+          name: Jiquipilco
+        '048':
+          name: Jocotitlán
+        '049':
+          name: Joquicingo
+        '050':
+          name: Juchitepec
+        '051':
+          name: Lerma
+        '052':
+          name: Malinalco
+        '053':
+          name: Melchor Ocampo
+        '054':
+          name: Metepec
+        '055':
+          name: Mexicaltzingo
+        '056':
+          name: Morelos
+        '057':
+          name: Naucalpan de Juárez
+        '058':
+          name: Nezahualcoyotl
+        '059':
+          name: Nextlalpan
+        '060':
+          name: Nicolas Romero
+        '061':
+          name: Nopaltepec
+        '062':
+          name: Ocoyoacac
+        '063':
+          name: Ocuilan
+        '064':
+          name: El Oro
+        '065':
+          name: Otumba
+        '066':
+          name: Otzoloapan
+        '067':
+          name: Otzolotepec
+        '068':
+          name: Ozumba
+        '069':
+          name: Papalotla
+        '070':
+          name: La Paz
+        '071':
+          name: Polotitlán
+        '072':
+          name: Rayón
+        '073':
+          name: San Antonio la Isla
+        '074':
+          name: San Felipe del Progreso
+        '075':
+          name: San Martín de las Piramides
+        '076':
+          name: San Mateo Atenco
+        '077':
+          name: San Simón de Guerrero
+        '078':
+          name: Santo Tomas
+        '079':
+          name: Soyaniquilpan de Juárez
+        '080':
+          name: Sultepec
+        '081':
+          name: Tecamac
+        '082':
+          name: Tejupilco
+        '083':
+          name: Temamatla
+        '084':
+          name: Temascalapa
+        '085':
+          name: Temascalcingo
+        '086':
+          name: Temascaltepec
+        '087':
+          name: Temoaya
+        '088':
+          name: Tenancingo
+        '089':
+          name: Tenango del Aire
+        '090':
+          name: Tenango del Valle
+        '091':
+          name: Teoloyucan
+        '092':
+          name: Teotihuacán
+        '093':
+          name: Tepetlaoxtoc
+        '094':
+          name: Tepetlixpa
+        '095':
+          name: Tepotzotlan
+        '096':
+          name: Tequixquiac
+        '097':
+          name: Texcaltitlán
+        '098':
+          name: Texcalyacac
+        '099':
+          name: Texcoco
+        '100':
+          name: Tezoyuca
+        '101':
+          name: Tianguistenco
+        '102':
+          name: Timilpan
+        '103':
+          name: Tlalmanalco
+        '104':
+          name: Tlalnepantla de Baz
+        '105':
+          name: Tlatlaya
+        '106':
+          name: Toluca
+        '107':
+          name: Tonatico
+        '108':
+          name: Tultepec
+        '109':
+          name: Tultitlán
+        '110':
+          name: Valle de Bravo
+        '111':
+          name: Villa de Allende
+        '112':
+          name: Villa del Carbón
+        '113':
+          name: Villa Guerrero
+        '114':
+          name: Villa Victoria
+        '115':
+          name: Xonacatlán
+        '116':
+          name: Zacazonapan
+        '117':
+          name: Zacualpan
+        '118':
+          name: Zinacantepec
+        '119':
+          name: Zumpahuacán
+        '120':
+          name: Zumpango
+        '121':
+          name: Cuautitlán Izcalli
+        '122':
+          name: Valle de Chalco Solidaridad
+        '123':
+          name: Luvianos
+        '124':
+          name: San Jose del Rincón
+        '125':
+          name: Tonanitla

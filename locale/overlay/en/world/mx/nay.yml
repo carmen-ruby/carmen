@@ -1,0 +1,45 @@
+---
+en:
+  world:
+    mx:
+      nay:
+        '001':
+          name: Acaponeta
+        '002':
+          name: Ahuacatlán
+        '003':
+          name: Amatlán de Cañas
+        '004':
+          name: Compostela
+        '005':
+          name: Huajicori
+        '006':
+          name: Ixtlán del Río
+        '007':
+          name: Jala
+        '008':
+          name: Xalisco
+        '009':
+          name: Del Nayar
+        '010':
+          name: Rosamorada
+        '011':
+          name: Ruiz
+        '012':
+          name: San Blas
+        '013':
+          name: San Pedro Lagunillas
+        '014':
+          name: Santa María del Oro
+        '015':
+          name: Santiago Ixcuintla
+        '016':
+          name: Tecuala
+        '017':
+          name: Tepic
+        '018':
+          name: Tuxpan
+        '019':
+          name: La Yesca
+        '020':
+          name: Bahia de Banderas

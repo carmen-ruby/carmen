@@ -1,0 +1,39 @@
+---
+en:
+  world:
+    mx:
+      tab:
+        '001':
+          name: Balancan
+        '002':
+          name: Cárdenas
+        '003':
+          name: Centla
+        '004':
+          name: Centro
+        '005':
+          name: Comalcalco
+        '006':
+          name: Cunduacán
+        '007':
+          name: Emiliano Zapata
+        '008':
+          name: Huimanguillo
+        '009':
+          name: Jalapa
+        '010':
+          name: Jalpa de Méndez
+        '011':
+          name: Jonuta
+        '012':
+          name: Macuspana
+        '013':
+          name: Nacajuca
+        '014':
+          name: paraíso
+        '015':
+          name: Tacotalpa
+        '016':
+          name: Teapa
+        '017':
+          name: Tenosique

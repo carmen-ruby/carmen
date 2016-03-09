@@ -1,0 +1,71 @@
+---
+en:
+  world:
+    mx:
+      mor:
+        '001':
+          name: Amacuzac
+        '002':
+          name: Atlatlahucan
+        '003':
+          name: Axochiapan
+        '004':
+          name: Ayala
+        '005':
+          name: Coatlan del Río
+        '006':
+          name: Cuautla
+        '007':
+          name: Cuernavaca
+        '008':
+          name: Emiliano Zapata
+        '009':
+          name: Huitzilac
+        '010':
+          name: Jantetelco
+        '011':
+          name: Jiutepec
+        '012':
+          name: Jojutla
+        '013':
+          name: Jonacatepec
+        '014':
+          name: Mazatepec
+        '015':
+          name: Miacatlán
+        '016':
+          name: Ocuituco
+        '017':
+          name: Puente de Ixtla
+        '018':
+          name: Temixco
+        '019':
+          name: Tepalcingo
+        '020':
+          name: Tepoztlan
+        '021':
+          name: Tetecala
+        '022':
+          name: Tetela del Volcan
+        '023':
+          name: Tlalnepantla
+        '024':
+          name: TlalTizapán de Zapata
+        '025':
+          name: Tlaquiltenango
+        '026':
+          name: Tlayacapan
+        '027':
+          name: Totolapan
+        '028':
+          name: Xochitepec
+        '029':
+          name: Yautepec
+        '030':
+          name: Yecapixtla
+        '031':
+          name: Zacatepec
+        '032':
+          name: Zacualpan
+        '033':
+          name: Temoac

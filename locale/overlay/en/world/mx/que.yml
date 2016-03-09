@@ -1,0 +1,41 @@
+---
+en:
+  world:
+    mx:
+      que:
+        '001':
+          name: Amealco de Bonfil
+        '002':
+          name: Pinal de Amoles
+        '003':
+          name: Arroyo Seco
+        '004':
+          name: Cadereyta de Montes
+        '005':
+          name: Colón
+        '006':
+          name: Corregidora
+        '007':
+          name: Ezequiel Montes
+        '008':
+          name: Huimilpan
+        '009':
+          name: Jalpan de Serra
+        '010':
+          name: Landa de Matamoros
+        '011':
+          name: El Marqués
+        '012':
+          name: Pedro Escobedo
+        '013':
+          name: Penamiller
+        '014':
+          name: Queretaro
+        '015':
+          name: San Joaquín
+        '016':
+          name: San Juan del Río
+        '017':
+          name: Tequisquiapan
+        '018':
+          name: Tolimán
