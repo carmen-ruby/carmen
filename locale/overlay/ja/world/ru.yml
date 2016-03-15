@@ -1,0 +1,174 @@
+---
+ja:
+  world:
+    ru:
+      ad:
+        name: 'アディゲ共和国'
+      al:
+        name: 'アルタイ共和国'
+      ba:
+        name: 'バシコルトスタン共和国'
+      bu:
+        name: 'ブリヤート共和国'
+      ce:
+        name: 'チェチェン共和国'
+      cr:
+        name: 'クリミア共和国'
+      cu:
+        name: 'チュヴァシ共和国'
+      da:
+        name: 'ダゲスタン共和国'
+      in:
+        name: 'イングーシ共和国'
+      kb:
+        name: 'カバルダ・バルカル共和国'
+      kl:
+        name: 'カルムイク共和国'
+      kc:
+        name: 'カラチャイ・チェルケス共和国'
+      kr:
+        name: 'カレリア共和国'
+      kk:
+        name: 'ハカス共和国'
+      ko:
+        name: 'コミ共和国'
+      me:
+        name: 'マリ・エル共和国'
+      mo:
+        name: 'モルドヴィア共和国'
+      sa:
+        name: 'サハ共和国'
+      se:
+        name: '北オセチア共和国'
+      ta:
+        name: 'タタールスタン共和国'
+      ty:
+        name: 'トゥヴァ共和国'
+      ud:
+        name: 'ウドムルト共和国'
+      alt:
+        name: 'アルタイ地方'
+      kam:
+        name: 'カムチャツカ地方'
+      kha:
+        name: 'ハバロフスク地方'
+      kda:
+        name: 'クラスノダール地方'
+      kya:
+        name: 'クラスノヤルスク地方'
+      per:
+        name: 'ペルミ地方'
+      pri:
+        name: '沿海地方'
+      sta:
+        name: 'スタヴロポリ地方'
+      zab:
+        name: 'ザバイカリエ地方'
+      amu:
+        name: 'アムール州'
+      ark:
+        name: 'アルハンゲリスク州'
+      ast:
+        name: 'アストラハン州'
+      bel:
+        name: 'ベルゴロド州'
+      bry:
+        name: 'ブリャンスク州'
+      che:
+        name: 'チェリャビンスク州'
+      irk:
+        name: 'イルクーツク州'
+      iva:
+        name: 'イヴァノヴォ州'
+      kgd:
+        name: 'カリーニングラード州'
+      klu:
+        name: 'カルーガ州'
+      kem:
+        name: 'ケメロヴォ州'
+      kir:
+        name: 'キーロフ州'
+      kos:
+        name: 'コストロマ州'
+      kgn:
+        name: 'クルガン州'
+      krs:
+        name: 'クルスク州'
+      len:
+        name: 'レニングラード州'
+      lip:
+        name: 'リペツク州'
+      mag:
+        name: 'マガダン州'
+      mos:
+        name: 'モスクワ州'
+      mur:
+        name: 'ムルマンスク州'
+      niz:
+        name: 'ニジニ・ノヴゴロド州'
+      ngr:
+        name: 'ノヴゴロド州'
+      nvs:
+        name: 'ノヴォシビルスク州'
+      oms:
+        name: 'オムスク州'
+      ore:
+        name: 'オレンブルク州'
+      orl:
+        name: 'オリョール州'
+      pnz:
+        name: 'ペンザ州'
+      psk:
+        name: 'プスコフ州'
+      ros:
+        name: 'ロストフ州'
+      rya:
+        name: 'リャザン州'
+      sak:
+        name: 'サハリン州'
+      sam:
+        name: 'サマラ州'
+      sar:
+        name: 'サラトフ州'
+      smo:
+        name: 'スモレンスク州'
+      sve:
+        name: 'スヴェルドロフスク州'
+      tam:
+        name: 'タンボフ州'
+      tom:
+        name: 'トムスク州'
+      tul:
+        name: 'トゥーラ州'
+      tve:
+        name: 'トヴェリ州'
+      tyu:
+        name: 'チュメニ州'
+      uly:
+        name: 'ウリヤノフスク州'
+      vla:
+        name: 'ヴラジーミル州'
+      vgg:
+        name: 'ヴォルゴグラード州'
+      vlg:
+        name: 'ヴォログダ州'
+      vor:
+        name: 'ヴォロネジ州'
+      yar:
+        name: 'ヤロスラヴリ州'
+      mow:
+        name: 'モスクワ市'
+      sev:
+        name: 'セヴァストポリ市'
+      spe:
+        name: 'サンクトペテルブルク市'
+      yev:
+        name: 'ユダヤ自治州'
+      chu:
+        name: 'チュクチ自治管区'
+      khm:
+        name: 'ハンティ・マンシ自治管区・ユグラ'
+      nen:
+        name: 'ネネツ自治管区'
+      yan:
+        name: 'ヤマロ・ネネツ自治管区'
