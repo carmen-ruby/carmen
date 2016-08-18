@@ -46,9 +46,46 @@ describe Carmen::Country do
 
   end
 
-  it "provides an API for finding countries by code" do
-    eurasia = Carmen::Country.coded('EU')
-    eurasia.instance_of?(Carmen::Country).must_equal true
+  describe 'API for finding countries by code' do
+    describe 'Universal finder method' do
+      it 'provides an API for finding countries by 2-symbol code' do
+        eurasia = Carmen::Country.coded('EU')
+        eurasia.instance_of?(Carmen::Country).must_equal true
+        eurasia.name.must_equal 'Eurasia'
+      end
+
+      it 'provides an API for finding countries by 3-symbol code' do
+        eastasia = Carmen::Country.coded('EST')
+        eastasia.instance_of?(Carmen::Country).must_equal true
+        eastasia.name.must_equal 'Eastasia'
+      end
+
+      it 'provides an API for finding countries by numeric code' do
+        oceania = Carmen::Country.coded('001')
+        oceania.instance_of?(Carmen::Country).must_equal true
+        oceania.name.must_equal 'Oceania'
+      end
+    end
+
+    describe 'Finder methods for searching by each attribute' do
+      it 'provides an API for finding countries by 2-symbol code' do
+        eurasia = Carmen::Country.alpha_2_coded('EU')
+        eurasia.instance_of?(Carmen::Country).must_equal true
+        eurasia.name.must_equal 'Eurasia'
+      end
+
+      it 'provides an API for finding countries by 3-symbol code' do
+        eastasia = Carmen::Country.alpha_3_coded('EST')
+        eastasia.instance_of?(Carmen::Country).must_equal true
+        eastasia.name.must_equal 'Eastasia'
+      end
+
+      it 'provides an API for finding countries by numeric code' do
+        oceania = Carmen::Country.numeric_coded('001')
+        oceania.instance_of?(Carmen::Country).must_equal true
+        oceania.name.must_equal 'Oceania'
+      end
+    end
   end
 
   describe "basic attributes" do

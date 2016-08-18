@@ -36,6 +36,18 @@ module Carmen
       all
     end
 
+    class << self
+      %w(numeric alpha_2 alpha_3).each do |attr|
+        define_method "#{attr}_coded" do |code|
+          code = code.to_s.downcase
+          query_collection.find do |region|
+            region.send("#{attr}_code").downcase == code
+          end
+        end
+      end
+      alias_method :numerically_coded, :numeric_coded
+    end
+
     def inspect
       %(<##{self.class} name="#{name}">)
     end
@@ -47,7 +59,13 @@ module Carmen
   private
 
     def self.attribute_to_search_for_code(code)
-      code.to_s.size == 2 ? :alpha_2_code : :alpha_3_code
+      if code.to_s.size == 2
+        :alpha_2_code
+      elsif code =~ /\d{3}/
+        :numeric_code
+      else
+        :alpha_3_code
+      end
     end
 
     def subregion_directory
