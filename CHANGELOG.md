@@ -3,6 +3,7 @@
 * Freeze regions arrays (j15e)
 * Add Rangpur bibha, Bangladesh (ecbypi)
 * Add Telegana, India (ecbypi)
+* Rename Czech Republic to Czechia (and its translations) for cn, en, es, fr, ru, th, tw
 
 ### 1.0.2
 * Replace use of UnicodeUtils with ActiveSupport (eikes)
