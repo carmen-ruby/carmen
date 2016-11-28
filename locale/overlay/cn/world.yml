@@ -227,8 +227,8 @@ cn:
       official_name: !!null
     cz:
       common_name: !!null
-      name: 捷克共和国
-      official_name: !!null
+      name: 捷克
+      official_name: 捷克共和国
     de:
       common_name: !!null
       name: 德国
