@@ -13,7 +13,7 @@ module Carmen
       if attribute.nil?
         fail "could not find an attribute to search for code '#{code}'"
       end
-      code = code.downcase # Codes are all ASCII
+      code = code.try(:downcase) # Codes are all ASCII
       query_collection.find do |region|
         region.send(attribute).downcase == code
       end
