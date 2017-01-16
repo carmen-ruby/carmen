@@ -1,0 +1,15 @@
+---
+fr:
+  world:
+    be:
+      vlg:
+        van:
+          name: Anvers
+        vli:
+          name: Limbourg
+        vov:
+          name: Flandre orientale
+        vbr:
+          name: Brabant flamand
+        vwv:
+          name: Flandre occidentale
