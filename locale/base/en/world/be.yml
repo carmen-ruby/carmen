@@ -3,8 +3,8 @@ en:
   world:
     be:
       bru:
-        name: Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest
+        name: Brussels-Capital Region
       vlg:
-        name: Vlaams Gewest
+        name: Flemish Region
       wal:
-        name: wallonne, Région
+        name: Walloon Region
