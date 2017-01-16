@@ -1,0 +1,10 @@
+---
+fr:
+  world:
+    be:
+      bru:
+        name: Région de Bruxelles-Capitale
+      vlg:
+        name: Région flamande
+      wal:
+        name: Région wallonne
