@@ -1065,3 +1065,64 @@ de:
       common_name: !!null
       name: Simbabwe
       official_name: !!null
+  continents:
+    "001":
+      name: "Welt"
+    "002":
+      name: "Afrika"
+    "003":
+      name: "Nordamerika"
+    "005":
+      name: "Südamerika"
+    "009":
+      name: "Ozeanien"
+    "011":
+      name: "Westafrika"
+    "013":
+      name: "Mittelamerika"
+    "014":
+      name: "Ostafrika"
+    "015":
+      name: "Nordafrika"
+    "017":
+      name: "Zentralafrika"
+    "018":
+      name: "Südafrika"
+    "019":
+      name: "Amerika"
+    "021":
+      name: "Nordamerika"
+    "029":
+      name: "Karibik"
+    "030":
+      name: "Ostasien"
+    "034":
+      name: "Südasien"
+    "035":
+      name: "Südostasien"
+    "039":
+      name: "Südeuropa"
+    "053":
+      name: "Australien und Neuseeland"
+    "054":
+      name: "Melanesien"
+    "057":
+      name: "Mikronesien"
+    "061":
+      name: "Polynesia"
+    "419":
+      name: "Lateinamerika und die Karibik"
+    "142":
+      name: "Asien"
+    "143":
+      name: "Zentralasien"
+    "145":
+      name: "Westasien"
+    "150":
+      name: "Europa"
+    "151":
+      name: "Osteuropa"
+    "154":
+      name: "Nordeuropa"
+    "155":
+      name: "Westeuropa"

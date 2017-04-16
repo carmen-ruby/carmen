@@ -3,11 +3,13 @@ require 'minitest/spec'
 require 'minitest/autorun'
 
 require 'bundler/setup'
+require 'pry-byebug'
 require 'carmen'
 
 def setup_carmen_test_data_path
   Carmen.clear_data_paths
   Carmen.append_data_path(carmen_spec_data_path)
+  Carmen.territories_path = Carmen.root_path + 'spec_data/territories/territoryContainment.json'
 end
 
 def setup_carmen_test_i18n_backend
