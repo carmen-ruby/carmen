@@ -1,0 +1,19 @@
+---
+- code: 'DEV'
+  type: parish
+- code: 'HAM'
+  type: parish
+- code: 'PAG'
+  type: parish
+- code: 'PEM'
+  type: parish
+- code: 'SGE'
+  type: parish
+- code: 'SAN'
+  type: parish
+- code: 'SMI'
+  type: parish
+- code: 'SOU'
+  type: parish
+- code: 'WAR'
+  type: parish
