@@ -54,6 +54,10 @@ module Carmen
       name
     end
 
+    def to_hash
+      { type: type, code: code, name: name, subregions: subregions }
+    end
+
     # Clears the subregion cache
     def reset!
       @subregions = nil

@@ -56,6 +56,10 @@ module Carmen
       alpha_2_code
     end
 
+    def to_hash
+      super.merge({ alpha_2_code: alpha_2_code, alpha_3_code: alpha_3_code, numeric_code: numeric_code })
+    end
+
   private
 
     def self.attribute_to_search_for_code(code)
