@@ -152,7 +152,7 @@ ru:
     by:
       common_name: !!null 
       name: Беларусь
-      official_name: !!null 
+      official_name: Республика Беларусь 
     bz:
       common_name: !!null 
       name: Белиз
@@ -775,8 +775,8 @@ ru:
       official_name: !!null 
     ru:
       common_name: !!null 
-      name: Российская Федерация
-      official_name: !!null 
+      name: Россия
+      official_name: Российская Федерация
     rw:
       common_name: !!null 
       name: Руанда

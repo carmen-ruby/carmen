@@ -2,6 +2,9 @@
 ---
 en:
   world:
+    by:
+      name: Belarus
+      official_name: Republic of Belarus
     tw:
       common_name: Taiwan
       name: Taiwan
