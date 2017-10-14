@@ -1,7 +1,6 @@
 require 'yaml'
 require 'pathname'
-
-YAML::ENGINE.yamler = 'psych'
+require 'json'
 
 begin
   require 'ftools'
@@ -57,8 +56,9 @@ tmp_path = data_path + 'tmp'
 FileUtils.mkdir_p(tmp_path)
 
 files = {
-  'iso_3166.xml' => 'http://anonscm.debian.org/gitweb/?p=iso-codes/iso-codes.git;a=blob_plain;f=iso_3166/iso_3166.xml;hb=HEAD',
-  'iso_3166_2.xml' => 'http://anonscm.debian.org/gitweb/?p=iso-codes/iso-codes.git;a=blob_plain;f=iso_3166_2/iso_3166_2.xml;hb=HEAD' }
+  'iso_3166.json' => 'https://anonscm.debian.org/git/pkg-isocodes/iso-codes.git/plain/data/iso_3166-1.json',
+  'iso_3166_2.json' => 'https://anonscm.debian.org/git/pkg-isocodes/iso-codes.git/plain/data/iso_3166-2.json'
+}
 
 files.each_pair do |file, url|
   `cd #{tmp_path.to_s} && curl -o #{file} "#{url}"`
@@ -67,18 +67,17 @@ end
 # countries
 puts "Importing countries"
 
-country_data_path = tmp_path + 'iso_3166.xml'
-file = File.open(country_data_path)
-doc = Nokogiri::XML(file)
-file.close
+country_data_path = tmp_path + 'iso_3166.json'
+countries_json = JSON.parse(File.read(country_data_path))['3166-1']
 
 countries = []
-doc.xpath('//iso_3166_entry').each do |country|
+
+countries_json.each do |country|
   print '.'
   countries << {
-    'alpha_2_code'  => country['alpha_2_code'],
-    'alpha_3_code'  => country['alpha_3_code'],
-    'numeric_code'  => country['numeric_code'],
+    'alpha_2_code'  => country['alpha_2'],
+    'alpha_3_code'  => country['alpha_3'],
+    'numeric_code'  => country['numeric'],
     'common_name'   => country['common_name'],
     'name'          => country['name'],
     'official_name' => country['official_name'],
@@ -94,50 +93,56 @@ write_data_to_path_as_yaml(sorted_countries, 'world')
 # regions
 puts "Importing regions"
 
-region_data_path = tmp_path + 'iso_3166_2.xml'
-file = File.open(region_data_path)
-doc = Nokogiri::XML(file)
-file.close
+region_data_path = tmp_path + 'iso_3166_2.json'
+regions_json = JSON.parse(File.read(region_data_path))['3166-2']
 
 warnings = []
 
-doc.css('iso_3166_country').each do |country|
-  code = country['code'].downcase
+# Group the regions by their country code
+regions_json.group_by { |h| h['code'].split(/-| /)[0] }.each do |country_regions|
+  country_code = country_regions[0].downcase
+  country_subregions = country_regions[1]
   regions = []
-  country.css('iso_3166_subset').each do |subset|
 
-    type = subset['type'].downcase
-    subregions = subset.css('iso_3166_2_entry').map do |subregion|
-      data = {
-        'code' => subregion['code'].gsub(%r{^#{country['code']}-}, ''),
-        'name' => subregion['name'],
-        'type' => type
-      }
+  # Hash of { <parent_region_code>: [<list of subregions>], ... }
+  # We keep track of each subregions parent region (if there are any)
+  # For countries with regions that do not have subregions, this will be empty
+  parent_subregions = {}
 
-      if subregion['parent']
-        parent = regions.find do |r|
-          parent_code = r['code']
-          parent_code = parent_code.split(/-| /)[1] if parent_code =~ /-| /
-          parent_code == subregion['parent']
-        end
-        if parent
-          parent['subregions'] ||= []
-          parent['subregions'] << data
-        else
-          warnings << "warning, did not find parent '#{subregion['parent']}'"
-          warnings << subregion
-          warnings << regions
-          warnings << ''
-        end
-      else
-        regions << data
+  country_subregions.each do |subregion|
+    data = {
+      'code' => subregion['code'].gsub(%r{^#{country_code.upcase}-}, ''),
+      'name' => subregion['name'],
+      'type' => subregion['type'].downcase
+    }
+
+    if subregion['parent']
+      parent = country_subregions.find do |r|
+        r['code'].split(/-| /)[1] == subregion['parent']
       end
+      if parent
+        parent_code = parent['code'].split(/-| /)[1]
+        parent_subregions[parent_code] ||= []
+        parent_subregions[parent_code] << data
+      else
+        warnings << "warning, did not find parent '#{subregion['parent']}'"
+        warnings << subregion
+        warnings << ''
+      end
+    else
+      regions << data
     end
+  end
 
+  # Add the list of subregions to each of the parent regions
+  parent_subregions.each do |parent_code, array_of_subregions|
+    regions.find { |region| region['code'] == parent_code }.merge!(
+      { 'subregions' => array_of_subregions }
+    )
   end
 
   sorted_regions = regions.sort_by {|e| e['code'] }
-  write_regions_to_path_as_yaml(sorted_regions, "world/#{code}")
+  write_regions_to_path_as_yaml(sorted_regions, "world/#{country_code}")
   print '.'
 end
 
