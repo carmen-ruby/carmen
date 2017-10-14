@@ -1,4 +1,3 @@
-require 'nokogiri'
 require 'yaml'
 require 'pathname'
 
