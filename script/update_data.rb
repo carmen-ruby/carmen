@@ -99,9 +99,7 @@ regions_json = JSON.parse(File.read(region_data_path))['3166-2']
 warnings = []
 
 # Group the regions by their country code
-regions_json.group_by { |h| h['code'].split(/-| /)[0] }.each do |country_regions|
-  country_code = country_regions[0].downcase
-  country_subregions = country_regions[1]
+regions_json.group_by { |h| h['code'].split(/-| /)[0] }.each do |country_code, country_subregions|
   regions = []
 
   # Hash of { <parent_region_code>: [<list of subregions>], ... }
@@ -111,7 +109,7 @@ regions_json.group_by { |h| h['code'].split(/-| /)[0] }.each do |country_regions
 
   country_subregions.each do |subregion|
     data = {
-      'code' => subregion['code'].gsub(%r{^#{country_code.upcase}-}, ''),
+      'code' => subregion['code'].gsub(%r{^#{country_code}-}i, ''),
       'name' => subregion['name'],
       'type' => subregion['type'].downcase
     }
@@ -142,7 +140,7 @@ regions_json.group_by { |h| h['code'].split(/-| /)[0] }.each do |country_regions
   end
 
   sorted_regions = regions.sort_by {|e| e['code'] }
-  write_regions_to_path_as_yaml(sorted_regions, "world/#{country_code}")
+  write_regions_to_path_as_yaml(sorted_regions, "world/#{country_code.downcase}")
   print '.'
 end
 
