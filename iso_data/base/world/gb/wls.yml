@@ -1,0 +1,45 @@
+---
+- code: AGY
+  type: unitary authority
+- code: BGE
+  type: unitary authority
+- code: BGW
+  type: unitary authority
+- code: CAY
+  type: unitary authority
+- code: CGN
+  type: unitary authority
+- code: CMN
+  type: unitary authority
+- code: CRF
+  type: unitary authority
+- code: CWY
+  type: unitary authority
+- code: DEN
+  type: unitary authority
+- code: FLN
+  type: unitary authority
+- code: GWN
+  type: unitary authority
+- code: MON
+  type: unitary authority
+- code: MTY
+  type: unitary authority
+- code: NTL
+  type: unitary authority
+- code: NWP
+  type: unitary authority
+- code: PEM
+  type: unitary authority
+- code: POW
+  type: unitary authority
+- code: RCT
+  type: unitary authority
+- code: SWA
+  type: unitary authority
+- code: TOF
+  type: unitary authority
+- code: VGL
+  type: unitary authority
+- code: WRX
+  type: unitary authority

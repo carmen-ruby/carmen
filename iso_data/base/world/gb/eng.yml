@@ -1,0 +1,305 @@
+---
+- code: BAS
+  type: unitary authority
+- code: BBD
+  type: unitary authority
+- code: BDF
+  type: unitary authority
+- code: BDG
+  type: london borough
+- code: BEN
+  type: london borough
+- code: BEX
+  type: london borough
+- code: BIR
+  type: metropolitan district
+- code: BKM
+  type: two-tier county
+- code: BMH
+  type: unitary authority
+- code: BNE
+  type: london borough
+- code: BNH
+  type: unitary authority
+- code: BNS
+  type: metropolitan district
+- code: BOL
+  type: metropolitan district
+- code: BPL
+  type: unitary authority
+- code: BRC
+  type: unitary authority
+- code: BRD
+  type: metropolitan district
+- code: BRY
+  type: london borough
+- code: BST
+  type: unitary authority
+- code: BUR
+  type: metropolitan district
+- code: CAM
+  type: two-tier county
+- code: CBF
+  type: unitary authority
+- code: CHE
+  type: unitary authority
+- code: CHW
+  type: unitary authority
+- code: CLD
+  type: metropolitan district
+- code: CMA
+  type: two-tier county
+- code: CMD
+  type: london borough
+- code: CON
+  type: unitary authority
+- code: COV
+  type: metropolitan district
+- code: CRY
+  type: london borough
+- code: DAL
+  type: unitary authority
+- code: DBY
+  type: two-tier county
+- code: DER
+  type: unitary authority
+- code: DEV
+  type: two-tier county
+- code: DNC
+  type: metropolitan district
+- code: DOR
+  type: two-tier county
+- code: DUD
+  type: metropolitan district
+- code: DUR
+  type: unitary authority
+- code: EAL
+  type: london borough
+- code: ENF
+  type: london borough
+- code: ERY
+  type: unitary authority
+- code: ESS
+  type: two-tier county
+- code: ESX
+  type: two-tier county
+- code: GAT
+  type: metropolitan district
+- code: GLS
+  type: two-tier county
+- code: GRE
+  type: london borough
+- code: HAL
+  type: unitary authority
+- code: HAM
+  type: two-tier county
+- code: HAV
+  type: london borough
+- code: HCK
+  type: london borough
+- code: HEF
+  type: unitary authority
+- code: HIL
+  type: london borough
+- code: HMF
+  type: london borough
+- code: HNS
+  type: london borough
+- code: HPL
+  type: unitary authority
+- code: HRT
+  type: two-tier county
+- code: HRW
+  type: london borough
+- code: HRY
+  type: london borough
+- code: IOS
+  type: unitary authority
+- code: IOW
+  type: unitary authority
+- code: ISL
+  type: london borough
+- code: KEC
+  type: london borough
+- code: KEN
+  type: two-tier county
+- code: KHL
+  type: unitary authority
+- code: KIR
+  type: metropolitan district
+- code: KTT
+  type: london borough
+- code: KWL
+  type: metropolitan district
+- code: LAN
+  type: two-tier county
+- code: LBH
+  type: london borough
+- code: LCE
+  type: unitary authority
+- code: LDS
+  type: metropolitan district
+- code: LEC
+  type: two-tier county
+- code: LEW
+  type: london borough
+- code: LIN
+  type: two-tier county
+- code: LIV
+  type: metropolitan district
+- code: LND
+  type: city corporation
+- code: LUT
+  type: unitary authority
+- code: MAN
+  type: metropolitan district
+- code: MDB
+  type: unitary authority
+- code: MDW
+  type: unitary authority
+- code: MIK
+  type: unitary authority
+- code: MRT
+  type: london borough
+- code: NBL
+  type: unitary authority
+- code: NEL
+  type: unitary authority
+- code: NET
+  type: metropolitan district
+- code: NFK
+  type: two-tier county
+- code: NGM
+  type: unitary authority
+- code: NLN
+  type: unitary authority
+- code: NSM
+  type: unitary authority
+- code: NTH
+  type: two-tier county
+- code: NTT
+  type: two-tier county
+- code: NTY
+  type: metropolitan district
+- code: NWM
+  type: london borough
+- code: NYK
+  type: two-tier county
+- code: OLD
+  type: metropolitan district
+- code: OXF
+  type: two-tier county
+- code: PLY
+  type: unitary authority
+- code: POL
+  type: unitary authority
+- code: POR
+  type: unitary authority
+- code: PTE
+  type: unitary authority
+- code: RCC
+  type: unitary authority
+- code: RCH
+  type: metropolitan district
+- code: RDB
+  type: london borough
+- code: RDG
+  type: unitary authority
+- code: RIC
+  type: london borough
+- code: ROT
+  type: metropolitan district
+- code: RUT
+  type: unitary authority
+- code: SAW
+  type: metropolitan district
+- code: SFK
+  type: two-tier county
+- code: SFT
+  type: metropolitan district
+- code: SGC
+  type: unitary authority
+- code: SHF
+  type: metropolitan district
+- code: SHN
+  type: metropolitan district
+- code: SHR
+  type: unitary authority
+- code: SKP
+  type: metropolitan district
+- code: SLF
+  type: metropolitan district
+- code: SLG
+  type: unitary authority
+- code: SND
+  type: metropolitan district
+- code: SOL
+  type: metropolitan district
+- code: SOM
+  type: two-tier county
+- code: SOS
+  type: unitary authority
+- code: SRY
+  type: two-tier county
+- code: STE
+  type: unitary authority
+- code: STH
+  type: unitary authority
+- code: STN
+  type: london borough
+- code: STS
+  type: two-tier county
+- code: STT
+  type: unitary authority
+- code: STY
+  type: metropolitan district
+- code: SWD
+  type: unitary authority
+- code: SWK
+  type: london borough
+- code: TAM
+  type: metropolitan district
+- code: TFW
+  type: unitary authority
+- code: THR
+  type: unitary authority
+- code: TOB
+  type: unitary authority
+- code: TRF
+  type: metropolitan district
+- code: TWH
+  type: london borough
+- code: WAR
+  type: two-tier county
+- code: WBK
+  type: unitary authority
+- code: WFT
+  type: london borough
+- code: WGN
+  type: metropolitan district
+- code: WIL
+  type: unitary authority
+- code: WKF
+  type: metropolitan district
+- code: WLL
+  type: metropolitan district
+- code: WLV
+  type: metropolitan district
+- code: WND
+  type: london borough
+- code: WNM
+  type: unitary authority
+- code: WOK
+  type: unitary authority
+- code: WOR
+  type: two-tier county
+- code: WRL
+  type: metropolitan district
+- code: WRT
+  type: unitary authority
+- code: WSM
+  type: london borough
+- code: WSX
+  type: two-tier county
+- code: YOR
+  type: unitary authority

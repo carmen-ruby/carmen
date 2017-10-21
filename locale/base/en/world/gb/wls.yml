@@ -1,0 +1,49 @@
+---
+en:
+  world:
+    gb:
+      wls:
+        agy:
+          name: Isle of Anglesey; Sir Ynys Môn
+        bge:
+          name: Bridgend; Pen-y-bont ar Ogwr
+        bgw:
+          name: Blaenau Gwent
+        cay:
+          name: Caerphilly; Caerffili
+        cgn:
+          name: Ceredigion; Sir Ceredigion
+        cmn:
+          name: Carmarthenshire; Sir Gaerfyrddin
+        crf:
+          name: Cardiff; Caerdydd
+        cwy:
+          name: Conwy
+        den:
+          name: Denbighshire; Sir Ddinbych
+        fln:
+          name: Flintshire; Sir y Fflint
+        gwn:
+          name: Gwynedd
+        mon:
+          name: Monmouthshire; Sir Fynwy
+        mty:
+          name: Merthyr Tydfil; Merthyr Tudful
+        ntl:
+          name: Neath Port Talbot; Castell-nedd Port Talbot
+        nwp:
+          name: Newport; Casnewydd
+        pem:
+          name: Pembrokeshire; Sir Benfro
+        pow:
+          name: Powys
+        rct:
+          name: Rhondda, Cynon, Taff; Rhondda, Cynon, Taf
+        swa:
+          name: Swansea; Abertawe
+        tof:
+          name: Torfaen; Tor-faen
+        vgl:
+          name: Vale of Glamorgan, The; Bro Morgannwg
+        wrx:
+          name: Wrexham; Wrecsam

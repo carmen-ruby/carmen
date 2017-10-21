@@ -1,0 +1,23 @@
+---
+- code: ABC
+  type: district
+- code: AND
+  type: district
+- code: ANN
+  type: district
+- code: BFS
+  type: district
+- code: CCG
+  type: district
+- code: DRS
+  type: district
+- code: FMO
+  type: district
+- code: LBC
+  type: district
+- code: MEA
+  type: district
+- code: MUL
+  type: district
+- code: NMD
+  type: district
