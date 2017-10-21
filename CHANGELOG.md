@@ -1,8 +1,13 @@
-### 1.0.3 (Pending Release)
-* Add region search by type with Carmen::RegionCollection#typed (alessandro1997)
-* Freeze regions arrays (j15e)
-* Add Rangpur bibha, Bangladesh (ecbypi)
-* Add Telegana, India (ecbypi)
+### 1.1.0 (unreleased)
+* [#231](https://github.com/carmen-ruby/carmen/pull/231) Base ISO data has been updated for the first time since October 25, 2014
+* [#233](https://github.com/carmen-ruby/carmen/pull/233) Revert removing Puerto Rico as a country code
+* [#217](https://github.com/carmen-ruby/carmen/pull/217) Add serializer friendly `to_hash` for `Country` and `Region` ([@zarelit](https://github.com/zarelit))
+* [#137](https://github.com/carmen-ruby/carmen/pull/137) Add country search by numeric code ([@Envek](https://github.com/Envek))
+* [#200](https://github.com/carmen-ruby/carmen/pull/200) Add municipalities of Mexico ([@jdsampayo](https://github.com/jdsampayo))
+* [#193](https://github.com/carmen-ruby/carmen/pull/193) Allow filtering subregions by type ([@aldesantis](https://github.com/aldesantis))
+* [#180](https://github.com/carmen-ruby/carmen/pull/180) `Region#subregions` returns freezed array ([@j15e](https://github.com/j15e))
+* [#177](https://github.com/carmen-ruby/carmen/pull/177) Always return a `RegionCollection` from `Region#load_subregions` ([@codeodor](https://github.com/codeodor))
+* Various geographic data updates by [Carmen contributors](https://github.com/carmen-ruby/carmen/graphs/contributors). Thank you!
 
 ### 1.0.2 (March 13, 2015)
 * Replace use of UnicodeUtils with ActiveSupport (eikes)
