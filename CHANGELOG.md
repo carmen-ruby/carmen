@@ -4,7 +4,7 @@
 * Add Rangpur bibha, Bangladesh (ecbypi)
 * Add Telegana, India (ecbypi)
 
-### 1.0.2
+### 1.0.2 (March 13, 2015)
 * Replace use of UnicodeUtils with ActiveSupport (eikes)
 * Update data from upstream sources.
 * Fix spelling errors for French subregions (hugolantaume)
@@ -15,7 +15,7 @@
 * Fixed the name of Vietnam.
 * Add local files for Bangla language (tauhidul35)
 
-### 1.0.1
+### 1.0.1 (March 06, 2014)
 * Avoid raising an exception when calling Querying#coded with a nil code
 * Fix a bug where adding additional data paths caused an error when looking up localized names in the base locale data (seangaffney)
 * Add Country#numeric_code (stevenharman)
