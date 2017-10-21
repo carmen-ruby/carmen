@@ -2,31 +2,31 @@
 en:
   world:
     cz:
-      jc:
-        name: Jihočeský kraj
-      jm:
-        name: Jihomoravský kraj
-      ka:
-        name: Karlovarský kraj
-      kr:
-        name: Královéhradecký kraj
-      li:
-        name: Liberecký kraj
-      mo:
-        name: Moravskoslezský kraj
-      ol:
-        name: Olomoucký kraj
-      pa:
-        name: Pardubický kraj
-      pl:
-        name: Plzeňský kraj
-      pr:
-        name: Praha, hlavní město
-      st:
+      '10':
+        name: Praha, Hlavní mešto
+      '20':
         name: Středočeský kraj
-      us:
-        name: "Ústecký kraj"
-      vy:
-        name: Vysočina
-      zl:
+      '31':
+        name: Jihočeský kraj
+      '32':
+        name: Plzeňský kraj
+      '41':
+        name: Karlovarský kraj
+      '42':
+        name: Ústecký kraj
+      '51':
+        name: Liberecký kraj
+      '52':
+        name: Královéhradecký kraj
+      '53':
+        name: Pardubický kraj
+      '63':
+        name: Kraj Vysočina
+      '64':
+        name: Jihomoravský kraj
+      '71':
+        name: Olomoucký kraj
+      '72':
         name: Zlínský kraj
+      '80':
+        name: Moravskoslezský kraj

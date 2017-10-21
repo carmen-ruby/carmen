@@ -1,29 +1,29 @@
 ---
-- code: JC
+- code: '10'
+  type: capital city
+- code: '20'
   type: region
-- code: JM
+- code: '31'
   type: region
-- code: KA
+- code: '32'
   type: region
-- code: KR
+- code: '41'
   type: region
-- code: LI
+- code: '42'
   type: region
-- code: MO
+- code: '51'
   type: region
-- code: OL
+- code: '52'
   type: region
-- code: PA
+- code: '53'
   type: region
-- code: PL
+- code: '63'
   type: region
-- code: PR
+- code: '64'
   type: region
-- code: ST
+- code: '71'
   type: region
-- code: US
+- code: '72'
   type: region
-- code: VY
-  type: region
-- code: ZL
+- code: '80'
   type: region
