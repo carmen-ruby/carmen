@@ -1,0 +1,17 @@
+---
+en:
+  world:
+    fr:
+      pac:
+        '04':
+          name: Alpes-de-Haute-Provence
+        '05':
+          name: Hautes-Alpes
+        '06':
+          name: Alpes-Maritimes
+        '13':
+          name: Bouches-du-Rhône
+        '83':
+          name: Var
+        '84':
+          name: Vaucluse

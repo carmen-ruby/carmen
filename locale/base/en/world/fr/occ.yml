@@ -1,0 +1,31 @@
+---
+en:
+  world:
+    fr:
+      occ:
+        09:
+          name: Ariège
+        '11':
+          name: Aude
+        '12':
+          name: Aveyron
+        '30':
+          name: Gard
+        '31':
+          name: Haute-Garonne
+        '32':
+          name: Gers
+        '34':
+          name: Hérault
+        '46':
+          name: Lot
+        '48':
+          name: Lozère
+        '65':
+          name: Hautes-Pyrénées
+        '66':
+          name: Pyrénées-Orientales
+        '81':
+          name: Tarn
+        '82':
+          name: Tarn-et-Garonne

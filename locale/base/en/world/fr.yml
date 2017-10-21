@@ -2,73 +2,55 @@
 en:
   world:
     fr:
-      a:
-        name: Alsace
-      b:
-        name: Aquitaine
+      ara:
+        name: Auvergne-Rhône-Alpes
+      bfc:
+        name: Bourgogne-Franche-Comté
       bl:
         name: Saint-Barthélemy
-      c:
-        name: Auvergne
+      bre:
+        name: Bretagne
+      cor:
+        name: Corse
       cp:
         name: Clipperton
-      d:
-        name: Bourgogne
-      e:
-        name: Bretagne
-      f:
-        name: Centre
-      g:
-        name: Champagne-Ardenne
+      cvl:
+        name: Centre-Val de Loire
+      ges:
+        name: Grand-Est
       gf:
-        name: Guyane
-      gp:
+        name: Guyane (française)
+      gua:
         name: Guadeloupe
-      h:
-        name: Corse
-      i:
-        name: Franche-Comté
-      j:
-        name: "Île-de-France"
-      k:
-        name: Languedoc-Roussillon
-      l:
-        name: Limousin
-      m:
-        name: Lorraine
+      hdf:
+        name: Hauts-de-France
+      idf:
+        name: Île-de-France
+      lre:
+        name: La Réunion
+      may:
+        name: Mayotte
       mf:
         name: Saint-Martin
       mq:
         name: Martinique
-      n:
-        name: Midi-Pyrénées
+      naq:
+        name: Nouvelle-Aquitaine
       nc:
         name: Nouvelle-Calédonie
-      o:
-        name: Nord - Pas-de-Calais
-      p:
-        name: Basse-Normandie
+      nor:
+        name: Normandie
+      occ:
+        name: Occitanie
+      pac:
+        name: Provence-Alpes-Côte-d’Azur
+      pdl:
+        name: Pays-de-la-Loire
       pf:
         name: Polynésie française
       pm:
         name: Saint-Pierre-et-Miquelon
-      q:
-        name: Haute-Normandie
-      r:
-        name: Pays de la Loire
-      re:
-        name: Réunion
-      s:
-        name: Picardie
-      t:
-        name: Poitou-Charentes
       tf:
         name: Terres australes françaises
-      u:
-        name: Provence-Alpes-Côte d'Azur
-      v:
-        name: Rhône-Alpes
       wf:
         name: Wallis-et-Futuna
-      yt:
-        name: Mayotte

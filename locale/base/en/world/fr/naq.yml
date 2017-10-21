@@ -1,0 +1,29 @@
+---
+en:
+  world:
+    fr:
+      naq:
+        '16':
+          name: Charente
+        '17':
+          name: Charente-Maritime
+        '19':
+          name: Corrèze
+        '23':
+          name: Creuse
+        '24':
+          name: Dordogne
+        '33':
+          name: Gironde
+        '40':
+          name: Landes
+        '47':
+          name: Lot-et-Garonne
+        '64':
+          name: Pyrénées-Atlantiques
+        '79':
+          name: Deux-Sèvres
+        '86':
+          name: Vienne
+        '87':
+          name: Haute-Vienne

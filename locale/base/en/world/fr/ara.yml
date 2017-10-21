@@ -1,0 +1,29 @@
+---
+en:
+  world:
+    fr:
+      ara:
+        '01':
+          name: Ain
+        '03':
+          name: Allier
+        '07':
+          name: Ardèche
+        '15':
+          name: Cantal
+        '26':
+          name: Drôme
+        '38':
+          name: Isère
+        '42':
+          name: Loire
+        '43':
+          name: Haute-Loire
+        '63':
+          name: Puy-de-Dôme
+        '69':
+          name: Rhône
+        '73':
+          name: Savoie
+        '74':
+          name: Haute-Savoie

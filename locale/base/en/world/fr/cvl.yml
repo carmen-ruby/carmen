@@ -1,0 +1,17 @@
+---
+en:
+  world:
+    fr:
+      cvl:
+        '18':
+          name: Cher
+        '28':
+          name: Eure-et-Loir
+        '36':
+          name: Indre
+        '37':
+          name: Indre-et-Loire
+        '41':
+          name: Loir-et-Cher
+        '45':
+          name: Loiret

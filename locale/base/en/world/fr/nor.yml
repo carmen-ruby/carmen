@@ -1,0 +1,15 @@
+---
+en:
+  world:
+    fr:
+      nor:
+        '14':
+          name: Calvados
+        '27':
+          name: Eure
+        '50':
+          name: Manche
+        '61':
+          name: Orne
+        '76':
+          name: Seine-Maritime

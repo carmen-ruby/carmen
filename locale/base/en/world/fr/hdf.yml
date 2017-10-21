@@ -1,0 +1,15 @@
+---
+en:
+  world:
+    fr:
+      hdf:
+        '02':
+          name: Aisne
+        '59':
+          name: Nord
+        '60':
+          name: Oise
+        '62':
+          name: Pas-de-Calais
+        '80':
+          name: Somme
