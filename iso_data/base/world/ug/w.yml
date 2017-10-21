@@ -1,33 +1,19 @@
 ---
-- code: '419'
-  type: district
 - code: '401'
   type: district
 - code: '402'
   type: district
 - code: '403'
   type: district
-- code: '416'
-  type: district
-- code: '417'
-  type: district
 - code: '404'
   type: district
 - code: '405'
-  type: district
-- code: '413'
-  type: district
-- code: '414'
   type: district
 - code: '406'
   type: district
 - code: '407'
   type: district
-- code: '418'
-  type: district
 - code: '408'
-  type: district
-- code: '415'
   type: district
 - code: '409'
   type: district
@@ -36,4 +22,18 @@
 - code: '411'
   type: district
 - code: '412'
+  type: district
+- code: '413'
+  type: district
+- code: '414'
+  type: district
+- code: '415'
+  type: district
+- code: '416'
+  type: district
+- code: '417'
+  type: district
+- code: '418'
+  type: district
+- code: '419'
   type: district

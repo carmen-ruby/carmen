@@ -1,11 +1,11 @@
 ---
 - code: '52'
   type: department
-- code: '71'
-  type: department
 - code: '55'
   type: department
-- code: '73'
+- code: '71'
   type: department
 - code: '72'
+  type: department
+- code: '73'
   type: department

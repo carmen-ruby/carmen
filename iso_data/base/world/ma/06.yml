@@ -1,7 +1,7 @@
 ---
-- code: HAJ
-  type: province
 - code: ERR
+  type: province
+- code: HAJ
   type: province
 - code: IFR
   type: province

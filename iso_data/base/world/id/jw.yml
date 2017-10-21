@@ -3,11 +3,11 @@
   type: province
 - code: JB
   type: province
-- code: JT
-  type: province
 - code: JI
   type: province
 - code: JK
   type: special district
+- code: JT
+  type: province
 - code: YO
   type: special region

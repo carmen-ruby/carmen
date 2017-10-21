@@ -1,12 +1,12 @@
 ---
-- code: NV
-  type: municipality
 - code: BAB
   type: rayon
 - code: CUL
   type: rayon
 - code: KAN
   type: rayon
+- code: NV
+  type: municipality
 - code: ORD
   type: rayon
 - code: SAD

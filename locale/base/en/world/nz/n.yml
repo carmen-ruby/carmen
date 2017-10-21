@@ -7,6 +7,8 @@ en:
           name: Auckland
         bop:
           name: Bay of Plenty
+        gis:
+          name: Gisborne District
         hkb:
           name: Hawke's Bay
         mwt:
@@ -15,9 +17,7 @@ en:
           name: Northland
         tki:
           name: Taranaki
-        wko:
-          name: Waikato
         wgn:
           name: Wellington
-        gis:
-          name: Gisborne District
+        wko:
+          name: Waikato

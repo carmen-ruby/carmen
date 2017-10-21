@@ -1,7 +1,7 @@
 ---
-- code: CH
-  type: province
 - code: AQ
+  type: province
+- code: CH
   type: province
 - code: PE
   type: province

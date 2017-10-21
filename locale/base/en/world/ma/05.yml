@@ -5,9 +5,9 @@ en:
       '05':
         bom:
           name: Boulemane
+        fes:
+          name: Fès-Dar-Dbibegh
         mou:
           name: Moulay Yacoub
         sef:
           name: Sefrou
-        fes:
-          name: Fès-Dar-Dbibegh

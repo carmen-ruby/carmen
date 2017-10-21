@@ -3,7 +3,7 @@ en:
   world:
     'no':
       '01':
-        name: "Østfold"
+        name: Østfold
       '02':
         name: Akershus
       '03':

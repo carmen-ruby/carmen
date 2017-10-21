@@ -7,11 +7,11 @@
   type: county
 - code: KK
   type: county
-- code: LS
-  type: county
 - code: LD
   type: county
 - code: LH
+  type: county
+- code: LS
   type: county
 - code: MH
   type: county
@@ -19,7 +19,7 @@
   type: county
 - code: WH
   type: county
-- code: WX
-  type: county
 - code: WW
+  type: county
+- code: WX
   type: county

@@ -23,7 +23,7 @@ en:
       '010':
         name: Auces novads
       '011':
-        name: "Ādažu novads"
+        name: Ādažu novads
       '012':
         name: Babītes novads
       '013':
@@ -61,7 +61,7 @@ en:
       029:
         name: Engures novads
       '030':
-        name: "Ērgļu novads"
+        name: Ērgļu novads
       '031':
         name: Garkalnes novads
       '032':
@@ -103,9 +103,9 @@ en:
       '050':
         name: Kuldīgas novads
       '051':
-        name: "Ķeguma novads"
+        name: Ķeguma novads
       '052':
-        name: "Ķekavas novads"
+        name: Ķekavas novads
       '053':
         name: Lielvārdes novads
       '054':

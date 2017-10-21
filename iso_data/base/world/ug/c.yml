@@ -3,17 +3,11 @@
   type: district
 - code: '102'
   type: district
-- code: '112'
-  type: district
 - code: '103'
   type: district
 - code: '104'
   type: district
-- code: '116'
-  type: district
 - code: '105'
-  type: district
-- code: '114'
   type: district
 - code: '106'
   type: district
@@ -21,13 +15,19 @@
   type: district
 - code: '108'
   type: district
-- code: '115'
-  type: district
 - code: '109'
   type: district
 - code: '110'
   type: district
 - code: '111'
   type: district
+- code: '112'
+  type: district
 - code: '113'
+  type: district
+- code: '114'
+  type: district
+- code: '115'
+  type: district
+- code: '116'
   type: district

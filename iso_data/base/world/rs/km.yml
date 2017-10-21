@@ -1,11 +1,11 @@
 ---
 - code: '25'
   type: district
-- code: '28'
-  type: district
-- code: '29'
-  type: district
 - code: '26'
   type: district
 - code: '27'
+  type: district
+- code: '28'
+  type: district
+- code: '29'
   type: district

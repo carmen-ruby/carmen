@@ -1,11 +1,11 @@
 ---
-- code: '05'
+- code: '03'
   type: department
 - code: '04'
   type: department
-- code: '07'
+- code: '05'
   type: department
 - code: '06'
   type: department
-- code: '03'
+- code: '07'
   type: department

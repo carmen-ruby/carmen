@@ -5,12 +5,12 @@ en:
       '11':
         com:
           name: Compostela Valley
-        dav:
-          name: Davao del Norte
-        das:
-          name: Davao del Sur
         dao:
           name: Davao Oriental
+        das:
+          name: Davao del Sur
+        dav:
+          name: Davao del Norte
         sar:
           name: Sarangani
         sco:

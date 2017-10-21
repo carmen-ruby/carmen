@@ -31,11 +31,11 @@ en:
       '014':
         name: Cerkno
       '015':
-        name: "Črenšovci"
+        name: Črenšovci
       '016':
-        name: "Črna na Koroškem"
+        name: Črna na Koroškem
       '017':
-        name: "Črnomelj"
+        name: Črnomelj
       018:
         name: Destrnik
       019:
@@ -67,7 +67,7 @@ en:
       '032':
         name: Grosuplje
       '033':
-        name: "Šalovci"
+        name: Šalovci
       '034':
         name: Hrastnik
       '035':
@@ -235,27 +235,27 @@ en:
       '116':
         name: Sveti Jurij
       '117':
-        name: "Šenčur"
+        name: Šenčur
       '118':
-        name: "Šentilj"
+        name: Šentilj
       '119':
-        name: "Šentjernej"
+        name: Šentjernej
       '120':
-        name: "Šentjur"
+        name: Šentjur
       '121':
-        name: "Škocjan"
+        name: Škocjan
       '122':
-        name: "Škofja Loka"
+        name: Škofja Loka
       '123':
-        name: "Škofljica"
+        name: Škofljica
       '124':
-        name: "Šmarje pri Jelšah"
+        name: Šmarje pri Jelšah
       '125':
-        name: "Šmartno ob Paki"
+        name: Šmartno ob Paki
       '126':
-        name: "Šoštanj"
+        name: Šoštanj
       '127':
-        name: "Štore"
+        name: Štore
       '128':
         name: Tolmin
       '129':
@@ -291,9 +291,9 @@ en:
       '144':
         name: Zreče
       '146':
-        name: "Železniki"
+        name: Železniki
       '147':
-        name: "Žiri"
+        name: Žiri
       '148':
         name: Benedikt
       '149':
@@ -365,7 +365,7 @@ en:
       '182':
         name: Sveta Andraž v Slovenskih Goricah
       '183':
-        name: "Šempeter-Vrtojba"
+        name: Šempeter-Vrtojba
       '184':
         name: Tabor
       '185':
@@ -379,15 +379,15 @@ en:
       '189':
         name: Vransko
       '190':
-        name: "Žalec"
+        name: Žalec
       '191':
-        name: "Žetale"
+        name: Žetale
       '192':
-        name: "Žirovnica"
+        name: Žirovnica
       '193':
-        name: "Žužemberk"
+        name: Žužemberk
       '194':
-        name: "Šmartno pri Litiji"
+        name: Šmartno pri Litiji
       '195':
         name: Apače
       '196':
@@ -411,7 +411,7 @@ en:
       '205':
         name: Sveti Tomaž
       '206':
-        name: "Šmarjeske Topliče"
+        name: Šmarjeske Topliče
       '207':
         name: Gorje
       '208':
@@ -421,4 +421,4 @@ en:
       '210':
         name: Sveti Jurij v Slovenskih Goricah
       '211':
-        name: "Šentrupert"
+        name: Šentrupert

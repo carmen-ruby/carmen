@@ -3,10 +3,10 @@ en:
   world:
     it:
       '65':
-        ch:
-          name: Chieti
         aq:
           name: L'Aquila
+        ch:
+          name: Chieti
         pe:
           name: Pescara
         te:

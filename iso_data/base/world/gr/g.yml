@@ -1,7 +1,7 @@
 ---
-- code: '13'
-  type: department
 - code: '01'
+  type: department
+- code: '13'
   type: department
 - code: '14'
   type: department

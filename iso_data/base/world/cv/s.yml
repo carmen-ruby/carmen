@@ -1,6 +1,12 @@
 ---
 - code: BR
   type: municipality
+- code: CA
+  type: municipality
+- code: CF
+  type: municipality
+- code: CR
+  type: municipality
 - code: MA
   type: municipality
 - code: MO
@@ -9,19 +15,13 @@
   type: municipality
 - code: RS
   type: municipality
-- code: CA
-  type: municipality
-- code: CF
-  type: municipality
-- code: CR
-  type: municipality
 - code: SD
   type: municipality
 - code: SF
   type: municipality
-- code: SO
-  type: municipality
 - code: SM
+  type: municipality
+- code: SO
   type: municipality
 - code: SS
   type: municipality

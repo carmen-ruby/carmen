@@ -1,27 +1,11 @@
 ---
-- code: '216'
-  type: district
-- code: '217'
-  type: district
-- code: '223'
-  type: district
 - code: '201'
   type: district
-- code: '224'
-  type: district
-- code: '218'
-  type: district
 - code: '202'
-  type: district
-- code: '219'
   type: district
 - code: '203'
   type: district
 - code: '204'
-  type: district
-- code: '213'
-  type: district
-- code: '220'
   type: district
 - code: '205'
   type: district
@@ -31,19 +15,35 @@
   type: district
 - code: '208'
   type: district
-- code: '221'
-  type: district
-- code: '214'
-  type: district
 - code: '209'
   type: district
-- code: '222'
-  type: district
 - code: '210'
-  type: district
-- code: '215'
   type: district
 - code: '211'
   type: district
 - code: '212'
+  type: district
+- code: '213'
+  type: district
+- code: '214'
+  type: district
+- code: '215'
+  type: district
+- code: '216'
+  type: district
+- code: '217'
+  type: district
+- code: '218'
+  type: district
+- code: '219'
+  type: district
+- code: '220'
+  type: district
+- code: '221'
+  type: district
+- code: '222'
+  type: district
+- code: '223'
+  type: district
+- code: '224'
   type: district

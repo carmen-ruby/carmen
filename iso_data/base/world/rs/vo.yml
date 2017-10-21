@@ -1,15 +1,15 @@
 ---
-- code: '06'
-  type: district
-- code: '04'
-  type: district
 - code: '01'
-  type: district
-- code: '03'
   type: district
 - code: '02'
   type: district
-- code: '07'
+- code: '03'
+  type: district
+- code: '04'
   type: district
 - code: '05'
+  type: district
+- code: '06'
+  type: district
+- code: '07'
   type: district

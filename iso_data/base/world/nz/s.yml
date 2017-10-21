@@ -1,15 +1,15 @@
 ---
 - code: CAN
   type: regional council
-- code: OTA
-  type: regional council
-- code: STL
-  type: regional council
-- code: WTC
-  type: regional council
 - code: MBH
   type: unitary authority
 - code: NSN
   type: unitary authority
+- code: OTA
+  type: regional council
+- code: STL
+  type: regional council
 - code: TAS
   type: unitary authority
+- code: WTC
+  type: regional council

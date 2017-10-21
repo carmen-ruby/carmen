@@ -7,15 +7,15 @@ en:
           name: Cagliari
         ci:
           name: Carbonia-Iglesias
-        vs:
-          name: Medio Campidano
         nu:
           name: Nuoro
         og:
           name: Ogliastra
-        ot:
-          name: Olbia-Tempio
         or:
           name: Oristano
+        ot:
+          name: Olbia-Tempio
         ss:
           name: Sassari
+        vs:
+          name: Medio Campidano

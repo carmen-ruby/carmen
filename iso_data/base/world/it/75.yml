@@ -1,9 +1,9 @@
 ---
 - code: BA
   type: province
-- code: BT
-  type: province
 - code: BR
+  type: province
+- code: BT
   type: province
 - code: FG
   type: province

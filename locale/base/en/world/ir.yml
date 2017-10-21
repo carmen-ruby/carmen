@@ -3,15 +3,15 @@ en:
   world:
     ir:
       '01':
-        name: "Āzarbāyjān-e Sharqī"
+        name: Āzarbāyjān-e Sharqī
       '02':
-        name: "Āzarbāyjān-e Gharbī"
+        name: Āzarbāyjān-e Gharbī
       '03':
         name: Ardabīl
       '04':
         name: Eşfahān
       '05':
-        name: "Īlām"
+        name: Īlām
       '06':
         name: Būshehr
       '07':

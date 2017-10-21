@@ -7,33 +7,33 @@ en:
           name: Dhaka
         '15':
           name: Faridpur
-        '18':
-          name: Gazipur
         '17':
           name: Gopalganj
+        '18':
+          name: Gazipur
         '21':
           name: Jamalpur
         '26':
           name: Kishorganj
-        '36':
-          name: Madaripur
         '33':
           name: Manikganj
-        '35':
-          name: Munshiganj
         '34':
           name: Mymensingh
+        '35':
+          name: Munshiganj
+        '36':
+          name: Madaripur
         '40':
           name: Narayanganj
-        '42':
-          name: Narsingdi
         '41':
           name: Netrakona
+        '42':
+          name: Narsingdi
         '53':
           name: Rajbari
-        '62':
-          name: Shariatpur
         '57':
           name: Sherpur
+        '62':
+          name: Shariatpur
         '63':
           name: Tangail

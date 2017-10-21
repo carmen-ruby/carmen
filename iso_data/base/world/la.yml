@@ -33,5 +33,5 @@
   type: province
 - code: XI
   type: province
-- code: XN
-  type: special zone
+- code: XS
+  type: province
