@@ -59,7 +59,7 @@ en:
       official_name: 
     ax:
       common_name: 
-      name: "Åland Islands"
+      name: Åland Islands
       official_name: 
     az:
       common_name: 
@@ -207,8 +207,8 @@ en:
       official_name: Republic of Cuba
     cv:
       common_name: 
-      name: Cape Verde
-      official_name: Republic of Cape Verde
+      name: Cabo Verde
+      official_name: Republic of Cabo Verde
     cw:
       common_name: 
       name: Curaçao
@@ -223,8 +223,8 @@ en:
       official_name: Republic of Cyprus
     cz:
       common_name: 
-      name: Czech Republic
-      official_name: 
+      name: Czechia
+      official_name: Czech Republic
     de:
       common_name: 
       name: Germany
@@ -340,7 +340,7 @@ en:
     gm:
       common_name: 
       name: Gambia
-      official_name: Republic of the Gambia
+      official_name: Islamic Republic of the Gambia
     gn:
       common_name: 
       name: Guinea
@@ -914,7 +914,7 @@ en:
       name: Taiwan, Province of China
       official_name: Taiwan, Province of China
     tz:
-      common_name: 
+      common_name: Tanzania
       name: Tanzania, United Republic of
       official_name: United Republic of Tanzania
     ua:
@@ -962,7 +962,7 @@ en:
       name: Virgin Islands, U.S.
       official_name: Virgin Islands of the United States
     vn:
-      common_name: 
+      common_name: Vietnam
       name: Viet Nam
       official_name: Socialist Republic of Viet Nam
     vu:
