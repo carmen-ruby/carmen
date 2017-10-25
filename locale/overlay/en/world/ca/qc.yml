@@ -1,0 +1,39 @@
+---
+en:
+  world:
+    ca:
+      qc:
+        '01':
+          name: "Bas-Saint-Laurent"
+        '02':
+          name: "Saguenay–Lac-Saint-Jean"
+        '03':
+          name: "Capitale-Nationale"
+        '04':
+          name: "Mauricie"
+        '05':
+          name: "Estrie"
+        '06':
+          name: "Montréal"
+        '07':
+          name: "Outaouais"
+        '08':
+          name: "Abitibi-Témiscamingue"
+        '09':
+          name: "Côte-Nord"
+        '10':
+          name: "Nord-du-Québec"
+        '11':
+          name: "Gaspésie–Îles-de-la-Madeleine"
+        '12':
+          name: "Chaudière-Appalaches"
+        '13':
+          name: "Laval"
+        '14':
+          name: "Lanaudière"
+        '15':
+          name: "Laurentides"
+        '16':
+          name: "Montérégie"
+        '17':
+          name: "Centre-du-Québec"
