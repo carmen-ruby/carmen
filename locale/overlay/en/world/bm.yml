@@ -1,0 +1,22 @@
+---
+en:
+  world:
+    bm:
+      dev:
+        name: Devenshire
+      ham:
+        name: Hamilton
+      pag:
+        name: Paget
+      pem:
+        name: Pembroke
+      sge:
+        name: Saint George's
+      san:
+        name: Sandys
+      smi:
+        name: Smiths
+      sou:
+        name: Southampton
+      war:
+        name: Warwick
