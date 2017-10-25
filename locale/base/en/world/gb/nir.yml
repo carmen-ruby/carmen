@@ -1,0 +1,27 @@
+---
+en:
+  world:
+    gb:
+      nir:
+        abc:
+          name: Armagh, Banbridge and Craigavon
+        and:
+          name: Ards and North Down
+        ann:
+          name: Antrim and Newtownabbey
+        bfs:
+          name: Belfast
+        ccg:
+          name: Causeway Coast and Glens
+        drs:
+          name: Derry and Strabane
+        fmo:
+          name: Fermanagh and Omagh
+        lbc:
+          name: Lisburn and Castlereagh
+        mea:
+          name: Mid and East Antrim
+        mul:
+          name: Mid Ulster
+        nmd:
+          name: Newry, Mourne and Down

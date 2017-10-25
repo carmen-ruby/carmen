@@ -1,11 +1,11 @@
 ---
 - code: CHE
   type: province
-- code: LAR
-  type: province
 - code: FAH
   type: prefecture
-- code: TNG
-  type: prefecture
+- code: LAR
+  type: province
 - code: TET
+  type: prefecture
+- code: TNG
   type: prefecture

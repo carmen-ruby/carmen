@@ -1,21 +1,21 @@
 ---
-- code: '05'
-  type: canton
-- code: '07'
-  type: canton
-- code: '10'
-  type: canton
-- code: 09
+- code: '01'
   type: canton
 - code: '02'
   type: canton
-- code: '06'
-  type: canton
 - code: '03'
   type: canton
-- code: '01'
+- code: '04'
+  type: canton
+- code: '05'
+  type: canton
+- code: '06'
+  type: canton
+- code: '07'
   type: canton
 - code: 08
   type: canton
-- code: '04'
+- code: 09
+  type: canton
+- code: '10'
   type: canton

@@ -1,0 +1,21 @@
+---
+en:
+  world:
+    fr:
+      idf:
+        '75':
+          name: Paris
+        '77':
+          name: Seine-et-Marne
+        '78':
+          name: Yvelines
+        '91':
+          name: Essonne
+        '92':
+          name: Hauts-de-Seine
+        '93':
+          name: Seine-Saint-Denis
+        '94':
+          name: Val-de-Marne
+        '95':
+          name: Val-d'Oise

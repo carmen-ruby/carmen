@@ -53,7 +53,7 @@ en:
       '32':
         name: Phú Yên
       '33':
-        name: "Đắc Lắk"
+        name: Đắc Lắk
       '34':
         name: Khánh Hòa
       '35':
@@ -63,7 +63,7 @@ en:
       '37':
         name: Tây Ninh
       '39':
-        name: "Đồng Nai"
+        name: Đồng Nai
       '40':
         name: Bình Thuận
       '41':
@@ -73,7 +73,7 @@ en:
       '44':
         name: An Giang
       '45':
-        name: "Đồng Tháp"
+        name: Đồng Tháp
       '46':
         name: Tiền Giang
       '47':
@@ -115,15 +115,15 @@ en:
       '70':
         name: Vĩnh Phúc
       '71':
-        name: "Điện Biên"
+        name: Điện Biên
       '72':
-        name: "Đắk Nông"
+        name: Đắk Nông
       '73':
         name: Hậu Giang
       ct:
         name: Cần Thơ
       dn:
-        name: "Đà Nẵng"
+        name: Đà Nẵng
       hn:
         name: Hà Nội
       hp:

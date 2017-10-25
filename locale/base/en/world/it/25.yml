@@ -15,12 +15,12 @@ en:
           name: Lecco
         lo:
           name: Lodi
-        mn:
-          name: Mantova
-        mi:
-          name: Milano
         mb:
           name: Monza e Brianza
+        mi:
+          name: Milano
+        mn:
+          name: Mantova
         pv:
           name: Pavia
         so:

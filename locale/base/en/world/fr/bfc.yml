@@ -1,0 +1,21 @@
+---
+en:
+  world:
+    fr:
+      bfc:
+        '21':
+          name: Côte-d'Or
+        '25':
+          name: Doubs
+        '39':
+          name: Jura
+        '58':
+          name: Nièvre
+        '70':
+          name: Haute-Saône
+        '71':
+          name: Saône-et-Loire
+        '89':
+          name: Yonne
+        '90':
+          name: Territoire de Belfort

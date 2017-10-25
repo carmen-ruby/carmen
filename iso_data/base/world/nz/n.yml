@@ -3,6 +3,8 @@
   type: regional council
 - code: BOP
   type: regional council
+- code: GIS
+  type: unitary authority
 - code: HKB
   type: regional council
 - code: MWT
@@ -11,9 +13,7 @@
   type: regional council
 - code: TKI
   type: regional council
-- code: WKO
-  type: regional council
 - code: WGN
   type: regional council
-- code: GIS
-  type: unitary authority
+- code: WKO
+  type: regional council

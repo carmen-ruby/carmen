@@ -1,7 +1,7 @@
 ---
-- code: CZ
-  type: province
 - code: CS
+  type: province
+- code: CZ
   type: province
 - code: KR
   type: province

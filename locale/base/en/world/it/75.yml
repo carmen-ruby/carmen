@@ -5,10 +5,10 @@ en:
       '75':
         ba:
           name: Bari
-        bt:
-          name: Barletta-Andria-Trani
         br:
           name: Brindisi
+        bt:
+          name: Barletta-Andria-Trani
         fg:
           name: Foggia
         le:

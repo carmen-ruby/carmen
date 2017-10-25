@@ -5,9 +5,9 @@ en:
       ka:
         kb:
           name: Kalimantan Barat
-        kt:
-          name: Kalimantan Tengah
-        ks:
-          name: Kalimantan Selatan
         ki:
           name: Kalimantan Timur
+        ks:
+          name: Kalimantan Selatan
+        kt:
+          name: Kalimantan Tengah

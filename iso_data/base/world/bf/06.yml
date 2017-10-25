@@ -1,9 +1,9 @@
 ---
 - code: BLK
   type: province
-- code: SNG
-  type: province
 - code: SIS
+  type: province
+- code: SNG
   type: province
 - code: ZIR
   type: province

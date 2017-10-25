@@ -1,0 +1,309 @@
+---
+en:
+  world:
+    gb:
+      eng:
+        bas:
+          name: Bath and North East Somerset
+        bbd:
+          name: Blackburn with Darwen
+        bdf:
+          name: Bedford
+        bdg:
+          name: Barking and Dagenham
+        ben:
+          name: Brent
+        bex:
+          name: Bexley
+        bir:
+          name: Birmingham
+        bkm:
+          name: Buckinghamshire
+        bmh:
+          name: Bournemouth
+        bne:
+          name: Barnet
+        bnh:
+          name: Brighton and Hove
+        bns:
+          name: Barnsley
+        bol:
+          name: Bolton
+        bpl:
+          name: Blackpool
+        brc:
+          name: Bracknell Forest
+        brd:
+          name: Bradford
+        bry:
+          name: Bromley
+        bst:
+          name: Bristol, City of
+        bur:
+          name: Bury
+        cam:
+          name: Cambridgeshire
+        cbf:
+          name: Central Bedfordshire
+        che:
+          name: Cheshire East
+        chw:
+          name: Cheshire West and Chester
+        cld:
+          name: Calderdale
+        cma:
+          name: Cumbria
+        cmd:
+          name: Camden
+        con:
+          name: Cornwall
+        cov:
+          name: Coventry
+        cry:
+          name: Croydon
+        dal:
+          name: Darlington
+        dby:
+          name: Derbyshire
+        der:
+          name: Derby
+        dev:
+          name: Devon
+        dnc:
+          name: Doncaster
+        dor:
+          name: Dorset
+        dud:
+          name: Dudley
+        dur:
+          name: Durham County
+        eal:
+          name: Ealing
+        enf:
+          name: Enfield
+        ery:
+          name: East Riding of Yorkshire
+        ess:
+          name: Essex
+        esx:
+          name: East Sussex
+        gat:
+          name: Gateshead
+        gls:
+          name: Gloucestershire
+        gre:
+          name: Greenwich
+        hal:
+          name: Halton
+        ham:
+          name: Hampshire
+        hav:
+          name: Havering
+        hck:
+          name: Hackney
+        hef:
+          name: Herefordshire
+        hil:
+          name: Hillingdon
+        hmf:
+          name: Hammersmith and Fulham
+        hns:
+          name: Hounslow
+        hpl:
+          name: Hartlepool
+        hrt:
+          name: Hertfordshire
+        hrw:
+          name: Harrow
+        hry:
+          name: Haringey
+        ios:
+          name: Isles of Scilly
+        iow:
+          name: Isle of Wight
+        isl:
+          name: Islington
+        kec:
+          name: Kensington and Chelsea
+        ken:
+          name: Kent
+        khl:
+          name: Kingston upon Hull
+        kir:
+          name: Kirklees
+        ktt:
+          name: Kingston upon Thames
+        kwl:
+          name: Knowsley
+        lan:
+          name: Lancashire
+        lbh:
+          name: Lambeth
+        lce:
+          name: Leicester
+        lds:
+          name: Leeds
+        lec:
+          name: Leicestershire
+        lew:
+          name: Lewisham
+        lin:
+          name: Lincolnshire
+        liv:
+          name: Liverpool
+        lnd:
+          name: London, City of
+        lut:
+          name: Luton
+        man:
+          name: Manchester
+        mdb:
+          name: Middlesbrough
+        mdw:
+          name: Medway
+        mik:
+          name: Milton Keynes
+        mrt:
+          name: Merton
+        nbl:
+          name: Northumberland
+        nel:
+          name: North East Lincolnshire
+        net:
+          name: Newcastle upon Tyne
+        nfk:
+          name: Norfolk
+        ngm:
+          name: Nottingham
+        nln:
+          name: North Lincolnshire
+        nsm:
+          name: North Somerset
+        nth:
+          name: Northamptonshire
+        ntt:
+          name: Nottinghamshire
+        nty:
+          name: North Tyneside
+        nwm:
+          name: Newham
+        nyk:
+          name: North Yorkshire
+        old:
+          name: Oldham
+        oxf:
+          name: Oxfordshire
+        ply:
+          name: Plymouth
+        pol:
+          name: Poole
+        por:
+          name: Portsmouth
+        pte:
+          name: Peterborough
+        rcc:
+          name: Redcar and Cleveland
+        rch:
+          name: Rochdale
+        rdb:
+          name: Redbridge
+        rdg:
+          name: Reading
+        ric:
+          name: Richmond upon Thames
+        rot:
+          name: Rotherham
+        rut:
+          name: Rutland
+        saw:
+          name: Sandwell
+        sfk:
+          name: Suffolk
+        sft:
+          name: Sefton
+        sgc:
+          name: South Gloucestershire
+        shf:
+          name: Sheffield
+        shn:
+          name: St. Helens
+        shr:
+          name: Shropshire
+        skp:
+          name: Stockport
+        slf:
+          name: Salford
+        slg:
+          name: Slough
+        snd:
+          name: Sunderland
+        sol:
+          name: Solihull
+        som:
+          name: Somerset
+        sos:
+          name: Southend-on-Sea
+        sry:
+          name: Surrey
+        ste:
+          name: Stoke-on-Trent
+        sth:
+          name: Southampton
+        stn:
+          name: Sutton
+        sts:
+          name: Staffordshire
+        stt:
+          name: Stockton-on-Tees
+        sty:
+          name: South Tyneside
+        swd:
+          name: Swindon
+        swk:
+          name: Southwark
+        tam:
+          name: Tameside
+        tfw:
+          name: Telford and Wrekin
+        thr:
+          name: Thurrock
+        tob:
+          name: Torbay
+        trf:
+          name: Trafford
+        twh:
+          name: Tower Hamlets
+        war:
+          name: Warwickshire
+        wbk:
+          name: West Berkshire
+        wft:
+          name: Waltham Forest
+        wgn:
+          name: Wigan
+        wil:
+          name: Wiltshire
+        wkf:
+          name: Wakefield
+        wll:
+          name: Walsall
+        wlv:
+          name: Wolverhampton
+        wnd:
+          name: Wandsworth
+        wnm:
+          name: Windsor and Maidenhead
+        wok:
+          name: Wokingham
+        wor:
+          name: Worcestershire
+        wrl:
+          name: Wirral
+        wrt:
+          name: Warrington
+        wsm:
+          name: Westminster
+        wsx:
+          name: West Sussex
+        yor:
+          name: York

@@ -5,16 +5,16 @@ en:
       '45':
         bo:
           name: Bologna
-        fe:
-          name: Ferrara
         fc:
           name: Forlì-Cesena
+        fe:
+          name: Ferrara
         mo:
           name: Modena
-        pr:
-          name: Parma
         pc:
           name: Piacenza
+        pr:
+          name: Parma
         ra:
           name: Ravenna
         re:

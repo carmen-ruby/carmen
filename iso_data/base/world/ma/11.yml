@@ -1,9 +1,9 @@
 ---
-- code: HAO
-  type: province
 - code: CHI
   type: province
 - code: ESI
+  type: province
+- code: HAO
   type: province
 - code: KES
   type: province

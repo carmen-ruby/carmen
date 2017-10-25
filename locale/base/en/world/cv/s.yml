@@ -5,6 +5,12 @@ en:
       s:
         br:
           name: Brava
+        ca:
+          name: Santa Catarina
+        cf:
+          name: Santa Catarina de Fogo
+        cr:
+          name: Santa Cruz
         ma:
           name: Maio
         mo:
@@ -13,20 +19,14 @@ en:
           name: Praia
         rs:
           name: Ribeira Grande de Santiago
-        ca:
-          name: Santa Catarina
-        cf:
-          name: Santa Catarina de Fogo
-        cr:
-          name: Santa Cruz
         sd:
           name: São Domingos
         sf:
           name: São Filipe
-        so:
-          name: São Lourenço dos Órgãos
         sm:
           name: São Miguel
+        so:
+          name: São Lourenço dos Órgãos
         ss:
           name: São Salvador do Mundo
         ta:

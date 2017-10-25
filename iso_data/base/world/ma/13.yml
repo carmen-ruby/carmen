@@ -1,6 +1,10 @@
 ---
+- code: AGD
+  type: prefecture
 - code: CHT
   type: province
+- code: INE
+  type: prefecture
 - code: OUA
   type: province
 - code: TAR
@@ -9,7 +13,3 @@
   type: province
 - code: ZAG
   type: province
-- code: AGD
-  type: prefecture
-- code: INE
-  type: prefecture

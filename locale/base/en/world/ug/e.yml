@@ -3,30 +3,14 @@ en:
   world:
     ug:
       e:
-        '216':
-          name: Amuria
-        '217':
-          name: Budaka
-        '223':
-          name: Bududa
         '201':
           name: Bugiri
-        '224':
-          name: Bukedea
-        '218':
-          name: Bukwa
         '202':
           name: Busia
-        '219':
-          name: Butaleja
         '203':
           name: Iganga
         '204':
           name: Jinja
-        '213':
-          name: Kaberamaido
-        '220':
-          name: Kaliro
         '205':
           name: Kamuli
         '206':
@@ -35,19 +19,35 @@ en:
           name: Katakwi
         '208':
           name: Kumi
-        '221':
-          name: Manafwa
-        '214':
-          name: Mayuge
         '209':
           name: Mbale
-        '222':
-          name: Namutumba
         '210':
           name: Pallisa
-        '215':
-          name: Sironko
         '211':
           name: Soroti
         '212':
           name: Tororo
+        '213':
+          name: Kaberamaido
+        '214':
+          name: Mayuge
+        '215':
+          name: Sironko
+        '216':
+          name: Amuria
+        '217':
+          name: Budaka
+        '218':
+          name: Bukwa
+        '219':
+          name: Butaleja
+        '220':
+          name: Kaliro
+        '221':
+          name: Manafwa
+        '222':
+          name: Namutumba
+        '223':
+          name: Bududa
+        '224':
+          name: Bukedea

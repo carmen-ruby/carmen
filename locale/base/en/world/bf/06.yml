@@ -5,9 +5,9 @@ en:
       '06':
         blk:
           name: Boulkiemdé
-        sng:
-          name: Sanguié
         sis:
           name: Sissili
+        sng:
+          name: Sanguié
         zir:
           name: Ziro

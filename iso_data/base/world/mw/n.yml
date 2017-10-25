@@ -7,9 +7,9 @@
   type: district
 - code: MZ
   type: district
-- code: NE
-  type: district
 - code: NB
+  type: district
+- code: NE
   type: district
 - code: RU
   type: district

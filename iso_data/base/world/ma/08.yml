@@ -1,9 +1,9 @@
 ---
-- code: MED
-  type: province
-- code: NOU
-  type: province
 - code: CAS
   type: prefecture
+- code: MED
+  type: province
 - code: MOH
   type: prefecture
+- code: NOU
+  type: province

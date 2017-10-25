@@ -3,10 +3,10 @@ en:
   world:
     gr:
       b:
-        '64':
-          name: Chalkidiki
         '53':
           name: Imathia
+        '54':
+          name: Thessaloniki
         '57':
           name: Kilkis
         '59':
@@ -15,5 +15,5 @@ en:
           name: Pieria
         '62':
           name: Serres
-        '54':
-          name: Thessaloniki
+        '64':
+          name: Chalkidiki

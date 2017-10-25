@@ -9,11 +9,11 @@
   type: district
 - code: MC
   type: district
+- code: NI
+  type: district
 - code: NK
   type: district
 - code: NU
-  type: district
-- code: NI
   type: district
 - code: SA
   type: district

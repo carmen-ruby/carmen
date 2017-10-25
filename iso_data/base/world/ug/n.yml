@@ -1,43 +1,43 @@
 ---
-- code: '317'
-  type: district
 - code: '301'
-  type: district
-- code: '314'
-  type: district
-- code: '319'
   type: district
 - code: '302'
   type: district
 - code: '303'
   type: district
-- code: '318'
-  type: district
 - code: '304'
   type: district
-- code: '315'
-  type: district
 - code: '305'
-  type: district
-- code: '316'
   type: district
 - code: '306'
   type: district
 - code: '307'
   type: district
-- code: '320'
-  type: district
 - code: '308'
   type: district
 - code: '309'
   type: district
-- code: '311'
-  type: district
 - code: '310'
   type: district
-- code: '321'
+- code: '311'
   type: district
 - code: '312'
   type: district
 - code: '313'
+  type: district
+- code: '314'
+  type: district
+- code: '315'
+  type: district
+- code: '316'
+  type: district
+- code: '317'
+  type: district
+- code: '318'
+  type: district
+- code: '319'
+  type: district
+- code: '320'
+  type: district
+- code: '321'
   type: district

@@ -1,15 +1,15 @@
 ---
 - code: BO
   type: province
-- code: FE
-  type: province
 - code: FC
+  type: province
+- code: FE
   type: province
 - code: MO
   type: province
-- code: PR
-  type: province
 - code: PC
+  type: province
+- code: PR
   type: province
 - code: RA
   type: province

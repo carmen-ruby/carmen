@@ -1,0 +1,29 @@
+---
+en:
+  world:
+    cz:
+      '20':
+        '201':
+          name: Benešov
+        '202':
+          name: Beroun
+        '203':
+          name: Kladno
+        '204':
+          name: Kolín
+        '205':
+          name: Kutná Hora
+        '206':
+          name: Mělník
+        '207':
+          name: Mladá Boleslav
+        '208':
+          name: Nymburk
+        '209':
+          name: Praha-východ
+        20a:
+          name: Praha-západ
+        20b:
+          name: Příbram
+        20c:
+          name: Rakovník

@@ -1,71 +1,53 @@
 ---
-- code: A
+- code: ARA
   type: metropolitan region
-- code: B
+- code: BFC
   type: metropolitan region
 - code: BL
   type: overseas territorial collectivity
-- code: C
+- code: BRE
+  type: metropolitan region
+- code: COR
   type: metropolitan region
 - code: CP
   type: dependency
-- code: D
+- code: CVL
   type: metropolitan region
-- code: E
-  type: metropolitan region
-- code: F
-  type: metropolitan region
-- code: G
+- code: GES
   type: metropolitan region
 - code: GF
-  type: overseas region/department
-- code: GP
-  type: overseas region/department
-- code: H
+  type: overseas territorial collectivity
+- code: GUA
+  type: overseas region
+- code: HDF
   type: metropolitan region
-- code: I
+- code: IDF
   type: metropolitan region
-- code: J
-  type: metropolitan region
-- code: K
-  type: metropolitan region
-- code: L
-  type: metropolitan region
-- code: M
-  type: metropolitan region
+- code: LRE
+  type: overseas region
+- code: MAY
+  type: overseas region
 - code: MF
   type: overseas territorial collectivity
 - code: MQ
-  type: overseas region/department
-- code: N
+  type: overseas territorial collectivity
+- code: NAQ
   type: metropolitan region
 - code: NC
   type: overseas territorial collectivity
-- code: O
+- code: NOR
   type: metropolitan region
-- code: P
+- code: OCC
+  type: metropolitan region
+- code: PAC
+  type: metropolitan region
+- code: PDL
   type: metropolitan region
 - code: PF
   type: overseas territorial collectivity
 - code: PM
   type: overseas territorial collectivity
-- code: Q
-  type: metropolitan region
-- code: R
-  type: metropolitan region
-- code: RE
-  type: overseas region/department
-- code: S
-  type: metropolitan region
-- code: T
-  type: metropolitan region
 - code: TF
   type: overseas territorial collectivity
-- code: U
-  type: metropolitan region
-- code: V
-  type: metropolitan region
 - code: WF
   type: overseas territorial collectivity
-- code: YT
-  type: overseas region/department

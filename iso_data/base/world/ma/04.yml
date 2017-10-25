@@ -7,7 +7,7 @@
   type: province
 - code: NAD
   type: province
-- code: TAI
-  type: province
 - code: OUJ
   type: prefecture
+- code: TAI
+  type: province

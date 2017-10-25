@@ -1,0 +1,19 @@
+---
+en:
+  world:
+    cz:
+      '32':
+        '321':
+          name: Domažlice
+        '322':
+          name: Klatovy
+        '323':
+          name: Plzeň-město
+        '324':
+          name: Plzeň-jih
+        '325':
+          name: Plzeň-sever
+        '326':
+          name: Rokycany
+        '327':
+          name: Tachov

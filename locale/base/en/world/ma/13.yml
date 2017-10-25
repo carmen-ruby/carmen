@@ -3,8 +3,12 @@ en:
   world:
     ma:
       '13':
+        agd:
+          name: Agadir-Ida-Outanane
         cht:
           name: Chtouka-Ait Baha
+        ine:
+          name: Inezgane-Ait Melloul
         oua:
           name: Ouarzazate
         tar:
@@ -13,7 +17,3 @@ en:
           name: Tiznit
         zag:
           name: Zagora
-        agd:
-          name: Agadir-Ida-Outanane
-        ine:
-          name: Inezgane-Ait Melloul

@@ -3,45 +3,45 @@ en:
   world:
     ug:
       n:
-        '317':
-          name: Abim
         '301':
           name: Adjumani
-        '314':
-          name: Amolatar
-        '319':
-          name: Amuru
         '302':
           name: Apac
         '303':
           name: Arua
-        '318':
-          name: Dokolo
         '304':
           name: Gulu
-        '315':
-          name: Kaabong
         '305':
           name: Kitgum
-        '316':
-          name: Koboko
         '306':
           name: Kotido
         '307':
           name: Lira
-        '320':
-          name: Maracha
         '308':
           name: Moroto
         '309':
           name: Moyo
-        '311':
-          name: Nakapiripirit
         '310':
           name: Nebbi
-        '321':
-          name: Oyam
+        '311':
+          name: Nakapiripirit
         '312':
           name: Pader
         '313':
           name: Yumbe
+        '314':
+          name: Amolatar
+        '315':
+          name: Kaabong
+        '316':
+          name: Koboko
+        '317':
+          name: Abim
+        '318':
+          name: Dokolo
+        '319':
+          name: Amuru
+        '320':
+          name: Maracha
+        '321':
+          name: Oyam

@@ -3,10 +3,10 @@ en:
   world:
     it:
       '78':
-        cz:
-          name: Catanzaro
         cs:
           name: Cosenza
+        cz:
+          name: Catanzaro
         kr:
           name: Crotone
         rc:

@@ -1,9 +1,9 @@
 ---
-- code: '94'
-  type: department
 - code: '91'
   type: department
 - code: '92'
   type: department
 - code: '93'
+  type: department
+- code: '94'
   type: department

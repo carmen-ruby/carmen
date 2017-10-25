@@ -5,11 +5,11 @@ en:
       '01':
         che:
           name: Chefchaouen
-        lar:
-          name: Larache
         fah:
           name: Fahs-Beni Makada
-        tng:
-          name: Tanger-Assilah
+        lar:
+          name: Larache
         tet:
           name: Tétouan
+        tng:
+          name: Tanger-Assilah

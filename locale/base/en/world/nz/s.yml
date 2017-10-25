@@ -5,15 +5,15 @@ en:
       s:
         can:
           name: Canterbury
-        ota:
-          name: Otago
-        stl:
-          name: Southland
-        wtc:
-          name: West Coast
         mbh:
           name: Marlborough District
         nsn:
           name: Nelson City
+        ota:
+          name: Otago
+        stl:
+          name: Southland
         tas:
           name: Tasman District
+        wtc:
+          name: West Coast

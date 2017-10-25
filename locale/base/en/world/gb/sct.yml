@@ -1,0 +1,69 @@
+---
+en:
+  world:
+    gb:
+      sct:
+        abd:
+          name: Aberdeenshire
+        abe:
+          name: Aberdeen City
+        agb:
+          name: Argyll and Bute
+        ans:
+          name: Angus
+        clk:
+          name: Clackmannanshire
+        dgy:
+          name: Dumfries and Galloway
+        dnd:
+          name: Dundee City
+        eay:
+          name: East Ayrshire
+        edh:
+          name: Edinburgh, City of
+        edu:
+          name: East Dunbartonshire
+        eln:
+          name: East Lothian
+        els:
+          name: Eilean Siar
+        erw:
+          name: East Renfrewshire
+        fal:
+          name: Falkirk
+        fif:
+          name: Fife
+        glg:
+          name: Glasgow City
+        hld:
+          name: Highland
+        ivc:
+          name: Inverclyde
+        mln:
+          name: Midlothian
+        mry:
+          name: Moray
+        nay:
+          name: North Ayrshire
+        nlk:
+          name: North Lanarkshire
+        ork:
+          name: Orkney Islands
+        pkn:
+          name: Perth and Kinross
+        rfw:
+          name: Renfrewshire
+        say:
+          name: South Ayrshire
+        scb:
+          name: Scottish Borders, The
+        slk:
+          name: South Lanarkshire
+        stg:
+          name: Stirling
+        wdu:
+          name: West Dunbartonshire
+        wln:
+          name: West Lothian
+        zet:
+          name: Shetland Islands

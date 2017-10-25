@@ -1,11 +1,11 @@
 ---
 - code: COM
   type: province
-- code: DAV
+- code: DAO
   type: province
 - code: DAS
   type: province
-- code: DAO
+- code: DAV
   type: province
 - code: SAR
   type: province

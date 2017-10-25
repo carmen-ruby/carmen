@@ -7,9 +7,9 @@
   type: district
 - code: CR
   type: district
-- code: MH
-  type: district
 - code: MG
+  type: district
+- code: MH
   type: district
 - code: MU
   type: district

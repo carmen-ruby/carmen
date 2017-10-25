@@ -1,0 +1,25 @@
+---
+en:
+  world:
+    fr:
+      ges:
+        08:
+          name: Ardennes
+        '10':
+          name: Aube
+        '51':
+          name: Marne
+        '52':
+          name: Haute-Marne
+        '54':
+          name: Meurthe-et-Moselle
+        '55':
+          name: Meuse
+        '57':
+          name: Moselle
+        '67':
+          name: Bas-Rhin
+        '68':
+          name: Haut-Rhin
+        '88':
+          name: Vosges

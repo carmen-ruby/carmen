@@ -1,0 +1,13 @@
+---
+en:
+  world:
+    fr:
+      bre:
+        '22':
+          name: Côtes-d'Armor
+        '29':
+          name: Finistère
+        '35':
+          name: Ille-et-Vilaine
+        '56':
+          name: Morbihan

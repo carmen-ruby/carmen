@@ -3,12 +3,12 @@ en:
   world:
     ma:
       '11':
-        hao:
-          name: Al Haouz
         chi:
           name: Chichaoua
         esi:
           name: Essaouira
+        hao:
+          name: Al Haouz
         kes:
           name: Kelaat es Sraghna
         mmd:

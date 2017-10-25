@@ -1,0 +1,19 @@
+---
+en:
+  world:
+    cz:
+      '64':
+        '641':
+          name: Blansko
+        '642':
+          name: Brno-město
+        '643':
+          name: Brno-venkov
+        '644':
+          name: Břeclav
+        '645':
+          name: Hodonín
+        '646':
+          name: Vyškov
+        '647':
+          name: Znojmo
