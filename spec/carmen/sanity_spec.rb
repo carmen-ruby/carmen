@@ -12,7 +12,7 @@ describe "default data sanity check" do
   end
 
   it "has 248 countries" do
-    Carmen::Country.all.size.must_equal 248
+    Carmen::Country.all.size.must_equal 249
   end
 
   it "can retrieve a country" do
