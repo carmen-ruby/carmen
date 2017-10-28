@@ -28,11 +28,6 @@ describe "default data sanity check" do
     il.name.must_equal('Illinois')
   end
 
-  it "observes region data in the overlay directory" do
-    pr = Carmen::Country.coded('PR')
-    pr.must_equal nil
-  end
-
   it "observes locale data in the overlay directory" do
     tw = Carmen::Country.coded('TW')
     tw.name.must_equal('Taiwan')
