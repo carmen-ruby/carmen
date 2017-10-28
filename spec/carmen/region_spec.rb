@@ -77,6 +77,13 @@ describe Carmen::Region do
       @numerica_p.numeric_code?.must_equal false
       @numerica_p_p.numeric_code?.must_equal false
     end
+
+    it "can be asked for a string to be used in an address" do
+      @airstrip_one.short_address_name.must_equal "AO"
+      @numerica.short_address_name.must_equal "Numerica"
+      @numerica_p.short_address_name.must_equal "43N"
+      @numerica_p_p.short_address_name.must_equal "N44"
+    end
   end
 
   describe "querying" do
