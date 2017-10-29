@@ -47,6 +47,10 @@ def write_regions_to_path_as_yaml(regions_data, path)
   write_data_to_path_as_yaml(regions_data, path)
 end
 
+puts "Deleting old YAML files"
+
+FileUtils.rm_rf('iso_data/base/')
+FileUtils.rm_rf('locale/base/')
 
 puts "Downloading data"
 
