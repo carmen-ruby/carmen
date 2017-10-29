@@ -1,0 +1,11 @@
+---
+en:
+  world:
+    be:
+      bru:
+        name: Brussels-Capital Region
+      vlg:
+        name: Flemish Region
+      wal:
+        name: Walloon Region
+
