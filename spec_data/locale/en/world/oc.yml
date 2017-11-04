@@ -4,3 +4,9 @@ en:
     oc:
       ao:
         name: Airstrip One
+      '42':
+        name: Numerica
+      43n:
+        name: Numerica Prime
+      n44:
+        name: Numerica Prime Prime

@@ -1,3 +1,9 @@
 ---
 - code: AO
   type: province
+- code: '42'
+  type: province
+- code: 43N
+  type: province
+- code: N44
+  type: province

@@ -20,6 +20,18 @@ module Carmen
       Carmen.i18n_backend.translate(path('name'))
     end
 
+    def numeric_code?
+      /\A\d+\z/ === code
+    end
+
+    def short_address_name
+      if numeric_code?
+        name
+      else
+        code
+      end
+    end
+
     def subregions
       @subregions ||= load_subregions.freeze
     end

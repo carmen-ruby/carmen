@@ -62,6 +62,30 @@ describe Carmen::Region do
     end
   end
 
+  describe "numeric code subregion names" do
+    before do
+      oceania = Carmen::Country.coded('OC')
+      @numerica = oceania.subregions.named('Numerica')
+      @numerica_p = oceania.subregions.named('Numerica Prime')
+      @numerica_p_p = oceania.subregions.named('Numerica Prime Prime')
+      @airstrip_one = oceania.subregions.named('Airstrip One')
+    end
+
+    it "can be asked if its code is numeric" do
+      @airstrip_one.numeric_code?.must_equal false
+      @numerica.numeric_code?.must_equal true
+      @numerica_p.numeric_code?.must_equal false
+      @numerica_p_p.numeric_code?.must_equal false
+    end
+
+    it "can be asked for a string to be used in an address" do
+      @airstrip_one.short_address_name.must_equal "AO"
+      @numerica.short_address_name.must_equal "Numerica"
+      @numerica_p.short_address_name.must_equal "43N"
+      @numerica_p_p.short_address_name.must_equal "N44"
+    end
+  end
+
   describe "querying" do
     before do
       @world = Carmen::World.instance
