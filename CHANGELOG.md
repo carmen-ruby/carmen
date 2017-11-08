@@ -1,4 +1,6 @@
-### 1.1.0 (unreleased)
+### master (unreleased)
+
+### 1.1.0 (November 7, 2017)
 * [#231](https://github.com/carmen-ruby/carmen/pull/231) Base ISO data has been updated for the first time since October 25, 2014
 * [#233](https://github.com/carmen-ruby/carmen/pull/233) Revert removing Puerto Rico as a country code
 * [#217](https://github.com/carmen-ruby/carmen/pull/217) Add serializer friendly `to_hash` for `Country` and `Region` ([@zarelit](https://github.com/zarelit))
