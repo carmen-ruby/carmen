@@ -49,7 +49,7 @@ module Carmen
     def inspect
       "<##{self.class} name=\"#{name}\" type=\"#{type}\">"
     end
-    
+
     def to_s
       name
     end
