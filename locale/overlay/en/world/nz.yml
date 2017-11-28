@@ -1,0 +1,38 @@
+---
+en:
+  world:
+    nz:
+      auk:
+        name: Auckland
+      bop:
+        name: Bay of Plenty
+      can:
+        name: Canterbury
+      cit:
+        name: Chatham Islands Territory
+      gis:
+        name: Gisborne
+      hkb:
+        name: Hawke's Bay
+      mwt:
+        name: Manawatu-Wanganui
+      mbh:
+        name: Marlborough
+      nsn:
+        name: Nelson
+      ntl:
+        name: Northland
+      ota:
+        name: Otago
+      stl:
+        name: Southland
+      tki:
+        name: Taranaki
+      tas:
+        name: Tasman
+      wgn:
+        name: Wellington
+      wko:
+        name: Waikato
+      wtc:
+        name: West Coast
