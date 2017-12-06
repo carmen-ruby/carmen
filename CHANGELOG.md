@@ -1,5 +1,9 @@
 ### master (unreleased)
 
+##### Geographic Modifications
+* [#247](https://github.com/carmen-ruby/carmen/pull/247) Fix New Zealand regions
+  to match 2015-11-27 ISO correction ([@louim](https://github.com/louim))
+
 ### 1.1.0 (November 7, 2017)
 * [#231](https://github.com/carmen-ruby/carmen/pull/231) Base ISO data has been updated for the first time since October 25, 2014
 * [#233](https://github.com/carmen-ruby/carmen/pull/233) Revert removing Puerto Rico as a country code
