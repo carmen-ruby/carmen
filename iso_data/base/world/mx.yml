@@ -15,8 +15,8 @@
   type: state
 - code: COL
   type: state
-- code: DIF
-  type: federal district
+- code: CDMX
+  type: state
 - code: DUR
   type: state
 - code: GRO
