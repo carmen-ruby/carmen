@@ -4,3 +4,5 @@ en:
     oc:
       ao:
         name: Airstrip One
+      at:
+        name: Airstrip-Two

@@ -92,6 +92,15 @@ describe Carmen::Region do
       eastasia.name.must_equal 'Eastasia'
     end
 
+    it 'can find subregions with dash or hyphen in name ' do
+      @airstrip_one = Carmen::Country.coded('OC').subregions.named('Airstrip-One', :fuzzy => true)
+      "#{@airstrip_one}".must_equal 'Airstrip One'
+      @airstrip_two_without_dash = Carmen::Country.coded('OC').subregions.named('Airstrip Two', :fuzzy => true)
+      "#{@airstrip_two_without_dash}".must_equal 'Airstrip-Two'
+      @airstrip_two = Carmen::Country.coded('OC').subregions.named('Airstrip-Two', :fuzzy => true)
+      "#{@airstrip_two}".must_equal 'Airstrip-Two'
+    end
+
     it 'can find subregions by name using a regex' do
       eastasia = @world.subregions.named(/Eastasia/)
       eastasia.name.must_equal('Eastasia')

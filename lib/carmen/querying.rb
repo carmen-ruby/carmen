@@ -34,8 +34,8 @@ module Carmen
       # These only need to be built once
       name = case_fold ? name.mb_chars.downcase.normalize : name
       # For now, "fuzzy" just means substring, optionally case-insensitive (the second argument looks for nil, not falseness)
-      regexp = options[:fuzzy] ? Regexp.new(name, options[:case] ? nil : true) : nil
-
+      regexp = options[:fuzzy] ? Regexp.new(name.split(/[-'\s]/).join("[-'\s]"), options[:case] ? nil : true) : nil
+      
       query_collection.find do |region|
         found_literal = name === (case_fold && region.name ? region.name.mb_chars.downcase.normalize : region.name)
         found_literal || options[:fuzzy] && regexp === region.name
