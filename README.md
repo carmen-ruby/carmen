@@ -2,7 +2,7 @@
 
 > A repository of geographic regions for Ruby
 
-[![Build Status](https://secure.travis-ci.org/carmen-ruby/carmen.png?branch=master)](http://travis-ci.org/jim/carmen)
+[![Build Status](https://secure.travis-ci.org/carmen-ruby/carmen.png?branch=master)](http://travis-ci.org/carmen-ruby/carmen)
 
 Carmen features the following:
 
