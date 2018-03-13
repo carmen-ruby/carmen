@@ -10,10 +10,6 @@ Carmen features the following:
 * Complete countries & regions data from the iso-codes Debian package
 * A sane approach to internationalization
 
-## Ruby on Rails
-
-If you are using Carmen with Rails, you should check out the [carmen-rails](http://github.com/jim/carmen-rails) library.
-
 # How to Use Carmen
 
 Carmen is designed to make it easy to access Country and region data.
