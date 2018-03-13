@@ -1,0 +1,98 @@
+---
+en:
+  world:
+    ke:
+      '01':
+        name: Baringo
+      '02':
+        name: Bomet
+      '03':
+        name: Bungoma
+      '04':
+        name: Busia
+      '05':
+        name: 'Elgeyo/Marakwet'
+      '06':
+        name: Embu
+      '07':
+        name: Garissa
+      '08':
+        name: Homa Bay
+      '09':
+        name: Isiolo
+      '10':
+        name: Kajiado
+      '11':
+        name: Kakamega
+      '12':
+        name: Kericho
+      '13':
+        name: Kiambu
+      '14':
+        name: Kilifi
+      '15':
+        name: Kirinyaga
+      '16':
+        name: Kisii
+      '17':
+        name: Kisumu
+      '18':
+        name: Kitui
+      '19':
+        name: Kwale
+      '20':
+        name: Laikipia
+      '21':
+        name: Lamu
+      '22':
+        name: Machakos
+      '23':
+        name: Makueni
+      '24':
+        name: Mandera
+      '25':
+        name: Marsabit
+      '26':
+        name: Meru
+      '27':
+        name: Migori
+      '28':
+        name: Mombasa
+      '29':
+        name: Murang'a
+      '30':
+        name: Nairobi City
+      '31':
+        name: Nakuru
+      '32':
+        name: Nandi
+      '33':
+        name: Narok
+      '34':
+        name: Nyamira
+      '35':
+        name: Nyandarua
+      '36':
+        name: Nyeri
+      '37':
+        name: Samburu
+      '38':
+        name: Siaya
+      '39':
+        name: Taita/Taveta
+      '40':
+        name: Tana River
+      '41':
+        name: Tharaka-Nithi
+      '42':
+        name: Trans Nzoia
+      '43':
+        name: Turkana
+      '44':
+        name: Uasin Gishu
+      '45':
+        name: Vihiga
+      '46':
+        name: Wajir
+      '47':
+        name: West Pokot
