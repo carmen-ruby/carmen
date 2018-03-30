@@ -1,6 +1,7 @@
 ### master (unreleased)
 
 ##### Geographic Modifications
+* [#256](https://github.com/carmen-ruby/carmen/pull/256) Fix brazilian regions - Remove `Fernando de Noronha` ([@guicruzzs](https://github.com/guicruzzs))
 * [#247](https://github.com/carmen-ruby/carmen/pull/247) Fix New Zealand regions
   to match 2015-11-27 ISO correction ([@louim](https://github.com/louim))
 
