@@ -1,0 +1,56 @@
+---
+en:
+  world:
+    cg:
+      '1':
+        name: Bas-Uele
+      '2':
+        name: Equateur
+      '3':
+        name: Haut-Katanga
+      '4':
+        name: Haut-Lomami
+      '5':
+        name: Haut-Uele
+      '6':
+        name: Ituri
+      '7':
+        name: Kasai
+      '8':
+        name: Kasaï-Oriental
+      '9':
+        name: Kasaï-Central
+      '10':
+        name: Kinshasa
+      '11':
+        name: Kongo Central
+      '12':
+        name: Kwango
+      '13':
+        name: Kwilu
+      '14':
+        name: Lomami
+      '15':
+        name: Lualaba
+      '16':
+        name: Mai-Ndombe
+      '17':
+        name: Maniema
+      '18':
+        name: Mongala
+      '19':
+        name: Nord-Kivu
+      '20':
+        name: Nord-Ubangi
+      '21':
+        name: Sankuru
+      '22':
+        name: Su-Kivu
+      '23':
+        name: Sud-Ubangi
+      '24':
+        name: Tanganyika
+      '25':
+        name: Tshopoo
+      '26':
+        name: Tshuapa
