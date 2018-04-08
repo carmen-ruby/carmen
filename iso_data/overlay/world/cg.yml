@@ -1,26 +1,6 @@
 ---
-- code: '11'
-  _disabled: true
-- code: '12'
-  _disabled: true
-- code: '13'
-  _disabled: true
-- code: '14'
-  _disabled: true
-- code: '15'
-  _disabled: true
-- code: '2'
-  _disabled: true
-- code: '5'
-  _disabled: true
-- code: '7'
-  _disabled: true
-- code: '8'
-  _disabled: true
-- code: '9'
-  _disabled: true
 - code: BZV
-  _disabled: true
+  _enabled: false
 - code: '1'
   type: province
 - code: '2'
