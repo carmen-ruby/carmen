@@ -1,7 +1,13 @@
 ### master (unreleased)
+* [#250](https://github.com/carmen-ruby/carmen/pull/250) Add better fuzzy
+  searching when using `Querying#named`. Calling this method with `fuzzy:
+  true` does better with dashes, apostrophes, and spaces ([@raj](https://github.com/raj))
 
 ##### Geographic Modifications
 * [#256](https://github.com/carmen-ruby/carmen/pull/256) Fix brazilian regions - Remove `Fernando de Noronha` ([@guicruzzs](https://github.com/guicruzzs))
+* [#249](https://github.com/carmen-ruby/carmen/pull/249) Rename Mexico's
+  Distrito Federal and make it a state
+  ([@jtapia](https://github.com/jtapia))
 * [#247](https://github.com/carmen-ruby/carmen/pull/247) Fix New Zealand regions
   to match 2015-11-27 ISO correction ([@louim](https://github.com/louim))
 
