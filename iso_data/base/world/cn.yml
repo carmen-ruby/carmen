@@ -1,69 +1,69 @@
 ---
-- code: '11'
+- code: BJ
   type: municipality
-- code: '12'
+- code: TJ
   type: municipality
-- code: '13'
+- code: HE
   type: province
-- code: '14'
+- code: SX
   type: province
-- code: '15'
+- code: NM
   type: autonomous region
-- code: '21'
+- code: LN
   type: province
-- code: '22'
+- code: JL
   type: province
-- code: '23'
+- code: HL
   type: province
-- code: '31'
+- code: SH
   type: municipality
-- code: '32'
+- code: JS
   type: province
-- code: '33'
+- code: ZJ
   type: province
-- code: '34'
+- code: AH
   type: province
-- code: '35'
+- code: FJ
   type: province
-- code: '36'
+- code: JX
   type: province
-- code: '37'
+- code: SD
   type: province
-- code: '41'
+- code: HA
   type: province
-- code: '42'
+- code: HB
   type: province
-- code: '43'
+- code: HN
   type: province
-- code: '44'
+- code: GD
   type: province
-- code: '45'
+- code: GX
   type: autonomous region
-- code: '46'
+- code: HI
   type: province
-- code: '50'
+- code: CQ
   type: municipality
-- code: '51'
+- code: SC
   type: province
-- code: '52'
+- code: GZ
   type: province
-- code: '53'
+- code: YN
   type: province
-- code: '54'
+- code: XZ
   type: autonomous region
-- code: '61'
+- code: SN
   type: province
-- code: '62'
+- code: GS
   type: province
-- code: '63'
+- code: QH
   type: province
-- code: '64'
+- code: NX
   type: autonomous region
-- code: '65'
+- code: XJ
   type: autonomous region
-- code: '71'
+- code: TW
   type: province
-- code: '91'
+- code: HK
   type: special administrative region
-- code: '92'
+- code: MO
   type: special administrative region

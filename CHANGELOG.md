@@ -1,5 +1,9 @@
 ### master (unreleased)
 
+##### Geographic Modifications
+* [#263](https://github.com/carmen-ruby/carmen/pull/263) Update CN region codes
+([@cardds](https://github.com/cardds))
+
 ### 1.1.1 (May 7, 2018)
 * [#250](https://github.com/carmen-ruby/carmen/pull/250) Add better fuzzy
   searching when using `Querying#named`. Calling this method with `fuzzy:
