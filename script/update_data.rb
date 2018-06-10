@@ -60,8 +60,8 @@ tmp_path = data_path + 'tmp'
 FileUtils.mkdir_p(tmp_path)
 
 files = {
-  'iso_3166.json' => 'https://anonscm.debian.org/git/pkg-isocodes/iso-codes.git/plain/data/iso_3166-1.json',
-  'iso_3166_2.json' => 'https://anonscm.debian.org/git/pkg-isocodes/iso-codes.git/plain/data/iso_3166-2.json'
+  'iso_3166.json' => 'https://salsa.debian.org/iso-codes-team/iso-codes/raw/master/data/iso_3166-1.json',
+  'iso_3166_2.json' => 'https://salsa.debian.org/iso-codes-team/iso-codes/raw/master/data/iso_3166-2.json'
 }
 
 files.each_pair do |file, url|
