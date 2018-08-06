@@ -1,0 +1,21 @@
+---
+- code: KEN
+  _enabled: false
+- code: SIK
+  _enabled: false
+- code: OA
+  type: prefecture
+- code: NA
+  type: province
+- code: DR
+  type: province
+- code: JE
+  type: province
+- code: BE
+  type: province
+- code: TA
+  type: province
+- code: GU
+  type: province
+- code: FI
+  type: province

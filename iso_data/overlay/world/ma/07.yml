@@ -1,0 +1,26 @@
+---
+- code: KHE
+  _enabled: false
+- code: RAB
+  _enabled: false
+- code: SAL
+  _enabled: false
+- code: SKH
+  _enabled: false
+- code: MR
+  type: prefecture
+- code: CH
+  type: province
+- code: AH
+  type: province
+- code: EK
+  type: province
+- code: ES
+  type: province
+- code: RE
+  type: province
+- code: SA
+  type: province
+- code: YO
+  type: province
+  

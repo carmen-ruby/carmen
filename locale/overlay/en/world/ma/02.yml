@@ -1,0 +1,21 @@
+---
+en:
+  world:
+    ma:
+      '02':
+        oa:
+          name: Oujda-Angad
+        na:
+          name: Nador
+        dr:
+          name: Driouch
+        je:
+          name: Jerada
+        be:
+          name: Berkane
+        ta:
+          name: Taourirt
+        gu:
+          name: Guercif
+        fi:
+          name: Figuig

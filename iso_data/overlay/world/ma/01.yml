@@ -1,0 +1,27 @@
+---
+- code: CHE
+  _enabled: false
+- code: FAH
+  _enabled: false
+- code: LAR
+  _enabled: false
+- code: TET
+  _enabled: false
+- code: TNG
+  _enabled: false
+- code: TA
+  type: prefecture
+- code: MF
+  type: prefecture
+- code: TE
+  type: province
+- code: FB
+  type: province
+- code: LA
+  type: province
+- code: AH
+  type: province
+- code: CH
+  type: province
+- code: OU
+  type: province

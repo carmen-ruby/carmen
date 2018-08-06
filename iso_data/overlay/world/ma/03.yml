@@ -1,0 +1,25 @@
+---
+- code: HOC
+  _enabled: false
+- code: TAO
+  _enabled: false
+- code: TAZ
+  _enabled: false
+- code: FS
+  type: prefecture
+- code: ME
+  type: prefecture
+- code: EH
+  type: province
+- code: IF
+  type: province
+- code: ZM
+  type: province
+- code: SE
+  type: province
+- code: BO
+  type: province
+- code: TN
+  type: province
+- code: TZ
+  type: province
