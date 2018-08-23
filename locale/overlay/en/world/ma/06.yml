@@ -1,0 +1,23 @@
+---
+en:
+  world:
+    ma:
+      '06':
+        cb:
+          name: Casablanca
+        mh:
+          name: Mohammédia
+        ej:
+          name: El Jadida
+        nc:
+          name: Nouaceur
+        me:
+          name: Médiouna
+        bs:
+          name: Benslimane
+        br:
+          name: Berrechid
+        se:
+          name: Settat
+        sb:
+          name: Sidi Bennour

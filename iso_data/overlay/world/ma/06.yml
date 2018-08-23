@@ -1,0 +1,30 @@
+---
+- code: ERR
+  _enabled: false
+- code: HAJ
+  _enabled: false
+- code: IFR
+  _enabled: false
+- code: KHN
+  _enabled: false
+- code: MEK
+  _enabled: false
+- code: CB
+  type: prefecture
+- code: MH
+  type: prefecture
+- code: EJ
+  type: province
+- code: NC
+  type: province
+- code: ME
+  type: province
+- code: BS
+  type: province
+- code: BR
+  type: province
+- code: SE
+  type: province
+- code: SB
+  type: province
+

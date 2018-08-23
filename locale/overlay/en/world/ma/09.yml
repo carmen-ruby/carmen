@@ -1,0 +1,17 @@
+---
+en:
+  world:
+    ma:
+      '09':
+        ai:
+          name: Agadir Ida-Outanane
+        ia:
+          name: Inezgane-Aït Melloul
+        ca:
+          name: Chtouka-Aït Baha
+        tr:
+          name: Taroudant
+        ti:
+          name: Tiznit
+        tt:
+          name: Tata

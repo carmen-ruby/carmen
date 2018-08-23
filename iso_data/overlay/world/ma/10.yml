@@ -1,0 +1,13 @@
+---
+- code: JDI
+  _enabled: false
+- code: SAF
+  _enabled: false
+- code: GU
+  type: province
+- code: AZ
+  type: province
+- code: TN
+  type: province
+- code: SI
+  type: province

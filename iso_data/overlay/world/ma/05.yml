@@ -1,0 +1,19 @@
+---
+- code: BOM
+  _enabled: false
+- code: FES
+  _enabled: false
+- code: MOU
+  _enabled: false
+- code: SEF
+  _enabled: false
+- code: BM
+  type: province
+- code: AZ
+  type: province
+- code: FB
+  type: province
+- code: KF
+  type: province
+- code: KB
+  type: province

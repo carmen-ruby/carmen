@@ -1,0 +1,23 @@
+---
+- code: CHI
+  _enabled: false
+- code: ESI
+  _enabled: false
+- code: HAO
+  _enabled: false
+- code: KES
+  _enabled: false
+- code: MMD
+  _enabled: false
+- code: MMN
+  _enabled: false
+- code: SYB
+  _enabled: false
+- code: LA
+  type: province
+- code: BO
+  type: province
+- code: TA
+  type: province
+- code: ES
+  type: province

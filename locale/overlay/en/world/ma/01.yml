@@ -1,0 +1,22 @@
+---
+en:
+  world:
+    ma:
+      '01':
+        ch:
+          name: Chefchaouen
+        ou:
+          name: Ouezzane
+        la:
+          name: Larache
+        te:
+          name: Tétouan
+        ta:
+          name: Tanger-Assilah
+        mf:
+          name: M'diq-Fnideq
+        fb:
+          name: Fahs-Anjra
+        ah:
+          name: Al Hoceïma
+        

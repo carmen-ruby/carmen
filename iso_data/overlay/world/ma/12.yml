@@ -1,0 +1,9 @@
+---
+- code: AZI
+  _enabled: false
+- code: BEM
+  _enabled: false
+- code: OE
+  type: province
+- code: AO
+  type: province

@@ -1,0 +1,28 @@
+---
+en:
+  world:
+    ma:
+      '01':
+        name: Tanger-Tétouan-Al Hoceïma
+      '02':
+        name: L'Oriental
+      '03':
+        name: Fès-Meknès
+      '04':
+        name: Rabat-Salé-Kénitra
+      '05':
+        name: Béni Mellal-Khénifra
+      '06':
+        name: Casablanca-Settat
+      '07':
+        name: Marrakech-Safi
+      '08':
+        name: Drâa-Tafilalet
+      '09':
+        name: Souss-Massa
+      '10':
+        name: Guelmim-Oued Noun
+      '11':
+        name: Laâyoune-Sakia El Hamra
+      '12':
+        name: Dakhla-Oued Ed Dahab

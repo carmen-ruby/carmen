@@ -1,0 +1,19 @@
+---
+- code: CAS
+  _enabled: false
+- code: MED
+  _enabled: false
+- code: MOH
+  _enabled: false
+- code: NOU
+  _enabled: false
+- code: ER
+  type: province
+- code: OU
+  type: province
+- code: MI
+  type: province
+- code: TI
+  type: province
+- code: ZA
+  type: province

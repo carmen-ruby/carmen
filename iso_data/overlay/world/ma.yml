@@ -1,0 +1,33 @@
+---
+- code: '01'
+  type: economic region
+- code: '02'
+  type: economic region
+- code: '03'
+  type: economic region
+- code: '04'
+  type: economic region
+- code: '05'
+  type: economic region
+- code: '06'
+  type: economic region
+- code: '07'
+  type: economic region
+- code: '08'
+  type: economic region
+- code: '09'
+  type: economic region
+- code: '10'
+  type: economic region
+- code: '11'
+  type: economic region
+- code: '12'
+  type: economic region
+- code: '13'
+  _enabled: false
+- code: '14'
+  _enabled: false
+- code: '15'
+  _enabled: false
+- code: '16'
+  _enabled: false
