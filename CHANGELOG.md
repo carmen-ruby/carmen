@@ -3,6 +3,7 @@
 ##### Geographic Modifications
 * [#267](https://github.com/carmen-ruby/carmen/pull/267) Update Moroccan regions and subregions to match the new standard (after 2015), because of the absence of the new iso codes, I used the last two digit of the non-official [HASC](http://www.statoids.com/ihasc.html) codes.
 ([@kainio](https://github.com/kainio))
+* [#268](https://github.com/carmen-ruby/carmen/pull/268) Remove UK overlays for Middlesex and Wiltshire ([@manewitz](https://github.com/manewitz))
 
 ### 1.1.1 (May 7, 2018)
 * [#250](https://github.com/carmen-ruby/carmen/pull/250) Add better fuzzy
