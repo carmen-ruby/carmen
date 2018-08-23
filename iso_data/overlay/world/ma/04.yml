@@ -1,0 +1,27 @@
+---
+- code: BER
+  _enabled: false
+- code: FIG
+  _enabled: false
+- code: JRA
+  _enabled: false
+- code: NAD
+  _enabled: false
+- code: OUJ
+  _enabled: false
+- code: TAI
+  _enabled: false
+- code: RA
+  type: prefecture
+- code: SA
+  type: prefecture
+- code: ST
+  type: prefecture
+- code: KE
+  type: province
+- code: KH
+  type: province
+- code: SK
+  type: province
+- code: SS
+  type: province

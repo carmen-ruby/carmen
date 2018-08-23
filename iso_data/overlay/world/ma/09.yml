@@ -1,0 +1,19 @@
+---
+- code: BES
+  _enabled: false
+- code: KHO
+  _enabled: false
+- code: SET
+  _enabled: false
+- code: AI
+  type: prefecture
+- code: IA
+  type: prefecture
+- code: CA
+  type: province
+- code: TR
+  type: province
+- code: TI
+  type: province
+- code: TT
+  type: province

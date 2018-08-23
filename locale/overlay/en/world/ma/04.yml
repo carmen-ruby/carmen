@@ -1,0 +1,19 @@
+---
+en:
+  world:
+    ma:
+      '04':
+        ra:
+          name: Rabat
+        sa:
+          name: Salé
+        st:
+          name: Skhirate-Témara
+        ke:
+          name: Kénitra
+        kh:
+          name: Khémisset
+        sk:
+          name: Sidi Kacem
+        ss:
+          name: Sidi Slimane

@@ -1,0 +1,23 @@
+---
+en:
+  world:
+    ma:
+      '03':
+        fs:
+          name: Fès
+        me:
+          name: Meknès
+        eh:
+          name: El Hajeb
+        if:
+          name: Ifrane
+        zm:
+          name: Moulay Yaâcoub
+        se:
+          name: Séfrou
+        bo:
+          name: Boulemane
+        tn:
+          name: Taounate
+        tz:
+          name: Taza

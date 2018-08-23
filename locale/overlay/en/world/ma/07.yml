@@ -1,0 +1,21 @@
+---
+en:
+  world:
+    ma:
+      '07':
+        mr:
+          name: Marrakech
+        ch:
+          name: Chichaoua
+        ah:
+          name: Al Haouz
+        ek:
+          name: El Kelaâ des Sraghna
+        es:
+          name: Essaouira
+        re:
+          name: Rehamna
+        sa:
+          name: Safi
+        yo:
+          name: Youssoufia
