@@ -4,6 +4,7 @@ require 'pathname'
 lib_path = File.expand_path('../../lib', __FILE__)
 $LOAD_PATH.unshift(lib_path)
 
+require 'carmen/continent'
 require 'carmen/country'
 require 'carmen/i18n'
 require 'carmen/version'
@@ -37,6 +38,14 @@ module Carmen
     # Defaults to an instance of Carmen::I18n::Simple.
     def i18n_backend
       @i18n_backend
+    end
+
+    def territories_path=(path)
+      @territories_path = path
+    end
+
+    def territories_path
+      @territories_path || (Carmen.root_path + 'iso_data/base/territories.yml')
     end
 
     # Public: set an object to use as the I18n backend.

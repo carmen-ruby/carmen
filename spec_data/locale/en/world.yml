@@ -13,3 +13,18 @@ en:
       common_name: Eastasia
       name: Eastasia
       official_name: The Superstate of Eastasia
+  continents:
+    '001':
+      name: 'World'
+    '002':
+      name: 'Junglolia'
+    '003':
+      name: 'Waterworld'
+    '004':
+      name: 'Takatukaland'
+    '005':
+      name: 'Disneyland'
+    '006':
+      name: 'Middle Earth'
+    '007':
+      name: 'Skyrim'

@@ -88,6 +88,12 @@ describe Carmen::Country do
     end
   end
 
+  describe '#continent' do
+    it 'provides access to the continent it belongs to' do
+      Carmen::Country.coded('OC').continent.must_equal Carmen::Continent.coded('004')
+    end
+  end
+
   describe "basic attributes" do
     before do
       @oceania = Carmen::Country.coded('OC')

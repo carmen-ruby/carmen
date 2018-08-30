@@ -20,6 +20,10 @@ module Carmen
       super
     end
 
+    def continent
+      Carmen::Continent.all.detect { |c| c.sub_continents.empty? && c.countries.include?(self) }
+    end
+
     def common_name
       Carmen.i18n_backend.translate(path('common_name'))
     end

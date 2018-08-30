@@ -104,6 +104,40 @@ Some subregions may contain additional subregions. An example of this is Spain:
     andalucia.subregions.first
     => <#Carmen::Region name="Almería" type="province">
 
+If you need structural data about the continents. You can start here: 
+
+    Carmen::World.continents
+    
+This will return a `Carmen::Continent` that you can use like this:
+
+    continent = Carmen::World.continents.first
+    sub_continents = continent.sub_continents
+    
+To get the sub-continents of a given continent. Might be empty.
+
+    countries = continent.countries
+    
+This will give you **all countries** contained in a given continent. This will also give you countries that might be contained in sub_continents. Meaning `world.countries` will give you all countries of the world. 
+
+Here are some examples: 
+
+    Carmen::Continent.coded('150')
+    => #<Carmen::Continent:0x007fb78b154858 @code="150", @contains=["154", "155", "151", "039"], @parent=nil>
+    
+    Carmen::Continent.coded('150').name
+    => "Europe"
+    
+    Carmen::Continent.coded('150').sub_continents.map { |c| c.name }
+    => ["Northern Europe", "Western Europe", "Eastern Europe", "Southern Europe"]
+
+Of course you can also get the continent of a country be trying: 
+
+    Carmen::Country.coded('DE')
+    => <#Carmen::Country name="Germany">
+    
+    Carmen::Country.coded('DE').continent.name
+    => "Western Europe"
+
 ## How Carmen organizes data
 
 In order to facilitate support for I18n, Carmen stores the structure of regions

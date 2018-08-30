@@ -997,3 +997,64 @@ en:
       common_name: 
       name: Zimbabwe
       official_name: Republic of Zimbabwe
+  continents:
+    "001":
+      name: 'World'
+    "002":
+      name: 'Africa'
+    "003":
+      name: 'North America'
+    "005":
+      name: 'South America'
+    "009":
+      name: 'Oceania'
+    "011":
+      name: 'Western Africa'
+    "013":
+      name: 'Central America'
+    "014":
+      name: 'Eastern Africa'
+    "015":
+      name: 'Northern Africa'
+    "017":
+      name: 'Middle Africa'
+    "018":
+      name: 'Southern Africa'
+    "019":
+      name: 'Americas'
+    "021":
+      name: 'Northern America'
+    "029":
+      name: 'Caribbean'
+    "030":
+      name: 'Eastern Asia'
+    "034":
+      name: 'Southern Asia'
+    "035":
+      name: 'South-Eastern Asia'
+    "039":
+      name: 'Southern Europe'
+    "053":
+      name: 'Australia and New Zealand'
+    "054":
+      name: 'Melanesia'
+    "057":
+      name: 'Micronesia'
+    "061":
+      name: 'Polynesia'
+    "419":
+      name: 'Latin America and the Caribbean'
+    "142":
+      name: 'Asia'
+    "143":
+      name: 'Central Asia'
+    "145":
+      name: 'Western Asia'
+    "150":
+      name: 'Europe'
+    "151":
+      name: 'Eastern Europe'
+    "154":
+      name: 'Northern Europe'
+    "155":
+      name: 'Western Europe'

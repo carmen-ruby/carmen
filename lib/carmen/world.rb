@@ -1,5 +1,4 @@
 require 'singleton'
-
 require 'carmen/region'
 
 module Carmen
@@ -15,6 +14,14 @@ module Carmen
 
     def subregion_class
       Country
+    end
+
+    def continents
+      Continent.world.sub_continents
+    end
+
+    def countries
+      Continent.world.countries
     end
 
     def path
