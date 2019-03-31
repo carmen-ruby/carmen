@@ -80,7 +80,7 @@ describe Carmen::Region do
 
     it "can find subregions optionally case-sensitively" do
       oceania = @world.subregions.named('oCeAnIa', :case => true)
-      oceania.must_equal nil
+      assert_nil(oceania)
       oceania = @world.subregions.named('Oceania', :case => true)
       oceania.instance_of?(Carmen::Country).must_equal true
       oceania.name.must_equal 'Oceania'
@@ -112,11 +112,11 @@ describe Carmen::Region do
     end
 
     it 'handles querying for a nil code safely' do
-      @world.subregions.coded(nil).must_equal nil
+      assert_nil(@world.subregions.coded(nil))
     end
 
     it 'handles querying for a nil name safely' do
-      @world.subregions.named(nil).must_equal nil
+      assert_nil(@world.subregions.named(nil))
     end
 
     describe 'unicode character handling' do

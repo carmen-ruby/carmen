@@ -30,7 +30,7 @@ describe "Data overlaying" do
 
   it 'removes elements that have _enabled set to false' do
     Carmen::World.instance.subregions.size.must_equal(3)
-    Carmen::Country.named('Eurasia').must_equal nil
+    assert_nil(Carmen::Country.named('Eurasia'))
   end
 
 end
