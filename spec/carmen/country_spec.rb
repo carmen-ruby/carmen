@@ -32,7 +32,7 @@ describe Carmen::Country do
 
     it "provides case-sensitive searches optionally" do
       oceania = Carmen::Country.named('oCeAnIa', :case => true)
-      oceania.must_equal nil
+      assert_nil(oceania)
       oceania = Carmen::Country.named('Oceania', :case => true)
       oceania.instance_of?(Carmen::Country).must_equal true
       oceania.name.must_equal 'Oceania'
