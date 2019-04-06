@@ -13,3 +13,7 @@ en:
     ru:
       name: Russia
       official_name: Russian Federation
+    mk:
+      common_name:
+      name: North Macedonia
+      official_name: Republic of North Macedonia
