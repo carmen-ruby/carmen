@@ -1,5 +1,7 @@
 ### master (unreleased)
 
+### 1.1.2 (May 2, 2019)
+
 ##### Geographic Modifications
 * [#270](https://github.com/carmen-ruby/carmen/pull/270) Update name of FYR of Macedonia to North Macedonia ([@szajbus](https://github.com/szajbus))
 * [#267](https://github.com/carmen-ruby/carmen/pull/267) Update Moroccan regions and subregions to match the new standard (after 2015), because of the absence of the new iso codes, I used the last two digit of the non-official [HASC](http://www.statoids.com/ihasc.html) codes.
