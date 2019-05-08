@@ -3,7 +3,7 @@ en:
   world:
     fr:
       occ:
-        09:
+        '09':
           name: Ariège
         '11':
           name: Aude

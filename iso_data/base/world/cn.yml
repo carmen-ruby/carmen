@@ -1,69 +1,69 @@
 ---
-- code: '11'
+- code: AH
+  type: province
+- code: BJ
   type: municipality
-- code: '12'
+- code: CQ
   type: municipality
-- code: '13'
+- code: FJ
   type: province
-- code: '14'
+- code: GD
   type: province
-- code: '15'
+- code: GS
+  type: province
+- code: GX
   type: autonomous region
-- code: '21'
+- code: GZ
   type: province
-- code: '22'
+- code: HA
   type: province
-- code: '23'
+- code: HB
   type: province
-- code: '31'
-  type: municipality
-- code: '32'
+- code: HE
   type: province
-- code: '33'
+- code: HI
   type: province
-- code: '34'
-  type: province
-- code: '35'
-  type: province
-- code: '36'
-  type: province
-- code: '37'
-  type: province
-- code: '41'
-  type: province
-- code: '42'
-  type: province
-- code: '43'
-  type: province
-- code: '44'
-  type: province
-- code: '45'
-  type: autonomous region
-- code: '46'
-  type: province
-- code: '50'
-  type: municipality
-- code: '51'
-  type: province
-- code: '52'
-  type: province
-- code: '53'
-  type: province
-- code: '54'
-  type: autonomous region
-- code: '61'
-  type: province
-- code: '62'
-  type: province
-- code: '63'
-  type: province
-- code: '64'
-  type: autonomous region
-- code: '65'
-  type: autonomous region
-- code: '71'
-  type: province
-- code: '91'
+- code: HK
   type: special administrative region
-- code: '92'
+- code: HL
+  type: province
+- code: HN
+  type: province
+- code: JL
+  type: province
+- code: JS
+  type: province
+- code: JX
+  type: province
+- code: LN
+  type: province
+- code: MO
   type: special administrative region
+- code: NM
+  type: autonomous region
+- code: NX
+  type: autonomous region
+- code: QH
+  type: province
+- code: SC
+  type: province
+- code: SD
+  type: province
+- code: SH
+  type: municipality
+- code: SN
+  type: province
+- code: SX
+  type: province
+- code: TJ
+  type: municipality
+- code: TW
+  type: province
+- code: XJ
+  type: autonomous region
+- code: XZ
+  type: autonomous region
+- code: YN
+  type: province
+- code: ZJ
+  type: province

@@ -59,6 +59,8 @@
   type: state
 - code: SK
   type: state
+- code: TG
+  type: state
 - code: TN
   type: state
 - code: TR

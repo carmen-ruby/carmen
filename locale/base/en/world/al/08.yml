@@ -2,7 +2,7 @@
 en:
   world:
     al:
-      08:
+      '08':
         kb:
           name: Kurbin
         le:

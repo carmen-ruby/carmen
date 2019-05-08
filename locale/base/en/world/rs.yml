@@ -4,9 +4,9 @@ en:
     rs:
       '00':
         name: Beograd
-      08:
+      '08':
         name: Mačvanski okrug
-      09:
+      '09':
         name: Kolubarski okrug
       '10':
         name: Podunavski okrug

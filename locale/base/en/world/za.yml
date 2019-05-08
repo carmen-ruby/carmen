@@ -6,7 +6,7 @@ en:
         name: Eastern Cape
       fs:
         name: Free State
-      gp:
+      gt:
         name: Gauteng
       lp:
         name: Limpopo
@@ -14,9 +14,9 @@ en:
         name: Mpumalanga
       nc:
         name: Northern Cape
+      nl:
+        name: Kwazulu-Natal
       nw:
         name: North-West (South Africa)
       wc:
         name: Western Cape
-      zn:
-        name: Kwazulu-Natal

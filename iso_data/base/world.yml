@@ -13,7 +13,7 @@
   type: country
 - alpha_2_code: AG
   alpha_3_code: ATG
-  numeric_code: 028
+  numeric_code: '028'
   type: country
 - alpha_2_code: AI
   alpha_3_code: AIA
@@ -21,7 +21,7 @@
   type: country
 - alpha_2_code: AL
   alpha_3_code: ALB
-  numeric_code: 008
+  numeric_code: '008'
   type: country
 - alpha_2_code: AM
   alpha_3_code: ARM
@@ -89,7 +89,7 @@
   type: country
 - alpha_2_code: BH
   alpha_3_code: BHR
-  numeric_code: 048
+  numeric_code: '048'
   type: country
 - alpha_2_code: BI
   alpha_3_code: BDI
@@ -109,11 +109,11 @@
   type: country
 - alpha_2_code: BN
   alpha_3_code: BRN
-  numeric_code: 096
+  numeric_code: '096'
   type: country
 - alpha_2_code: BO
   alpha_3_code: BOL
-  numeric_code: 068
+  numeric_code: '068'
   type: country
 - alpha_2_code: BQ
   alpha_3_code: BES
@@ -145,7 +145,7 @@
   type: country
 - alpha_2_code: BZ
   alpha_3_code: BLZ
-  numeric_code: 084
+  numeric_code: '084'
   type: country
 - alpha_2_code: CA
   alpha_3_code: CAN
@@ -421,7 +421,7 @@
   type: country
 - alpha_2_code: IO
   alpha_3_code: IOT
-  numeric_code: 086
+  numeric_code: '086'
   type: country
 - alpha_2_code: IQ
   alpha_3_code: IRQ
@@ -773,7 +773,7 @@
   type: country
 - alpha_2_code: SB
   alpha_3_code: SLB
-  numeric_code: 090
+  numeric_code: '090'
   type: country
 - alpha_2_code: SC
   alpha_3_code: SYC
@@ -953,7 +953,7 @@
   type: country
 - alpha_2_code: VG
   alpha_3_code: VGB
-  numeric_code: 092
+  numeric_code: '092'
   type: country
 - alpha_2_code: VI
   alpha_3_code: VIR

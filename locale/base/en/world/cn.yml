@@ -2,71 +2,71 @@
 en:
   world:
     cn:
-      '11':
-        name: Beijing
-      '12':
-        name: Tianjin
-      '13':
-        name: Hebei
-      '14':
-        name: Shanxi
-      '15':
-        name: Nei Mongol
-      '21':
-        name: Liaoning
-      '22':
-        name: Jilin
-      '23':
-        name: Heilongjiang
-      '31':
-        name: Shanghai
-      '32':
-        name: Jiangsu
-      '33':
-        name: Zhejiang
-      '34':
-        name: Anhui
-      '35':
-        name: Fujian
-      '36':
-        name: Jiangxi
-      '37':
-        name: Shandong
-      '41':
-        name: Henan
-      '42':
-        name: Hubei
-      '43':
-        name: Hunan
-      '44':
-        name: Guangdong
-      '45':
-        name: Guangxi
-      '46':
-        name: Hainan
-      '50':
-        name: Chongqing
-      '51':
-        name: Sichuan
-      '52':
-        name: Guizhou
-      '53':
-        name: Yunnan
-      '54':
-        name: Xizang
-      '61':
-        name: Shaanxi
-      '62':
-        name: Gansu
-      '63':
-        name: Qinghai
-      '64':
-        name: Ningxia
-      '65':
-        name: Xinjiang
-      '71':
-        name: Taiwan
-      '91':
-        name: Xianggang (Hong-Kong)
-      '92':
-        name: Aomen (Macau)
+      ah:
+        name: Anhui Sheng
+      bj:
+        name: Beijing Shi
+      cq:
+        name: Chongqing Shi
+      fj:
+        name: Fujian Sheng
+      gd:
+        name: Guangdong Sheng
+      gs:
+        name: Gansu Sheng
+      gx:
+        name: Guangxi Zhuangzu Zizhiqu
+      gz:
+        name: Guizhou Sheng
+      ha:
+        name: Henan Sheng
+      hb:
+        name: Hubei Sheng
+      he:
+        name: Hebei Sheng
+      hi:
+        name: Hainan Sheng
+      hk:
+        name: Hong Kong SAR (see also separate country code entry under HK)
+      hl:
+        name: Heilongjiang Sheng
+      hn:
+        name: Hunan Sheng
+      jl:
+        name: Jilin Sheng
+      js:
+        name: Jiangsu Sheng
+      jx:
+        name: Jiangxi Sheng
+      ln:
+        name: Liaoning Sheng
+      mo:
+        name: Macao SAR (see also separate country code entry under MO)
+      nm:
+        name: Nei Mongol Zizhiqu
+      nx:
+        name: Ningxia Huizi Zizhiqu
+      qh:
+        name: Qinghai Sheng
+      sc:
+        name: Sichuan Sheng
+      sd:
+        name: Shandong Sheng
+      sh:
+        name: Shanghai Shi
+      sn:
+        name: Shaanxi Sheng
+      sx:
+        name: Shanxi Sheng
+      tj:
+        name: Tianjin Shi
+      tw:
+        name: Taiwan Sheng (see also separate country code entry under TW)
+      xj:
+        name: Xinjiang Uygur Zizhiqu
+      xz:
+        name: Xizang Zizhiqu
+      yn:
+        name: Yunnan Sheng
+      zj:
+        name: Zhejiang Sheng
