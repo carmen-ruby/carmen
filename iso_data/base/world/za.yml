@@ -3,7 +3,7 @@
   type: province
 - code: FS
   type: province
-- code: GP
+- code: GT
   type: province
 - code: LP
   type: province
@@ -11,9 +11,9 @@
   type: province
 - code: NC
   type: province
+- code: NL
+  type: province
 - code: NW
   type: province
 - code: WC
-  type: province
-- code: ZN
   type: province

@@ -16,9 +16,9 @@ en:
         name: Alsungas novads
       '007':
         name: Alūksnes novads
-      008:
+      '008':
         name: Amatas novads
-      009:
+      '009':
         name: Apes novads
       '010':
         name: Auces novads
@@ -36,9 +36,9 @@ en:
         name: Bauskas novads
       '017':
         name: Beverīnas novads
-      018:
+      '018':
         name: Brocēnu novads
-      019:
+      '019':
         name: Burtnieku novads
       '020':
         name: Carnikavas novads
@@ -56,9 +56,9 @@ en:
         name: Dobeles novads
       '027':
         name: Dundagas novads
-      028:
+      '028':
         name: Durbes novads
-      029:
+      '029':
         name: Engures novads
       '030':
         name: Ērgļu novads
@@ -76,9 +76,9 @@ en:
         name: Ilūkstes novads
       '037':
         name: Inčukalna novads
-      038:
+      '038':
         name: Jaunjelgavas novads
-      039:
+      '039':
         name: Jaunpiebalgas novads
       '040':
         name: Jaunpils novads
@@ -96,9 +96,9 @@ en:
         name: Kokneses novads
       '047':
         name: Krāslavas novads
-      048:
+      '048':
         name: Krimuldas novads
-      049:
+      '049':
         name: Krustpils novads
       '050':
         name: Kuldīgas novads
@@ -116,9 +116,9 @@ en:
         name: Līvānu novads
       '057':
         name: Lubānas novads
-      058:
+      '058':
         name: Ludzas novads
-      059:
+      '059':
         name: Madonas novads
       '060':
         name: Mazsalacas novads
@@ -136,9 +136,9 @@ en:
         name: Nīcas novads
       '067':
         name: Ogres novads
-      068:
+      '068':
         name: Olaines novads
-      069:
+      '069':
         name: Ozolnieku novads
       '070':
         name: Pārgaujas novads
@@ -156,49 +156,49 @@ en:
         name: Raunas novads
       '077':
         name: Rēzeknes novads
-      078:
+      '078':
         name: Riebiņu novads
-      079:
+      '079':
         name: Rojas novads
-      080:
+      '080':
         name: Ropažu novads
-      081:
+      '081':
         name: Rucavas novads
-      082:
+      '082':
         name: Rugāju novads
-      083:
+      '083':
         name: Rundāles novads
-      084:
+      '084':
         name: Rūjienas novads
-      085:
+      '085':
         name: Salas novads
-      086:
+      '086':
         name: Salacgrīvas novads
-      087:
+      '087':
         name: Salaspils novads
-      088:
+      '088':
         name: Saldus novads
-      089:
+      '089':
         name: Saulkrastu novads
-      090:
+      '090':
         name: Sējas novads
-      091:
+      '091':
         name: Siguldas novads
-      092:
+      '092':
         name: Skrīveru novads
-      093:
+      '093':
         name: Skrundas novads
-      094:
+      '094':
         name: Smiltenes novads
-      095:
+      '095':
         name: Stopiņu novads
-      096:
+      '096':
         name: Strenču novads
-      097:
+      '097':
         name: Talsu novads
-      098:
+      '098':
         name: Tērvetes novads
-      099:
+      '099':
         name: Tukuma novads
       '100':
         name: Vaiņodes novads

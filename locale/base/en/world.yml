@@ -340,7 +340,7 @@ en:
     gm:
       common_name: 
       name: Gambia
-      official_name: Islamic Republic of the Gambia
+      official_name: Republic of the Gambia
     gn:
       common_name: 
       name: Guinea
@@ -575,8 +575,8 @@ en:
       official_name: Republic of the Marshall Islands
     mk:
       common_name: 
-      name: Macedonia, Republic of
-      official_name: The Former Yugoslav Republic of Macedonia
+      name: North Macedonia
+      official_name: Republic of North Macedonia
     ml:
       common_name: 
       name: Mali
@@ -851,8 +851,8 @@ en:
       official_name: 
     sz:
       common_name: 
-      name: Swaziland
-      official_name: Kingdom of Swaziland
+      name: Eswatini
+      official_name: Kingdom of Eswatini
     tc:
       common_name: 
       name: Turks and Caicos Islands

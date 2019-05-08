@@ -16,9 +16,9 @@ en:
         name: Centre-Ouest
       '07':
         name: Centre-Sud
-      08:
+      '08':
         name: Est
-      09:
+      '09':
         name: Hauts-Bassins
       '10':
         name: Nord

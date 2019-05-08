@@ -1,9 +1,9 @@
 ---
 - code: '00'
   type: city
-- code: 08
+- code: '08'
   type: district
-- code: 09
+- code: '09'
   type: district
 - code: '10'
   type: district

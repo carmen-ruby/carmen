@@ -17,7 +17,7 @@ en:
       ct:
         name: Chhattisgarh
       dd:
-        name: Damen and Diu
+        name: Daman and Diu
       dl:
         name: Delhi
       dn:
@@ -53,7 +53,7 @@ en:
       nl:
         name: Nagaland
       or:
-        name: Orissa
+        name: Odisha
       pb:
         name: Punjab
       py:
@@ -62,6 +62,8 @@ en:
         name: Rajasthan
       sk:
         name: Sikkim
+      tg:
+        name: Telangana
       tn:
         name: Tamil Nadu
       tr:

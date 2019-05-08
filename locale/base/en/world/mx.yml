@@ -14,12 +14,12 @@ en:
         name: Chihuahua
       chp:
         name: Chiapas
+      cmx:
+        name: Ciudad de México
       coa:
-        name: Coahuila
+        name: Coahuila de Zaragoza
       col:
         name: Colima
-      cdmx:
-        name: Ciudad de México
       dur:
         name: Durango
       gro:
@@ -33,7 +33,7 @@ en:
       mex:
         name: México
       mic:
-        name: Michoacán
+        name: Michoacán de Ocampo
       mor:
         name: Morelos
       nay:
@@ -61,7 +61,7 @@ en:
       tla:
         name: Tlaxcala
       ver:
-        name: Veracruz
+        name: Veracruz de Ignacio de la Llave
       yuc:
         name: Yucatán
       zac:

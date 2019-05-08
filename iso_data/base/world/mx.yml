@@ -11,11 +11,11 @@
   type: state
 - code: CHP
   type: state
+- code: CMX
+  type: federal district
 - code: COA
   type: state
 - code: COL
-  type: state
-- code: CDMX
   type: state
 - code: DUR
   type: state

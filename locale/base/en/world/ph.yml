@@ -16,9 +16,9 @@ en:
         name: Western Visayas (Region VI)
       '07':
         name: Central Visayas (Region VII)
-      08:
+      '08':
         name: Eastern Visayas (Region VIII)
-      09:
+      '09':
         name: Zamboanga Peninsula (Region IX)
       '10':
         name: Northern Mindanao (Region X)
