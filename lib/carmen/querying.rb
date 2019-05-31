@@ -32,12 +32,12 @@ module Carmen
     def named(name, options={})
       case_fold = !options[:case] && name.respond_to?(:each_codepoint)
       # These only need to be built once
-      name = case_fold ? name.mb_chars.downcase.normalize : name
+      name = case_fold ? name.mb_chars.downcase.unicode_normalize(:nfkc) : name
       # For now, "fuzzy" just means substring, optionally case-insensitive (the second argument looks for nil, not falseness)
       regexp = options[:fuzzy] ? Regexp.new(name.split(/[-'\s]/).join("[-'\s]"), options[:case] ? nil : true) : nil
       
       query_collection.find do |region|
-        found_literal = name === (case_fold && region.name ? region.name.mb_chars.downcase.normalize : region.name)
+        found_literal = name === (case_fold && region.name ? region.name.mb_chars.downcase.unicode_normalize(:nfkc) : region.name)
         found_literal || options[:fuzzy] && regexp === region.name
       end
     end
