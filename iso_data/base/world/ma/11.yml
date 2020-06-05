@@ -1,15 +1,9 @@
 ---
-- code: CHI
+- code: BOD
   type: province
-- code: ESI
+- code: ESM
   type: province
-- code: HAO
+- code: LAA
   type: province
-- code: KES
+- code: TAF
   type: province
-- code: MMD
-  type: prefecture
-- code: MMN
-  type: prefecture
-- code: SYB
-  type: prefecture

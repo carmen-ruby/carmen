@@ -1,9 +1,11 @@
 ---
-- code: BOM
+- code: AZI
   type: province
-- code: FES
-  type: prefecture
-- code: MOU
+- code: BEM
   type: province
-- code: SEF
+- code: FQH
+  type: province
+- code: KHN
+  type: province
+- code: KHO
   type: province

@@ -1,5 +1,17 @@
 ---
-- code: HOC
+- code: BOM
+  type: province
+- code: FES
+  type: prefecture
+- code: HAJ
+  type: province
+- code: IFR
+  type: province
+- code: MEK
+  type: prefecture
+- code: MOU
+  type: province
+- code: SEF
   type: province
 - code: TAO
   type: province

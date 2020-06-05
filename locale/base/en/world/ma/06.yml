@@ -3,13 +3,21 @@ en:
   world:
     ma:
       '06':
-        err:
-          name: Errachidia
-        haj:
-          name: El Hajeb
-        ifr:
-          name: Ifrane
-        khn:
-          name: Khenifra
-        mek:
-          name: Meknès
+        bes:
+          name: Benslimane
+        brr:
+          name: Berrechid
+        cas:
+          name: Casablanca
+        cht:
+          name: Chtouka-Ait Baha
+        jdi:
+          name: El Jadida
+        med:
+          name: Médiouna
+        moh:
+          name: Mohammadia
+        set:
+          name: Settat
+        sib:
+          name: Sidi Bennour

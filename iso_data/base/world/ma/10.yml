@@ -1,5 +1,9 @@
 ---
-- code: JDI
+- code: ASZ
   type: province
-- code: SAF
+- code: GUE
+  type: province
+- code: SIF
+  type: province
+- code: TNT
   type: province
