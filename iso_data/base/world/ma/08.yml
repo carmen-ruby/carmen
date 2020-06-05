@@ -1,9 +1,11 @@
 ---
-- code: CAS
-  type: prefecture
-- code: MED
+- code: ERR
   type: province
-- code: MOH
-  type: prefecture
-- code: NOU
+- code: MID
+  type: province
+- code: OUA
+  type: province
+- code: TIN
+  type: province
+- code: ZAG
   type: province

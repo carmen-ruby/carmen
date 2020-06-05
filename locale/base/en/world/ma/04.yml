@@ -3,15 +3,19 @@ en:
   world:
     ma:
       '04':
-        ber:
-          name: Berkane
-        fig:
-          name: Figuig
-        jra:
-          name: Jrada
-        nad:
-          name: Nador
-        ouj:
-          name: Oujda-Angad
-        tai:
-          name: Taourirt
+        ken:
+          name: Kénitra
+        khe:
+          name: Khemisset
+        nou:
+          name: Nouaceur
+        rab:
+          name: Rabat
+        sal:
+          name: Salé
+        sik:
+          name: Sidi Kacem
+        sil:
+          name: Sidi Slimane
+        skh:
+          name: Skhirate-Témara

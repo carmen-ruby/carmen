@@ -1,7 +1,11 @@
 ---
-- code: BES
+- code: AGD
+  type: prefecture
+- code: INE
+  type: prefecture
+- code: TAR
   type: province
-- code: KHO
+- code: TAT
   type: province
-- code: SET
+- code: TIZ
   type: province

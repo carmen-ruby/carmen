@@ -3,7 +3,19 @@ en:
   world:
     ma:
       '02':
-        ken:
-          name: Kénitra
-        sik:
-          name: Sidl Kacem
+        ber:
+          name: Berkane
+        dri:
+          name: Driouch
+        fig:
+          name: Figuig
+        guf:
+          name: Guercif
+        jra:
+          name: Jerada
+        nad:
+          name: Nador
+        ouj:
+          name: Oujda-Angad
+        tai:
+          name: Taourirt

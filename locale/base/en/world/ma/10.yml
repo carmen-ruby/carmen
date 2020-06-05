@@ -3,7 +3,11 @@ en:
   world:
     ma:
       '10':
-        jdi:
-          name: El Jadida
-        saf:
-          name: Safi
+        asz:
+          name: Assa-Zag (EH-partial)
+        gue:
+          name: Guelmim
+        sif:
+          name: Sidi Ifni
+        tnt:
+          name: Tan-Tan (EH-partial)
