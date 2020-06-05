@@ -30,10 +30,6 @@ en:
         name: Sogn og Fjordane
       '15':
         name: Møre og Romsdal
-      '16':
-        name: Sør-Trøndelag
-      '17':
-        name: Nord-Trøndelag
       '18':
         name: Nordland
       '19':
@@ -44,3 +40,5 @@ en:
         name: Svalbard (Arctic Region)
       '22':
         name: Jan Mayen (Arctic Region)
+      '50':
+        name: Trøndelag

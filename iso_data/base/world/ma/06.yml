@@ -1,11 +1,19 @@
 ---
-- code: ERR
+- code: BES
   type: province
-- code: HAJ
+- code: BRR
   type: province
-- code: IFR
-  type: province
-- code: KHN
-  type: province
-- code: MEK
+- code: CAS
   type: prefecture
+- code: CHT
+  type: province
+- code: JDI
+  type: province
+- code: MED
+  type: province
+- code: MOH
+  type: prefecture
+- code: SET
+  type: province
+- code: SIB
+  type: province

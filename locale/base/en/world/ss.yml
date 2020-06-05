@@ -3,12 +3,12 @@ en:
   world:
     ss:
       bn:
-        name: Northern Bahr el-Ghazal
+        name: Northern Bahr el Ghazal
       bw:
-        name: Western Bahr el-Ghazal
+        name: Western Bahr el Ghazal
       ec:
         name: Central Equatoria
-      ee8:
+      ee:
         name: Eastern Equatoria
       ew:
         name: Western Equatoria

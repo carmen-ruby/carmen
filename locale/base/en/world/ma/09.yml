@@ -3,9 +3,13 @@ en:
   world:
     ma:
       '09':
-        bes:
-          name: Ben Slimane
-        kho:
-          name: Khouribga
-        set:
-          name: Settat
+        agd:
+          name: Agadir-Ida-Ou-Tanane
+        ine:
+          name: Inezgane-Ait Melloul
+        tar:
+          name: Taroudant
+        tat:
+          name: Tata
+        tiz:
+          name: Tiznit

@@ -3,17 +3,11 @@ en:
   world:
     ma:
       '11':
-        chi:
-          name: Chichaoua
-        esi:
-          name: Essaouira
-        hao:
-          name: Al Haouz
-        kes:
-          name: Kelaat es Sraghna
-        mmd:
-          name: Marrakech-Medina
-        mmn:
-          name: Marrakech-Menara
-        syb:
-          name: Sidi Youssef Ben Ali
+        bod:
+          name: Boujdour (EH)
+        esm:
+          name: Es-Semara (EH-partial)
+        laa:
+          name: Laâyoune (EH)
+        taf:
+          name: Tarfaya (EH-partial)
