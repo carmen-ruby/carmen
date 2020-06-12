@@ -1,0 +1,16 @@
+---
+en:
+  world:
+    'no':
+      '30':
+        name: Viken
+      '34':
+        name: Innlandet
+      '38':
+        name: Vestfold og Telemark
+      '42':
+        name: Agder
+      '46':
+        name: Vestland
+      '54':
+        name: Troms og Finnmark
