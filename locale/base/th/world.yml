@@ -1,0 +1,999 @@
+---
+th:
+  world:
+    ad:
+      common_name:
+      name: อันดอร์รา
+      official_name:
+    ae:
+      common_name:
+      name: สหรัฐอาหรับเอมิเรตส์
+      official_name:
+    af:
+      common_name:
+      name: อัฟกานิสถาน
+      official_name:
+    ag:
+      common_name:
+      name: แอนติกาและบาร์บูดา
+      official_name:
+    ai:
+      common_name:
+      name: แองกวิลลา
+      official_name:
+    al:
+      common_name:
+      name: แอลเบเนีย
+      official_name:
+    am:
+      common_name:
+      name: อาร์มีเนีย
+      official_name:
+    ao:
+      common_name:
+      name: แองโกลา
+      official_name:
+    aq:
+      common_name:
+      name: แอนตาร์กติกา
+      official_name:
+    ar:
+      common_name:
+      name: อาร์เจนตินา
+      official_name:
+    as:
+      common_name:
+      name: อเมริกันซามัว
+      official_name:
+    at:
+      common_name:
+      name: ออสเตรีย
+      official_name:
+    au:
+      common_name:
+      name: ออสเตรเลีย
+      official_name:
+    aw:
+      common_name:
+      name: อารูบา
+      official_name:
+    ax:
+      common_name:
+      name: หมู่เกาะโอลันด์
+      official_name:
+    az:
+      common_name:
+      name: อาเซอร์ไบจาน
+      official_name:
+    ba:
+      common_name:
+      name: บอสเนียและเฮอร์เซโกวีนา
+      official_name:
+    bb:
+      common_name:
+      name: บาร์เบโดส
+      official_name:
+    bd:
+      common_name:
+      name: บังกลาเทศ
+      official_name:
+    be:
+      common_name:
+      name: เบลเยียม
+      official_name:
+    bf:
+      common_name:
+      name: บูร์กินาฟาโซ
+      official_name:
+    bg:
+      common_name:
+      name: บัลแกเรีย
+      official_name:
+    bh:
+      common_name:
+      name: บาห์เรน
+      official_name:
+    bi:
+      common_name:
+      name: บุรุนดี
+      official_name:
+    bj:
+      common_name:
+      name: เบนิน
+      official_name:
+    bl:
+      common_name:
+      name: แซ็ง-บาร์เตเลมี
+      official_name:
+    bm:
+      common_name:
+      name: เบอร์มิวดา
+      official_name:
+    bn:
+      common_name:
+      name: บรูไน
+      official_name:
+    bo:
+      common_name:
+      name: โบลิเวีย
+      official_name:
+    bq:
+      common_name:
+      name: เนเธอร์แลนด์แอนทิลลีส
+      official_name:
+    br:
+      common_name:
+      name: บราซิล
+      official_name:
+    bs:
+      common_name:
+      name: บาฮามาส
+      official_name:
+    bt:
+      common_name:
+      name: ภูฏาน
+      official_name:
+    bv:
+      common_name:
+      name: เกาะบูเว
+      official_name:
+    bw:
+      common_name:
+      name: บอตสวานา
+      official_name:
+    by:
+      common_name:
+      name: เบลารุส
+      official_name:
+    bz:
+      common_name:
+      name: เบลีซ
+      official_name:
+    ca:
+      common_name:
+      name: แคนาดา
+      official_name:
+    cc:
+      common_name:
+      name: หมู่เกาะโคโคส
+      official_name:
+    cd:
+      common_name:
+      name: สาธารณรัฐประชาธิปไตยคองโก
+      official_name:
+    cf:
+      common_name:
+      name: สาธารณรัฐแอฟริกากลาง
+      official_name:
+    cg:
+      common_name:
+      name: สาธารณรัฐคองโก
+      official_name:
+    ch:
+      common_name:
+      name: สวิตเซอร์แลนด์
+      official_name:
+    ci:
+      common_name:
+      name: โกตดิวัวร์
+      official_name:
+    ck:
+      common_name:
+      name: หมู่เกาะคุก
+      official_name:
+    cl:
+      common_name:
+      name: ชิลี
+      official_name:
+    cm:
+      common_name:
+      name: แคเมอรูน
+      official_name:
+    cn:
+      common_name:
+      name: จีน
+      official_name:
+    co:
+      common_name:
+      name: โคลอมเบีย
+      official_name:
+    cr:
+      common_name:
+      name: คอสตาริกา
+      official_name:
+    cu:
+      common_name:
+      name: คิวบา
+      official_name:
+    cv:
+      common_name:
+      name: กาบูเวร์ดี
+      official_name:
+    cw:
+      common_name:
+      name: กือราเซา
+      official_name:
+    cx:
+      common_name:
+      name: เกาะคริสต์มาส
+      official_name:
+    cy:
+      common_name:
+      name: ไซปรัส
+      official_name:
+    cz:
+      common_name:
+      name: เช็กเกีย
+      official_name:
+    de:
+      common_name:
+      name: เยอรมนี
+      official_name:
+    dj:
+      common_name:
+      name: จิบูตี
+      official_name:
+    dk:
+      common_name:
+      name: เดนมาร์ก
+      official_name:
+    dm:
+      common_name:
+      name: ดอมินีกา
+      official_name:
+    do:
+      common_name:
+      name: สาธารณรัฐโดมินิกัน
+      official_name:
+    dz:
+      common_name:
+      name: แอลจีเรีย
+      official_name:
+    ec:
+      common_name:
+      name: เอกวาดอร์
+      official_name:
+    ee:
+      common_name:
+      name: เอสโตเนีย
+      official_name:
+    eg:
+      common_name:
+      name: อียิปต์
+      official_name:
+    eh:
+      common_name:
+      name: เวสเทิร์นสะฮารา
+      official_name:
+    er:
+      common_name:
+      name: เอริเทรีย
+      official_name:
+    es:
+      common_name:
+      name: สเปน
+      official_name:
+    et:
+      common_name:
+      name: เอธิโอเปีย
+      official_name:
+    fi:
+      common_name:
+      name: ฟินแลนด์
+      official_name:
+    fj:
+      common_name:
+      name: ฟีจี
+      official_name:
+    fk:
+      common_name:
+      name: หมู่เกาะฟอล์กแลนด์
+      official_name:
+    fm:
+      common_name:
+      name: ไมโครนีเซีย
+      official_name:
+    fo:
+      common_name:
+      name: หมู่เกาะแฟโร
+      official_name:
+    fr:
+      common_name:
+      name: ฝรั่งเศส
+      official_name:
+    ga:
+      common_name:
+      name: กาบอง
+      official_name:
+    gb:
+      common_name:
+      name: สหราชอาณาจักร
+      official_name:
+    gd:
+      common_name:
+      name: เกรเนดา
+      official_name:
+    ge:
+      common_name:
+      name: จอร์เจีย
+      official_name:
+    gf:
+      common_name:
+      name: เฟรนช์เกียนา
+      official_name:
+    gg:
+      common_name:
+      name: เกิร์นซีย์
+      official_name:
+    gh:
+      common_name:
+      name: กานา
+      official_name:
+    gi:
+      common_name:
+      name: ยิบรอลตาร์
+      official_name:
+    gl:
+      common_name:
+      name: กรีนแลนด์
+      official_name:
+    gm:
+      common_name:
+      name: แกมเบีย
+      official_name:
+    gn:
+      common_name:
+      name: กินี
+      official_name:
+    gp:
+      common_name:
+      name: กัวเดอลุป
+      official_name:
+    gq:
+      common_name:
+      name: อิเควทอเรียลกินี
+      official_name:
+    gr:
+      common_name:
+      name: กรีซ
+      official_name:
+    gs:
+      common_name:
+      name: เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช
+      official_name:
+    gt:
+      common_name:
+      name: กัวเตมาลา
+      official_name:
+    gu:
+      common_name:
+      name: กวม
+      official_name:
+    gw:
+      common_name:
+      name: กินี-บิสเซา
+      official_name:
+    gy:
+      common_name:
+      name: กายอานา
+      official_name:
+    hk:
+      common_name:
+      name: ฮ่องกง
+      official_name:
+    hm:
+      common_name:
+      name: เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์
+      official_name:
+    hn:
+      common_name:
+      name: ฮอนดูรัส
+      official_name:
+    hr:
+      common_name:
+      name: โครเอเชีย
+      official_name:
+    ht:
+      common_name:
+      name: เฮติ
+      official_name:
+    hu:
+      common_name:
+      name: ฮังการี
+      official_name:
+    id:
+      common_name:
+      name: อินโดนีเซีย
+      official_name:
+    ie:
+      common_name:
+      name: ไอร์แลนด์
+      official_name:
+    il:
+      common_name:
+      name: อิสราเอล
+      official_name:
+    im:
+      common_name:
+      name: ไอล์ออฟแมน
+      official_name:
+    in:
+      common_name:
+      name: อินเดีย
+      official_name:
+    io:
+      common_name:
+      name: บริติชอินเดียนโอเชียนเทร์ริทอรี
+      official_name:
+    iq:
+      common_name:
+      name: อิรัก
+      official_name:
+    ir:
+      common_name:
+      name: อิหร่าน
+      official_name:
+    is:
+      common_name:
+      name: ไอซ์แลนด์
+      official_name:
+    it:
+      common_name:
+      name: อิตาลี
+      official_name:
+    je:
+      common_name:
+      name: เจอร์ซีย์
+      official_name:
+    jm:
+      common_name:
+      name: จาเมกา
+      official_name:
+    jo:
+      common_name:
+      name: จอร์แดน
+      official_name:
+    jp:
+      common_name:
+      name: ญี่ปุ่น
+      official_name:
+    ke:
+      common_name:
+      name: เคนยา
+      official_name:
+    kg:
+      common_name:
+      name: คีร์กีซสถาน
+      official_name:
+    kh:
+      common_name:
+      name: กัมพูชา
+      official_name:
+    ki:
+      common_name:
+      name: คิริบาส
+      official_name:
+    km:
+      common_name:
+      name: คอโมโรส
+      official_name:
+    kn:
+      common_name:
+      name: เซนต์คิตส์และเนวิส
+      official_name:
+    kp:
+      common_name:
+      name: เกาหลีเหนือ
+      official_name:
+    kr:
+      common_name:
+      name: เกาหลีใต้
+      official_name:
+    kw:
+      common_name:
+      name: คูเวต
+      official_name:
+    ky:
+      common_name:
+      name: หมู่เกาะเคย์แมน
+      official_name:
+    kz:
+      common_name:
+      name: คาซัคสถาน
+      official_name:
+    la:
+      common_name:
+      name: ลาว
+      official_name:
+    lb:
+      common_name:
+      name: เลบานอน
+      official_name:
+    lc:
+      common_name:
+      name: เซนต์ลูเชีย
+      official_name:
+    li:
+      common_name:
+      name: ลิกเตนสไตน์
+      official_name:
+    lk:
+      common_name:
+      name: ศรีลังกา
+      official_name:
+    lr:
+      common_name:
+      name: ไลบีเรีย
+      official_name:
+    ls:
+      common_name:
+      name: เลโซโท
+      official_name:
+    lt:
+      common_name:
+      name: ลิทัวเนีย
+      official_name:
+    lu:
+      common_name:
+      name: ลักเซมเบิร์ก
+      official_name:
+    lv:
+      common_name:
+      name: ลัตเวีย
+      official_name:
+    ly:
+      common_name:
+      name: ลิเบีย
+      official_name:
+    ma:
+      common_name:
+      name: โมร็อกโก
+      official_name:
+    mc:
+      common_name:
+      name: โมนาโก
+      official_name:
+    md:
+      common_name:
+      name: มอลโดวา
+      official_name:
+    me:
+      common_name:
+      name: มอนเตเนโกร
+      official_name:
+    mf:
+      common_name:
+      name: แซงมาร์แตง
+      official_name:
+    mg:
+      common_name:
+      name: มาดากัสการ์
+      official_name:
+    mh:
+      common_name:
+      name: หมู่เกาะมาร์แชลล์
+      official_name:
+    mk:
+      common_name:
+      name: นอร์ทมาซิโดเนีย
+      official_name:
+    ml:
+      common_name:
+      name: มาลี
+      official_name:
+    mm:
+      common_name:
+      name: พม่า
+      official_name:
+    mn:
+      common_name:
+      name: มองโกเลีย
+      official_name:
+    mo:
+      common_name:
+      name: มาเก๊า
+      official_name:
+    mp:
+      common_name:
+      name: หมู่เกาะนอร์เทิร์นมาเรียนา
+      official_name:
+    mq:
+      common_name:
+      name: มาร์ตีนิก
+      official_name:
+    mr:
+      common_name:
+      name: มอริเตเนีย
+      official_name:
+    ms:
+      common_name:
+      name: มอนต์เซอร์รัต
+      official_name:
+    mt:
+      common_name:
+      name: มอลตา
+      official_name:
+    mu:
+      common_name:
+      name: มอริเชียส
+      official_name:
+    mv:
+      common_name:
+      name: มัลดีฟส์
+      official_name:
+    mw:
+      common_name:
+      name: มาลาวี
+      official_name:
+    mx:
+      common_name:
+      name: เม็กซิโก
+      official_name:
+    my:
+      common_name:
+      name: มาเลเซีย
+      official_name:
+    mz:
+      common_name:
+      name: โมซัมบิก
+      official_name:
+    na:
+      common_name:
+      name: นามิเบีย
+      official_name:
+    nc:
+      common_name:
+      name: นิวแคลิโดเนีย
+      official_name:
+    ne:
+      common_name:
+      name: ไนเจอร์
+      official_name:
+    nf:
+      common_name:
+      name: เกาะนอร์ฟอล์ก
+      official_name:
+    ng:
+      common_name:
+      name: ไนจีเรีย
+      official_name:
+    ni:
+      common_name:
+      name: นิการากัว
+      official_name:
+    nl:
+      common_name:
+      name: เนเธอร์แลนด์
+      official_name:
+    no:
+      common_name:
+      name: นอร์เวย์
+      official_name:
+    np:
+      common_name:
+      name: เนปาล
+      official_name:
+    nr:
+      common_name:
+      name: นาอูรู
+      official_name:
+    nu:
+      common_name:
+      name: นีวเว
+      official_name:
+    nz:
+      common_name:
+      name: นิวซีแลนด์
+      official_name:
+    om:
+      common_name:
+      name: โอมาน
+      official_name:
+    pa:
+      common_name:
+      name: ปานามา
+      official_name:
+    pe:
+      common_name:
+      name: เปรู
+      official_name:
+    pf:
+      common_name:
+      name: เฟรนช์พอลินีเชีย
+      official_name:
+    pg:
+      common_name:
+      name: ปาปัวนิวกินี
+      official_name:
+    ph:
+      common_name:
+      name: ฟิลิปปินส์
+      official_name:
+    pk:
+      common_name:
+      name: ปากีสถาน
+      official_name:
+    pl:
+      common_name:
+      name: โปแลนด์
+      official_name:
+    pm:
+      common_name:
+      name: แซงปีแยร์และมีเกอลง
+      official_name:
+    pn:
+      common_name:
+      name: หมู่เกาะพิตแคร์น
+      official_name:
+    pr:
+      common_name:
+      name: ปวยร์โตรีโก
+      official_name:
+    ps:
+      common_name:
+      name: ปาเลสไตน์
+      official_name:
+    pt:
+      common_name:
+      name: โปรตุเกส
+      official_name:
+    pw:
+      common_name:
+      name: ปาเลา
+      official_name:
+    py:
+      common_name:
+      name: ปารากวัย
+      official_name:
+    qa:
+      common_name:
+      name: กาตาร์
+      official_name:
+    re:
+      common_name:
+      name: เรอูว์นียง
+      official_name:
+    ro:
+      common_name:
+      name: โรมาเนีย
+      official_name:
+    rs:
+      common_name:
+      name: เซอร์เบีย
+      official_name:
+    ru:
+      common_name:
+      name: รัสเซีย
+      official_name:
+    rw:
+      common_name:
+      name: รวันดา
+      official_name:
+    sa:
+      common_name:
+      name: ซาอุดีอาระเบีย
+      official_name:
+    sb:
+      common_name:
+      name: หมู่เกาะโซโลมอน
+      official_name:
+    sc:
+      common_name:
+      name: เซเชลส์
+      official_name:
+    sd:
+      common_name:
+      name: ซูดาน
+      official_name:
+    se:
+      common_name:
+      name: สวีเดน
+      official_name:
+    sg:
+      common_name:
+      name: สิงคโปร์
+      official_name:
+    sh:
+      common_name:
+      name: เซนต์เฮเลนา
+      official_name:
+    si:
+      common_name:
+      name: สโลวีเนีย
+      official_name:
+    sj:
+      common_name:
+      name: ‎สฟาลบาร์และยานไมเอน
+      official_name:
+    sk:
+      common_name:
+      name: สโลวาเกีย
+      official_name:
+    sl:
+      common_name:
+      name: เซียร์ราลีโอน
+      official_name:
+    sm:
+      common_name:
+      name: ซานมารีโน
+      official_name:
+    sn:
+      common_name:
+      name: เซเนกัล
+      official_name:
+    so:
+      common_name:
+      name: โซมาเลีย
+      official_name:
+    sr:
+      common_name:
+      name: ซูรินาม
+      official_name:
+    ss:
+      common_name:
+      name: เซาท์ซูดาน
+      official_name:
+    st:
+      common_name:
+      name: เซาตูเมและปรินซีปี
+      official_name:
+    sv:
+      common_name:
+      name: เอลซัลวาดอร์
+      official_name:
+    sx:
+      common_name:
+      name: ซินต์มาร์เติน
+      official_name:
+    sy:
+      common_name:
+      name: ซีเรีย
+      official_name:
+    sz:
+      common_name:
+      name: เอสวาตีนี
+      official_name:
+    tc:
+      common_name:
+      name: หมู่เกาะเติกส์และเคคอส
+      official_name:
+    td:
+      common_name:
+      name: ชาด
+      official_name:
+    tf:
+      common_name:
+      name: เฟรนช์เซาเทิร์นและแอนตาร์กติกแลนดส์
+      official_name:
+    tg:
+      common_name:
+      name: โตโก
+      official_name:
+    th:
+      common_name:
+      name: ไทย
+      official_name:
+    tj:
+      common_name:
+      name: ทาจิกิสถาน
+      official_name:
+    tk:
+      common_name:
+      name: โทเคอเลา
+      official_name:
+    tl:
+      common_name:
+      name: ติมอร์-เลสเต
+      official_name:
+    tm:
+      common_name:
+      name: เติร์กเมนิสถาน
+      official_name:
+    tn:
+      common_name:
+      name: ตูนิเซีย
+      official_name:
+    to:
+      common_name:
+      name: ตองงา
+      official_name:
+    tr:
+      common_name:
+      name: ตุรกี
+      official_name:
+    tt:
+      common_name:
+      name: ตรินิแดดและโตเบโก
+      official_name:
+    tv:
+      common_name:
+      name: ตูวาลู
+      official_name:
+    tw:
+      common_name:
+      name: ไต้หวัน
+      official_name:
+    tz:
+      common_name:
+      name: แทนซาเนีย
+      official_name:
+    ua:
+      common_name:
+      name: ยูเครน
+      official_name:
+    ug:
+      common_name:
+      name: ยูกันดา
+      official_name:
+    um:
+      common_name:
+      name: เกาะเล็กรอบนอกของสหรัฐอเมริกา
+      official_name:
+    us:
+      common_name:
+      name: สหรัฐ
+      official_name:
+    uy:
+      common_name:
+      name: อุรุกวัย
+      official_name:
+    uz:
+      common_name:
+      name: อุซเบกิสถาน
+      official_name:
+    va:
+      common_name:
+      name: นครรัฐวาติกัน
+      official_name:
+    vc:
+      common_name:
+      name: เซนต์วินเซนต์และเกรนาดีนส์
+      official_name:
+    ve:
+      common_name:
+      name: เวเนซุเอลา
+      official_name:
+    vg:
+      common_name:
+      name: หมู่เกาะบริติชเวอร์จิน
+      official_name:
+    vi:
+      common_name:
+      name: หมู่เกาะเวอร์จินของสหรัฐ
+      official_name:
+    vn:
+      common_name:
+      name: เวียดนาม
+      official_name:
+    vu:
+      common_name:
+      name: วานูอาตู
+      official_name:
+    wf:
+      common_name:
+      name: วาลิสและฟูตูนา
+      official_name:
+    ws:
+      common_name:
+      name: ซามัว
+      official_name:
+    ye:
+      common_name:
+      name: เยเมน
+      official_name:
+    yt:
+      common_name:
+      name: มายอต
+      official_name:
+    za:
+      common_name:
+      name: แอฟริกาใต้
+      official_name:
+    zm:
+      common_name:
+      name: แซมเบีย
+      official_name:
+    zw:
+      common_name:
+      name: ซิมบับเว
+      official_name:

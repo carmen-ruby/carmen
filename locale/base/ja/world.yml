@@ -1,0 +1,999 @@
+---
+ja:
+  world:
+    ad:
+      common_name:
+      name: アンドラ
+      official_name:
+    ae:
+      common_name:
+      name: アラブ首長国連邦
+      official_name:
+    af:
+      common_name:
+      name: アフガニスタン
+      official_name:
+    ag:
+      common_name:
+      name: アンティグア・バーブーダ
+      official_name:
+    ai:
+      common_name:
+      name: アンギラ
+      official_name:
+    al:
+      common_name:
+      name: アルバニア
+      official_name:
+    am:
+      common_name:
+      name: アルメニア
+      official_name:
+    ao:
+      common_name:
+      name: アンゴラ
+      official_name:
+    aq:
+      common_name:
+      name: 南極
+      official_name:
+    ar:
+      common_name:
+      name: アルゼンチン
+      official_name:
+    as:
+      common_name:
+      name: アメリカ領サモア
+      official_name:
+    at:
+      common_name:
+      name: オーストリア
+      official_name:
+    au:
+      common_name:
+      name: オーストラリア
+      official_name:
+    aw:
+      common_name:
+      name: アルバ
+      official_name:
+    ax:
+      common_name:
+      name: オーランド諸島
+      official_name:
+    az:
+      common_name:
+      name: アゼルバイジャン
+      official_name:
+    ba:
+      common_name:
+      name: ボスニア・ヘルツェゴビナ
+      official_name:
+    bb:
+      common_name:
+      name: バルバドス
+      official_name:
+    bd:
+      common_name:
+      name: バングラデシュ
+      official_name:
+    be:
+      common_name:
+      name: ベルギー
+      official_name:
+    bf:
+      common_name:
+      name: ブルキナファソ
+      official_name:
+    bg:
+      common_name:
+      name: ブルガリア
+      official_name:
+    bh:
+      common_name:
+      name: バーレーン
+      official_name:
+    bi:
+      common_name:
+      name: ブルンジ
+      official_name:
+    bj:
+      common_name:
+      name: ベナン
+      official_name:
+    bl:
+      common_name:
+      name: サン・バルテルミー
+      official_name:
+    bm:
+      common_name:
+      name: バミューダ
+      official_name:
+    bn:
+      common_name:
+      name: ブルネイ・ダルサラーム
+      official_name:
+    bo:
+      common_name:
+      name: ボリビア多民族国
+      official_name:
+    bq:
+      common_name:
+      name: ボネール、シント・ユースタティウスおよびサバ
+      official_name:
+    br:
+      common_name:
+      name: ブラジル
+      official_name:
+    bs:
+      common_name:
+      name: バハマ
+      official_name:
+    bt:
+      common_name:
+      name: ブータン
+      official_name:
+    bv:
+      common_name:
+      name: ブーベ島
+      official_name:
+    bw:
+      common_name:
+      name: ボツワナ
+      official_name:
+    by:
+      common_name:
+      name: ベラルーシ
+      official_name:
+    bz:
+      common_name:
+      name: ベリーズ
+      official_name:
+    ca:
+      common_name:
+      name: カナダ
+      official_name:
+    cc:
+      common_name:
+      name: ココス（キーリング）諸島
+      official_name:
+    cd:
+      common_name:
+      name: コンゴ民主共和国
+      official_name:
+    cf:
+      common_name:
+      name: 中央アフリカ共和国
+      official_name:
+    cg:
+      common_name:
+      name: コンゴ共和国
+      official_name:
+    ch:
+      common_name:
+      name: スイス
+      official_name:
+    ci:
+      common_name:
+      name: コートジボワール
+      official_name:
+    ck:
+      common_name:
+      name: クック諸島
+      official_name:
+    cl:
+      common_name:
+      name: チリ
+      official_name:
+    cm:
+      common_name:
+      name: カメルーン
+      official_name:
+    cn:
+      common_name:
+      name: 中華人民共和国
+      official_name:
+    co:
+      common_name:
+      name: コロンビア
+      official_name:
+    cr:
+      common_name:
+      name: コスタリカ
+      official_name:
+    cu:
+      common_name:
+      name: キューバ
+      official_name:
+    cv:
+      common_name:
+      name: カーボベルデ
+      official_name:
+    cw:
+      common_name:
+      name: キュラソー
+      official_name:
+    cx:
+      common_name:
+      name: クリスマス島
+      official_name:
+    cy:
+      common_name:
+      name: キプロス
+      official_name:
+    cz:
+      common_name:
+      name: チェコ
+      official_name:
+    de:
+      common_name:
+      name: ドイツ
+      official_name:
+    dj:
+      common_name:
+      name: ジブチ
+      official_name:
+    dk:
+      common_name:
+      name: デンマーク
+      official_name:
+    dm:
+      common_name:
+      name: ドミニカ国
+      official_name:
+    do:
+      common_name:
+      name: ドミニカ共和国
+      official_name:
+    dz:
+      common_name:
+      name: アルジェリア
+      official_name:
+    ec:
+      common_name:
+      name: エクアドル
+      official_name:
+    ee:
+      common_name:
+      name: エストニア
+      official_name:
+    eg:
+      common_name:
+      name: エジプト
+      official_name:
+    eh:
+      common_name:
+      name: 西サハラ
+      official_name:
+    er:
+      common_name:
+      name: エリトリア
+      official_name:
+    es:
+      common_name:
+      name: スペイン
+      official_name:
+    et:
+      common_name:
+      name: エチオピア
+      official_name:
+    fi:
+      common_name:
+      name: フィンランド
+      official_name:
+    fj:
+      common_name:
+      name: フィジー
+      official_name:
+    fk:
+      common_name:
+      name: フォークランド（マルビナス）諸島
+      official_name:
+    fm:
+      common_name:
+      name: ミクロネシア連邦
+      official_name:
+    fo:
+      common_name:
+      name: フェロー諸島
+      official_name:
+    fr:
+      common_name:
+      name: フランス
+      official_name:
+    ga:
+      common_name:
+      name: ガボン
+      official_name:
+    gb:
+      common_name:
+      name: イギリス
+      official_name:
+    gd:
+      common_name:
+      name: グレナダ
+      official_name:
+    ge:
+      common_name:
+      name: ジョージア
+      official_name:
+    gf:
+      common_name:
+      name: フランス領ギアナ
+      official_name:
+    gg:
+      common_name:
+      name: ガーンジー
+      official_name:
+    gh:
+      common_name:
+      name: ガーナ
+      official_name:
+    gi:
+      common_name:
+      name: ジブラルタル
+      official_name:
+    gl:
+      common_name:
+      name: グリーンランド
+      official_name:
+    gm:
+      common_name:
+      name: ガンビア
+      official_name:
+    gn:
+      common_name:
+      name: ギニア
+      official_name:
+    gp:
+      common_name:
+      name: グアドループ
+      official_name:
+    gq:
+      common_name:
+      name: 赤道ギニア
+      official_name:
+    gr:
+      common_name:
+      name: ギリシャ
+      official_name:
+    gs:
+      common_name:
+      name: サウスジョージア・サウスサンドウィッチ諸島
+      official_name:
+    gt:
+      common_name:
+      name: グアテマラ
+      official_name:
+    gu:
+      common_name:
+      name: グアム
+      official_name:
+    gw:
+      common_name:
+      name: ギニアビサウ
+      official_name:
+    gy:
+      common_name:
+      name: ガイアナ
+      official_name:
+    hk:
+      common_name:
+      name: 香港
+      official_name:
+    hm:
+      common_name:
+      name: ハード島とマクドナルド諸島
+      official_name:
+    hn:
+      common_name:
+      name: ホンジュラス
+      official_name:
+    hr:
+      common_name:
+      name: クロアチア
+      official_name:
+    ht:
+      common_name:
+      name: ハイチ
+      official_name:
+    hu:
+      common_name:
+      name: ハンガリー
+      official_name:
+    id:
+      common_name:
+      name: インドネシア
+      official_name:
+    ie:
+      common_name:
+      name: アイルランド
+      official_name:
+    il:
+      common_name:
+      name: イスラエル
+      official_name:
+    im:
+      common_name:
+      name: マン島
+      official_name:
+    in:
+      common_name:
+      name: インド
+      official_name:
+    io:
+      common_name:
+      name: イギリス領インド洋地域
+      official_name:
+    iq:
+      common_name:
+      name: イラク
+      official_name:
+    ir:
+      common_name:
+      name: イラン・イスラム共和国
+      official_name:
+    is:
+      common_name:
+      name: アイスランド
+      official_name:
+    it:
+      common_name:
+      name: イタリア
+      official_name:
+    je:
+      common_name:
+      name: ジャージー
+      official_name:
+    jm:
+      common_name:
+      name: ジャマイカ
+      official_name:
+    jo:
+      common_name:
+      name: ヨルダン
+      official_name:
+    jp:
+      common_name:
+      name: 日本
+      official_name:
+    ke:
+      common_name:
+      name: ケニア
+      official_name:
+    kg:
+      common_name:
+      name: キルギス
+      official_name:
+    kh:
+      common_name:
+      name: カンボジア
+      official_name:
+    ki:
+      common_name:
+      name: キリバス
+      official_name:
+    km:
+      common_name:
+      name: コモロ
+      official_name:
+    kn:
+      common_name:
+      name: セントクリストファー・ネイビス
+      official_name:
+    kp:
+      common_name:
+      name: 朝鮮民主主義人民共和国
+      official_name:
+    kr:
+      common_name:
+      name: 大韓民国
+      official_name:
+    kw:
+      common_name:
+      name: クウェート
+      official_name:
+    ky:
+      common_name:
+      name: ケイマン諸島
+      official_name:
+    kz:
+      common_name:
+      name: カザフスタン
+      official_name:
+    la:
+      common_name:
+      name: ラオス人民民主共和国
+      official_name:
+    lb:
+      common_name:
+      name: レバノン
+      official_name:
+    lc:
+      common_name:
+      name: セントルシア
+      official_name:
+    li:
+      common_name:
+      name: リヒテンシュタイン
+      official_name:
+    lk:
+      common_name:
+      name: スリランカ
+      official_name:
+    lr:
+      common_name:
+      name: リベリア
+      official_name:
+    ls:
+      common_name:
+      name: レソト
+      official_name:
+    lt:
+      common_name:
+      name: リトアニア
+      official_name:
+    lu:
+      common_name:
+      name: ルクセンブルク
+      official_name:
+    lv:
+      common_name:
+      name: ラトビア
+      official_name:
+    ly:
+      common_name:
+      name: リビア
+      official_name:
+    ma:
+      common_name:
+      name: モロッコ
+      official_name:
+    mc:
+      common_name:
+      name: モナコ
+      official_name:
+    md:
+      common_name:
+      name: モルドバ共和国
+      official_name:
+    me:
+      common_name:
+      name: モンテネグロ
+      official_name:
+    mf:
+      common_name:
+      name: サン・マルタン（フランス領）
+      official_name:
+    mg:
+      common_name:
+      name: マダガスカル
+      official_name:
+    mh:
+      common_name:
+      name: マーシャル諸島
+      official_name:
+    mk:
+      common_name:
+      name: 北マケドニア
+      official_name:
+    ml:
+      common_name:
+      name: マリ
+      official_name:
+    mm:
+      common_name:
+      name: ミャンマー
+      official_name:
+    mn:
+      common_name:
+      name: モンゴル
+      official_name:
+    mo:
+      common_name:
+      name: マカオ
+      official_name:
+    mp:
+      common_name:
+      name: 北マリアナ諸島
+      official_name:
+    mq:
+      common_name:
+      name: マルティニーク
+      official_name:
+    mr:
+      common_name:
+      name: モーリタニア
+      official_name:
+    ms:
+      common_name:
+      name: モントセラト
+      official_name:
+    mt:
+      common_name:
+      name: マルタ
+      official_name:
+    mu:
+      common_name:
+      name: モーリシャス
+      official_name:
+    mv:
+      common_name:
+      name: モルディブ
+      official_name:
+    mw:
+      common_name:
+      name: マラウイ
+      official_name:
+    mx:
+      common_name:
+      name: メキシコ
+      official_name:
+    my:
+      common_name:
+      name: マレーシア
+      official_name:
+    mz:
+      common_name:
+      name: モザンビーク
+      official_name:
+    na:
+      common_name:
+      name: ナミビア
+      official_name:
+    nc:
+      common_name:
+      name: ニューカレドニア
+      official_name:
+    ne:
+      common_name:
+      name: ニジェール
+      official_name:
+    nf:
+      common_name:
+      name: ノーフォーク島
+      official_name:
+    ng:
+      common_name:
+      name: ナイジェリア
+      official_name:
+    ni:
+      common_name:
+      name: ニカラグア
+      official_name:
+    nl:
+      common_name:
+      name: オランダ
+      official_name:
+    no:
+      common_name:
+      name: ノルウェー
+      official_name:
+    np:
+      common_name:
+      name: ネパール
+      official_name:
+    nr:
+      common_name:
+      name: ナウル
+      official_name:
+    nu:
+      common_name:
+      name: ニウエ
+      official_name:
+    nz:
+      common_name:
+      name: ニュージーランド
+      official_name:
+    om:
+      common_name:
+      name: オマーン
+      official_name:
+    pa:
+      common_name:
+      name: パナマ
+      official_name:
+    pe:
+      common_name:
+      name: ペルー
+      official_name:
+    pf:
+      common_name:
+      name: フランス領ポリネシア
+      official_name:
+    pg:
+      common_name:
+      name: パプアニューギニア
+      official_name:
+    ph:
+      common_name:
+      name: フィリピン
+      official_name:
+    pk:
+      common_name:
+      name: パキスタン
+      official_name:
+    pl:
+      common_name:
+      name: ポーランド
+      official_name:
+    pm:
+      common_name:
+      name: サンピエール島・ミクロン島
+      official_name:
+    pn:
+      common_name:
+      name: ピトケアン
+      official_name:
+    pr:
+      common_name:
+      name: プエルトリコ
+      official_name:
+    ps:
+      common_name:
+      name: パレスチナ
+      official_name:
+    pt:
+      common_name:
+      name: ポルトガル
+      official_name:
+    pw:
+      common_name:
+      name: パラオ
+      official_name:
+    py:
+      common_name:
+      name: パラグアイ
+      official_name:
+    qa:
+      common_name:
+      name: カタール
+      official_name:
+    re:
+      common_name:
+      name: レユニオン
+      official_name:
+    ro:
+      common_name:
+      name: ルーマニア
+      official_name:
+    rs:
+      common_name:
+      name: セルビア
+      official_name:
+    ru:
+      common_name:
+      name: ロシア連邦
+      official_name:
+    rw:
+      common_name:
+      name: ルワンダ
+      official_name:
+    sa:
+      common_name:
+      name: サウジアラビア
+      official_name:
+    sb:
+      common_name:
+      name: ソロモン諸島
+      official_name:
+    sc:
+      common_name:
+      name: セーシェル
+      official_name:
+    sd:
+      common_name:
+      name: スーダン
+      official_name:
+    se:
+      common_name:
+      name: スウェーデン
+      official_name:
+    sg:
+      common_name:
+      name: シンガポール
+      official_name:
+    sh:
+      common_name:
+      name: セントヘレナ・アセンションおよびトリスタンダクーニャ
+      official_name:
+    si:
+      common_name:
+      name: スロベニア
+      official_name:
+    sj:
+      common_name:
+      name: スヴァールバル諸島およびヤンマイエン島
+      official_name:
+    sk:
+      common_name:
+      name: スロバキア
+      official_name:
+    sl:
+      common_name:
+      name: シエラレオネ
+      official_name:
+    sm:
+      common_name:
+      name: サンマリノ
+      official_name:
+    sn:
+      common_name:
+      name: セネガル
+      official_name:
+    so:
+      common_name:
+      name: ソマリア
+      official_name:
+    sr:
+      common_name:
+      name: スリナム
+      official_name:
+    ss:
+      common_name:
+      name: 南スーダン
+      official_name:
+    st:
+      common_name:
+      name: サントメ・プリンシペ
+      official_name:
+    sv:
+      common_name:
+      name: エルサルバドル
+      official_name:
+    sx:
+      common_name:
+      name: シント・マールテン（オランダ領）
+      official_name:
+    sy:
+      common_name:
+      name: シリア・アラブ共和国
+      official_name:
+    sz:
+      common_name:
+      name: エスワティニ
+      official_name:
+    tc:
+      common_name:
+      name: タークス・カイコス諸島
+      official_name:
+    td:
+      common_name:
+      name: チャド
+      official_name:
+    tf:
+      common_name:
+      name: フランス領南方・南極地域
+      official_name:
+    tg:
+      common_name:
+      name: トーゴ
+      official_name:
+    th:
+      common_name:
+      name: タイ
+      official_name:
+    tj:
+      common_name:
+      name: タジキスタン
+      official_name:
+    tk:
+      common_name:
+      name: トケラウ
+      official_name:
+    tl:
+      common_name:
+      name: 東ティモール
+      official_name:
+    tm:
+      common_name:
+      name: トルクメニスタン
+      official_name:
+    tn:
+      common_name:
+      name: チュニジア
+      official_name:
+    to:
+      common_name:
+      name: トンガ
+      official_name:
+    tr:
+      common_name:
+      name: トルコ
+      official_name:
+    tt:
+      common_name:
+      name: トリニダード・トバゴ
+      official_name:
+    tv:
+      common_name:
+      name: ツバル
+      official_name:
+    tw:
+      common_name:
+      name: 中国台湾省（中華民国）
+      official_name:
+    tz:
+      common_name:
+      name: タンザニア
+      official_name:
+    ua:
+      common_name:
+      name: ウクライナ
+      official_name:
+    ug:
+      common_name:
+      name: ウガンダ
+      official_name:
+    um:
+      common_name:
+      name: 合衆国領有小離島
+      official_name:
+    us:
+      common_name:
+      name: アメリカ合衆国
+      official_name:
+    uy:
+      common_name:
+      name: ウルグアイ
+      official_name:
+    uz:
+      common_name:
+      name: ウズベキスタン
+      official_name:
+    va:
+      common_name:
+      name: バチカン市国
+      official_name:
+    vc:
+      common_name:
+      name: セントビンセントおよびグレナディーン諸島
+      official_name:
+    ve:
+      common_name:
+      name: ベネズエラ・ボリバル共和国
+      official_name:
+    vg:
+      common_name:
+      name: イギリス領ヴァージン諸島
+      official_name:
+    vi:
+      common_name:
+      name: アメリカ領ヴァージン諸島
+      official_name:
+    vn:
+      common_name:
+      name: ベトナム
+      official_name:
+    vu:
+      common_name:
+      name: バヌアツ
+      official_name:
+    wf:
+      common_name:
+      name: ウォリス・フツナ
+      official_name:
+    ws:
+      common_name:
+      name: サモア
+      official_name:
+    ye:
+      common_name:
+      name: イエメン
+      official_name:
+    yt:
+      common_name:
+      name: マヨット
+      official_name:
+    za:
+      common_name:
+      name: 南アフリカ
+      official_name:
+    zm:
+      common_name:
+      name: ザンビア
+      official_name:
+    zw:
+      common_name:
+      name: ジンバブエ
+      official_name:
