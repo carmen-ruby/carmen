@@ -118,7 +118,7 @@ maintains an array of paths to load data from in: `Carmen.data_paths`. The struc
 files in each of these paths should mirror those in the `iso_data` path Carmen ships with.
 
 To add a new country to the system, you would create a directory (let's use `my_data` as an example),
-and create a `world.yml` file inside it. Then add the path to Carman:
+and create a `world.yml` file inside it. Then add the path to Carmen:
 
     Carmen.append_data_path File.expand_path('../my_data', __FILE__)
 
