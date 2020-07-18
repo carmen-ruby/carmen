@@ -12,24 +12,24 @@ describe "default data sanity check" do
   end
 
   it "has 248 countries" do
-    Carmen::Country.all.size.must_equal 249
+    _(Carmen::Country.all.size).must_equal 249
   end
 
   it "can retrieve a country" do
     us = Carmen::Country.coded('US')
-    us.instance_of?(Carmen::Country).must_equal(true, "did not find USA")
-    us.name.must_equal('United States')
+    _(us.instance_of?(Carmen::Country)).must_equal(true, "did not find USA")
+    _(us.name).must_equal('United States')
   end
 
   it "can retrieve a state" do
     us = Carmen::Country.coded('US')
     il = us.subregions.coded('IL')
-    il.instance_of?(Carmen::Region).must_equal(true, "did not find Illinois")
-    il.name.must_equal('Illinois')
+    _(il.instance_of?(Carmen::Region)).must_equal(true, "did not find Illinois")
+    _(il.name).must_equal('Illinois')
   end
 
   it "observes locale data in the overlay directory" do
     tw = Carmen::Country.coded('TW')
-    tw.name.must_equal('Taiwan')
+    _(tw.name).must_equal('Taiwan')
   end
 end
