@@ -665,7 +665,7 @@ el:
       common_name:
       name: Ολλανδία (Κάτω Χώρες)
       official_name:
-    no:
+    'no':
       common_name:
       name: Νορβηγία
       official_name:

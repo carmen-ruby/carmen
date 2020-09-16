@@ -665,7 +665,7 @@ it:
       common_name:
       name: Paesi Bassi
       official_name:
-    no:
+    'no':
       common_name:
       name: Norvegia
       official_name:

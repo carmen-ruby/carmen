@@ -665,7 +665,7 @@ th:
       common_name:
       name: เนเธอร์แลนด์
       official_name:
-    no:
+    'no':
       common_name:
       name: นอร์เวย์
       official_name:
