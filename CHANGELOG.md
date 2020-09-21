@@ -1,7 +1,7 @@
 ### master (unreleased)
 
 ##### Geographic Modifications
-* [#288](https://github.com/carmen-ruby/carmen/pull/288) Adding New Providence (Bahamas) district
+* [#288](https://github.com/carmen-ruby/carmen/pull/288) Adding New Providence (Bahamas) district ([@TecnoSigma](https://github.com/TecnoSigma))
 * [#274](https://github.com/carmen-ruby/carmen/pull/274) Run update_data script
   to sync with the ISO repository. Includes changes for CN, IN, GM, MK,
   MZ, and ZA ([@swcraig](https://github.com/swcraig))
