@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.files = Dir.glob("{lib,iso_data,locale}/**/*") + %w(MIT-LICENSE README.md CHANGELOG.md)
 
-  s.add_development_dependency('rake', '0.9.2.2')
+  s.add_development_dependency('rake')
   s.add_development_dependency('i18n')
   s.add_dependency('activesupport', '>= 3.0.0')
 end
