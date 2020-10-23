@@ -1,9 +1,10 @@
 ### master (unreleased)
 
 ##### Geographic Modifications
+* [#288](https://github.com/carmen-ruby/carmen/pull/288) Adding New Providence (Bahamas) district ([@TecnoSigma](https://github.com/TecnoSigma))
 * [#274](https://github.com/carmen-ruby/carmen/pull/274), [#281](https://github.com/carmen-ruby/carmen/pull/281) Run update_data script
-  to sync with the ISO repository. Includes changes for BY, CN, GM, IN, KE, MA, MK,
-  MZ, NO, SS, and ZA ([@swcraig](https://github.com/swcraig), [@JasonBarnabe](https://github.com/JasonBarnabe))
+  to sync with the ISO repository. Includes changes for BY, CN, GM, IN, KE, MA,  MK,
+  MZ, NO, SS, and ZA ([@swcraig](https://github.com/swcraig)), [@JasonBarnabe](https://github.com/JasonBarnabe))
 * [#282](https://github.com/carmen-ruby/carmen/pull/282) 2020 Norway subregion updates ([@JasonBarnabe](https://github.com/JasonBarnabe))
 
 ### 1.1.2 (May 2, 2019)
