@@ -1,0 +1,999 @@
+---
+de:
+  world:
+    ad:
+      common_name:
+      name: Andorra
+      official_name:
+    ae:
+      common_name:
+      name: Vereinigte Arabische Emirate
+      official_name:
+    af:
+      common_name:
+      name: Afghanistan
+      official_name:
+    ag:
+      common_name:
+      name: Antigua und Barbuda
+      official_name:
+    ai:
+      common_name:
+      name: Anguilla
+      official_name:
+    al:
+      common_name:
+      name: Albanien
+      official_name:
+    am:
+      common_name:
+      name: Armenien
+      official_name:
+    ao:
+      common_name:
+      name: Angola
+      official_name:
+    aq:
+      common_name:
+      name: Antarktis (Sonderstatus durch Antarktisvertrag)
+      official_name:
+    ar:
+      common_name:
+      name: Argentinien
+      official_name:
+    as:
+      common_name:
+      name: Amerikanisch-Samoa
+      official_name:
+    at:
+      common_name:
+      name: Österreich
+      official_name:
+    au:
+      common_name:
+      name: Australien
+      official_name:
+    aw:
+      common_name:
+      name: Aruba
+      official_name:
+    ax:
+      common_name:
+      name: Åland
+      official_name:
+    az:
+      common_name:
+      name: Aserbaidschan
+      official_name:
+    ba:
+      common_name:
+      name: Bosnien und Herzegowina
+      official_name:
+    bb:
+      common_name:
+      name: Barbados
+      official_name:
+    bd:
+      common_name:
+      name: Bangladesch
+      official_name:
+    be:
+      common_name:
+      name: Belgien
+      official_name:
+    bf:
+      common_name:
+      name: Burkina Faso
+      official_name:
+    bg:
+      common_name:
+      name: Bulgarien
+      official_name:
+    bh:
+      common_name:
+      name: Bahrain
+      official_name:
+    bi:
+      common_name:
+      name: Burundi
+      official_name:
+    bj:
+      common_name:
+      name: Benin
+      official_name:
+    bl:
+      common_name:
+      name: Saint-Barthélemy
+      official_name:
+    bm:
+      common_name:
+      name: Bermuda
+      official_name:
+    bn:
+      common_name:
+      name: Brunei
+      official_name:
+    bo:
+      common_name:
+      name: Bolivien
+      official_name:
+    bq:
+      common_name:
+      name: Bonaire, Saba, Sint Eustatius
+      official_name:
+    br:
+      common_name:
+      name: Brasilien
+      official_name:
+    bs:
+      common_name:
+      name: Bahamas
+      official_name:
+    bt:
+      common_name:
+      name: Bhutan
+      official_name:
+    bv:
+      common_name:
+      name: Bouvetinsel
+      official_name:
+    bw:
+      common_name:
+      name: Botswana
+      official_name:
+    by:
+      common_name:
+      name: Weißrussland
+      official_name:
+    bz:
+      common_name:
+      name: Belize
+      official_name:
+    ca:
+      common_name:
+      name: Kanada
+      official_name:
+    cc:
+      common_name:
+      name: Kokosinseln
+      official_name:
+    cd:
+      common_name:
+      name: Kongo, Demokratische Republik
+      official_name:
+    cf:
+      common_name:
+      name: Zentral­afrikanische Republik
+      official_name:
+    cg:
+      common_name:
+      name: Kongo, Republik
+      official_name:
+    ch:
+      common_name:
+      name: Schweiz
+      official_name:
+    ci:
+      common_name:
+      name: Elfenbeinküste
+      official_name:
+    ck:
+      common_name:
+      name: Cookinseln
+      official_name:
+    cl:
+      common_name:
+      name: Chile
+      official_name:
+    cm:
+      common_name:
+      name: Kamerun
+      official_name:
+    cn:
+      common_name:
+      name: Volksrepublik China
+      official_name:
+    co:
+      common_name:
+      name: Kolumbien
+      official_name:
+    cr:
+      common_name:
+      name: Costa Rica
+      official_name:
+    cu:
+      common_name:
+      name: Kuba
+      official_name:
+    cv:
+      common_name:
+      name: Kap Verde
+      official_name:
+    cw:
+      common_name:
+      name: Curaçao
+      official_name:
+    cx:
+      common_name:
+      name: Weihnachtsinsel
+      official_name:
+    cy:
+      common_name:
+      name: Zypern
+      official_name:
+    cz:
+      common_name:
+      name: Tschechien
+      official_name:
+    de:
+      common_name:
+      name: Deutschland
+      official_name:
+    dj:
+      common_name:
+      name: Dschibuti
+      official_name:
+    dk:
+      common_name:
+      name: Dänemark
+      official_name:
+    dm:
+      common_name:
+      name: Dominica
+      official_name:
+    do:
+      common_name:
+      name: Dominikanische Republik
+      official_name:
+    dz:
+      common_name:
+      name: Algerien
+      official_name:
+    ec:
+      common_name:
+      name: Ecuador
+      official_name:
+    ee:
+      common_name:
+      name: Estland
+      official_name:
+    eg:
+      common_name:
+      name: Ägypten
+      official_name:
+    eh:
+      common_name:
+      name: Westsahara
+      official_name:
+    er:
+      common_name:
+      name: Eritrea
+      official_name:
+    es:
+      common_name:
+      name: Spanien
+      official_name:
+    et:
+      common_name:
+      name: Äthiopien
+      official_name:
+    fi:
+      common_name:
+      name: Finnland
+      official_name:
+    fj:
+      common_name:
+      name: Fidschi
+      official_name:
+    fk:
+      common_name:
+      name: Falklandinseln
+      official_name:
+    fm:
+      common_name:
+      name: Mikronesien
+      official_name:
+    fo:
+      common_name:
+      name: Färöer
+      official_name:
+    fr:
+      common_name:
+      name: Frankreich
+      official_name:
+    ga:
+      common_name:
+      name: Gabun
+      official_name:
+    gb:
+      common_name:
+      name: Vereinigtes Königreich
+      official_name:
+    gd:
+      common_name:
+      name: Grenada
+      official_name:
+    ge:
+      common_name:
+      name: Georgien
+      official_name:
+    gf:
+      common_name:
+      name: Französisch-Guayana
+      official_name:
+    gg:
+      common_name:
+      name: Guernsey (Kanalinsel)
+      official_name:
+    gh:
+      common_name:
+      name: Ghana
+      official_name:
+    gi:
+      common_name:
+      name: Gibraltar
+      official_name:
+    gl:
+      common_name:
+      name: Grönland
+      official_name:
+    gm:
+      common_name:
+      name: Gambia
+      official_name:
+    gn:
+      common_name:
+      name: Guinea
+      official_name:
+    gp:
+      common_name:
+      name: Guadeloupe
+      official_name:
+    gq:
+      common_name:
+      name: Äquatorialguinea
+      official_name:
+    gr:
+      common_name:
+      name: Griechenland
+      official_name:
+    gs:
+      common_name:
+      name: Südgeorgien und die Südlichen Sandwichinseln
+      official_name:
+    gt:
+      common_name:
+      name: Guatemala
+      official_name:
+    gu:
+      common_name:
+      name: Guam
+      official_name:
+    gw:
+      common_name:
+      name: Guinea-Bissau
+      official_name:
+    gy:
+      common_name:
+      name: Guyana
+      official_name:
+    hk:
+      common_name:
+      name: Hongkong
+      official_name:
+    hm:
+      common_name:
+      name: Heard und McDonaldinseln
+      official_name:
+    hn:
+      common_name:
+      name: Honduras
+      official_name:
+    hr:
+      common_name:
+      name: Kroatien
+      official_name:
+    ht:
+      common_name:
+      name: Haiti
+      official_name:
+    hu:
+      common_name:
+      name: Ungarn
+      official_name:
+    id:
+      common_name:
+      name: Indonesien
+      official_name:
+    ie:
+      common_name:
+      name: Irland
+      official_name:
+    il:
+      common_name:
+      name: Israel
+      official_name:
+    im:
+      common_name:
+      name: Insel Man
+      official_name:
+    in:
+      common_name:
+      name: Indien
+      official_name:
+    io:
+      common_name:
+      name: Britisches Territorium im Indischen Ozean
+      official_name:
+    iq:
+      common_name:
+      name: Irak
+      official_name:
+    ir:
+      common_name:
+      name: Iran
+      official_name:
+    is:
+      common_name:
+      name: Island
+      official_name:
+    it:
+      common_name:
+      name: Italien
+      official_name:
+    je:
+      common_name:
+      name: Jersey (Kanalinsel)
+      official_name:
+    jm:
+      common_name:
+      name: Jamaika
+      official_name:
+    jo:
+      common_name:
+      name: Jordanien
+      official_name:
+    jp:
+      common_name:
+      name: Japan
+      official_name:
+    ke:
+      common_name:
+      name: Kenia
+      official_name:
+    kg:
+      common_name:
+      name: Kirgisistan
+      official_name:
+    kh:
+      common_name:
+      name: Kambodscha
+      official_name:
+    ki:
+      common_name:
+      name: Kiribati
+      official_name:
+    km:
+      common_name:
+      name: Komoren
+      official_name:
+    kn:
+      common_name:
+      name: St. Kitts und Nevis
+      official_name:
+    kp:
+      common_name:
+      name: Korea, Nord
+      official_name:
+    kr:
+      common_name:
+      name: Korea, Süd
+      official_name:
+    kw:
+      common_name:
+      name: Kuwait
+      official_name:
+    ky:
+      common_name:
+      name: Kaimaninseln
+      official_name:
+    kz:
+      common_name:
+      name: Kasachstan
+      official_name:
+    la:
+      common_name:
+      name: Laos
+      official_name:
+    lb:
+      common_name:
+      name: Libanon
+      official_name:
+    lc:
+      common_name:
+      name: St. Lucia
+      official_name:
+    li:
+      common_name:
+      name: Liechtenstein
+      official_name:
+    lk:
+      common_name:
+      name: Sri Lanka
+      official_name:
+    lr:
+      common_name:
+      name: Liberia
+      official_name:
+    ls:
+      common_name:
+      name: Lesotho
+      official_name:
+    lt:
+      common_name:
+      name: Litauen
+      official_name:
+    lu:
+      common_name:
+      name: Luxemburg
+      official_name:
+    lv:
+      common_name:
+      name: Lettland
+      official_name:
+    ly:
+      common_name:
+      name: Libyen
+      official_name:
+    ma:
+      common_name:
+      name: Marokko
+      official_name:
+    mc:
+      common_name:
+      name: Monaco
+      official_name:
+    md:
+      common_name:
+      name: Moldau
+      official_name:
+    me:
+      common_name:
+      name: Montenegro
+      official_name:
+    mf:
+      common_name:
+      name: Saint-Martin (französischer Teil)
+      official_name:
+    mg:
+      common_name:
+      name: Madagaskar
+      official_name:
+    mh:
+      common_name:
+      name: Marshallinseln
+      official_name:
+    mk:
+      common_name:
+      name: Nordmazedonien
+      official_name:
+    ml:
+      common_name:
+      name: Mali
+      official_name:
+    mm:
+      common_name:
+      name: Myanmar
+      official_name:
+    mn:
+      common_name:
+      name: Mongolei
+      official_name:
+    mo:
+      common_name:
+      name: Macau
+      official_name:
+    mp:
+      common_name:
+      name: Nördliche Marianen
+      official_name:
+    mq:
+      common_name:
+      name: Martinique
+      official_name:
+    mr:
+      common_name:
+      name: Mauretanien
+      official_name:
+    ms:
+      common_name:
+      name: Montserrat
+      official_name:
+    mt:
+      common_name:
+      name: Malta
+      official_name:
+    mu:
+      common_name:
+      name: Mauritius
+      official_name:
+    mv:
+      common_name:
+      name: Malediven
+      official_name:
+    mw:
+      common_name:
+      name: Malawi
+      official_name:
+    mx:
+      common_name:
+      name: Mexiko
+      official_name:
+    my:
+      common_name:
+      name: Malaysia
+      official_name:
+    mz:
+      common_name:
+      name: Mosambik
+      official_name:
+    na:
+      common_name:
+      name: Namibia
+      official_name:
+    nc:
+      common_name:
+      name: Neukaledonien
+      official_name:
+    ne:
+      common_name:
+      name: Niger
+      official_name:
+    nf:
+      common_name:
+      name: Norfolkinsel
+      official_name:
+    ng:
+      common_name:
+      name: Nigeria
+      official_name:
+    ni:
+      common_name:
+      name: Nicaragua
+      official_name:
+    nl:
+      common_name:
+      name: Niederlande
+      official_name:
+    'no':
+      common_name:
+      name: Norwegen
+      official_name:
+    np:
+      common_name:
+      name: Nepal
+      official_name:
+    nr:
+      common_name:
+      name: Nauru
+      official_name:
+    nu:
+      common_name:
+      name: Niue
+      official_name:
+    nz:
+      common_name:
+      name: Neuseeland
+      official_name:
+    om:
+      common_name:
+      name: Oman
+      official_name:
+    pa:
+      common_name:
+      name: Panama
+      official_name:
+    pe:
+      common_name:
+      name: Peru
+      official_name:
+    pf:
+      common_name:
+      name: Französisch-Polynesien
+      official_name:
+    pg:
+      common_name:
+      name: Papua-Neuguinea
+      official_name:
+    ph:
+      common_name:
+      name: Philippinen
+      official_name:
+    pk:
+      common_name:
+      name: Pakistan
+      official_name:
+    pl:
+      common_name:
+      name: Polen
+      official_name:
+    pm:
+      common_name:
+      name: Saint-Pierre und Miquelon
+      official_name:
+    pn:
+      common_name:
+      name: Pitcairninseln
+      official_name:
+    pr:
+      common_name:
+      name: Puerto Rico
+      official_name:
+    ps:
+      common_name:
+      name: Palästina
+      official_name:
+    pt:
+      common_name:
+      name: Portugal
+      official_name:
+    pw:
+      common_name:
+      name: Palau
+      official_name:
+    py:
+      common_name:
+      name: Paraguay
+      official_name:
+    qa:
+      common_name:
+      name: Katar
+      official_name:
+    re:
+      common_name:
+      name: Réunion
+      official_name:
+    ro:
+      common_name:
+      name: Rumänien
+      official_name:
+    rs:
+      common_name:
+      name: Serbien
+      official_name:
+    ru:
+      common_name:
+      name: Russland
+      official_name:
+    rw:
+      common_name:
+      name: Ruanda
+      official_name:
+    sa:
+      common_name:
+      name: Saudi-Arabien
+      official_name:
+    sb:
+      common_name:
+      name: Salomonen
+      official_name:
+    sc:
+      common_name:
+      name: Seychellen
+      official_name:
+    sd:
+      common_name:
+      name: Sudan
+      official_name:
+    se:
+      common_name:
+      name: Schweden
+      official_name:
+    sg:
+      common_name:
+      name: Singapur
+      official_name:
+    sh:
+      common_name:
+      name: St. Helena, Ascension und Tristan da Cunha
+      official_name:
+    si:
+      common_name:
+      name: Slowenien
+      official_name:
+    sj:
+      common_name:
+      name: Spitzbergen und Jan Mayen
+      official_name:
+    sk:
+      common_name:
+      name: Slowakei
+      official_name:
+    sl:
+      common_name:
+      name: Sierra Leone
+      official_name:
+    sm:
+      common_name:
+      name: San Marino
+      official_name:
+    sn:
+      common_name:
+      name: Senegal
+      official_name:
+    so:
+      common_name:
+      name: Somalia
+      official_name:
+    sr:
+      common_name:
+      name: Suriname
+      official_name:
+    ss:
+      common_name:
+      name: Südsudan
+      official_name:
+    st:
+      common_name:
+      name: São Tomé und Príncipe
+      official_name:
+    sv:
+      common_name:
+      name: El Salvador
+      official_name:
+    sx:
+      common_name:
+      name: Sint Maarten
+      official_name:
+    sy:
+      common_name:
+      name: Syrien
+      official_name:
+    sz:
+      common_name:
+      name: Swasiland
+      official_name:
+    tc:
+      common_name:
+      name: Turks- und Caicosinseln
+      official_name:
+    td:
+      common_name:
+      name: Tschad
+      official_name:
+    tf:
+      common_name:
+      name: Französische Süd- und Antarktisgebiete
+      official_name:
+    tg:
+      common_name:
+      name: Togo
+      official_name:
+    th:
+      common_name:
+      name: Thailand
+      official_name:
+    tj:
+      common_name:
+      name: Tadschikistan
+      official_name:
+    tk:
+      common_name:
+      name: Tokelau
+      official_name:
+    tl:
+      common_name:
+      name: Osttimor
+      official_name:
+    tm:
+      common_name:
+      name: Turkmenistan
+      official_name:
+    tn:
+      common_name:
+      name: Tunesien
+      official_name:
+    to:
+      common_name:
+      name: Tonga
+      official_name:
+    tr:
+      common_name:
+      name: Türkei
+      official_name:
+    tt:
+      common_name:
+      name: Trinidad und Tobago
+      official_name:
+    tv:
+      common_name:
+      name: Tuvalu
+      official_name:
+    tw:
+      common_name:
+      name: Republik China
+      official_name:
+    tz:
+      common_name:
+      name: Tansania
+      official_name:
+    ua:
+      common_name:
+      name: Ukraine
+      official_name:
+    ug:
+      common_name:
+      name: Uganda
+      official_name:
+    um:
+      common_name:
+      name: United States Minor Outlying Islands
+      official_name:
+    us:
+      common_name:
+      name: Vereinigte Staaten
+      official_name:
+    uy:
+      common_name:
+      name: Uruguay
+      official_name:
+    uz:
+      common_name:
+      name: Usbekistan
+      official_name:
+    va:
+      common_name:
+      name: Vatikanstadt
+      official_name:
+    vc:
+      common_name:
+      name: St. Vincent und die Grenadinen
+      official_name:
+    ve:
+      common_name:
+      name: Venezuela
+      official_name:
+    vg:
+      common_name:
+      name: Britische Jungferninseln
+      official_name:
+    vi:
+      common_name:
+      name: Amerikanische Jungferninseln
+      official_name:
+    vn:
+      common_name:
+      name: Vietnam
+      official_name:
+    vu:
+      common_name:
+      name: Vanuatu
+      official_name:
+    wf:
+      common_name:
+      name: Wallis und Futuna
+      official_name:
+    ws:
+      common_name:
+      name: Samoa
+      official_name:
+    ye:
+      common_name:
+      name: Jemen
+      official_name:
+    yt:
+      common_name:
+      name: Mayotte
+      official_name:
+    za:
+      common_name:
+      name: Südafrika
+      official_name:
+    zm:
+      common_name:
+      name: Sambia
+      official_name:
+    zw:
+      common_name:
+      name: Simbabwe
+      official_name:

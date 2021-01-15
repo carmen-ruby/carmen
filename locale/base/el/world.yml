@@ -1,0 +1,999 @@
+---
+el:
+  world:
+    ad:
+      common_name:
+      name: Ανδόρρα
+      official_name:
+    ae:
+      common_name:
+      name: Ηνωμένα Αραβικά Εμιράτα
+      official_name:
+    af:
+      common_name:
+      name: Αφγανιστάν
+      official_name:
+    ag:
+      common_name:
+      name: Αντίγκουα και Μπαρμπούντα
+      official_name:
+    ai:
+      common_name:
+      name: Ανγκουίλα
+      official_name:
+    al:
+      common_name:
+      name: Αλβανία
+      official_name:
+    am:
+      common_name:
+      name: Αρμενία
+      official_name:
+    ao:
+      common_name:
+      name: Ανγκόλα
+      official_name:
+    aq:
+      common_name:
+      name: Ανταρκτική
+      official_name:
+    ar:
+      common_name:
+      name: Αργεντινή
+      official_name:
+    as:
+      common_name:
+      name: Αμερικανική Σαμόα
+      official_name:
+    at:
+      common_name:
+      name: Αυστρία
+      official_name:
+    au:
+      common_name:
+      name: Αυστραλία
+      official_name:
+    aw:
+      common_name:
+      name: Αρούμπα
+      official_name:
+    ax:
+      common_name:
+      name: Ώλαντ
+      official_name:
+    az:
+      common_name:
+      name: Αζερμπαϊτζάν
+      official_name:
+    ba:
+      common_name:
+      name: Βοσνία-Ερζεγοβίνη
+      official_name:
+    bb:
+      common_name:
+      name: Μπαρμπάντος
+      official_name:
+    bd:
+      common_name:
+      name: Μπανγκλαντές
+      official_name:
+    be:
+      common_name:
+      name: Βέλγιο
+      official_name:
+    bf:
+      common_name:
+      name: Μπουρκίνα Φάσο
+      official_name:
+    bg:
+      common_name:
+      name: Βουλγαρία
+      official_name:
+    bh:
+      common_name:
+      name: Μπαχρέιν
+      official_name:
+    bi:
+      common_name:
+      name: Μπουρούντι
+      official_name:
+    bj:
+      common_name:
+      name: Μπενίν
+      official_name:
+    bl:
+      common_name:
+      name: Άγιος Βαρθολομαίος
+      official_name:
+    bm:
+      common_name:
+      name: Βερμούδες
+      official_name:
+    bn:
+      common_name:
+      name: Μπρουνέι
+      official_name:
+    bo:
+      common_name:
+      name: Βολιβία
+      official_name:
+    bq:
+      common_name:
+      name: Μποναίρ, Άγιος Ευστάθιος και Σάμπα
+      official_name:
+    br:
+      common_name:
+      name: Βραζιλία
+      official_name:
+    bs:
+      common_name:
+      name: Μπαχάμες
+      official_name:
+    bt:
+      common_name:
+      name: Μπουτάν
+      official_name:
+    bv:
+      common_name:
+      name: Μπουβέ
+      official_name:
+    bw:
+      common_name:
+      name: Μποτσουάνα
+      official_name:
+    by:
+      common_name:
+      name: Λευκορωσία
+      official_name:
+    bz:
+      common_name:
+      name: Μπελίζ
+      official_name:
+    ca:
+      common_name:
+      name: Καναδάς
+      official_name:
+    cc:
+      common_name:
+      name: Νησιά Κόκος (Keeling)
+      official_name:
+    cd:
+      common_name:
+      name: Λαϊκή Δημοκρατία του Κογκό
+      official_name:
+    cf:
+      common_name:
+      name: Κεντροαφρικανική Δημοκρατία
+      official_name:
+    cg:
+      common_name:
+      name: Κογκό
+      official_name:
+    ch:
+      common_name:
+      name: Ελβετία
+      official_name:
+    ci:
+      common_name:
+      name: Ακτή Ελεφαντοστού
+      official_name:
+    ck:
+      common_name:
+      name: Νήσοι Κουκ
+      official_name:
+    cl:
+      common_name:
+      name: Χιλή
+      official_name:
+    cm:
+      common_name:
+      name: Καμερούν
+      official_name:
+    cn:
+      common_name:
+      name: Κίνα
+      official_name:
+    co:
+      common_name:
+      name: Κολομβία
+      official_name:
+    cr:
+      common_name:
+      name: Κόστα Ρίκα
+      official_name:
+    cu:
+      common_name:
+      name: Κούβα
+      official_name:
+    cv:
+      common_name:
+      name: Πράσινο Ακρωτήρι
+      official_name:
+    cw:
+      common_name:
+      name: Κουρασάο
+      official_name:
+    cx:
+      common_name:
+      name: Νήσος των Χριστουγέννων
+      official_name:
+    cy:
+      common_name:
+      name: Κύπρος
+      official_name:
+    cz:
+      common_name:
+      name: Τσεχία
+      official_name:
+    de:
+      common_name:
+      name: Γερμανία
+      official_name:
+    dj:
+      common_name:
+      name: Τζιμπουτί
+      official_name:
+    dk:
+      common_name:
+      name: Δανία
+      official_name:
+    dm:
+      common_name:
+      name: Δομινίκα
+      official_name:
+    do:
+      common_name:
+      name: Δομινικανή Δημοκρατία
+      official_name:
+    dz:
+      common_name:
+      name: Αλγερία
+      official_name:
+    ec:
+      common_name:
+      name: Ισημερινός
+      official_name:
+    ee:
+      common_name:
+      name: Εσθονία
+      official_name:
+    eg:
+      common_name:
+      name: Αίγυπτος
+      official_name:
+    eh:
+      common_name:
+      name: Δυτική Σαχάρα
+      official_name:
+    er:
+      common_name:
+      name: Ερυθραία
+      official_name:
+    es:
+      common_name:
+      name: Ισπανία
+      official_name:
+    et:
+      common_name:
+      name: Αιθιοπία
+      official_name:
+    fi:
+      common_name:
+      name: Φινλανδία
+      official_name:
+    fj:
+      common_name:
+      name: Φίτζι
+      official_name:
+    fk:
+      common_name:
+      name: Νήσοι Φώκλαντ
+      official_name:
+    fm:
+      common_name:
+      name: Ομόσπονδες Πολιτείες της Μικρονησίας
+      official_name:
+    fo:
+      common_name:
+      name: Νήσοι Φερόες
+      official_name:
+    fr:
+      common_name:
+      name: Γαλλία
+      official_name:
+    ga:
+      common_name:
+      name: Γκαμπόν
+      official_name:
+    gb:
+      common_name:
+      name: Ηνωμένο Βασίλειο
+      official_name:
+    gd:
+      common_name:
+      name: Γρενάδα
+      official_name:
+    ge:
+      common_name:
+      name: Γεωργία
+      official_name:
+    gf:
+      common_name:
+      name: Γαλλική Γουιάνα
+      official_name:
+    gg:
+      common_name:
+      name: Γκέρνσεϊ
+      official_name:
+    gh:
+      common_name:
+      name: Γκάνα
+      official_name:
+    gi:
+      common_name:
+      name: Γιβραλτάρ
+      official_name:
+    gl:
+      common_name:
+      name: Γροιλανδία
+      official_name:
+    gm:
+      common_name:
+      name: Γκάμπια
+      official_name:
+    gn:
+      common_name:
+      name: Γουινέα
+      official_name:
+    gp:
+      common_name:
+      name: Γουαδελούπη
+      official_name:
+    gq:
+      common_name:
+      name: Ισημερινή Γουινέα
+      official_name:
+    gr:
+      common_name:
+      name: Ελλάδα
+      official_name:
+    gs:
+      common_name:
+      name: Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς
+      official_name:
+    gt:
+      common_name:
+      name: Γουατεμάλα
+      official_name:
+    gu:
+      common_name:
+      name: Γκουάμ
+      official_name:
+    gw:
+      common_name:
+      name: Γουινέα-Μπισσάου
+      official_name:
+    gy:
+      common_name:
+      name: Γουιάνα
+      official_name:
+    hk:
+      common_name:
+      name: Χονγκ Κονγκ
+      official_name:
+    hm:
+      common_name:
+      name: Νήσοι Χερντ και Μακντόναλντ
+      official_name:
+    hn:
+      common_name:
+      name: Ονδούρα
+      official_name:
+    hr:
+      common_name:
+      name: Κροατία
+      official_name:
+    ht:
+      common_name:
+      name: Αϊτή
+      official_name:
+    hu:
+      common_name:
+      name: Ουγγαρία
+      official_name:
+    id:
+      common_name:
+      name: Ινδονησία
+      official_name:
+    ie:
+      common_name:
+      name: Ιρλανδία
+      official_name:
+    il:
+      common_name:
+      name: Ισραήλ
+      official_name:
+    im:
+      common_name:
+      name: Νήσος Μαν
+      official_name:
+    in:
+      common_name:
+      name: Ινδία
+      official_name:
+    io:
+      common_name:
+      name: Βρετανικό Έδαφος Ινδικού Ωκεανού
+      official_name:
+    iq:
+      common_name:
+      name: Ιράκ
+      official_name:
+    ir:
+      common_name:
+      name: Ιράν
+      official_name:
+    is:
+      common_name:
+      name: Ισλανδία
+      official_name:
+    it:
+      common_name:
+      name: Ιταλία
+      official_name:
+    je:
+      common_name:
+      name: Τζέρσεϊ
+      official_name:
+    jm:
+      common_name:
+      name: Τζαμάικα
+      official_name:
+    jo:
+      common_name:
+      name: Ιορδανία
+      official_name:
+    jp:
+      common_name:
+      name: Ιαπωνία
+      official_name:
+    ke:
+      common_name:
+      name: Κένυα
+      official_name:
+    kg:
+      common_name:
+      name: Κιργιζία
+      official_name:
+    kh:
+      common_name:
+      name: Καμπότζη
+      official_name:
+    ki:
+      common_name:
+      name: Κιριμπάτι
+      official_name:
+    km:
+      common_name:
+      name: Κομόρες
+      official_name:
+    kn:
+      common_name:
+      name: Άγιος Χριστόφορος και Νέβις
+      official_name:
+    kp:
+      common_name:
+      name: Βόρεια Κορέα
+      official_name:
+    kr:
+      common_name:
+      name: Νότια Κορέα
+      official_name:
+    kw:
+      common_name:
+      name: Κουβέιτ
+      official_name:
+    ky:
+      common_name:
+      name: Κέιμαν Νήσοι
+      official_name:
+    kz:
+      common_name:
+      name: Καζακστάν
+      official_name:
+    la:
+      common_name:
+      name: Λάος
+      official_name:
+    lb:
+      common_name:
+      name: Λίβανος
+      official_name:
+    lc:
+      common_name:
+      name: Αγία Λουκία
+      official_name:
+    li:
+      common_name:
+      name: Λίχτενσταϊν
+      official_name:
+    lk:
+      common_name:
+      name: Σρι Λάνκα
+      official_name:
+    lr:
+      common_name:
+      name: Λιβερία
+      official_name:
+    ls:
+      common_name:
+      name: Λεσότο
+      official_name:
+    lt:
+      common_name:
+      name: Λιθουανία
+      official_name:
+    lu:
+      common_name:
+      name: Λουξεμβούργο
+      official_name:
+    lv:
+      common_name:
+      name: Λεττονία
+      official_name:
+    ly:
+      common_name:
+      name: Λιβύη
+      official_name:
+    ma:
+      common_name:
+      name: Μαρόκο
+      official_name:
+    mc:
+      common_name:
+      name: Μονακό
+      official_name:
+    md:
+      common_name:
+      name: Μολδαβία
+      official_name:
+    me:
+      common_name:
+      name: Μαυροβούνιο
+      official_name:
+    mf:
+      common_name:
+      name: Άγιος Μαρτίνος (Γαλλία)
+      official_name:
+    mg:
+      common_name:
+      name: Μαδαγασκάρη
+      official_name:
+    mh:
+      common_name:
+      name: Νήσοι Μάρσαλ
+      official_name:
+    mk:
+      common_name:
+      name: Βόρεια Μακεδονία
+      official_name:
+    ml:
+      common_name:
+      name: Μάλι
+      official_name:
+    mm:
+      common_name:
+      name: Μιανμάρ
+      official_name:
+    mn:
+      common_name:
+      name: Μογγολία
+      official_name:
+    mo:
+      common_name:
+      name: Μακάο
+      official_name:
+    mp:
+      common_name:
+      name: Βόρειες Μαριάνες Νήσοι
+      official_name:
+    mq:
+      common_name:
+      name: Μαρτινίκα
+      official_name:
+    mr:
+      common_name:
+      name: Μαυριτανία
+      official_name:
+    ms:
+      common_name:
+      name: Μοντσερράτ
+      official_name:
+    mt:
+      common_name:
+      name: Μάλτα
+      official_name:
+    mu:
+      common_name:
+      name: Μαυρίκιος
+      official_name:
+    mv:
+      common_name:
+      name: Μαλδίβες
+      official_name:
+    mw:
+      common_name:
+      name: Μαλάουι
+      official_name:
+    mx:
+      common_name:
+      name: Μεξικό
+      official_name:
+    my:
+      common_name:
+      name: Μαλαισία
+      official_name:
+    mz:
+      common_name:
+      name: Μοζαμβίκη
+      official_name:
+    na:
+      common_name:
+      name: Ναμίμπια
+      official_name:
+    nc:
+      common_name:
+      name: Νέα Καληδονία
+      official_name:
+    ne:
+      common_name:
+      name: Νίγηρας
+      official_name:
+    nf:
+      common_name:
+      name: Νησί Νόρφολκ
+      official_name:
+    ng:
+      common_name:
+      name: Νιγηρία
+      official_name:
+    ni:
+      common_name:
+      name: Νικαράγουα
+      official_name:
+    nl:
+      common_name:
+      name: Ολλανδία (Κάτω Χώρες)
+      official_name:
+    'no':
+      common_name:
+      name: Νορβηγία
+      official_name:
+    np:
+      common_name:
+      name: Νεπάλ
+      official_name:
+    nr:
+      common_name:
+      name: Ναουρού
+      official_name:
+    nu:
+      common_name:
+      name: Νιούε
+      official_name:
+    nz:
+      common_name:
+      name: Νέα Ζηλανδία
+      official_name:
+    om:
+      common_name:
+      name: Ομάν
+      official_name:
+    pa:
+      common_name:
+      name: Παναμάς
+      official_name:
+    pe:
+      common_name:
+      name: Περού
+      official_name:
+    pf:
+      common_name:
+      name: Γαλλική Πολυνησία
+      official_name:
+    pg:
+      common_name:
+      name: Παπούα Νέα Γουινέα
+      official_name:
+    ph:
+      common_name:
+      name: Φιλιππίνες
+      official_name:
+    pk:
+      common_name:
+      name: Πακιστάν
+      official_name:
+    pl:
+      common_name:
+      name: Πολωνία
+      official_name:
+    pm:
+      common_name:
+      name: Σαιν Πιερ και Μικελόν
+      official_name:
+    pn:
+      common_name:
+      name: Νησιά Πίτκερν
+      official_name:
+    pr:
+      common_name:
+      name: Πουέρτο Ρίκο
+      official_name:
+    ps:
+      common_name:
+      name: Δυτική Όχθη
+      official_name:
+    pt:
+      common_name:
+      name: Πορτογαλία
+      official_name:
+    pw:
+      common_name:
+      name: Παλάου
+      official_name:
+    py:
+      common_name:
+      name: Παραγουάη
+      official_name:
+    qa:
+      common_name:
+      name: Κατάρ
+      official_name:
+    re:
+      common_name:
+      name: Ρεϊνιόν
+      official_name:
+    ro:
+      common_name:
+      name: Ρουμανία
+      official_name:
+    rs:
+      common_name:
+      name: Σερβία
+      official_name:
+    ru:
+      common_name:
+      name: Ρωσία
+      official_name:
+    rw:
+      common_name:
+      name: Ρουάντα
+      official_name:
+    sa:
+      common_name:
+      name: Σαουδική Αραβία
+      official_name:
+    sb:
+      common_name:
+      name: Νήσοι Σολομώντα
+      official_name:
+    sc:
+      common_name:
+      name: Σεϋχέλλες
+      official_name:
+    sd:
+      common_name:
+      name: Σουδάν
+      official_name:
+    se:
+      common_name:
+      name: Σουηδία
+      official_name:
+    sg:
+      common_name:
+      name: Σιγκαπούρη
+      official_name:
+    sh:
+      common_name:
+      name: Νήσος Αγίας Ελένης
+      official_name:
+    si:
+      common_name:
+      name: Σλοβενία
+      official_name:
+    sj:
+      common_name:
+      name: Σβάλμπαρντ
+      official_name:
+    sk:
+      common_name:
+      name: Σλοβακία
+      official_name:
+    sl:
+      common_name:
+      name: Σιέρα Λεόνε
+      official_name:
+    sm:
+      common_name:
+      name: Άγιος Μαρίνος
+      official_name:
+    sn:
+      common_name:
+      name: Σενεγάλη
+      official_name:
+    so:
+      common_name:
+      name: Σομαλία
+      official_name:
+    sr:
+      common_name:
+      name: Σουρινάμ
+      official_name:
+    ss:
+      common_name:
+      name: Νότιο Σουδάν
+      official_name:
+    st:
+      common_name:
+      name: Σάο Τομέ και Πρίνσιπε
+      official_name:
+    sv:
+      common_name:
+      name: Ελ Σαλβαδόρ
+      official_name:
+    sx:
+      common_name:
+      name: Άγιος Μαρτίνος (Ολλανδία)
+      official_name:
+    sy:
+      common_name:
+      name: Συρία
+      official_name:
+    sz:
+      common_name:
+      name: Εσουατίνι
+      official_name:
+    tc:
+      common_name:
+      name: Τερκς και Κέικος
+      official_name:
+    td:
+      common_name:
+      name: Τσαντ
+      official_name:
+    tf:
+      common_name:
+      name: Γαλλικά Νότια και Ανταρκτικά Εδάφη
+      official_name:
+    tg:
+      common_name:
+      name: Τόγκο
+      official_name:
+    th:
+      common_name:
+      name: Ταϊλάνδη
+      official_name:
+    tj:
+      common_name:
+      name: Τατζικιστάν
+      official_name:
+    tk:
+      common_name:
+      name: Τοκελάου
+      official_name:
+    tl:
+      common_name:
+      name: Ανατολικό Τιμόρ
+      official_name:
+    tm:
+      common_name:
+      name: Τουρκμενιστάν
+      official_name:
+    tn:
+      common_name:
+      name: Τυνησία
+      official_name:
+    to:
+      common_name:
+      name: Τόγκα
+      official_name:
+    tr:
+      common_name:
+      name: Τουρκία
+      official_name:
+    tt:
+      common_name:
+      name: Τρινιντάντ και Τομπάγκο
+      official_name:
+    tv:
+      common_name:
+      name: Τουβαλού
+      official_name:
+    tw:
+      common_name:
+      name: Ταϊβάν
+      official_name:
+    tz:
+      common_name:
+      name: Τανζανία
+      official_name:
+    ua:
+      common_name:
+      name: Ουκρανία
+      official_name:
+    ug:
+      common_name:
+      name: Ουγκάντα
+      official_name:
+    um:
+      common_name:
+      name: Απομακρυσμένες Νησίδες των Ηνωμένων Πολιτειών
+      official_name:
+    us:
+      common_name:
+      name: Ηνωμένες Πολιτείες Αμερικής
+      official_name:
+    uy:
+      common_name:
+      name: Ουρουγουάη
+      official_name:
+    uz:
+      common_name:
+      name: Ουζμπεκιστάν
+      official_name:
+    va:
+      common_name:
+      name: Βατικανό
+      official_name:
+    vc:
+      common_name:
+      name: Άγιος Βικέντιος και Γρεναδίνες
+      official_name:
+    ve:
+      common_name:
+      name: Βενεζουέλα
+      official_name:
+    vg:
+      common_name:
+      name: Βρετανικές Παρθένοι Νήσοι
+      official_name:
+    vi:
+      common_name:
+      name: Αμερικανικές Παρθένοι Νήσοι
+      official_name:
+    vn:
+      common_name:
+      name: Βιετνάμ
+      official_name:
+    vu:
+      common_name:
+      name: Βανουάτου
+      official_name:
+    wf:
+      common_name:
+      name: Ουαλίς και Φουτουνά
+      official_name:
+    ws:
+      common_name:
+      name: Σαμόα
+      official_name:
+    ye:
+      common_name:
+      name: Υεμένη
+      official_name:
+    yt:
+      common_name:
+      name: Μαγιότ
+      official_name:
+    za:
+      common_name:
+      name: Νότια Αφρική
+      official_name:
+    zm:
+      common_name:
+      name: Ζάμπια
+      official_name:
+    zw:
+      common_name:
+      name: Ζιμπάμπουε
+      official_name:
