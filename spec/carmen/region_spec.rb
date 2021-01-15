@@ -10,23 +10,23 @@ describe Carmen::Region do
     end
 
     it 'has a reasonable inspect value' do
-      @airstrip_one.inspect.must_equal '<#Carmen::Region name="Airstrip One" type="province">'
+      _(@airstrip_one.inspect).must_equal '<#Carmen::Region name="Airstrip One" type="province">'
     end
     
     it 'has a reasonable explicit string conversion' do
-      "#{@airstrip_one}".must_equal 'Airstrip One'
+      _("#{@airstrip_one}").must_equal 'Airstrip One'
     end
 
     it "has the correct subregion path" do
-      @airstrip_one.subregion_data_path.must_equal "world/oc/ao.yml"
+      _(@airstrip_one.subregion_data_path).must_equal "world/oc/ao.yml"
     end
 
     it "knows if it has subregions" do
-      @airstrip_one.subregions?.must_equal true
+      _(@airstrip_one.subregions?).must_equal true
     end
 
     it "has a path" do
-      @airstrip_one.path.must_equal 'world.oc.ao'
+      _(@airstrip_one.path).must_equal 'world.oc.ao'
     end
 
     describe "subregions" do
@@ -45,19 +45,19 @@ describe Carmen::Region do
       end
 
       it "has a name" do
-        @london.name.must_equal "London"
+        _(@london.name).must_equal "London"
       end
 
       it "has a code" do
-        @london.code.must_equal 'LO'
+        _(@london.code).must_equal 'LO'
       end
 
       it "has a type" do
-        @london.type.must_equal 'city'
+        _(@london.type).must_equal 'city'
       end
 
       it "has a parent" do
-        @london.parent.must_equal @airstrip_one
+        _(@london.parent).must_equal @airstrip_one
       end
     end
   end
@@ -69,46 +69,46 @@ describe Carmen::Region do
 
     it 'can find subregions by exact name' do
       eastasia = @world.subregions.named('Eastasia')
-      eastasia.name.must_equal('Eastasia')
+      _(eastasia.name).must_equal('Eastasia')
     end
 
     it "can find subregions by case-insensitive search by default" do
       eurasia = @world.subregions.named('eUrAsIa')
-      eurasia.instance_of?(Carmen::Country).must_equal true
-      eurasia.name.must_equal 'Eurasia'
+      _(eurasia.instance_of?(Carmen::Country)).must_equal true
+      _(eurasia.name).must_equal 'Eurasia'
     end
 
     it "can find subregions optionally case-sensitively" do
       oceania = @world.subregions.named('oCeAnIa', :case => true)
       assert_nil(oceania)
       oceania = @world.subregions.named('Oceania', :case => true)
-      oceania.instance_of?(Carmen::Country).must_equal true
-      oceania.name.must_equal 'Oceania'
+      _(oceania.instance_of?(Carmen::Country)).must_equal true
+      _(oceania.name).must_equal 'Oceania'
     end
 
     it "can find subregions with fuzzy (substring) matching optionally" do
       eastasia = @world.subregions.named('East', :fuzzy => true)
-      eastasia.instance_of?(Carmen::Country).must_equal true
-      eastasia.name.must_equal 'Eastasia'
+      _(eastasia.instance_of?(Carmen::Country)).must_equal true
+      _(eastasia.name).must_equal 'Eastasia'
     end
 
     it 'can find subregions with dash or hyphen in name ' do
       @airstrip_one = Carmen::Country.coded('OC').subregions.named('Airstrip-One', :fuzzy => true)
-      "#{@airstrip_one}".must_equal 'Airstrip One'
+      _("#{@airstrip_one}").must_equal 'Airstrip One'
       @airstrip_two_without_dash = Carmen::Country.coded('OC').subregions.named('Airstrip Two', :fuzzy => true)
-      "#{@airstrip_two_without_dash}".must_equal 'Airstrip-Two'
+      _("#{@airstrip_two_without_dash}").must_equal 'Airstrip-Two'
       @airstrip_two = Carmen::Country.coded('OC').subregions.named('Airstrip-Two', :fuzzy => true)
-      "#{@airstrip_two}".must_equal 'Airstrip-Two'
+      _("#{@airstrip_two}").must_equal 'Airstrip-Two'
     end
 
     it 'can find subregions by name using a regex' do
       eastasia = @world.subregions.named(/Eastasia/)
-      eastasia.name.must_equal('Eastasia')
+      _(eastasia.name).must_equal('Eastasia')
     end
 
     it 'can find subregions by name using a case-insensitive regex' do
       eastasia = @world.subregions.named(/eastasia/i)
-      eastasia.name.must_equal('Eastasia')
+      _(eastasia.name).must_equal('Eastasia')
     end
 
     it 'handles querying for a nil code safely' do
@@ -130,14 +130,14 @@ describe Carmen::Region do
 
       it 'can find a country using unicode characters' do
         large = @world.subregions.named('Das großartige Staat von Eurasia')
-        large.instance_of?(Carmen::Country).must_equal true
-        large.name.must_equal('Das großartige Staat von Eurasia')
+        _(large.instance_of?(Carmen::Country)).must_equal true
+        _(large.name).must_equal('Das großartige Staat von Eurasia')
       end
 
       it 'can find a country using unicode characters' do
         large = @world.subregions.named('gross', :fuzzy => true)
-        large.instance_of?(Carmen::Country).must_equal true
-        large.name.must_equal('Das großartige Staat von Eurasia')
+        _(large.instance_of?(Carmen::Country)).must_equal true
+        _(large.name).must_equal('Das großartige Staat von Eurasia')
       end
 
     end
@@ -157,9 +157,9 @@ describe Carmen::Region do
     it 'does a comparison' do
       germany = SortTestRegion.new('name' => 'Germany')
       guatemala = SortTestRegion.new('name' => 'Guatemala')
-      (germany <=> guatemala).must_equal -1
-      (guatemala <=> germany).must_equal 1
-      (germany <=> germany).must_equal 0
+      _(germany <=> guatemala).must_equal -1
+      _(guatemala <=> germany).must_equal 1
+      _(germany <=> germany).must_equal 0
     end
   end
 end

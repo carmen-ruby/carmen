@@ -21,7 +21,7 @@ describe 'Utils.merge_arrays_by_keys' do
 
     merged = Carmen::Utils.merge_arrays_by_keys([first, second], ['code'])
 
-    merged.must_equal(expected)
+    _(merged).must_equal(expected)
   end
 end
 
@@ -33,7 +33,7 @@ describe 'Utils.deep_hash_merge' do
 
     expected = { 'a' => 'old', 'b' => 'new', 'c' => 'old', 'd' => 'new' }
 
-    Carmen::Utils.deep_hash_merge([first, second]).must_equal(expected)
+    _(Carmen::Utils.deep_hash_merge([first, second])).must_equal(expected)
   end
 
 end

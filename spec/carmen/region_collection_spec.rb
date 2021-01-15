@@ -10,7 +10,7 @@ describe Carmen::RegionCollection do
   end
 
   it 'provides an API for filtering regions by type' do
-    @collection.typed('custom_type1').map(&:code).must_equal ['AA']
+    _(@collection.typed('custom_type1').map(&:code)).must_equal ['AA']
   end
 
 end
