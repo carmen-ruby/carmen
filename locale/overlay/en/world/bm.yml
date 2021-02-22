@@ -3,7 +3,7 @@ en:
   world:
     bm:
       dev:
-        name: Devenshire
+        name: Devonshire
       ham:
         name: Hamilton
       pag:
@@ -11,11 +11,11 @@ en:
       pem:
         name: Pembroke
       sge:
-        name: Saint George's
+        name: St. George's
       san:
         name: Sandys
       smi:
-        name: Smiths
+        name: Smith's
       sou:
         name: Southampton
       war:
