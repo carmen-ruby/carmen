@@ -11,6 +11,7 @@ Gem::Specification.new do |s|
   s.authors = ["Jim Benton"]
   s.email = %q{jim@autonomousmachine.com}
   s.homepage = %q{http://github.com/jim/carmen}
+  s.license = "MIT"
 
   s.required_rubygems_version = '>= 1.3.6'
   s.require_paths = ["lib"]
