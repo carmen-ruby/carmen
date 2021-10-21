@@ -3,11 +3,19 @@ en:
   world:
     ma:
       '07':
-        khe:
-          name: Khemisaet
-        rab:
-          name: Rabat
-        sal:
-          name: Salé
-        skh:
-          name: Skhirate-Témara
+        chi:
+          name: Chichaoua
+        esi:
+          name: Essaouira
+        hao:
+          name: Al Haouz
+        kes:
+          name: El Kelâa des Sraghna
+        mar:
+          name: Marrakech
+        reh:
+          name: Rehamna
+        saf:
+          name: Safi
+        yus:
+          name: Youssoufia

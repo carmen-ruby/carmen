@@ -27,10 +27,6 @@
   type: county
 - code: '15'
   type: county
-- code: '16'
-  type: county
-- code: '17'
-  type: county
 - code: '18'
   type: county
 - code: '19'
@@ -41,3 +37,5 @@
   type: arctic region
 - code: '22'
   type: arctic region
+- code: '50'
+  type: county

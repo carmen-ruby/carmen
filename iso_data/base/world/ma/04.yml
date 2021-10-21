@@ -1,13 +1,17 @@
 ---
-- code: BER
+- code: KEN
   type: province
-- code: FIG
+- code: KHE
   type: province
-- code: JRA
+- code: NOU
   type: province
-- code: NAD
-  type: province
-- code: OUJ
+- code: RAB
   type: prefecture
-- code: TAI
+- code: SAL
+  type: prefecture
+- code: SIK
   type: province
+- code: SIL
+  type: province
+- code: SKH
+  type: prefecture

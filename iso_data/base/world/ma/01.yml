@@ -2,10 +2,16 @@
 - code: CHE
   type: province
 - code: FAH
-  type: prefecture
+  type: province
+- code: HOC
+  type: province
 - code: LAR
   type: province
-- code: TET
+- code: MDF
   type: prefecture
+- code: OUZ
+  type: province
+- code: TET
+  type: province
 - code: TNG
   type: prefecture

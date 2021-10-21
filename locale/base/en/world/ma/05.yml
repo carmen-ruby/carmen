@@ -3,11 +3,13 @@ en:
   world:
     ma:
       '05':
-        bom:
-          name: Boulemane
-        fes:
-          name: Fès-Dar-Dbibegh
-        mou:
-          name: Moulay Yacoub
-        sef:
-          name: Sefrou
+        azi:
+          name: Azilal
+        bem:
+          name: Béni Mellal
+        fqh:
+          name: Fquih Ben Salah
+        khn:
+          name: Khenifra
+        kho:
+          name: Khouribga

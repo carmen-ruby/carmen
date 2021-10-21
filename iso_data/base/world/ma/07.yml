@@ -1,9 +1,17 @@
 ---
-- code: KHE
+- code: CHI
   type: province
-- code: RAB
+- code: ESI
+  type: province
+- code: HAO
+  type: province
+- code: KES
+  type: province
+- code: MAR
   type: prefecture
-- code: SAL
-  type: prefecture
-- code: SKH
-  type: prefecture
+- code: REH
+  type: province
+- code: SAF
+  type: province
+- code: YUS
+  type: province

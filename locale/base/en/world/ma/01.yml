@@ -6,9 +6,15 @@ en:
         che:
           name: Chefchaouen
         fah:
-          name: Fahs-Beni Makada
+          name: Fahs-Anjra
+        hoc:
+          name: Al Hoceïma
         lar:
           name: Larache
+        mdf:
+          name: M’diq-Fnideq
+        ouz:
+          name: Ouezzane
         tet:
           name: Tétouan
         tng:

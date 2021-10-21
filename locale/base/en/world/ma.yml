@@ -3,34 +3,26 @@ en:
   world:
     ma:
       '01':
-        name: Tanger-Tétouan
+        name: Tanger-Tétouan-Al Hoceïma
       '02':
-        name: Gharb-Chrarda-Beni Hssen
-      '03':
-        name: Taza-Al Hoceima-Taounate
-      '04':
         name: L'Oriental
+      '03':
+        name: Fès-Meknès
+      '04':
+        name: Rabat-Salé-Kénitra
       '05':
-        name: Fès-Boulemane
+        name: Béni Mellal-Khénifra
       '06':
-        name: Meknès-Tafilalet
+        name: Casablanca-Settat
       '07':
-        name: Rabat-Salé-Zemmour-Zaer
+        name: Marrakech-Safi
       '08':
-        name: Grand Casablanca
+        name: Drâa-Tafilalet
       '09':
-        name: Chaouia-Ouardigha
+        name: Souss-Massa
       '10':
-        name: Doukhala-Abda
+        name: Guelmim-Oued Noun (EH-partial)
       '11':
-        name: Marrakech-Tensift-Al Haouz
+        name: Laâyoune-Sakia El Hamra (EH-partial)
       '12':
-        name: Tadla-Azilal
-      '13':
-        name: Sous-Massa-Draa
-      '14':
-        name: Guelmim-Es Smara
-      '15':
-        name: Laâyoune-Boujdour-Sakia el Hamra
-      '16':
-        name: Oued ed Dahab-Lagouira
+        name: Dakhla-Oued Ed-Dahab (EH)

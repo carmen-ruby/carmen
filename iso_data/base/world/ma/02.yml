@@ -1,5 +1,17 @@
 ---
-- code: KEN
+- code: BER
   type: province
-- code: SIK
+- code: DRI
+  type: province
+- code: FIG
+  type: province
+- code: GUF
+  type: province
+- code: JRA
+  type: province
+- code: NAD
+  type: province
+- code: OUJ
+  type: prefecture
+- code: TAI
   type: province

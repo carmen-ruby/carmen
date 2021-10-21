@@ -3,8 +3,20 @@ en:
   world:
     ma:
       '03':
-        hoc:
-          name: Al Hoceïma
+        bom:
+          name: Boulemane
+        fes:
+          name: Fès
+        haj:
+          name: El Hajeb
+        ifr:
+          name: Ifrane
+        mek:
+          name: Meknès
+        mou:
+          name: Moulay Yacoub
+        sef:
+          name: Sefrou
         tao:
           name: Taounate
         taz:
