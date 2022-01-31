@@ -1,5 +1,7 @@
 ### master (unreleased)
 
+* [#298](https://github.com/carmen-ruby/carmen/pull/298) Require ActiveSupport ([@benhutton](https://github.com/benhutton))
+
 ##### Geographic Modifications
 * [#288](https://github.com/carmen-ruby/carmen/pull/288) Adding New Providence (Bahamas) district ([@TecnoSigma](https://github.com/TecnoSigma))
 * [#274](https://github.com/carmen-ruby/carmen/pull/274), [#281](https://github.com/carmen-ruby/carmen/pull/281) Run update_data script
